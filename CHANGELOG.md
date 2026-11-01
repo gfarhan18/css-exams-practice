@@ -1,5 +1,22 @@
 # Changelog
 
+## 2026-11-01 — Pakistan Affairs practice bank (660 MCQs)
+
+### Added
+- **Second practice bank, 🇵🇰 Pakistan Affairs: 660 checked MCQs in 89 packs.** It's listed under Objective › Practice bank next to Islamic Studies and works the same way (same quiz, disclaimer, Next button and Random 20).
+  - **CSS past papers 2005–2023**: 19 year packs with 294 real Part-I Pakistan Affairs MCQs (12–18 per year).
+  - **By topic**: 8 topics (Ancient & Muslim Rule; Reform Movements & Pakistan Movement; Partition & Early Years; Constitution & Politics; Foreign Policy & Kashmir; Geography & Resources; Economy & Infrastructure; Culture, Literature & Sufis) in 37 parts of up to 20.
+  - **Mixed sets**: 33 sets of 20.
+- Scores are saved under `cssMcqPractice.pakistan-affairs.scores.v1`, separately from the yearly scores and from Islamic Studies.
+- **Deep links**: `#practice/pakistan-affairs`, `#practice/pakistan-affairs/css-2015`, `#practice/pakistan-affairs/constitution-politics-3`, `#practice/pakistan-affairs/set-7` and `#practice/pakistan-affairs/random`.
+- The data is in `data/practice/pakistan-affairs/`, which holds the bank, `by-topic/`, `sources.md` and `verification-report.md`.
+
+### Changed
+- The bank page no longer hard-codes "Islamiat" in its headings. The mixed-sets order note now comes from `setOrderNote` in `practice-catalog.json`.
+- The source list shows only URL entries.
+- `rebuild-data.py` now reads topic names from titles that use either ":" or "·" as the separator.
+- Yearly Objective (2024–2026) and Subjective are unchanged.
+
 ## 2026-11-01 — Islamic Studies practice bank (676 MCQs)
 
 ### Added

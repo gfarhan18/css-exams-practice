@@ -1,0 +1,1980 @@
+{
+ "id": "pakistan-affairs-constitution-politics",
+ "name": "Pakistan Affairs · Constitution, Government & Political History",
+ "title": "Pakistan Affairs · Constitution, Government & Political History",
+ "subtitle": "Practice bank topic · 151 MCQs",
+ "bank": "practice",
+ "year": null,
+ "rtl": false,
+ "answerKeyNote": "Practice answer key (not an official FPSC key). Keys were cross-checked and corrected where needed; items marked Low confidence are noted in the explanation.",
+ "source": [
+  "https://cssprep.com.pk/pakistan-affairs-mcqs-2005/ … /pakistan-affairs-mcqs-2023/ (CSS Pakistan Affairs past-paper MCQs, solved)",
+  "https://pakjobmcqs.com/subjects/pakistan-studies (topic chapters: history, constitution, geography, economy, foreign relations, culture)",
+  "Key checks: na.gov.pk / Constitution Art. 51 (NA seats), Wikipedia & Gazette of India 17 Aug 1947 (Radcliffe Award), cabinet.gov.pk 1958 cabinet list (Bhutto as Commerce Minister)"
+ ],
+ "questions": [
+  {
+   "id": 1,
+   "text": "With regard the division of power between Federation and Provinces the Constitution of Pakistan (1962) was provided with _______________.",
+   "options": {
+    "A": "Single list of subjects",
+    "B": "Two lists of subjects",
+    "C": "Three lists of subjects",
+    "D": "None of these"
+   },
+   "answer": "A",
+   "explanation": "Answer: Single list of subjects. Source: CSS 2008 Pakistan Affairs past paper (https://cssprep.com.pk/pakistan-affairs-mcqs-2008/).",
+   "section": "Constitution, Government & Political History · CSS 2008"
+  },
+  {
+   "id": 2,
+   "text": "Under Yahya’s LFO, what option National Assembly had if it couldn’t frame the constitution within 120 days?",
+   "options": {
+    "A": "Dissolved automatically",
+    "B": "President will dissolve it",
+    "C": "Extension in time frame",
+    "D": "None of these"
+   },
+   "answer": "A",
+   "explanation": "Answer: Dissolved automatically. Source: CSS 2009 Pakistan Affairs past paper (https://cssprep.com.pk/pakistan-affairs-mcqs-2009/).",
+   "section": "Constitution, Government & Political History · CSS 2009"
+  },
+  {
+   "id": 3,
+   "text": "What percentage of total polled votes in East Pakistan was secured by Awami League in 1970 elections?",
+   "options": {
+    "A": "54%",
+    "B": "60%",
+    "C": "75%",
+    "D": "None of these"
+   },
+   "answer": "C",
+   "explanation": "Answer: 75%. Source: CSS 2009 Pakistan Affairs past paper (https://cssprep.com.pk/pakistan-affairs-mcqs-2009/).",
+   "section": "Constitution, Government & Political History · CSS 2009"
+  },
+  {
+   "id": 4,
+   "text": "In which constitution of Pakistan, the Ministers were neither members of the Parliament nor answerable to parliament?",
+   "options": {
+    "A": "1956",
+    "B": "1962",
+    "C": "1973",
+    "D": "None of these"
+   },
+   "answer": "B",
+   "explanation": "Answer: 1962. Source: CSS 2009 Pakistan Affairs past paper (https://cssprep.com.pk/pakistan-affairs-mcqs-2009/).",
+   "section": "Constitution, Government & Political History · CSS 2009"
+  },
+  {
+   "id": 5,
+   "text": "When was the local government system under the devolution of power plan, 2001, inaugurated?",
+   "options": {
+    "A": "Aug 4,2001",
+    "B": "Aug 14,2001",
+    "C": "Aug 24,2001",
+    "D": "None of these"
+   },
+   "answer": "B",
+   "explanation": "Answer: Aug 14,2001. Source: CSS 2010 Pakistan Affairs past paper (https://cssprep.com.pk/pakistan-affairs-mcqs-2010/).",
+   "section": "Constitution, Government & Political History · CSS 2010"
+  },
+  {
+   "id": 6,
+   "text": "When was the 17th amendment bill ratified by the President, after getting passed by both houses of Majlis-e-Shura?",
+   "options": {
+    "A": "Dec 29,2003",
+    "B": "Dec 30,2003",
+    "C": "Dec 31,2003",
+    "D": "None of these"
+   },
+   "answer": "C",
+   "explanation": "Answer: Dec 31,2003. Source: CSS 2010 Pakistan Affairs past paper (https://cssprep.com.pk/pakistan-affairs-mcqs-2010/).",
+   "section": "Constitution, Government & Political History · CSS 2010"
+  },
+  {
+   "id": 7,
+   "text": "Who was the first leader of opposition in the first National Assembly constituted under the 1962 constitution of Pakistan?",
+   "options": {
+    "A": "Sardar Bahadur Khan",
+    "B": "Khan. A sabur",
+    "C": "Mumtaz Daultana",
+    "D": "None of these"
+   },
+   "answer": "A",
+   "explanation": "Answer: Sardar Bahadur Khan. Source: CSS 2011 Pakistan Affairs past paper (https://cssprep.com.pk/pakistan-affairs-mcqs-2011/).",
+   "section": "Constitution, Government & Political History · CSS 2011"
+  },
+  {
+   "id": 8,
+   "text": "In which year Pakistan become ‘Republic’?",
+   "options": {
+    "A": "1947",
+    "B": "1956",
+    "C": "1962",
+    "D": "None of these"
+   },
+   "answer": "B",
+   "explanation": "Answer: 1956. Source: CSS 2011 Pakistan Affairs past paper (https://cssprep.com.pk/pakistan-affairs-mcqs-2011/).",
+   "section": "Constitution, Government & Political History · CSS 2011"
+  },
+  {
+   "id": 9,
+   "text": "When was the 18th Amendment Bill passed by National Assembly?",
+   "options": {
+    "A": "April 12, 2010",
+    "B": "March 12, 2010",
+    "C": "May 12, 2010",
+    "D": "8 April 2010"
+   },
+   "answer": "D",
+   "explanation": "Answer: 8 April 2010. Source: CSS 2012 Pakistan Affairs past paper (https://cssprep.com.pk/pakistan-affairs-mcqs-2012/).",
+   "section": "Constitution, Government & Political History · CSS 2012"
+  },
+  {
+   "id": 10,
+   "text": "The first nationwide Martial Law (October 1958) was imposed by?",
+   "options": {
+    "A": "Ayub Khan",
+    "B": "Yahya Khan",
+    "C": "Malik Ghulam Muhammad",
+    "D": "Iskander Mirza"
+   },
+   "answer": "D",
+   "explanation": "Answer: Iskander Mirza. Source: CSS 2014 Pakistan Affairs past paper (https://cssprep.com.pk/pakistan-affairs-mcqs-2014/).",
+   "section": "Constitution, Government & Political History · CSS 2014"
+  },
+  {
+   "id": 11,
+   "text": "How many prime ministers does Pakistan had till 1958?",
+   "options": {
+    "A": "Five",
+    "B": "Six",
+    "C": "Seven",
+    "D": "Eight"
+   },
+   "answer": "C",
+   "explanation": "Answer: Seven. Source: CSS 2014 Pakistan Affairs past paper (https://cssprep.com.pk/pakistan-affairs-mcqs-2014/).",
+   "section": "Constitution, Government & Political History · CSS 2014"
+  },
+  {
+   "id": 12,
+   "text": "General Elections of 2013 in Pakistan were held on ________.",
+   "options": {
+    "A": "May 10",
+    "B": "May 11",
+    "C": "May 12",
+    "D": "None of these"
+   },
+   "answer": "B",
+   "explanation": "Answer: May 11. Source: CSS 2015 Pakistan Affairs past paper (https://cssprep.com.pk/pakistan-affairs-mcqs-2015/).",
+   "section": "Constitution, Government & Political History · CSS 2015"
+  },
+  {
+   "id": 13,
+   "text": "The politician who served as both Governor General and Prime Minister of Pakistan was ______________.",
+   "options": {
+    "A": "Sir Zafrullah Khan",
+    "B": "Khawja Nazimuddin",
+    "C": "Gulam Mohammad",
+    "D": "None of these"
+   },
+   "answer": "B",
+   "explanation": "Answer: Khawja Nazimuddin. Source: CSS 2015 Pakistan Affairs past paper (https://cssprep.com.pk/pakistan-affairs-mcqs-2015/).",
+   "section": "Constitution, Government & Political History · CSS 2015"
+  },
+  {
+   "id": 14,
+   "text": "What was the Purpose of 21st Amendment in Pakistan’s constitution?",
+   "options": {
+    "A": "The establishment of the military courts",
+    "B": "Impose Shariah law",
+    "C": "Created Speedy Trial Court for 3 years.",
+    "D": "Removed the power of President of Pakistan"
+   },
+   "answer": "A",
+   "explanation": "Answer: The establishment of the military courts. Source: CSS 2016 Pakistan Affairs past paper (https://cssprep.com.pk/pakistan-affairs-mcqs-2016/).",
+   "section": "Constitution, Government & Political History · CSS 2016"
+  },
+  {
+   "id": 15,
+   "text": "Which charismatic Bengali leader was PM of Pakistan from Sept 1956 to Oct 1957?",
+   "options": {
+    "A": "Huseyn Shaheed Suhrawardy",
+    "B": "Khawaja Nazimuddin",
+    "C": "Nurul Amin",
+    "D": "Feroz Khan Noon"
+   },
+   "answer": "A",
+   "explanation": "Answer: Huseyn Shaheed Suhrawardy. Source: CSS 2016 Pakistan Affairs past paper (https://cssprep.com.pk/pakistan-affairs-mcqs-2016/).",
+   "section": "Constitution, Government & Political History · CSS 2016"
+  },
+  {
+   "id": 16,
+   "text": "Who was the first Vice President of Pakistan?",
+   "options": {
+    "A": "Nurul Amin",
+    "B": "Hamid Ansari",
+    "C": "Pervez Elah",
+    "D": "None of these"
+   },
+   "answer": "A",
+   "explanation": "Answer: Nurul Amin. Source: CSS 2017 Pakistan Affairs past paper (https://cssprep.com.pk/pakistan-affairs-mcqs-2017/).",
+   "section": "Constitution, Government & Political History · CSS 2017"
+  },
+  {
+   "id": 17,
+   "text": "What was the total number of Basic democrats in 1965 Elections, who were to elect President?",
+   "options": {
+    "A": "80000",
+    "B": "120000",
+    "C": "65000",
+    "D": "None of these"
+   },
+   "answer": "A",
+   "explanation": "Answer: 80000. Source: CSS 2017 Pakistan Affairs past paper (https://cssprep.com.pk/pakistan-affairs-mcqs-2017/).",
+   "section": "Constitution, Government & Political History · CSS 2017"
+  },
+  {
+   "id": 18,
+   "text": "Friday was declared Official holiday in Pakistan on ______.",
+   "options": {
+    "A": "July 1, 1977",
+    "B": "Aug 14, 1984",
+    "C": "Marc 23, 1973",
+    "D": "None of these"
+   },
+   "answer": "A",
+   "explanation": "Note: Friday was made the weekly holiday by Z.A. Bhutto in 1977 (effective 1 July 1977 per CSS key); reversed to Sunday in 1997. Source: CSS 2017 Pakistan Affairs past paper (https://cssprep.com.pk/pakistan-affairs-mcqs-2017/).",
+   "section": "Constitution, Government & Political History · CSS 2017"
+  },
+  {
+   "id": 19,
+   "text": "Who was the seventh Prime Minister of Pakistan?",
+   "options": {
+    "A": "Huseyn Shaheed Suhrawardy",
+    "B": "Ibrahim Ismail Chundrigar",
+    "C": "Malik Feroz Khan Noon",
+    "D": "None of these"
+   },
+   "answer": "C",
+   "explanation": "Answer: Malik Feroz Khan Noon. Source: CSS 2017 Pakistan Affairs past paper (https://cssprep.com.pk/pakistan-affairs-mcqs-2017/).",
+   "section": "Constitution, Government & Political History · CSS 2017"
+  },
+  {
+   "id": 20,
+   "text": "Who replaced Khawaja Nazimuddin as Prime Minister of Pakistan?",
+   "options": {
+    "A": "Chudhry Muhammad Ali",
+    "B": "Huseyn Shaheed Suhrawardy",
+    "C": "Muhammad Ali Bogra",
+    "D": "None of these"
+   },
+   "answer": "C",
+   "explanation": "Answer: Muhammad Ali Bogra. Source: CSS 2018 Pakistan Affairs past paper (https://cssprep.com.pk/pakistan-affairs-mcqs-2018/).",
+   "section": "Constitution, Government & Political History · CSS 2018"
+  },
+  {
+   "id": 21,
+   "text": "Who was the last speaker of National Assembly of United Pakistan (East and West Pakistan 1969)?",
+   "options": {
+    "A": "Tamizuddin Khan",
+    "B": "Abdul Jabbar Khan",
+    "C": "Abdul Wahab Khan",
+    "D": "Fazl Chudhry"
+   },
+   "answer": "B",
+   "explanation": "Answer: Abdul Jabbar Khan. Source: CSS 2018 Pakistan Affairs past paper (https://cssprep.com.pk/pakistan-affairs-mcqs-2018/).",
+   "section": "Constitution, Government & Political History · CSS 2018"
+  },
+  {
+   "id": 22,
+   "text": "Musharraf obtained a vote of confidence from the National and Provincial assemblies (electoral college) on ___________.",
+   "options": {
+    "A": "01 January, 2000",
+    "B": "01 January, 2002",
+    "C": "01 January, 2003",
+    "D": "01 January, 2004"
+   },
+   "answer": "D",
+   "explanation": "Answer: 01 January, 2004. Source: CSS 2019 Pakistan Affairs past paper (https://cssprep.com.pk/pakistan-affairs-mcqs-2019/).",
+   "section": "Constitution, Government & Political History · CSS 2019"
+  },
+  {
+   "id": 23,
+   "text": "The Policy of One unit was abolished in _________.",
+   "options": {
+    "A": "1965",
+    "B": "1969",
+    "C": "1970",
+    "D": "1985"
+   },
+   "answer": "C",
+   "explanation": "Answer: 1970. Source: CSS 2019 Pakistan Affairs past paper (https://cssprep.com.pk/pakistan-affairs-mcqs-2019/).",
+   "section": "Constitution, Government & Political History · CSS 2019"
+  },
+  {
+   "id": 24,
+   "text": "Muree Declaration was signed between ______ and _____.",
+   "options": {
+    "A": "PPP and PML-N",
+    "B": "PPP and PML-Q",
+    "C": "PPP and MQM",
+    "D": "All of these"
+   },
+   "answer": "A",
+   "explanation": "Answer: PPP and PML-N. Source: CSS 2019 Pakistan Affairs past paper (https://cssprep.com.pk/pakistan-affairs-mcqs-2019/).",
+   "section": "Constitution, Government & Political History · CSS 2019"
+  },
+  {
+   "id": 25,
+   "text": "Third Martial Law in Pakistan ended on _____________.",
+   "options": {
+    "A": "Aug 1988",
+    "B": "March 1984",
+    "C": "March 1979",
+    "D": "Dec 1985"
+   },
+   "answer": "D",
+   "explanation": "Answer: Dec 1985. Source: CSS 2019 Pakistan Affairs past paper (https://cssprep.com.pk/pakistan-affairs-mcqs-2019/).",
+   "section": "Constitution, Government & Political History · CSS 2019"
+  },
+  {
+   "id": 26,
+   "text": "On 14 October 1999, Gen Musharraf took the charge of ________.",
+   "options": {
+    "A": "Chief Executive",
+    "B": "President",
+    "C": "Chief of Army Staff",
+    "D": "Chief Martial Law Administrator"
+   },
+   "answer": "A",
+   "explanation": "Answer: Chief Executive. Source: CSS 2019 Pakistan Affairs past paper (https://cssprep.com.pk/pakistan-affairs-mcqs-2019/).",
+   "section": "Constitution, Government & Political History · CSS 2019"
+  },
+  {
+   "id": 27,
+   "text": "Through which constitutional amendment, FATA was merged with Khyber Pakhtunkhwa?",
+   "options": {
+    "A": "17th Constitutional Amendment",
+    "B": "25th Constitutional Amendment",
+    "C": "22nd Constitutional Amendment",
+    "D": "26th Constitutional Amendment"
+   },
+   "answer": "B",
+   "explanation": "Answer: 25th Constitutional Amendment. Source: CSS 2020 Pakistan Affairs past paper (https://cssprep.com.pk/pakistan-affairs-mcqs-2020/).",
+   "section": "Constitution, Government & Political History · CSS 2020"
+  },
+  {
+   "id": 28,
+   "text": "Which article according to the 18th constitutional amendment, declares “education free and compulsory for all children of the age of 5 to 16 years”?",
+   "options": {
+    "A": "Article 140A",
+    "B": "Article 91(5)",
+    "C": "Article 23",
+    "D": "Article 25A"
+   },
+   "answer": "D",
+   "explanation": "Answer: Article 25A. Source: CSS 2020 Pakistan Affairs past paper (https://cssprep.com.pk/pakistan-affairs-mcqs-2020/).",
+   "section": "Constitution, Government & Political History · CSS 2020"
+  },
+  {
+   "id": 29,
+   "text": "18th Amendment became part of constitution of Pakistan on ___________.",
+   "options": {
+    "A": "April 08, 2010",
+    "B": "April 15, 2010",
+    "C": "April 19, 2010",
+    "D": "April 21, 2010"
+   },
+   "answer": "C",
+   "explanation": "Answer: April 19, 2010. Source: CSS 2020 Pakistan Affairs past paper (https://cssprep.com.pk/pakistan-affairs-mcqs-2020/).",
+   "section": "Constitution, Government & Political History · CSS 2020"
+  },
+  {
+   "id": 30,
+   "text": "Operation Zarb-e-Azb was launched on __________.",
+   "options": {
+    "A": "July 14, 2014",
+    "B": "March 01, 2014",
+    "C": "June 15, 2014",
+    "D": "August 04, 2015"
+   },
+   "answer": "C",
+   "explanation": "Answer: June 15, 2014. Source: CSS 2020 Pakistan Affairs past paper (https://cssprep.com.pk/pakistan-affairs-mcqs-2020/).",
+   "section": "Constitution, Government & Political History · CSS 2020"
+  },
+  {
+   "id": 31,
+   "text": "In which year, Zakat and Ushr Ordinance was promulgated, as a result of which Zakat and Ushr Department came into existence?",
+   "options": {
+    "A": "1980",
+    "B": "1976",
+    "C": "1978",
+    "D": "1973"
+   },
+   "answer": "A",
+   "explanation": "Answer: 1980. Source: CSS 2021 Pakistan Affairs past paper (https://cssprep.com.pk/pakistan-affairs-mcqs-2021/).",
+   "section": "Constitution, Government & Political History · CSS 2021"
+  },
+  {
+   "id": 32,
+   "text": "When did Pakistan witness the imposition of the second Martial Law in its history?",
+   "options": {
+    "A": "1977",
+    "B": "1971",
+    "C": "1985",
+    "D": "1969"
+   },
+   "answer": "D",
+   "explanation": "Answer: 1969. Source: CSS 2021 Pakistan Affairs past paper (https://cssprep.com.pk/pakistan-affairs-mcqs-2021/).",
+   "section": "Constitution, Government & Political History · CSS 2021"
+  },
+  {
+   "id": 33,
+   "text": "___ amendment declared Qadianis as non-Muslims?",
+   "options": {
+    "A": "2ND",
+    "B": "3RD",
+    "C": "4TH",
+    "D": "NONE OF THESE"
+   },
+   "answer": "A",
+   "explanation": "Answer: 2ND. Source: CSS 2022 Pakistan Affairs past paper (https://cssprep.com.pk/pakistan-affairs-mcqs-2022/).",
+   "section": "Constitution, Government & Political History · CSS 2022"
+  },
+  {
+   "id": 34,
+   "text": "On which date Nawaz Sharif became First PM?",
+   "options": {
+    "A": "1-NOV-1990",
+    "B": "11-NOV-1990",
+    "C": "11-NOV-1992",
+    "D": "NONE OF THESE"
+   },
+   "answer": "D",
+   "explanation": "Answer: NONE OF THESE. Source: CSS 2022 Pakistan Affairs past paper (https://cssprep.com.pk/pakistan-affairs-mcqs-2022/).",
+   "section": "Constitution, Government & Political History · CSS 2022"
+  },
+  {
+   "id": 35,
+   "text": "The first Martial Law (October 1958) was imposed during the premiership of which Prime Minister?",
+   "options": {
+    "A": "HUSSAIN SHAHEED SUHRAWARDY",
+    "B": "FEROZ KHAN NOON",
+    "C": "ISKANDER MIRZA",
+    "D": "NONE OF THESE"
+   },
+   "answer": "B",
+   "explanation": "Answer: FEROZ KHAN NOON. Source: CSS 2022 Pakistan Affairs past paper (https://cssprep.com.pk/pakistan-affairs-mcqs-2022/).",
+   "section": "Constitution, Government & Political History · CSS 2022"
+  },
+  {
+   "id": 36,
+   "text": "First general election of Pakistan held in?",
+   "options": {
+    "A": "MARCH 1969",
+    "B": "DEC 1970",
+    "C": "DEC 1971",
+    "D": "NONE OF THESE"
+   },
+   "answer": "B",
+   "explanation": "Answer: DEC 1970. Source: CSS 2022 Pakistan Affairs past paper (https://cssprep.com.pk/pakistan-affairs-mcqs-2022/).",
+   "section": "Constitution, Government & Political History · CSS 2022"
+  },
+  {
+   "id": 37,
+   "text": "Pakistan's Supreme command of armed forces is vested in whom?",
+   "options": {
+    "A": "President",
+    "B": "Prime Minister",
+    "C": "Army Chief",
+    "D": "None of these"
+   },
+   "answer": "A",
+   "explanation": "Answer: President. Source: CSS 2023 Pakistan Affairs past paper (https://cssprep.com.pk/pakistan-affairs-mcqs-2023/).",
+   "section": "Constitution, Government & Political History · CSS 2023"
+  },
+  {
+   "id": 38,
+   "text": "When was the 1973 constitution of Pakistan promulgated?",
+   "options": {
+    "A": "13 August",
+    "B": "14 August",
+    "C": "15 August",
+    "D": "16 August"
+   },
+   "answer": "B",
+   "explanation": "Answer: 14 August. Passed 10 April 1973, authenticated 12 April 1973 and enforced (promulgated) on 14 August 1973. Source: CSS 2023 Pakistan Affairs past paper (https://cssprep.com.pk/pakistan-affairs-mcqs-2023/).",
+   "section": "Constitution, Government & Political History · CSS 2023"
+  },
+  {
+   "id": 39,
+   "text": "Who introduced the Basic Democracy?",
+   "options": {
+    "A": "Zia-ul-Haq",
+    "B": "Zulfikar Ali Bhutto",
+    "C": "Yahya Khan",
+    "D": "Ayub Khan"
+   },
+   "answer": "D",
+   "explanation": "The Basic Democracy system was introduced by Ayub Khan in 1959. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/ayub-khan-era) — marked as a past-paper MCQ there.",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 40,
+   "text": "Who inaugurated the Pakistan Television Lahore Station and when?",
+   "options": {
+    "A": "Ayub Khan on November 26, 1964",
+    "B": "Zulfikar Ali Bhutto on December 25, 1972",
+    "C": "Iskander Mirza on March 23, 1958",
+    "D": "Yahya Khan on August 14, 1969"
+   },
+   "answer": "A",
+   "explanation": "President Ayub Khan inaugurated the Pakistan Television (PTV) Lahore Station on November 26, 1964. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/ayub-khan-era).",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 41,
+   "text": "The Basic Democracies ordinance was promulgated in the year:",
+   "options": {
+    "A": "1958",
+    "B": "1962",
+    "C": "1960",
+    "D": "1959"
+   },
+   "answer": "D",
+   "explanation": "The Basic Democracies Ordinance was promulgated in 1959 by President Ayub Khan. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/ayub-khan-era).",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 42,
+   "text": "1962 elections in Pakistan were of which type?",
+   "options": {
+    "A": "Direct",
+    "B": "Proportional Representation",
+    "C": "Universal Adult Franchise",
+    "D": "Indirect"
+   },
+   "answer": "D",
+   "explanation": "The 1962 elections in Pakistan were Indirect, conducted through an electoral college of Basic Democrats. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/ayub-khan-era).",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 43,
+   "text": "President General Ayub Khan ruled for almost _?",
+   "options": {
+    "A": "8 years",
+    "B": "10 years",
+    "C": "12 years",
+    "D": "14 years"
+   },
+   "answer": "B",
+   "explanation": "President General Ayub Khan ruled Pakistan for almost 10 years (from October 1958 to March 1969). Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/ayub-khan-era).",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 44,
+   "text": "On President Ayub Khan was sworn in for a second term as president.",
+   "options": {
+    "A": "23 March 1965",
+    "B": "23 March 1962",
+    "C": "14 August 1965",
+    "D": "1 January 1965"
+   },
+   "answer": "A",
+   "explanation": "President Ayub Khan was sworn in for his second term on 23 March 1965. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/ayub-khan-era).",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 45,
+   "text": "Who was re-elected as President of Pakistan in 1965 under the Basic Democracies (BD) system?",
+   "options": {
+    "A": "Yahya Khan",
+    "B": "Zulfikar Ali Bhutto",
+    "C": "Iskander Mirza",
+    "D": "Ayub Khan"
+   },
+   "answer": "D",
+   "explanation": "Ayub Khan was re-elected as President of Pakistan in 1965 under the Basic Democracies (BD) system, defeating Fatima Jinnah. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/ayub-khan-era).",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 46,
+   "text": "The draft of the First Constitution of Pakistan was introduced in the Assembly on and passed by the Assembly on , and assent was given by the Governor General on _?",
+   "options": {
+    "A": "9th January 1956, 29th February 1956, 2nd March 1956",
+    "B": "23rd March 1956, 14th August 1956, 1st January 1957",
+    "C": "10th January 1956, 28th February 1956, 1st March 1956",
+    "D": "8th January 1956, 27th February 1956, 3rd March 1956"
+   },
+   "answer": "A",
+   "explanation": "The draft of the First Constitution was introduced on 9th January 1956, passed on 29th February 1956, and received the Governor General's assent on 2nd March 1956. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/constitution-of-1956) — marked as a past-paper MCQ there.",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 47,
+   "text": "Parliament has House in 1956 constitution.",
+   "options": {
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "None of these"
+   },
+   "answer": "A",
+   "explanation": "The 1956 Constitution of Pakistan provided for a unicameral legislature, meaning Parliament had only 1 House. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/constitution-of-1956) — marked as a past-paper MCQ there.",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 48,
+   "text": "Who abrogated the 1956 Constitution of Pakistan?",
+   "options": {
+    "A": "Ayub Khan",
+    "B": "Iskandar Mirza",
+    "C": "Yahya Khan",
+    "D": "Zulfikar Ali Bhutto"
+   },
+   "answer": "B",
+   "explanation": "President Iskandar Mirza abrogated the 1956 Constitution of Pakistan on October 7, 1958, by imposing martial law. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/constitution-of-1956) — marked as a past-paper MCQ there.",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 49,
+   "text": "In the 1956 constitution, what official name was given to Pakistan?",
+   "options": {
+    "A": "Republic of Pakistan",
+    "B": "Islamic Republic of Pakistan",
+    "C": "Federation of Pakistan",
+    "D": "State of Pakistan"
+   },
+   "answer": "B",
+   "explanation": "The 1956 constitution officially named Pakistan as the Islamic Republic of Pakistan. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/constitution-of-1956) — marked as a past-paper MCQ there.",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 50,
+   "text": "Constitution 1956 provided _ form of government for the country.",
+   "options": {
+    "A": "Presidential",
+    "B": "Parliamentary",
+    "C": "Unitary",
+    "D": "Confederal"
+   },
+   "answer": "B",
+   "explanation": "The Constitution of 1956 provided a Parliamentary form of government for Pakistan. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/constitution-of-1956).",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 51,
+   "text": "1962 constitution of Pakistan lasted for how many years?",
+   "options": {
+    "A": "5 years",
+    "B": "7 years",
+    "C": "9 years",
+    "D": "11 years"
+   },
+   "answer": "B",
+   "explanation": "The 1962 Constitution of Pakistan lasted for 7 years, from its promulgation in 1962 until it was abrogated by General Yahya Khan in 1969. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/constitution-of-1962) — marked as a past-paper MCQ there.",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 52,
+   "text": "How was the representation from East and West Pakistan structured in the Constitution Commission of 1960?",
+   "options": {
+    "A": "Five each from East and West Pakistan",
+    "B": "Six from East Pakistan and four from West Pakistan",
+    "C": "Seven from West Pakistan and three from East Pakistan",
+    "D": "Ten members nominated without regional quota"
+   },
+   "answer": "A",
+   "explanation": "The Constitution Commission of 1960 comprised five members each from East and West Pakistan, ensuring equal regional representation. Low confidence: commission composition as given in the source. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/constitution-of-1962).",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 53,
+   "text": "The Constitution Commission set up by Ayub Khan in 1960 was headed by ?",
+   "options": {
+    "A": "Justice Shahab-ud-Din",
+    "B": "Justice Munir",
+    "C": "Justice Cornelius",
+    "D": "Justice Hamood-ur-Rahman"
+   },
+   "answer": "A",
+   "explanation": "The Commission was appointed in February 1960 under Justice Muhammad Shahabuddin; it reported in May 1961. (Source stem said 1962 — corrected.) Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/constitution-of-1962).",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 54,
+   "text": "How many articles were there in the 1962 constitution?",
+   "options": {
+    "A": "250 Articles",
+    "B": "234 Articles",
+    "C": "280 Articles",
+    "D": "264 Articles"
+   },
+   "answer": "A",
+   "explanation": "The 1962 Constitution of Pakistan contained 250 Articles. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/constitution-of-1962).",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 55,
+   "text": "After abrogation of first constitution, the new constitution was enforced by Ayub Khan on:",
+   "options": {
+    "A": "March 1962",
+    "B": "August 1962",
+    "C": "January 1962",
+    "D": "June 1962"
+   },
+   "answer": "D",
+   "explanation": "After abrogating the 1956 Constitution, Ayub Khan enforced the new constitution on June 1962. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/constitution-of-1962).",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 56,
+   "text": "Who was presented with the report of the Constitution Commission in 1961?",
+   "options": {
+    "A": "President Ayub Khan",
+    "B": "Prime Minister Liaquat Ali Khan",
+    "C": "Governor-General Ghulam Muhammad",
+    "D": "President Iskander Mirza"
+   },
+   "answer": "A",
+   "explanation": "The report of the Constitution Commission in 1961 was presented to President Ayub Khan. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/constitution-of-1962).",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 57,
+   "text": "Who advises the President of Pakistan to issue an Ordinance when the Parliament is not in session?",
+   "options": {
+    "A": "Prime Minister",
+    "B": "Chief Justice of Pakistan",
+    "C": "Speaker of the National Assembly",
+    "D": "Chairman Senate"
+   },
+   "answer": "A",
+   "explanation": "The President of Pakistan issues an Ordinance on the advice of the Prime Minister when the Parliament is not in session. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/constitution-of-1973) — marked as a past-paper MCQ there.",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 58,
+   "text": "How many seats did the National Assembly have at the time of the 1973 Constitution making?",
+   "options": {
+    "A": "200",
+    "B": "230",
+    "C": "220",
+    "D": "210"
+   },
+   "answer": "D",
+   "explanation": "At the time of the 1973 Constitution making, the National Assembly had 210 seats. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/constitution-of-1973) — marked as a past-paper MCQ there.",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 59,
+   "text": "Article 11 of the Constitution of Pakistan 1973 deals with the?",
+   "options": {
+    "A": "Right to Education",
+    "B": "Child Labour and Slavery",
+    "C": "Freedom of Speech",
+    "D": "Right to Information"
+   },
+   "answer": "B",
+   "explanation": "Article 11 of the Constitution of Pakistan 1973 deals with Child Labour and Slavery. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/constitution-of-1973).",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 60,
+   "text": "According to Article 73(1) of the Constitution of Pakistan 1973, a money bill shall be originated in _?",
+   "options": {
+    "A": "The Senate",
+    "B": "The Cabinet",
+    "C": "The Provincial Assembly",
+    "D": "The National Assembly"
+   },
+   "answer": "D",
+   "explanation": "Under Article 73(1) of the Constitution of Pakistan 1973, a money bill shall be originated in the National Assembly. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/constitution-of-1973).",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 61,
+   "text": "NFC Award is between:",
+   "options": {
+    "A": "Federation and Provinces",
+    "B": "Provinces and Districts",
+    "C": "Both a and b",
+    "D": "None of these"
+   },
+   "answer": "A",
+   "explanation": "The NFC Award is between the Federation and Provinces of Pakistan. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/constitution-of-1973).",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 62,
+   "text": "Article 5 of the constitution of Pakistan is about:",
+   "options": {
+    "A": "Equality before law",
+    "B": "Right to freedom of speech",
+    "C": "Protection against double punishment",
+    "D": "Loyalty to the State is the basic duty of every citizen"
+   },
+   "answer": "D",
+   "explanation": "Article 5 of the Constitution of Pakistan declares that loyalty to the State is the basic duty of every citizen. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/constitution-of-1973).",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 63,
+   "text": "As per Article 3 of the Constitution of Pakistan 1973, the _ shall ensure the elimination of all forms of exploitation and the gradual fulfilment of the fundamental principle, from each according to his ability to each according to his work.",
+   "options": {
+    "A": "State",
+    "B": "Parliament",
+    "C": "Supreme Court",
+    "D": "Prime Minister"
+   },
+   "answer": "A",
+   "explanation": "Article 3 of the Constitution of Pakistan 1973 declares that the State shall ensure the elimination of all forms of exploitation and the gradual fulfilment of the principle \"from each according to his ability, to each according to his work.\" Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/constitution-of-1973).",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 64,
+   "text": "Under Constitution of Pakistan 1973, the Chairman and Deputy Chairman of Senate to take oaths before entering upon their offices in the form set out in the ?",
+   "options": {
+    "A": "First Schedule",
+    "B": "Second Schedule",
+    "C": "Third Schedule",
+    "D": "Fourth Schedule"
+   },
+   "answer": "C",
+   "explanation": "Under the Constitution of Pakistan 1973, the Chairman and Deputy Chairman of Senate take oaths before entering upon their offices in the form set out in the Third Schedule. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/constitution-of-1973).",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 65,
+   "text": "What form of government is provided by the 1973 Constitution of Pakistan?",
+   "options": {
+    "A": "Presidential",
+    "B": "Confederal",
+    "C": "Unitary",
+    "D": "Parliamentary"
+   },
+   "answer": "D",
+   "explanation": "The 1973 Constitution of Pakistan provides a Parliamentary form of government, where the Prime Minister is the head of government and the President is the ceremonial head of state. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/constitution-of-1973).",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 66,
+   "text": "Who famously said, \"Democracy is the Best Revenge\"?",
+   "options": {
+    "A": "Benazir Bhutto",
+    "B": "Zulfikar Ali Bhutto",
+    "C": "Nawaz Sharif",
+    "D": "Imran Khan"
+   },
+   "answer": "A",
+   "explanation": "The famous quote \"Democracy is the Best Revenge\" was said by Benazir Bhutto. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/democratic-era-1988-1999) — marked as a past-paper MCQ there.",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 67,
+   "text": "Who introduced the Shariat Bill?",
+   "options": {
+    "A": "Benazir Bhutto",
+    "B": "Nawaz Sharif",
+    "C": "Pervez Musharraf",
+    "D": "Zulfikar Ali Bhutto"
+   },
+   "answer": "B",
+   "explanation": "The Shariat Bill was introduced by Nawaz Sharif during his tenure as Prime Minister of Pakistan. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/democratic-era-1988-1999) — marked as a past-paper MCQ there.",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 68,
+   "text": "Farooq Laghari dissolved the Benazir Bhutto government on which date?",
+   "options": {
+    "A": "November 5, 1996",
+    "B": "October 12, 1999",
+    "C": "April 18, 1993",
+    "D": "August 6, 1990"
+   },
+   "answer": "A",
+   "explanation": "President Farooq Laghari dissolved Benazir Bhutto's government on November 5, 1996 under Article 58(2)(b) of the Constitution. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/democratic-era-1988-1999) — marked as a past-paper MCQ there.",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 69,
+   "text": "When did former President of Pakistan Rafiq Tarar pass away?",
+   "options": {
+    "A": "7 March 2022",
+    "B": "5 March 2021",
+    "C": "9 January 2023",
+    "D": "15 April 2020"
+   },
+   "answer": "A",
+   "explanation": "Former President of Pakistan Rafiq Tarar passed away on 7 March 2022. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/democratic-era-1988-1999).",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 70,
+   "text": "Benazir Bhutto was born on _?",
+   "options": {
+    "A": "June 21, 1954",
+    "B": "July 21, 1953",
+    "C": "June 21, 1953",
+    "D": "July 21, 1954"
+   },
+   "answer": "C",
+   "explanation": "Benazir Bhutto was born on June 21, 1953 in Karachi, Pakistan. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/democratic-era-1988-1999).",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 71,
+   "text": "What was the duration of Nawaz Sharif's tenure as Prime Minister in his second term?",
+   "options": {
+    "A": "February 17, 1997 – October 12, 1999",
+    "B": "November 6, 1990 – July 18, 1993",
+    "C": "October 12, 1999 – November 23, 2002",
+    "D": "March 25, 2008 – June 19, 2013"
+   },
+   "answer": "A",
+   "explanation": "Nawaz Sharif's second term as Prime Minister lasted from February 17, 1997 to October 12, 1999, when it was cut short by General Pervez Musharraf's military coup. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/democratic-era-1988-1999).",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 72,
+   "text": "In 1956 the designation of Governor General changed to _?",
+   "options": {
+    "A": "Prime Minister",
+    "B": "Chief Martial Law Administrator",
+    "C": "Chief Executive",
+    "D": "President"
+   },
+   "answer": "D",
+   "explanation": "In 1956, the designation of Governor General was changed to President under Pakistan's first constitution. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/heads-of-state-governors-general-presidents) — marked as a past-paper MCQ there.",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 73,
+   "text": "Who had the shortest tenure as Governor General of Pakistan?",
+   "options": {
+    "A": "Khawaja Nazimuddin",
+    "B": "Ghulam Muhammad",
+    "C": "Iskandar Mirza",
+    "D": "Muhammad Ali Jinnah"
+   },
+   "answer": "C",
+   "explanation": "The shortest tenure as Governor General of Pakistan was held by Iskandar Mirza, who served for only about 7 months before becoming the first President. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/heads-of-state-governors-general-presidents) — marked as a past-paper MCQ there.",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 74,
+   "text": "Who is the Head of the State of Pakistan?",
+   "options": {
+    "A": "Prime Minister",
+    "B": "President",
+    "C": "Chief Justice",
+    "D": "Chairman Senate"
+   },
+   "answer": "B",
+   "explanation": "The President is the Head of the State of Pakistan. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/heads-of-state-governors-general-presidents) — marked as a past-paper MCQ there.",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 75,
+   "text": "When did Farooq Laghari become president?",
+   "options": {
+    "A": "14 Nov 1994",
+    "B": "13 Nov 1993",
+    "C": "14 Nov 1993",
+    "D": "13 Nov 1994"
+   },
+   "answer": "C",
+   "explanation": "Farooq Laghari became the President of Pakistan on 14 November 1993. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/heads-of-state-governors-general-presidents) — marked as a past-paper MCQ there.",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 76,
+   "text": "Who elects the President of Pakistan?",
+   "options": {
+    "A": "National Assembly only",
+    "B": "Senate only",
+    "C": "National Assembly, Senate, and Provincial Assemblies",
+    "D": "Prime Minister and Cabinet"
+   },
+   "answer": "C",
+   "explanation": "The President of Pakistan is elected by an electoral college comprising the National Assembly, Senate, and Provincial Assemblies. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/heads-of-state-governors-general-presidents) — marked as a past-paper MCQ there.",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 77,
+   "text": "After the death of Zia-ul-Haq on 17th August 1988, who was made the President of Pakistan?",
+   "options": {
+    "A": "Ghulam Ishaq Khan",
+    "B": "Farooq Ahmad Khan Leghari",
+    "C": "Wasim Sajjad",
+    "D": "Rafiq Tarar"
+   },
+   "answer": "A",
+   "explanation": "After the death of General Zia-ul-Haq on 17th August 1988, Ghulam Ishaq Khan (then Chairman of the Senate) became the Acting President of Pakistan under the constitutional line of succession. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/heads-of-state-governors-general-presidents) — marked as a past-paper MCQ there.",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 78,
+   "text": "In which year was the Federal Shariat Court established in Pakistan?",
+   "options": {
+    "A": "1979",
+    "B": "1980",
+    "C": "1981",
+    "D": "1982"
+   },
+   "answer": "B",
+   "explanation": "The Federal Shariat Court of Pakistan was established in 1980 during General Zia-ul-Haq's regime. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/judiciary-legal-institutions) — marked as a past-paper MCQ there.",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 79,
+   "text": "Who was the first Hindu woman judge in Pakistan?",
+   "options": {
+    "A": "Rana Bhagwandas",
+    "B": "Krishna Kumari Kohli",
+    "C": "Pushpa Kumari",
+    "D": "Suman Kumari Bodani"
+   },
+   "answer": "D",
+   "explanation": "The first Hindu woman judge in Pakistan is Suman Kumari Bodani. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/judiciary-legal-institutions) — marked as a past-paper MCQ there.",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 80,
+   "text": "As per Article 175-A (VI) of the Constitution of Pakistan 1973, for appointment of Judges of Supreme Court, the Commission shall consist of among others, a Senior Advocate of the Supreme Court of Pakistan nominated by the _ for a term of two years.",
+   "options": {
+    "A": "Chief Justice of Pakistan",
+    "B": "Supreme Court Bar Association",
+    "C": "Prime Minister of Pakistan",
+    "D": "Pakistan Bar Council"
+   },
+   "answer": "D",
+   "explanation": "As per Article 175-A (VI) of the Constitution of Pakistan 1973, the Senior Advocate of the Supreme Court serving on the Judicial Commission is nominated by the Pakistan Bar Council for a term of two years. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/judiciary-legal-institutions).",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 81,
+   "text": "As per Article 186 of the Constitution of Pakistan 1973, the President can seek the advice of Supreme Court on any _ which considers of public importance.",
+   "options": {
+    "A": "Administrative issue",
+    "B": "Question of fact",
+    "C": "Policy matter",
+    "D": "Question of law"
+   },
+   "answer": "D",
+   "explanation": "As per Article 186 of the Constitution of Pakistan 1973, the President can seek the advisory opinion of the Supreme Court on any question of law which he considers of public importance. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/judiciary-legal-institutions).",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 82,
+   "text": "As per Article 203-C (2) of the Constitution of Pakistan 1973, the Federal Shariat Court shall consist of not more than _ Muslim Judges, including the Chief Justice, to be appointed by the President in accordance with Article 175A.",
+   "options": {
+    "A": "6",
+    "B": "8",
+    "C": "10",
+    "D": "12"
+   },
+   "answer": "B",
+   "explanation": "As per Article 203-C (2) of the Constitution of Pakistan 1973, the Federal Shariat Court shall consist of not more than 8 Muslim Judges, including the Chief Justice. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/judiciary-legal-institutions).",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 83,
+   "text": "Rana Baghwan Das was a _?",
+   "options": {
+    "A": "Chief Justice",
+    "B": "Governor-General",
+    "C": "Prime Minister",
+    "D": "Speaker of National Assembly"
+   },
+   "answer": "A",
+   "explanation": "Rana Bhagwan Das served as the Chief Justice of Pakistan. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/judiciary-legal-institutions).",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 84,
+   "text": "Who became the first woman Chief Justice of a Pakistani high court?",
+   "options": {
+    "A": "Justice Ayesha A. Malik",
+    "B": "Justice Tahira Safdar",
+    "C": "Justice Majida Rizvi",
+    "D": "Justice Nasira Iqbal"
+   },
+   "answer": "B",
+   "explanation": "Justice Tahira Safdar became the first woman Chief Justice of a Pakistani high court when she was appointed Chief Justice of the Balochistan High Court in 2018. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/judiciary-legal-institutions).",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 85,
+   "text": "Which areas have been included in FATA by the 19th Constitution Amendment?",
+   "options": {
+    "A": "Tribal Areas Adjoining Lakki Marwat and Tank Districts",
+    "B": "Tribal Areas Adjoining Peshawar and Kohat Districts",
+    "C": "Tribal Areas Adjoining Bannu and Dera Ismail Khan Districts",
+    "D": "Tribal Areas Adjoining Mardan and Swabi Districts"
+   },
+   "answer": "A",
+   "explanation": "The 19th Constitution Amendment included the Tribal Areas Adjoining Lakki Marwat and Tank Districts into FATA. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/key-amendments).",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 86,
+   "text": "The 18th Amendment Bill was passed by Senate on April 15",
+   "options": {
+    "A": "2008",
+    "B": "2009",
+    "C": "2010",
+    "D": "2011"
+   },
+   "answer": "C",
+   "explanation": "The 18th Amendment Bill was passed by the Senate on April 15, 2010. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/key-amendments).",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 87,
+   "text": "Under which article was the National Assembly of Pakistan dissolved in August 2023?",
+   "options": {
+    "A": "Article 58",
+    "B": "Article 62",
+    "C": "Article 63",
+    "D": "Article 48"
+   },
+   "answer": "A",
+   "explanation": "The National Assembly of Pakistan was dissolved in August 2023 under Article 58 of the Constitution. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/key-amendments).",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 88,
+   "text": "According to 19th Amendment, the Judicial Commission shall comprise?",
+   "options": {
+    "A": "Chief Justice of Pakistan",
+    "B": "Two senior most judges of Supreme Court",
+    "C": "Attorney General for Pakistan",
+    "D": "All of these"
+   },
+   "answer": "D",
+   "explanation": "According to the 19th Amendment, the Judicial Commission comprises the Chief Justice of Pakistan, two senior most judges of the Supreme Court, and the Attorney General for Pakistan, making the answer All of these. Low confidence: composition-option item. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/key-amendments).",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 89,
+   "text": "In his second term, Nawaz Sharif, through the Thirteenth Amendment to the Constitution, the powers of the President?",
+   "options": {
+    "A": "Abolished",
+    "B": "Increased",
+    "C": "Retained",
+    "D": "Redefined"
+   },
+   "answer": "A",
+   "explanation": "In his second term, Nawaz Sharif abolished the powers of the President through the Thirteenth Amendment, which removed the President's authority to dissolve the assembly and dismiss the Prime Minister. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/key-amendments).",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 90,
+   "text": "LFO stands for what?",
+   "options": {
+    "A": "Legal Framework Order",
+    "B": "Legal Federation Ordinance",
+    "C": "Legislative Framework Ordinance",
+    "D": "Law and Finance Order"
+   },
+   "answer": "A",
+   "explanation": "LFO stands for Legal Framework Order. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/legal-framework-orders) — marked as a past-paper MCQ there.",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 91,
+   "text": "On August 21, 2002, Musharraf issued the .",
+   "options": {
+    "A": "State of Emergency Order",
+    "B": "Provisional Constitutional Order (PCO)",
+    "C": "Revival of Constitution Order (RCO)",
+    "D": "Legal Framework Order (LFO)"
+   },
+   "answer": "D",
+   "explanation": "On August 21, 2002, General Pervez Musharraf issued the Legal Framework Order (LFO) to unilaterally amend the 1973 Constitution and legitimize his rule. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/legal-framework-orders).",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 92,
+   "text": "The Vires of National Accountability Ordinance 1999 were challenged in ?",
+   "options": {
+    "A": "Zafar Ali Shah vs Pervez Musharraf (PLD 2000 SC 869)",
+    "B": "Malik Ghulam Mustafa Khar vs Federation of Pakistan (PLD 2002 SC 12)",
+    "C": "Benazir Bhutto vs Federation of Pakistan (PLD 1998 SC 388)",
+    "D": "Asfand Yar Wali and Others vs Federation of Pakistan (PLD 2001 SC 607)"
+   },
+   "answer": "D",
+   "explanation": "The vires of the National Accountability Ordinance 1999 were challenged in Asfand Yar Wali and Others vs Federation of Pakistan (PLD 2001 SC 607). Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/legal-framework-orders).",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 93,
+   "text": "What does PCO stand for?",
+   "options": {
+    "A": "Provisional Constitutional Order",
+    "B": "Provincial Constitutional Ordinance",
+    "C": "Parliamentary Constitutional Order",
+    "D": "Presidential Council Ordinance"
+   },
+   "answer": "A",
+   "explanation": "PCO stands for Provisional Constitutional Order, a legal instrument used to validate extra-constitutional actions in Pakistan. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/legal-framework-orders) — marked as a past-paper MCQ there.",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 94,
+   "text": "The Legal Framework Order 1970 was issued by ?",
+   "options": {
+    "A": "Ayub Khan",
+    "B": "Zulfikar Ali Bhutto",
+    "C": "Yahya Khan",
+    "D": "Sheikh Mujibur Rahman"
+   },
+   "answer": "C",
+   "explanation": "The Legal Framework Order 1970 was issued by Yahya Khan to provide the legal basis for holding Pakistan's first general elections. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/legal-framework-orders).",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 95,
+   "text": "How many general seats are there in the National Assembly of Pakistan?",
+   "options": {
+    "A": "272",
+    "B": "342",
+    "C": "266",
+    "D": "300"
+   },
+   "answer": "C",
+   "explanation": "Corrected key: after the 25th Amendment (FATA merger) and the 2023 delimitation the National Assembly has 266 general seats (336 total). It had 272 general seats from 2002 to 2018. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/legislature-national-assembly-senate-provincial-assemblies) — marked as a past-paper MCQ there.",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 96,
+   "text": "What is the minimum age required to become a senator according to the 1973 Constitution of Pakistan?",
+   "options": {
+    "A": "25 years",
+    "B": "30 years",
+    "C": "35 years",
+    "D": "40 years"
+   },
+   "answer": "B",
+   "explanation": "According to the 1973 Constitution of Pakistan, the minimum age required to become a senator is 30 years. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/legislature-national-assembly-senate-provincial-assemblies) — marked as a past-paper MCQ there.",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 97,
+   "text": "The term \"Hung Parliament\" describes a situation in which?",
+   "options": {
+    "A": "No single party has a majority in the house",
+    "B": "The parliament is dissolved by the President",
+    "C": "The ruling party has a two-thirds majority",
+    "D": "The opposition boycotts the parliamentary session"
+   },
+   "answer": "A",
+   "explanation": "A hung parliament occurs when no single party has a majority in the house, requiring coalition or minority government formation. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/legislature-national-assembly-senate-provincial-assemblies).",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 98,
+   "text": "Senate elections take place in accordance with the Article of the Constitution:",
+   "options": {
+    "A": "63",
+    "B": "62",
+    "C": "59",
+    "D": "51"
+   },
+   "answer": "C",
+   "explanation": "Senate elections take place in accordance with Article 59 of the Constitution of Pakistan. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/legislature-national-assembly-senate-provincial-assemblies).",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 99,
+   "text": "Membership of Senate of Pakistan increased from 87 to 100 in which year?",
+   "options": {
+    "A": "2000",
+    "B": "2001",
+    "C": "2002",
+    "D": "2003"
+   },
+   "answer": "C",
+   "explanation": "The membership of the Senate of Pakistan was increased from 87 to 100 in the year 2002. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/legislature-national-assembly-senate-provincial-assemblies).",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 100,
+   "text": "National Assembly members are increased on basis of .",
+   "options": {
+    "A": "Area",
+    "B": "Population",
+    "C": "Revenue generation",
+    "D": "Literacy rate"
+   },
+   "answer": "B",
+   "explanation": "National Assembly members are increased on the basis of Population. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/legislature-national-assembly-senate-provincial-assemblies).",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 101,
+   "text": "Pakistan Senate's election is held after every ?",
+   "options": {
+    "A": "Two years",
+    "B": "Three years",
+    "C": "Four years",
+    "D": "Five years"
+   },
+   "answer": "B",
+   "explanation": "Pakistan Senate elections are held after every three years, with half of the senators retiring after each term. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/legislature-national-assembly-senate-provincial-assemblies).",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 102,
+   "text": "ISSB stands for",
+   "options": {
+    "A": "Inter Services Selection Board",
+    "B": "Inter Services Security Bureau",
+    "C": "Inter State Selection Board",
+    "D": "Inter Services Strategic Base"
+   },
+   "answer": "A",
+   "explanation": "ISSB stands for Inter Services Selection Board. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/miscellaneous-government-structure-office-holders) — marked as a past-paper MCQ there.",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 103,
+   "text": "Where is the headquarters of Pakistan Navy located?",
+   "options": {
+    "A": "Karachi",
+    "B": "Islamabad",
+    "C": "Lahore",
+    "D": "Rawalpindi"
+   },
+   "answer": "B",
+   "explanation": "The headquarters of Pakistan Navy is located in Islamabad. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/miscellaneous-government-structure-office-holders).",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 104,
+   "text": "Who was the first Muslim C-in-C of the Pakistan Air Force?",
+   "options": {
+    "A": "Air Marshal Paery Cane",
+    "B": "Air marshal Asgher Khan",
+    "C": "Air marshal Zafar Khan",
+    "D": "Air marshal anwar khan"
+   },
+   "answer": "B",
+   "explanation": "The first Muslim C-in-C of PAF was Air Marshal Asghar Khan. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/miscellaneous-government-structure-office-holders) — marked as a past-paper MCQ there.",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 105,
+   "text": "In which city is the National School of Public Policy located?",
+   "options": {
+    "A": "Islamabad",
+    "B": "Lahore",
+    "C": "Karachi",
+    "D": "Peshawar"
+   },
+   "answer": "B",
+   "explanation": "The National School of Public Policy (NSPP) is located in Lahore. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/miscellaneous-government-structure-office-holders) — marked as a past-paper MCQ there.",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 106,
+   "text": "\"In the Line of Fire\" is the autobiography of ?",
+   "options": {
+    "A": "Ayub Khan",
+    "B": "Zulfikar Ali Bhutto",
+    "C": "Pervez Musharraf",
+    "D": "Zia-ul-Haq"
+   },
+   "answer": "C",
+   "explanation": "\"In the Line of Fire\" is the autobiography of Pervez Musharraf, published in 2006. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/musharraf-era) — marked as a past-paper MCQ there.",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 107,
+   "text": "When did Musharraf take the oath of President of Pakistan?",
+   "options": {
+    "A": "After the Agra Summit",
+    "B": "Before the Agra Summit",
+    "C": "During the Agra Summit",
+    "D": "On the day of the Agra Summit"
+   },
+   "answer": "B",
+   "explanation": "Pervez Musharraf took the oath as President of Pakistan before the Agra Summit. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/musharraf-era) — marked as a past-paper MCQ there.",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 108,
+   "text": "To whom General Pervaiz Musharraf replaced?",
+   "options": {
+    "A": "General Zia-ul-Haq",
+    "B": "General Jahangir Karamat",
+    "C": "General Ayub Khan",
+    "D": "General Yahya Khan"
+   },
+   "answer": "B",
+   "explanation": "General Pervaiz Musharraf replaced General Jahangir Karamat as the Chief of Army Staff of Pakistan in October 1998. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/musharraf-era) — marked as a past-paper MCQ there.",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 109,
+   "text": "What was the main purpose of the referendum held in Pakistan on April 30, 2002?",
+   "options": {
+    "A": "To approve the 17th Constitutional Amendment",
+    "B": "To seek public opinion on military rule in Pakistan",
+    "C": "To decide the future of the Legal Framework Order 2002",
+    "D": "To allow Pervez Musharraf to continue as president for five years"
+   },
+   "answer": "D",
+   "explanation": "The April 30, 2002 referendum was held to allow Pervez Musharraf to continue as president for five years. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/musharraf-era) — marked as a past-paper MCQ there.",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 110,
+   "text": "The Lawyers' Movement, also known as the Movement for the Restoration of Judiciary, was actually the restoration of ?",
+   "options": {
+    "A": "Tassaduq Hussain Jillani",
+    "B": "Munir A. Malik",
+    "C": "Fakhruddin G. Ebrahim",
+    "D": "Iftikhar Chaudhry"
+   },
+   "answer": "D",
+   "explanation": "The Lawyers' Movement (2007–2009) was aimed at the restoration of Chief Justice Iftikhar Chaudhry, who was deposed by General Pervez Musharraf. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/musharraf-era) — marked as a past-paper MCQ there.",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 111,
+   "text": "When did Pervez Musharraf resign as the President of Pakistan?",
+   "options": {
+    "A": "15 August 2007",
+    "B": "23 March 2008",
+    "C": "12 October 2009",
+    "D": "18 August 2008"
+   },
+   "answer": "D",
+   "explanation": "Pervez Musharraf resigned as the President of Pakistan on 18 August 2008. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/musharraf-era) — marked as a past-paper MCQ there.",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 112,
+   "text": "Who was the first and the last Chief Executive in the history of Pakistan?",
+   "options": {
+    "A": "General Zia-ul-Haq",
+    "B": "General Parvaiz Musharraf",
+    "C": "General Ayub Khan",
+    "D": "General Yahya Khan"
+   },
+   "answer": "B",
+   "explanation": "General Parvaiz Musharraf was the first and the last Chief Executive in the history of Pakistan, a title he assumed after the 1999 military coup. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/musharraf-era) — marked as a past-paper MCQ there.",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 113,
+   "text": "Who became the Prime Minister of Pakistan after the 2002 elections?",
+   "options": {
+    "A": "Zafarullah Khan Jamali",
+    "B": "Shaukat Aziz",
+    "C": "Chaudhry Shujaat Hussain",
+    "D": "Chaudhry Pervaiz Elahi"
+   },
+   "answer": "A",
+   "explanation": "Mir Zafarullah Khan Jamali became Prime Minister in November 2002. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/musharraf-era) — marked as a past-paper MCQ there.",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 114,
+   "text": "How many points are included in the National Action Plan to counter terrorism?",
+   "options": {
+    "A": "18",
+    "B": "20",
+    "C": "22",
+    "D": "24"
+   },
+   "answer": "B",
+   "explanation": "The National Action Plan (NAP) to counter terrorism consists of 20 points. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/post-2008-democracy) — marked as a past-paper MCQ there.",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 115,
+   "text": "Former Prime Minister Nawaz Sharif was disqualified by the Supreme Court of Pakistan on_?",
+   "options": {
+    "A": "July 25, 2018",
+    "B": "April 20, 2018",
+    "C": "July 28, 2017",
+    "D": "June 14, 2016"
+   },
+   "answer": "C",
+   "explanation": "Nawaz Sharif was disqualified by the Supreme Court of Pakistan on July 28, 2017 in the Panama Papers case. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/post-2008-democracy).",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 116,
+   "text": "Who took oath as President of Pakistan after Pervez Musharraf stepped down in 2008?",
+   "options": {
+    "A": "Mamnoon Hussain",
+    "B": "Yousaf Raza Gillani",
+    "C": "Asif Zardari",
+    "D": "Raza Rabbani"
+   },
+   "answer": "C",
+   "explanation": "Asif Zardari took oath as President of Pakistan on September 9, 2008, after Pervez Musharraf resigned. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/post-2008-democracy).",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 117,
+   "text": "Yousuf Raza Gilani was declared disqualified for five years on:",
+   "options": {
+    "A": "19 June 2012",
+    "B": "26 April 2012",
+    "C": "16 June 2013",
+    "D": "8 March 2011"
+   },
+   "answer": "A",
+   "explanation": "The Supreme Court ruled on 19 June 2012 that Gilani stood disqualified with effect from 26 April 2012 (his contempt conviction). Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/post-2008-democracy).",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 118,
+   "text": "Opposition parties submitted a no-confidence motion against Imran Khan on which date?",
+   "options": {
+    "A": "8 March 2022",
+    "B": "28 March 2022",
+    "C": "3 April 2022",
+    "D": "10 April 2022"
+   },
+   "answer": "A",
+   "explanation": "Opposition parties submitted a no-confidence motion against Prime Minister Imran Khan on 8 March 2022. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/post-2008-democracy).",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 119,
+   "text": "Former northern areas granted autonomy under the name of 'Gilgit-Baltistan' on?",
+   "options": {
+    "A": "23 March 2008",
+    "B": "15 November 2007",
+    "C": "7 September 2010",
+    "D": "29 August 2009"
+   },
+   "answer": "D",
+   "explanation": "The former Northern Areas were granted autonomy under the name 'Gilgit-Baltistan' on 29 August 2009 through the Gilgit-Baltistan Empowerment and Self-Governance Order. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/post-2008-democracy).",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 120,
+   "text": "Which of the following political parties won most seats in General Elections 2018?",
+   "options": {
+    "A": "Pakistan Muslim League-Nawaz (PML-N)",
+    "B": "Pakistan Peoples Party (PPP)",
+    "C": "Pakistan Tehreek-e-Insaf (PTI)",
+    "D": "Muttahida Qaumi Movement (MQM)"
+   },
+   "answer": "C",
+   "explanation": "Pakistan Tehreek-e-Insaf (PTI) emerged as the single largest party by winning the most seats in the General Elections 2018. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/post-2008-democracy).",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 121,
+   "text": "Benazir Income Support Program was initiated in which year?",
+   "options": {
+    "A": "2006",
+    "B": "2007",
+    "C": "2008",
+    "D": "2009"
+   },
+   "answer": "C",
+   "explanation": "The Benazir Income Support Program (BISP) was initiated in 2008 by the Government of Pakistan. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/post-2008-democracy).",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 122,
+   "text": "The Chairman of Council of Common Interest is the _?",
+   "options": {
+    "A": "President",
+    "B": "Chief Justice of Pakistan",
+    "C": "Prime Minister",
+    "D": "Speaker of National Assembly"
+   },
+   "answer": "C",
+   "explanation": "The Chairman of the Council of Common Interest (CCI) is the Prime Minister of Pakistan. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/prime-ministers-federal-cabinet) — marked as a past-paper MCQ there.",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 123,
+   "text": "Who held the portfolio of Communications in the first cabinet of Pakistan?",
+   "options": {
+    "A": "Sardar Abdur Rab Nishtar",
+    "B": "Malik Ghulam Muhammad",
+    "C": "Fazlur Rahman",
+    "D": "I.I. Chundrigar"
+   },
+   "answer": "A",
+   "explanation": "Sardar Abdur Rab Nishtar held the portfolio of Communications in the first cabinet of Pakistan. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/prime-ministers-federal-cabinet).",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 124,
+   "text": "What was the tenure period of Raja Pervaiz Ashraf as Prime Minister of Pakistan?",
+   "options": {
+    "A": "June 22, 2012 – March 24, 2013",
+    "B": "March 25, 2008 – June 21, 2012",
+    "C": "June 22, 2013 – July 28, 2017",
+    "D": "March 24, 2013 – June 5, 2013"
+   },
+   "answer": "A",
+   "explanation": "Raja Pervaiz Ashraf served as Prime Minister of Pakistan from June 22, 2012 to March 24, 2013. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/prime-ministers-federal-cabinet).",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 125,
+   "text": "Mir Zafarullah Khan Jamali served as Prime Minister of Pakistan from 2002 to _?",
+   "options": {
+    "A": "2003",
+    "B": "2004",
+    "C": "2005",
+    "D": "2006"
+   },
+   "answer": "B",
+   "explanation": "Mir Zafarullah Khan Jamali served as Prime Minister of Pakistan from 2002 to 2004. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/prime-ministers-federal-cabinet).",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 126,
+   "text": "On 22nd November 2016, former Caretaker Prime Minister of Pakistan passed away. What was his name?",
+   "options": {
+    "A": "Moin Qureshi",
+    "B": "Ghulam Mustafa Jatoi",
+    "C": "Balakh Sher Mazari",
+    "D": "Mir Hazar Khan Khoso"
+   },
+   "answer": "A",
+   "explanation": "The former Caretaker Prime Minister who passed away on 22nd November 2016 was Moin Qureshi. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/prime-ministers-federal-cabinet).",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 127,
+   "text": "Who was the first female Governor of the Sindh province?",
+   "options": {
+    "A": "Begum Ra'ana Liaquat Ali",
+    "B": "Fatima Jinnah",
+    "C": "Benazir Bhutto",
+    "D": "Begum Nusrat Bhutto"
+   },
+   "answer": "A",
+   "explanation": "The first female Governor of Sindh province was Begum Ra'ana Liaquat Ali. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/provincial-governors-administrators) — marked as a past-paper MCQ there.",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 128,
+   "text": "Who was the first Muslim Governor of Punjab?",
+   "options": {
+    "A": "Sardar Abdur Rab Nishtar",
+    "B": "Malik Feroz Khan Noon",
+    "C": "Mian Mumtaz Daultana",
+    "D": "Nawab Iftikhar Hussain Mamdot"
+   },
+   "answer": "A",
+   "explanation": "The first Muslim Governor of Punjab was Sardar Abdur Rab Nishtar. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/provincial-governors-administrators) — marked as a past-paper MCQ there.",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 129,
+   "text": "Who was the First Governor of former NWFP at the time of independence of Pakistan in 1947?",
+   "options": {
+    "A": "Sir George Cunningham",
+    "B": "Sir Olaf Caroe",
+    "C": "Sir Ambrose Dundas",
+    "D": "Sir Francis Mudie"
+   },
+   "answer": "A",
+   "explanation": "The first Governor of the former NWFP at the time of Pakistan's independence in 1947 was Sir George Cunningham. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/provincial-governors-administrators) — marked as a past-paper MCQ there.",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 130,
+   "text": "Who was the first Chief Minister of West Punjab?",
+   "options": {
+    "A": "Iftikhar Hussain Khan Mamdoot",
+    "B": "Mian Mumtaz Daultana",
+    "C": "Malik Feroz Khan Noon",
+    "D": "Abdul Hamid Khan Dasti"
+   },
+   "answer": "A",
+   "explanation": "The first Chief Minister of West Punjab was Iftikhar Hussain Khan Mamdoot. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/provincial-governors-administrators) — marked as a past-paper MCQ there.",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 131,
+   "text": "Who presented the six points formula?",
+   "options": {
+    "A": "Maulana Bhashani",
+    "B": "Zulfikar Ali Bhutto",
+    "C": "Sheikh Mujeeb ur Rehman",
+    "D": "Huseyn Shaheed Suhrawardy"
+   },
+   "answer": "C",
+   "explanation": "The Six Points formula was presented by Sheikh Mujeeb ur Rehman in 1966 as a charter for greater autonomy for East Pakistan. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/yahya-khan-separation-of-east-pakistan) — marked as a past-paper MCQ there.",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 132,
+   "text": "In which year did Bangladesh separate from Pakistan?",
+   "options": {
+    "A": "1969",
+    "B": "1970",
+    "C": "1971",
+    "D": "1972"
+   },
+   "answer": "C",
+   "explanation": "Bangladesh separated from Pakistan in 1971 after a civil war and Indian military intervention. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/yahya-khan-separation-of-east-pakistan) — marked as a past-paper MCQ there.",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 133,
+   "text": "At the time of 1971 War the C-in-C of Pak Army was ?",
+   "options": {
+    "A": "General Abdul Hamid Khan",
+    "B": "General Ayub Khan",
+    "C": "General Tikka Khan",
+    "D": "General Agha Muhammad Yahya Khan"
+   },
+   "answer": "D",
+   "explanation": "At the time of the 1971 War, the Commander-in-Chief (C-in-C) of the Pakistan Army was General Agha Muhammad Yahya Khan. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/yahya-khan-separation-of-east-pakistan) — marked as a past-paper MCQ there.",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 134,
+   "text": "When did Rashid Minhas got Nishan-e-Haider?",
+   "options": {
+    "A": "1965",
+    "B": "1971",
+    "C": "1999",
+    "D": "1948"
+   },
+   "answer": "B",
+   "explanation": "Rashid Minhas was awarded Nishan-e-Haider in 1971 for his supreme sacrifice during the Indo-Pak war. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/yahya-khan-separation-of-east-pakistan) — marked as a past-paper MCQ there.",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 135,
+   "text": "The war of 1971 between India and Pakistan lasted for how many days?",
+   "options": {
+    "A": "13 days",
+    "B": "17 days",
+    "C": "21 days",
+    "D": "27 days"
+   },
+   "answer": "A",
+   "explanation": "The 1971 war between India and Pakistan lasted for 13 days, from 3 December to 16 December 1971. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/yahya-khan-separation-of-east-pakistan).",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 136,
+   "text": "In which year did Nawaz Sharif become the chief minister of Punjab?",
+   "options": {
+    "A": "1983",
+    "B": "1990",
+    "C": "1988",
+    "D": "1985"
+   },
+   "answer": "D",
+   "explanation": "Nawaz Sharif became the Chief Minister of Punjab in 1985. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/zia-ul-haq-era) — marked as a past-paper MCQ there.",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 137,
+   "text": "Working with Zia book was written by _?",
+   "options": {
+    "A": "Khalid Mehmood Arif",
+    "B": "Altaf Gauhar",
+    "C": "Hassan Askari Rizvi",
+    "D": "Ayesha Jalal"
+   },
+   "answer": "A",
+   "explanation": "The book \"Working with Zia\" was written by Khalid Mehmood Arif. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/zia-ul-haq-era) — marked as a past-paper MCQ there.",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 138,
+   "text": "Who introduced the Hudood Ordinance in Pakistan?",
+   "options": {
+    "A": "Ayub Khan",
+    "B": "Zulfikar Ali Bhutto",
+    "C": "Zia ul Haq",
+    "D": "Pervez Musharraf"
+   },
+   "answer": "C",
+   "explanation": "The Hudood Ordinance was introduced in Pakistan by Zia ul Haq in 1979 as part of his Islamization drive. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/zia-ul-haq-era) — marked as a past-paper MCQ there.",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 139,
+   "text": "In which year did General Zia-ul-Haq die in a plane crash?",
+   "options": {
+    "A": "1986",
+    "B": "1987",
+    "C": "1988",
+    "D": "1989"
+   },
+   "answer": "C",
+   "explanation": "General Zia-ul-Haq died in a plane crash on August 17, 1988, near Bahawalpur. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/zia-ul-haq-era) — marked as a past-paper MCQ there.",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 140,
+   "text": "On 29th May 1988 General Zia-ul-Haq dismissed the Government of _?",
+   "options": {
+    "A": "Muhammad Khan Junejo",
+    "B": "Benazir Bhutto",
+    "C": "Nawaz Sharif",
+    "D": "Ghulam Mustafa Jatoi"
+   },
+   "answer": "A",
+   "explanation": "On 29th May 1988, General Zia-ul-Haq dismissed the Government of Muhammad Khan Junejo by invoking Article 58(2)(b) of the Constitution. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/zia-ul-haq-era) — marked as a past-paper MCQ there.",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 141,
+   "text": "In which year was the Majlis-e-Shura (National Assembly) of Pakistan established?",
+   "options": {
+    "A": "1973",
+    "B": "1977",
+    "C": "1985",
+    "D": "1981"
+   },
+   "answer": "D",
+   "explanation": "The Majlis-e-Shura (National Assembly) of Pakistan was established in 1981 under General Zia-ul-Haq's regime. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/zia-ul-haq-era) — marked as a past-paper MCQ there.",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 142,
+   "text": "Muhammad Zia ul Haq became the _ President of Pakistan.",
+   "options": {
+    "A": "Fourth",
+    "B": "Fifth",
+    "C": "Sixth",
+    "D": "Seventh"
+   },
+   "answer": "C",
+   "explanation": "Muhammad Zia ul Haq became the Sixth President of Pakistan. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/zia-ul-haq-era) — marked as a past-paper MCQ there.",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 143,
+   "text": "Junejo became Prime Minister of Pakistan in which year?",
+   "options": {
+    "A": "1983",
+    "B": "1984",
+    "C": "1985",
+    "D": "1986"
+   },
+   "answer": "C",
+   "explanation": "Muhammad Khan Junejo became Prime Minister of Pakistan in 1985 after the non-party general elections held under General Zia-ul-Haq's martial law regime. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/zia-ul-haq-era) — marked as a past-paper MCQ there.",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 144,
+   "text": "The Movement for the Restoration of Democracy (MRD), was a political alliance in Pakistan founded by the political parties opposing the military government of:",
+   "options": {
+    "A": "Ayub Khan",
+    "B": "Pervez Musharraf",
+    "C": "Yahya Khan",
+    "D": "Zia Ul Haq"
+   },
+   "answer": "D",
+   "explanation": "The Movement for the Restoration of Democracy (MRD) was founded in 1981 by political parties opposing the military regime of Zia Ul Haq. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/zia-ul-haq-era) — marked as a past-paper MCQ there.",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 145,
+   "text": "Which ministerial position did Zulfiqar Ali Bhutto first hold in his political career?",
+   "options": {
+    "A": "Minister of Foreign Affairs",
+    "B": "Minister of Defence",
+    "C": "Minister of Industries",
+    "D": "Minister of Commerce"
+   },
+   "answer": "D",
+   "explanation": "Zulfiqar Ali Bhutto first held the ministerial position of Minister of Commerce in his political career. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/zulfikar-ali-bhutto-era) — marked as a past-paper MCQ there.",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 146,
+   "text": "When did Zulfiqar Ali Bhutto become the prime minister of Pakistan?",
+   "options": {
+    "A": "1977",
+    "B": "1973",
+    "C": "1971",
+    "D": "1969"
+   },
+   "answer": "B",
+   "explanation": "Corrected key: Bhutto became President/CMLA in December 1971 and Prime Minister on 14 August 1973. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/zulfikar-ali-bhutto-era) — marked as a past-paper MCQ there.",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 147,
+   "text": "Who wrote 'Bhutto Ke Akhri 323 din'?",
+   "options": {
+    "A": "Syed Anwar Hussain",
+    "B": "Hassan Abidi",
+    "C": "Stanley Wolpert",
+    "D": "Colonel Rafiuddin"
+   },
+   "answer": "D",
+   "explanation": "The book 'Bhutto Ke Akhri 323 din' was written by Colonel Rafiuddin. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/zulfikar-ali-bhutto-era) — marked as a past-paper MCQ there.",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 148,
+   "text": "When was the Pakistan People's Party (PPP) launched?",
+   "options": {
+    "A": "November 30, 1967",
+    "B": "December 25, 1967",
+    "C": "January 1, 1968",
+    "D": "October 27, 1966"
+   },
+   "answer": "A",
+   "explanation": "The Pakistan People's Party (PPP) was launched on November 30, 1967 by Zulfikar Ali Bhutto. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/zulfikar-ali-bhutto-era) — marked as a past-paper MCQ there.",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 149,
+   "text": "When were the first general elections under the 1973 constitution held in Pakistan?",
+   "options": {
+    "A": "1970",
+    "B": "1988",
+    "C": "1985",
+    "D": "1977"
+   },
+   "answer": "D",
+   "explanation": "The first general elections under the 1973 Constitution were held in 1977. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/zulfikar-ali-bhutto-era) — marked as a past-paper MCQ there.",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 150,
+   "text": "The nationalization policy was introduced by ?",
+   "options": {
+    "A": "Ayub Khan",
+    "B": "Liaquat Ali Khan",
+    "C": "Zia-ul-Haq",
+    "D": "Z.A. Bhutto"
+   },
+   "answer": "D",
+   "explanation": "The nationalization policy was introduced by Z.A. Bhutto during his tenure as Prime Minister of Pakistan in the early 1970s. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/zulfikar-ali-bhutto-era) — marked as a past-paper MCQ there.",
+   "section": "Constitution, Government & Political History"
+  },
+  {
+   "id": 151,
+   "text": "Who was the Finance Minister during Zulfikar Ali Bhutto's tenure?",
+   "options": {
+    "A": "Dr. Mubashir Hassan",
+    "B": "Ghulam Ishaq Khan",
+    "C": "Abdul Hafeez Pirzada",
+    "D": "J.A. Rahim"
+   },
+   "answer": "A",
+   "explanation": "The Finance Minister during Zulfikar Ali Bhutto's tenure was Dr. Mubashir Hassan. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/zulfikar-ali-bhutto-era) — marked as a past-paper MCQ there.",
+   "section": "Constitution, Government & Political History"
+  }
+ ]
+}

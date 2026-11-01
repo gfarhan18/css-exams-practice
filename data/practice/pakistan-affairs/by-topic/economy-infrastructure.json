@@ -1,0 +1,394 @@
+{
+ "id": "pakistan-affairs-economy-infrastructure",
+ "name": "Pakistan Affairs · Economy, Industry & Infrastructure",
+ "title": "Pakistan Affairs · Economy, Industry & Infrastructure",
+ "subtitle": "Practice bank topic · 29 MCQs",
+ "bank": "practice",
+ "year": null,
+ "rtl": false,
+ "answerKeyNote": "Practice answer key (not an official FPSC key). Keys were cross-checked and corrected where needed; items marked Low confidence are noted in the explanation.",
+ "source": [
+  "https://cssprep.com.pk/pakistan-affairs-mcqs-2005/ … /pakistan-affairs-mcqs-2023/ (CSS Pakistan Affairs past-paper MCQs, solved)",
+  "https://pakjobmcqs.com/subjects/pakistan-studies (topic chapters: history, constitution, geography, economy, foreign relations, culture)",
+  "Key checks: na.gov.pk / Constitution Art. 51 (NA seats), Wikipedia & Gazette of India 17 Aug 1947 (Radcliffe Award), cabinet.gov.pk 1958 cabinet list (Bhutto as Commerce Minister)"
+ ],
+ "questions": [
+  {
+   "id": 1,
+   "text": "Cotton textile, the largest industry of Pakistan employ industrial labour force of magnitude of ____?",
+   "options": {
+    "A": "80%",
+    "B": "65%",
+    "C": "40%",
+    "D": "None of these"
+   },
+   "answer": "C",
+   "explanation": "Answer: 40%. Source: CSS 2005 Pakistan Affairs past paper (https://cssprep.com.pk/pakistan-affairs-mcqs-2005/).",
+   "section": "Economy, Industry & Infrastructure · CSS 2005"
+  },
+  {
+   "id": 2,
+   "text": "Quaid-e-Azam Solar Park is located near ___________.",
+   "options": {
+    "A": "Multan",
+    "B": "Bahawalpur",
+    "C": "Sukkur",
+    "D": "Rahaim Yar Khan"
+   },
+   "answer": "B",
+   "explanation": "Answer: Bahawalpur. Source: CSS 2016 Pakistan Affairs past paper (https://cssprep.com.pk/pakistan-affairs-mcqs-2016/).",
+   "section": "Economy, Industry & Infrastructure · CSS 2016"
+  },
+  {
+   "id": 3,
+   "text": "Karachi Nuclear Power Plant was inaugurated on _________.",
+   "options": {
+    "A": "28 May, 1971",
+    "B": "28 Nov, 1972",
+    "C": "18 Nov, 1973",
+    "D": "20 Nov, 1972"
+   },
+   "answer": "B",
+   "explanation": "Answer: 28 Nov, 1972. Source: CSS 2019 Pakistan Affairs past paper (https://cssprep.com.pk/pakistan-affairs-mcqs-2019/).",
+   "section": "Economy, Industry & Infrastructure · CSS 2019"
+  },
+  {
+   "id": 4,
+   "text": "Pakistan and Qatar signed a long term liquefied natural gas (LNG) supply agreement on _________.",
+   "options": {
+    "A": "May 20, 2019",
+    "B": "February 10, 2016",
+    "C": "Jan 15, 2019",
+    "D": "May 5, 2017"
+   },
+   "answer": "B",
+   "explanation": "Answer: February 10, 2016. Source: CSS 2020 Pakistan Affairs past paper (https://cssprep.com.pk/pakistan-affairs-mcqs-2020/).",
+   "section": "Economy, Industry & Infrastructure · CSS 2020"
+  },
+  {
+   "id": 5,
+   "text": "Karez is the irrigation system of which province of Pakistan?",
+   "options": {
+    "A": "Sindh",
+    "B": "Balochistan",
+    "C": "Khyber Pakhtunkhwa",
+    "D": "Punjab"
+   },
+   "answer": "B",
+   "explanation": "Karez is an ancient underground irrigation system found in Balochistan, Pakistan. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/agriculture-irrigation-system) — marked as a past-paper MCQ there.",
+   "section": "Economy, Industry & Infrastructure"
+  },
+  {
+   "id": 6,
+   "text": "_ is the most prominent example of Rabi crop.",
+   "options": {
+    "A": "Rice",
+    "B": "Cotton",
+    "C": "Wheat",
+    "D": "Sugarcane"
+   },
+   "answer": "C",
+   "explanation": "Wheat is the most prominent example of a Rabi crop in Pakistan. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/agriculture-irrigation-system).",
+   "section": "Economy, Industry & Infrastructure"
+  },
+  {
+   "id": 7,
+   "text": "The mainstay of Pakistan's economy is:",
+   "options": {
+    "A": "Industry",
+    "B": "Agriculture",
+    "C": "Services",
+    "D": "Trade"
+   },
+   "answer": "B",
+   "explanation": "The mainstay of Pakistan's economy is Agriculture. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/agriculture-irrigation-system).",
+   "section": "Economy, Industry & Infrastructure"
+  },
+  {
+   "id": 8,
+   "text": "Which is the most important staple food of Pakistan?",
+   "options": {
+    "A": "Rice",
+    "B": "Barley",
+    "C": "Maize",
+    "D": "Wheat"
+   },
+   "answer": "D",
+   "explanation": "The most important staple food of Pakistan is Wheat. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/agriculture-irrigation-system).",
+   "section": "Economy, Industry & Infrastructure"
+  },
+  {
+   "id": 9,
+   "text": "China Pakistan Economic Corridor will be fully operational by _?",
+   "options": {
+    "A": "2025",
+    "B": "2040",
+    "C": "2035",
+    "D": "2030"
+   },
+   "answer": "D",
+   "explanation": "China Pakistan Economic Corridor (CPEC) is planned to be fully operational by 2030. Low confidence: refers to the CPEC Long-Term Plan horizon of 2030. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/cpec-infrastructure-projects).",
+   "section": "Economy, Industry & Infrastructure"
+  },
+  {
+   "id": 10,
+   "text": "CPEC is a part of which larger initiative?",
+   "options": {
+    "A": "Belt and Road Initiative (BRI)",
+    "B": "Shanghai Cooperation Organisation (SCO)",
+    "C": "South Asian Association for Regional Cooperation (SAARC)",
+    "D": "Economic Cooperation Organization (ECO)"
+   },
+   "answer": "A",
+   "explanation": "CPEC is a part of the Belt and Road Initiative (BRI). Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/cpec-infrastructure-projects).",
+   "section": "Economy, Industry & Infrastructure"
+  },
+  {
+   "id": 11,
+   "text": "Under the China-Pakistan Economic Corridor (CPEC), China is investing approximately on different projects in Pakistan over a period of the next six years.",
+   "options": {
+    "A": "US $ 46 billion",
+    "B": "US $ 62 billion",
+    "C": "US $ 30 billion",
+    "D": "US $ 54 billion"
+   },
+   "answer": "A",
+   "explanation": "Under CPEC, China committed an investment of approximately US $46 billion in Pakistan over a period of six years. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/cpec-infrastructure-projects).",
+   "section": "Economy, Industry & Infrastructure"
+  },
+  {
+   "id": 12,
+   "text": "In December 2022, Prime Minister Shehbaz Sharif laid foundation of Sukkur-Hyderabad motorway.",
+   "options": {
+    "A": "296 km",
+    "B": "306 km",
+    "C": "316 km",
+    "D": "326 km"
+   },
+   "answer": "B",
+   "explanation": "In December 2022, Prime Minister Shehbaz Sharif laid the foundation of the 306 km Sukkur-Hyderabad motorway. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/cpec-infrastructure-projects).",
+   "section": "Economy, Industry & Infrastructure"
+  },
+  {
+   "id": 13,
+   "text": "Which sector is the largest contributor to Pakistan's GDP?",
+   "options": {
+    "A": "Agriculture",
+    "B": "Services",
+    "C": "Industry",
+    "D": "Manufacturing"
+   },
+   "answer": "B",
+   "explanation": "The Services sector is the largest contributor to Pakistan's GDP, accounting for over 50% of the total. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/economic-surveys-five-year-plans) — marked as a past-paper MCQ there.",
+   "section": "Economy, Industry & Infrastructure"
+  },
+  {
+   "id": 14,
+   "text": "What is the total outlay of the Pakistan Budget 2024-25?",
+   "options": {
+    "A": "Rs 21.000 trillion",
+    "B": "Rs 15.500 trillion",
+    "C": "Rs 18.877 trillion",
+    "D": "Rs 14.480 trillion"
+   },
+   "answer": "C",
+   "explanation": "The total outlay of the Pakistan Budget 2024-25 is Rs 18.877 trillion. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/economic-surveys-five-year-plans) — marked as a past-paper MCQ there.",
+   "section": "Economy, Industry & Infrastructure"
+  },
+  {
+   "id": 15,
+   "text": "How many five-year plans of Pakistan were announced till 2000?",
+   "options": {
+    "A": "Six",
+    "B": "Seven",
+    "C": "Eight",
+    "D": "Nine"
+   },
+   "answer": "C",
+   "explanation": "Pakistan announced a total of eight five-year plans till the year 2000. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/economic-surveys-five-year-plans) — marked as a past-paper MCQ there.",
+   "section": "Economy, Industry & Infrastructure"
+  },
+  {
+   "id": 16,
+   "text": "Pakistan's First Five-Year Plan covered which period?",
+   "options": {
+    "A": "1950-1955",
+    "B": "1955-1960",
+    "C": "1960-1965",
+    "D": "1965-1970"
+   },
+   "answer": "B",
+   "explanation": "Pakistan's first investment plan was the 1955-1960 First Five-Year Plan. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/economic-surveys-five-year-plans) — marked as a past-paper MCQ there.",
+   "section": "Economy, Industry & Infrastructure"
+  },
+  {
+   "id": 17,
+   "text": "Pakistan launched which program to boost economic sector for the period from 2024 to 2029?",
+   "options": {
+    "A": "Green Pakistan",
+    "B": "Roshan Pakistan",
+    "C": "Naya Pakistan",
+    "D": "Uraan Pakistan"
+   },
+   "answer": "D",
+   "explanation": "Pakistan launched the Uraan Pakistan program to boost its economic sector for the period from 2024 to 2029. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/economic-surveys-five-year-plans).",
+   "section": "Economy, Industry & Infrastructure"
+  },
+  {
+   "id": 18,
+   "text": "The Fifth Five-Year Plan of Pakistan was implemented during which years?",
+   "options": {
+    "A": "1973-1978",
+    "B": "1978-1983",
+    "C": "1983-1988",
+    "D": "1988-1993"
+   },
+   "answer": "B",
+   "explanation": "The Fifth Five-Year Plan of Pakistan was implemented during 1978-1983. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/economic-surveys-five-year-plans).",
+   "section": "Economy, Industry & Infrastructure"
+  },
+  {
+   "id": 19,
+   "text": "To speed up economic growth, which plan was started in 1960?",
+   "options": {
+    "A": "1st Five Year Plan",
+    "B": "2nd Five Year Plan",
+    "C": "3rd Five Year Plan",
+    "D": "4th Five Year Plan"
+   },
+   "answer": "B",
+   "explanation": "The 2nd Five Year Plan was launched in 1960 to accelerate Pakistan's economic growth. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/economic-surveys-five-year-plans).",
+   "section": "Economy, Industry & Infrastructure"
+  },
+  {
+   "id": 20,
+   "text": "The Twelfth Five-Year Plan of Pakistan was set for which period?",
+   "options": {
+    "A": "2013-2018",
+    "B": "2018-2023",
+    "C": "2023-2028",
+    "D": "2008-2013"
+   },
+   "answer": "B",
+   "explanation": "The Twelfth Five-Year Plan of Pakistan was set for the period 2018-2023. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/economic-surveys-five-year-plans).",
+   "section": "Economy, Industry & Infrastructure"
+  },
+  {
+   "id": 21,
+   "text": "Saindak project is producing copper, silver, and gold with the help/collaboration of which country?",
+   "options": {
+    "A": "Saudi Arabia",
+    "B": "China",
+    "C": "Russia",
+    "D": "Turkey"
+   },
+   "answer": "B",
+   "explanation": "The Saindak project is producing copper, silver, and gold with the collaboration of China. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/industry-trade) — marked as a past-paper MCQ there.",
+   "section": "Economy, Industry & Infrastructure"
+  },
+  {
+   "id": 22,
+   "text": "The first dry port in Pakistan was built in Lahore in _?",
+   "options": {
+    "A": "1970",
+    "B": "1976",
+    "C": "1973",
+    "D": "1979"
+   },
+   "answer": "C",
+   "explanation": "The first dry port in Pakistan was built in Lahore in 1973. Low confidence: Lahore dry port dates vary (1973 per source). Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/industry-trade).",
+   "section": "Economy, Industry & Infrastructure"
+  },
+  {
+   "id": 23,
+   "text": "Which of these cities is known for its sports goods production?",
+   "options": {
+    "A": "Faisalabad",
+    "B": "Multan",
+    "C": "Gujranwala",
+    "D": "Sialkot"
+   },
+   "answer": "D",
+   "explanation": "Sialkot is the city of Pakistan known worldwide for its sports goods production. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/industry-trade).",
+   "section": "Economy, Industry & Infrastructure"
+  },
+  {
+   "id": 24,
+   "text": "Cottage industry is:",
+   "options": {
+    "A": "Handicraft",
+    "B": "Large-scale manufacturing",
+    "C": "Heavy machinery production",
+    "D": "Automobile assembly"
+   },
+   "answer": "A",
+   "explanation": "Cottage industry refers to Handicraft — small-scale, home-based production of goods using simple tools and manual skills. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/industry-trade).",
+   "section": "Economy, Industry & Infrastructure"
+  },
+  {
+   "id": 25,
+   "text": "What is the largest-import item of Pakistan?",
+   "options": {
+    "A": "Petroleum",
+    "B": "Machinery",
+    "C": "Edible Oil",
+    "D": "Electronics"
+   },
+   "answer": "A",
+   "explanation": "The largest import item of Pakistan is Petroleum, accounting for a significant portion of the country's total import bill. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/industry-trade).",
+   "section": "Economy, Industry & Infrastructure"
+  },
+  {
+   "id": 26,
+   "text": "What is Pakistan's largest stock exchange?",
+   "options": {
+    "A": "Lahore Stock Exchange",
+    "B": "Islamabad Stock Exchange",
+    "C": "Karachi Stock Exchange",
+    "D": "Pakistan Stock Exchange"
+   },
+   "answer": "D",
+   "explanation": "Corrected key: the Karachi, Lahore and Islamabad exchanges merged into the Pakistan Stock Exchange (PSX) in January 2016. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/industry-trade).",
+   "section": "Economy, Industry & Infrastructure"
+  },
+  {
+   "id": 27,
+   "text": "What is the name of Pakistan Space Agency?",
+   "options": {
+    "A": "NESCOM",
+    "B": "PAEC",
+    "C": "SUPARCO",
+    "D": "KARNAF"
+   },
+   "answer": "C",
+   "explanation": "The name of Pakistan's space agency is SUPARCO (Space and Upper Atmosphere Research Commission). Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/regulatory-bodies-national-institutions).",
+   "section": "Economy, Industry & Infrastructure"
+  },
+  {
+   "id": 28,
+   "text": "When was the Pakistan Space and Upper Atmosphere Research Commission (SUPARCO) established?",
+   "options": {
+    "A": "1958",
+    "B": "1961",
+    "C": "1965",
+    "D": "1972"
+   },
+   "answer": "B",
+   "explanation": "SUPARCO was established in 1961 as Pakistan's national space agency. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/regulatory-bodies-national-institutions).",
+   "section": "Economy, Industry & Infrastructure"
+  },
+  {
+   "id": 29,
+   "text": "What is the full name of Pakistan's own satellite PRSS?",
+   "options": {
+    "A": "Pakistan Remote Sensing Satellite",
+    "B": "Pakistan Radar Surveillance System",
+    "C": "Pakistan Relay Space Station",
+    "D": "Pakistan Regional Satellite System"
+   },
+   "answer": "A",
+   "explanation": "The full name of Pakistan's own satellite PRSS is Pakistan Remote Sensing Satellite. Note: PRSS-1 was launched from China in July 2018. Source: pakjobmcqs.com (https://pakjobmcqs.com/subjects/pakistan-studies/chapters/regulatory-bodies-national-institutions).",
+   "section": "Economy, Industry & Infrastructure"
+  }
+ ]
+}
