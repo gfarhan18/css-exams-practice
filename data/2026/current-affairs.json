@@ -1,0 +1,250 @@
+{
+  "id": "current-affairs",
+  "title": "Current Affairs",
+  "subtitle": "General Knowledge-II · CSS 2026",
+  "year": 2026,
+  "rtl": false,
+  "answerKeyNote": "Practice answer key (not an official FPSC key). Review carefully. The source scan for this subject is blurry, so some wording and keys may need your correction.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "What was the central agenda of Emmanuel Macron's 2025 visit to China?",
+      "options": {
+        "A": "Military alliance formation",
+        "B": "Trade rebalancing and economic cooperation",
+        "C": "Cooperation in AI",
+        "D": "None of these"
+      },
+      "answer": "B",
+      "explanation": "Macron's Dec 2025 trip focused on rebalancing EU–China trade."
+    },
+    {
+      "id": 2,
+      "text": "________ is the author of \"Essay on Population (1798)\":",
+      "options": {
+        "A": "Thomas Malthus",
+        "B": "Ester Boserup",
+        "C": "Garrett Hardin",
+        "D": "None of these"
+      },
+      "answer": "A",
+      "explanation": "Thomas Malthus, An Essay on the Principle of Population (1798)."
+    },
+    {
+      "id": 3,
+      "text": "During the Trump-Modi summit, India emphasized which key priority for bilateral ties?",
+      "options": {
+        "A": "Increasing military supply to India",
+        "B": "Cutting trade imbalance",
+        "C": "Uninterrupted fuel and energy supplies to India",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "Best-effort key; energy security was India's stated priority."
+    },
+    {
+      "id": 4,
+      "text": "________ got Nobel Peace Prize, 2025:",
+      "options": {
+        "A": "Nicolás Maduro (Venezuela)",
+        "B": "María Corina Machado (Venezuela)",
+        "C": "Giorgia Meloni (Italy)",
+        "D": "None of these"
+      },
+      "answer": "B",
+      "explanation": "María Corina Machado won the 2025 Nobel Peace Prize."
+    },
+    {
+      "id": 5,
+      "text": "In 2025, conflict between Thailand and Cambodia erupted on the issue of:",
+      "options": {
+        "A": "Human trafficking",
+        "B": "Boundary claims",
+        "C": "Unregulated smuggling",
+        "D": "Ownership of a temple"
+      },
+      "answer": "B",
+      "explanation": "The July 2025 clashes stemmed from disputed border claims (incl. areas around border temples)."
+    },
+    {
+      "id": 6,
+      "text": "On June 22, 2025, US B2 Bombers and Tomahawk missiles hit Fordow nuclear facility as part of:",
+      "options": {
+        "A": "Operation Inherent Resolve",
+        "B": "Operation Resolute Sentinel",
+        "C": "Operation Tempest (partly illegible)",
+        "D": "Operation Midnight Hammer"
+      },
+      "answer": "D",
+      "explanation": "Operation Midnight Hammer struck Fordow, Natanz and Isfahan."
+    },
+    {
+      "id": 7,
+      "text": "________ Framework for Disaster Risk Reduction is in vogue for 2015-2030.",
+      "options": {
+        "A": "Sendai",
+        "B": "Yokohama",
+        "C": "Hyogo",
+        "D": "None of these"
+      },
+      "answer": "A",
+      "explanation": "Sendai Framework 2015–2030 replaced the Hyogo Framework."
+    },
+    {
+      "id": 8,
+      "text": "The central idea of Anatol Lieven's book \"Pakistan: A Hard Country\" is:",
+      "options": {
+        "A": "Pakistan is untenable (partly illegible)",
+        "B": "(illegible option)",
+        "C": "Society is extraordinarily resilient",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "Lieven argues Pakistani society is far more resilient than assumed."
+    },
+    {
+      "id": 9,
+      "text": "The development that meets the needs of the present without compromising the ability of future generations to meet their own needs is called:",
+      "options": {
+        "A": "Sustainable Development",
+        "B": "Green Development",
+        "C": "Positive Development",
+        "D": "None of these"
+      },
+      "answer": "A",
+      "explanation": "Brundtland Report (1987) definition."
+    },
+    {
+      "id": 10,
+      "text": "Doha Forum is an annual global forum held in Doha that gathers world leaders, policymakers, civil-society representatives, business leaders, media etc. Doha Forum and Doha Dialogue are, hence:",
+      "options": {
+        "A": "The same",
+        "B": "Different",
+        "C": "Doha Forum is part of Doha Dialogue",
+        "D": "None of these"
+      },
+      "answer": "B",
+      "explanation": "Best-effort key; they are separate initiatives."
+    },
+    {
+      "id": 11,
+      "text": "________ authored the book \"Revenge of Geography\".",
+      "options": {
+        "A": "Tim Marshall",
+        "B": "Henry Kissinger",
+        "C": "Samuel P. Huntington",
+        "D": "None of these"
+      },
+      "answer": "D",
+      "explanation": "Written by Robert D. Kaplan (not listed)."
+    },
+    {
+      "id": 12,
+      "text": "Which Pakistani economist contributed significantly towards development of Human Security Theory?",
+      "options": {
+        "A": "Dr. Qaiser Bengali",
+        "B": "Dr. Mahbub ul Haq",
+        "C": "Dr. Akhtar Hameed Khan",
+        "D": "None of these"
+      },
+      "answer": "B",
+      "explanation": "Mahbub ul Haq framed human security in the 1994 UNDP HDR."
+    },
+    {
+      "id": 13,
+      "text": "Who authored seminal book \"World Order\"?",
+      "options": {
+        "A": "Fareed Zakaria",
+        "B": "Henry Kissinger",
+        "C": "Andrew Heywood",
+        "D": "None of these"
+      },
+      "answer": "B",
+      "explanation": "Henry Kissinger, World Order (2014)."
+    },
+    {
+      "id": 14,
+      "text": "Carbon Border Adjustment Mechanism is currently operational in the European Union (EU). It applies to:",
+      "options": {
+        "A": "Imports",
+        "B": "Exports",
+        "C": "Transitional regime of EU (partly illegible)",
+        "D": "None of these"
+      },
+      "answer": "A",
+      "explanation": "CBAM puts a carbon price on carbon-intensive imports."
+    },
+    {
+      "id": 15,
+      "text": "An economic model designed to eliminate waste and keep resources in use for as long as possible is known as:",
+      "options": {
+        "A": "Rational consumption",
+        "B": "Mercantilism",
+        "C": "Circular economy",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "Circular economy = reduce, reuse, recycle."
+    },
+    {
+      "id": 16,
+      "text": "________ will co-host the next year's COP-31.",
+      "options": {
+        "A": "Indonesia and Turkey",
+        "B": "Australia and Turkey",
+        "C": "Turkey and Thailand",
+        "D": "None of these"
+      },
+      "answer": "B",
+      "explanation": "COP31 (2026): Türkiye hosts in Antalya; Australia leads negotiations."
+    },
+    {
+      "id": 17,
+      "text": "In a new report, ________ has urged world leaders to halt an \"obsession\" with energy source that fired the climate crisis.",
+      "options": {
+        "A": "Amnesty International",
+        "B": "UN Environment Programme",
+        "C": "IPCC",
+        "D": "None of these"
+      },
+      "answer": "A",
+      "explanation": "Best-effort key: Amnesty's late-2025 report urged ending the 'obsession' with fossil fuels."
+    },
+    {
+      "id": 18,
+      "text": "Advances in ________ are enabling treatments that are tailored specifically to an individual's makeup, significantly improving the effectiveness of therapies for conditions like cancer, cardiovascular disease, and mental health disorders.",
+      "options": {
+        "A": "Telemedicine",
+        "B": "Genomic medicine",
+        "C": "Holistic medicine",
+        "D": "None of these"
+      },
+      "answer": "B",
+      "explanation": "Genomic (precision) medicine tailors therapy to genes."
+    },
+    {
+      "id": 19,
+      "text": "On Inauguration day President Trump withdrew USA from:",
+      "options": {
+        "A": "Paris Agreement",
+        "B": "World Health Organization",
+        "C": "NAFTA",
+        "D": "Both (A) & (B)"
+      },
+      "answer": "D",
+      "explanation": "Executive orders on 20 Jan 2025 exited both the Paris Agreement and WHO."
+    },
+    {
+      "id": 20,
+      "text": "In May 2025, European Union lifted all economic sanctions against:",
+      "options": {
+        "A": "Iraq",
+        "B": "Cuba",
+        "C": "Sudan",
+        "D": "Syria"
+      },
+      "answer": "D",
+      "explanation": "EU lifted economic sanctions on Syria in May 2025."
+    }
+  ]
+}

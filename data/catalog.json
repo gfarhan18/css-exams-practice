@@ -1,0 +1,19 @@
+{
+  "defaultYear": 2026,
+  "years": [2026, 2025, 2024],
+  "subjects": [
+    {"id": "current-affairs", "icon": "🌍"},
+    {"id": "pakistan-affairs", "icon": "🇵🇰"},
+    {"id": "english-vocabulary", "icon": "📖"},
+    {"id": "islamic-studies", "icon": "🕌"},
+    {"id": "criminology", "icon": "⚖️"},
+    {"id": "gender-studies", "icon": "⚧️"},
+    {"id": "punjabi", "icon": "🪶"}
+  ],
+  "gaps": [
+    {"range": "2016–2023", "note": "Paper PDFs on the free source carry Part-II only; the Part-I MCQ sheets were not published."},
+    {"range": "2006–2015", "note": "No papers on the free source."}
+  ],
+  "source": "cssaspirants.pk",
+  "keyNote": "Answer keys are practice keys prepared for revision, not official FPSC keys."
+}

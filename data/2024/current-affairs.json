@@ -1,0 +1,252 @@
+{
+  "id": "current-affairs",
+  "name": "Current Affairs",
+  "title": "Current Affairs",
+  "subtitle": "General Knowledge-II · CSS 2024",
+  "year": 2024,
+  "rtl": false,
+  "answerKeyNote": "Practice answer key (not an official FPSC key). Review carefully.",
+  "source": "https://cssaspirants.pk/wp-content/uploads/2026/07/current-affairs-2024.pdf",
+  "questions": [
+    {
+      "id": 1,
+      "text": "The recent escalation in Palestinian-Israel Conflict occurred on ___________2023.",
+      "options": {
+        "A": "6 October",
+        "B": "7 October",
+        "C": "8 October",
+        "D": "None of these"
+      },
+      "answer": "B",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 2,
+      "text": "The book “The China-Pakistan Axis: Asia’s New Geopolitics” was written by",
+      "options": {
+        "A": "Stephen P. Cohen",
+        "B": "Andrew Linklater",
+        "C": "Andrew Small",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 3,
+      "text": "The 2023 G20 Summit held in India on _______________ September.",
+      "options": {
+        "A": "5-6",
+        "B": "7-8",
+        "C": "9-10",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 4,
+      "text": "An extraordinary meeting of the OIC Foreign Ministers on Palestine conflict held in October, 2023 in",
+      "options": {
+        "A": "Bahrain",
+        "B": "Saudi Arabia",
+        "C": "Qatar",
+        "D": "None of these"
+      },
+      "answer": "B",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 5,
+      "text": "Krakow is a city in",
+      "options": {
+        "A": "Poland",
+        "B": "Ukraine",
+        "C": "Russia",
+        "D": "None of these"
+      },
+      "answer": "A",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 6,
+      "text": "The Headquarters of African Union is situated in",
+      "options": {
+        "A": "Ethiopia",
+        "B": "Niger",
+        "C": "Nigeria",
+        "D": "None of these"
+      },
+      "answer": "A",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 7,
+      "text": "The capital of Costa Rica is",
+      "options": {
+        "A": "San Jose",
+        "B": "Tegucigalpa",
+        "C": "Managua",
+        "D": "None of these"
+      },
+      "answer": "A",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 8,
+      "text": "TASS is the ______________State-owned news agency.",
+      "options": {
+        "A": "French",
+        "B": "Russian",
+        "C": "German",
+        "D": "None of these"
+      },
+      "answer": "B",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 9,
+      "text": "The Boao Forum for Asia was founded in",
+      "options": {
+        "A": "2001",
+        "B": "2002",
+        "C": "2003",
+        "D": "None of these"
+      },
+      "answer": "A",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 10,
+      "text": "Article 25-A of the Pakistan’s Constitution deals with",
+      "options": {
+        "A": "Right to Health",
+        "B": "Right to Vote",
+        "C": "Right to Education",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 11,
+      "text": "World Snooker Championship 2023 held in",
+      "options": {
+        "A": "England",
+        "B": "Scotland",
+        "C": "Ireland",
+        "D": "None of these"
+      },
+      "answer": "A",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 12,
+      "text": "______________ is the Nigerian Currency.",
+      "options": {
+        "A": "Nigerian Dollar",
+        "B": "Nigerian Lira",
+        "C": "Nigerian Naira",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 13,
+      "text": "There are ____________ Special Economic Zones in CPEC.",
+      "options": {
+        "A": "Six",
+        "B": "Seven",
+        "C": "Eight",
+        "D": "None of these"
+      },
+      "answer": "D",
+      "explanation": "CPEC plans 9 SEZs."
+    },
+    {
+      "id": 14,
+      "text": "Nobel Prize Winner for Literature Mr. Louise Gluck belongs to",
+      "options": {
+        "A": "USA",
+        "B": "Canada",
+        "C": "Australia",
+        "D": "None of these"
+      },
+      "answer": "A",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 15,
+      "text": "The book “The United States and the Turmoil in Afghanistan and Pakistan” was written by",
+      "options": {
+        "A": "Ahmed Rashid",
+        "B": "Sarah Chayes",
+        "C": "Andrew Exum",
+        "D": "None of these"
+      },
+      "answer": "A",
+      "explanation": "Exact title not verified; closest match is Ahmed Rashid (Descent into Chaos)."
+    },
+    {
+      "id": 16,
+      "text": "The UN Climate Change Conference was held in November-December 2023 in",
+      "options": {
+        "A": "Copenhagen",
+        "B": "Bonn",
+        "C": "Brussels",
+        "D": "None of these"
+      },
+      "answer": "D",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 17,
+      "text": "There are ________members in the Organization of the Petroleum Exporting Countries:",
+      "options": {
+        "A": "12",
+        "B": "13",
+        "C": "14",
+        "D": "None of these"
+      },
+      "answer": "B",
+      "explanation": "OPEC had 13 members until Angola left on 1 Jan 2024 (then 12)."
+    },
+    {
+      "id": 18,
+      "text": "World Tourism Day is observed every year on",
+      "options": {
+        "A": "25 September",
+        "B": "26 September",
+        "C": "27 September",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 19,
+      "text": "____________ is the current Chancellor of Germany.",
+      "options": {
+        "A": "Angela Merkel",
+        "B": "Olaf Scholz",
+        "C": "Robert Habeck",
+        "D": "None of these"
+      },
+      "answer": "B",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 20,
+      "text": "The 2023 Sustainable Development Goals (SDG) Summit took place on 18-19 September 2023 in",
+      "options": {
+        "A": "New York",
+        "B": "Washington DC",
+        "C": "Chicago",
+        "D": "None of these"
+      },
+      "answer": "A",
+      "explanation": "Practice key."
+    }
+  ]
+}

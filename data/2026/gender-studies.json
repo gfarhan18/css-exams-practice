@@ -1,0 +1,246 @@
+{
+  "id": "gender-studies",
+  "title": "Gender Studies",
+  "subtitle": "Optional Subject · CSS 2026",
+  "year": 2026,
+  "rtl": false,
+  "answerKeyNote": "Practice answer key (not an official FPSC key). Review carefully.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Judith Butler's concept of \"performativity\" argues that gender is not an internal reality but:",
+      "options": {
+        "A": "A biological destiny determined by chromosomal patterns",
+        "B": "A stylized repetition of acts sanctioned by social norms",
+        "C": "A fixed psychological archetype inherited from ancestors",
+        "D": "None of these"
+      },
+      "answer": "B",
+      "explanation": "Gender Trouble (1990)."
+    },
+    {
+      "id": 2,
+      "text": "The term \"Glass Cliff\" refers to:",
+      "options": {
+        "A": "The invisible barrier preventing women from rising to top ranks",
+        "B": "The phenomenon where women are promoted to leadership roles during periods of crisis or downturn, increasing the risk of failure",
+        "C": "The rapid promotion of men in female-dominated professions",
+        "D": "None of these"
+      },
+      "answer": "B",
+      "explanation": "Ryan & Haslam (2005). (A is the glass ceiling; C the glass escalator.)"
+    },
+    {
+      "id": 3,
+      "text": "In the context of Gender and Development (GAD), the \"practical gender needs\" differ from \"strategic gender interests\" in that the former:",
+      "options": {
+        "A": "Challenge the subordinate position of women in society",
+        "B": "Focus exclusively on legislative quotas and political representation",
+        "C": "Address immediate necessities (water, shelter, food) without challenging labor divisions",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "Moser / Molyneux framework."
+    },
+    {
+      "id": 4,
+      "text": "Michel Foucault's \"History of Sexuality\" challenges the \"repressive hypothesis\" by suggesting that:",
+      "options": {
+        "A": "The Victorian era successfully silenced all discourse on sexuality",
+        "B": "Sexuality is a purely biological drive independent of power structures",
+        "C": "Power produces discourse on sexuality rather than just repressing it",
+        "D": "None of these"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 5,
+      "text": "The \"Patriarchal Bargain,\" a concept explaining why women might uphold patriarchal norms to maximize their own security, was elaborated by:",
+      "options": {
+        "A": "Deniz Kandiyoti",
+        "B": "Fatima Mernissi",
+        "C": "Asma Barlas",
+        "D": "None of these"
+      },
+      "answer": "A",
+      "explanation": "Kandiyoti, 'Bargaining with Patriarchy' (1988)."
+    },
+    {
+      "id": 6,
+      "text": "Which wave of feminism is most closely associated with the slogan \"The Personal is Political\"?",
+      "options": {
+        "A": "First Wave",
+        "B": "Second Wave",
+        "C": "Third Wave",
+        "D": "None of these"
+      },
+      "answer": "B",
+      "explanation": "Carol Hanisch, 1969."
+    },
+    {
+      "id": 7,
+      "text": "The notion that men suffer from \"hegemonic masculinity,\" which restricts their emotional expression and forces them into dominance hierarchies, is attributed to:",
+      "options": {
+        "A": "R.W. Connell",
+        "B": "Michael Kimmel",
+        "C": "Andrea Dworkin",
+        "D": "None of these"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 8,
+      "text": "Which UN Conference on Women resulted in the \"Platform for Action,\" a key agenda for women's empowerment?",
+      "options": {
+        "A": "Mexico City (1975)",
+        "B": "Copenhagen (1980)",
+        "C": "Beijing (1995)",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "Beijing Declaration and Platform for Action."
+    },
+    {
+      "id": 9,
+      "text": "The concept of \"Strategic Essentialism\" suggests that:",
+      "options": {
+        "A": "Gender differences are biological and unchangeable",
+        "B": "Minority groups may temporarily act as if their identities are stable to achieve political goals",
+        "C": "Essentialist arguments should never be used in feminist discourse",
+        "D": "None of these"
+      },
+      "answer": "B",
+      "explanation": "Gayatri Chakravorty Spivak."
+    },
+    {
+      "id": 10,
+      "text": "\"Standpoint Theory\" argues that:",
+      "options": {
+        "A": "All knowledge is objective and neutral",
+        "B": "Science should be abandoned as a patriarchal tool",
+        "C": "Knowledge stems from social position, and marginalized groups offer a more complete perspective",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "Harding, Hartsock, Smith."
+    },
+    {
+      "id": 11,
+      "text": "Elisabeth Schüssler Fiorenza coined the term kyriarchy to describe:",
+      "options": {
+        "A": "A patriarchal system",
+        "B": "Interlocking structures of domination such as gender, race and class",
+        "C": "Legal guardianship",
+        "D": "None of these"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 12,
+      "text": "The \"WID\" (Women in Development) approach, which emerged in the 1970s, was primarily criticized for:",
+      "options": {
+        "A": "Being too radical and anti-male",
+        "B": "Ignoring the economic contribution of women completely",
+        "C": "Both (A) & (B)",
+        "D": "None of these"
+      },
+      "answer": "D",
+      "explanation": "WID was criticized for adding women to existing development without challenging gender relations."
+    },
+    {
+      "id": 13,
+      "text": "Which Pakistani legislation criminalized \"Honour Killings\" and closed the loophole of family forgiveness?",
+      "options": {
+        "A": "Criminal Law (Amendment) Act, 2016",
+        "B": "The Women's Protection Act 2006",
+        "C": "Domestic Violence (Prevention and Protection) Act 2013",
+        "D": "None of these"
+      },
+      "answer": "A",
+      "explanation": "Anti-honour killing law, October 2016."
+    },
+    {
+      "id": 14,
+      "text": "The \"Bargaining with Patriarchy\" concept explains how women strategize within constraints. This term was coined by:",
+      "options": {
+        "A": "Naila Kabeer",
+        "B": "Judith Lorber",
+        "C": "Chandra Talpade Mohanty",
+        "D": "None of these"
+      },
+      "answer": "D",
+      "explanation": "Coined by Deniz Kandiyoti (not listed)."
+    },
+    {
+      "id": 15,
+      "text": "Which UN Sustainable Development Goal (SDG) specifically targets \"Gender Equality\"?",
+      "options": {
+        "A": "SDG 3",
+        "B": "SDG 4",
+        "C": "SDG 6",
+        "D": "None of these"
+      },
+      "answer": "D",
+      "explanation": "Gender Equality is SDG 5 (not listed)."
+    },
+    {
+      "id": 16,
+      "text": "The reformist movement in the subcontinent that advocated for women's education and opposed Sati was led by:",
+      "options": {
+        "A": "Anni Besant",
+        "B": "Sir Syed Ahmed Khan",
+        "C": "Qasim Amin",
+        "D": "None of these"
+      },
+      "answer": "D",
+      "explanation": "Raja Ram Mohan Roy (Brahmo Samaj) — not listed."
+    },
+    {
+      "id": 17,
+      "text": "\"Doing Gender,\" a sociological perspective viewing gender as an accomplished interactional display, was proposed by:",
+      "options": {
+        "A": "Davis and Moore",
+        "B": "Parsons and Bales",
+        "C": "West and Zimmerman",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "West & Zimmerman (1987)."
+    },
+    {
+      "id": 18,
+      "text": "The \"Convention on the Elimination of All Forms of Discrimination Against Women\" (CEDAW) is often described as:",
+      "options": {
+        "A": "An international bill of rights for women",
+        "B": "A peace treaty between nations",
+        "C": "A trade agreement",
+        "D": "None of these"
+      },
+      "answer": "A",
+      "explanation": "Adopted 1979."
+    },
+    {
+      "id": 19,
+      "text": "\"Sticky Floor\" refers to:",
+      "options": {
+        "A": "Women stuck in low-wage, low-mobility jobs",
+        "B": "High retention rates of female employees",
+        "C": "Domestic responsibilities",
+        "D": "None of these"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 20,
+      "text": "The concept of \"Matrix of Domination\" was developed by:",
+      "options": {
+        "A": "Daniz Kandiyoti",
+        "B": "Angela Davis",
+        "C": "Bell Hooks",
+        "D": "None of these"
+      },
+      "answer": "D",
+      "explanation": "Patricia Hill Collins (not listed)."
+    }
+  ]
+}

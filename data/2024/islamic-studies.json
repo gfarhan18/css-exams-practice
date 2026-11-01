@@ -1,0 +1,252 @@
+{
+  "id": "islamic-studies",
+  "name": "Islamiyat",
+  "title": "Islamiyat",
+  "subtitle": "Islamic Studies · CSS 2024",
+  "year": 2024,
+  "rtl": false,
+  "answerKeyNote": "Practice answer key (not an official FPSC key). Review carefully.",
+  "source": "https://cssaspirants.pk/wp-content/uploads/2026/07/islamic-studies-2024.pdf",
+  "questions": [
+    {
+      "id": 1,
+      "text": "To which Clan of Quraish Hazrat Umer (RA) belongs?",
+      "options": {
+        "A": "Banu umia",
+        "B": "Banu Taim",
+        "C": "Banu Adi",
+        "D": "Banu Sahm"
+      },
+      "answer": "C",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 2,
+      "text": "Author of the book Al-Hisbah fil Islam is:",
+      "options": {
+        "A": "Ibn e Rushd",
+        "B": "Ibn abdul bar",
+        "C": "Ibn e temia",
+        "D": "Ibn e Qayyam"
+      },
+      "answer": "C",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 3,
+      "text": "How many heads of Zakat are mentioned in Quran?",
+      "options": {
+        "A": "5",
+        "B": "6",
+        "C": "7",
+        "D": "8"
+      },
+      "answer": "D",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 4,
+      "text": "Hadith which is directly narrated by Tabi is called:",
+      "options": {
+        "A": "Marfoo",
+        "B": "Maqtoo",
+        "C": "Muquf",
+        "D": "Mursal"
+      },
+      "answer": "D",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 5,
+      "text": "Do not raise your voice above the voice of the Prophet (ﷺ) . This order is in Surah?",
+      "options": {
+        "A": "Al-Ahzab",
+        "B": "Al-Maidah",
+        "C": "Al-Hujurat",
+        "D": "Al-Najam"
+      },
+      "answer": "C",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 6,
+      "text": "Original name of the host of Holy Prophet (ﷺ) , Abu Ayub Ansari (RA) is: : ) (RA:",
+      "options": {
+        "A": "Zaid bin Sabit",
+        "B": "Khalid bin Zaid",
+        "C": "Qais bin Saad",
+        "D": "Hanzla bin Aamir"
+      },
+      "answer": "B",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 7,
+      "text": "How many jews were killed in the Ghazwa Khayber?",
+      "options": {
+        "A": "91",
+        "B": "93",
+        "C": "96",
+        "D": "98"
+      },
+      "answer": "B",
+      "explanation": "Commonly cited figure 93 (sources vary)."
+    },
+    {
+      "id": 8,
+      "text": "Tarjman Al-Qur'an is the title of Companion:",
+      "options": {
+        "A": "Abdullah bin Abbas",
+        "B": "Muaz bin Jabl",
+        "C": "Abdullah bin Masood",
+        "D": "Usman bin Affan"
+      },
+      "answer": "A",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 9,
+      "text": "Istishab is the term of:",
+      "options": {
+        "A": "Science of Tassawuf",
+        "B": "Science of Hadith",
+        "C": "Science of Tafseer",
+        "D": "Science of Fiqh"
+      },
+      "answer": "D",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 10,
+      "text": "For how many years were the Muslims imprisoned in Sha`b Abi Talib in Makkah?",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5"
+      },
+      "answer": "B",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 11,
+      "text": "Sahifa-e-Hammam bin Manbah is contained in their entirety in which book?",
+      "options": {
+        "A": "Sahih Bukhari",
+        "B": "Sahih Muslim",
+        "C": "Musnad Ahmad",
+        "D": "Sunan Tirmazi"
+      },
+      "answer": "C",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 12,
+      "text": "The name of Hazrat Zaid bin Haritha is mentioned in which Surah?",
+      "options": {
+        "A": "Al-Saf",
+        "B": "Al-Ahzab",
+        "C": "Bani Israel",
+        "D": "Yaseen"
+      },
+      "answer": "B",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 13,
+      "text": "How many Surahs are there on the name of the Prophets:",
+      "options": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6"
+      },
+      "answer": "D",
+      "explanation": "Yunus, Hud, Yusuf, Ibrahim, Nuh, Muhammad = 6."
+    },
+    {
+      "id": 14,
+      "text": "The order of Tayammum is given in which Surah?",
+      "options": {
+        "A": "Surah Al-Nisa",
+        "B": "Surah Al-Maidah",
+        "C": "Surah Al-e-Imran",
+        "D": "None of these"
+      },
+      "answer": "A",
+      "explanation": "Tayammum is in both Al-Nisa (4:43) and Al-Maidah (5:6)."
+    },
+    {
+      "id": 15,
+      "text": "Who was founder of Dar-ul-Hikmah?",
+      "options": {
+        "A": "Jabir bin Hayan",
+        "B": "Mamun-ur-Rasheed",
+        "C": "Abo Jafar Mansoor",
+        "D": "Khalifa umar bin Abdul Aziz"
+      },
+      "answer": "B",
+      "explanation": "Bayt al-Hikmah is usually credited to Harun/Mamun; Mamun is the usual key."
+    },
+    {
+      "id": 16,
+      "text": "Which Caliph was the first to set the prescribed punishment of drinking at eighty lashes?",
+      "options": {
+        "A": "Hazrat Ali",
+        "B": "Hazrat Usman",
+        "C": "Hazrat Umar",
+        "D": "Hazrat Abu Bakr"
+      },
+      "answer": "C",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 17,
+      "text": "Imam Muslim Bin Hijaj Qusheri died in:",
+      "options": {
+        "A": "260 AH",
+        "B": "261 AH",
+        "C": "262 AH",
+        "D": "263 AH"
+      },
+      "answer": "B",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 18,
+      "text": "Which Imam has been more extensive in the use of Masal-e-Mursala?",
+      "options": {
+        "A": "Imam Shafi",
+        "B": "Imam Abu Hanifa",
+        "C": "Imam Malik",
+        "D": "Imam Ahmad bin Hanbl"
+      },
+      "answer": "C",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 19,
+      "text": "\"Mujadid-Alf-Thani\" is the title of:",
+      "options": {
+        "A": "Shah Wali Ullah",
+        "B": "Abdul Haq Muhadith dehlvai",
+        "C": "Sheikh Ahmad Sarhandi",
+        "D": "Sheikh Mohayudin ibn Arabi"
+      },
+      "answer": "C",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 20,
+      "text": "The Quranic term \"Gharmin\" means:",
+      "options": {
+        "A": "An Indebted",
+        "B": "A Friend",
+        "C": "A Slave",
+        "D": "A Neighbour"
+      },
+      "answer": "A",
+      "explanation": "Practice key."
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "id": "islamic-studies",
+  "name": "Islamiyat",
+  "title": "Islamiyat",
+  "subtitle": "Islamic Studies · CSS 2025",
+  "year": 2025,
+  "rtl": false,
+  "answerKeyNote": "Practice answer key (not an official FPSC key). Review carefully.",
+  "source": "https://cssaspirants.pk/wp-content/uploads/2026/07/islamic-studies-2025.pdf",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Which event was called Fateh Mubeen (Clear Victory) in the Holy Qur'an?",
+      "options": {
+        "A": "Conquest of Makkah",
+        "B": "Peace of Hudaybiyah",
+        "C": "Battle of Badr",
+        "D": "None of these"
+      },
+      "answer": "B",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 2,
+      "text": "If the husband is childless, how much does the widow get from the husband's inheritance?",
+      "options": {
+        "A": "1/2",
+        "B": "1/3",
+        "C": "1/4",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 3,
+      "text": "Ghazwa Khandaq is called as",
+      "options": {
+        "A": "Yum Al-Furqan",
+        "B": "Ghazwa Zaat-ul-Salsil",
+        "C": "Ghazwa al-Ahzab",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 4,
+      "text": "Abdullah bin Salam (RA) was _________ before accepting Islam.",
+      "options": {
+        "A": "Polytheist",
+        "B": "Christian",
+        "C": "Magian",
+        "D": "None of these"
+      },
+      "answer": "D",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 5,
+      "text": "Zainab bint Khuzaima (may Allah be pleased with her) belonged to the Messenger of Allah ﷺ as",
+      "options": {
+        "A": "Aunt",
+        "B": "Wife",
+        "C": "Mother-in-law",
+        "D": "None of these"
+      },
+      "answer": "B",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 6,
+      "text": "At what time is the Kusoof prayer performed?",
+      "options": {
+        "A": "Wind",
+        "B": "solar eclipse",
+        "C": "lunar eclipse",
+        "D": "None of these"
+      },
+      "answer": "B",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 7,
+      "text": "Hudaybiyyah peace document was written from Muslims side by",
+      "options": {
+        "A": "Hazrat Abu Bakar Siddiq (R.A)",
+        "B": "Hazrat Zaid bin Thabit (R.A)",
+        "C": "Hazrat Ali bin Abi Talib (R.A)",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 8,
+      "text": "Among the Ummahat ul Momineen (mothers of the believers) is",
+      "options": {
+        "A": "Khaula",
+        "B": "Umme Hani",
+        "C": "Atiya",
+        "D": "None of these"
+      },
+      "answer": "D",
+      "explanation": "Khaula, Umme Hani, Atiya were not wives of the Prophet ﷺ."
+    },
+    {
+      "id": 9,
+      "text": "Hadith Taqreeri mentions",
+      "options": {
+        "A": "The speeches of the Messenger of Allah",
+        "B": "The conversation of the Companions",
+        "C": "The silence of the Messenger of Allah on the work of a companion",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 10,
+      "text": "The basic obligatory action of Hajj is",
+      "options": {
+        "A": "Sa'i",
+        "B": "Rami",
+        "C": "Wuqofe Arafah",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 11,
+      "text": "Dare Arqam was located in",
+      "options": {
+        "A": "Hudaybiyah",
+        "B": "Quba",
+        "C": "Madinah Munawarah",
+        "D": "None of these"
+      },
+      "answer": "D",
+      "explanation": "Dar-e-Arqam was in Makkah."
+    },
+    {
+      "id": 12,
+      "text": "To whom did Haroon Al-Rashid give the responsibility of writing a book on finance?",
+      "options": {
+        "A": "Imam Awza'i",
+        "B": "Imam Abu Yusuf",
+        "C": "Imam Muhammad bin Hasan",
+        "D": "None of these"
+      },
+      "answer": "B",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 13,
+      "text": "The author of Kitab al-Hind is",
+      "options": {
+        "A": "Amir Khusrau",
+        "B": "Abu al-Fazl",
+        "C": "Abu Rayhan al-Biruni",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 14,
+      "text": "Sheikh Ali Hajwiri came to Lahore during whose period?",
+      "options": {
+        "A": "Mahmood Ghaznavi",
+        "B": "Masood Ghaznavi",
+        "C": "Shahabuddin Ghori",
+        "D": "None of these"
+      },
+      "answer": "B",
+      "explanation": "Medium confidence."
+    },
+    {
+      "id": 15,
+      "text": "Who was the first to treat Hindus as people of the book in his time?",
+      "options": {
+        "A": "Hazrat Usman Ghani",
+        "B": "Muhammad bin Qasim",
+        "C": "Muhllab bin Abi Safra",
+        "D": "None of these"
+      },
+      "answer": "B",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 16,
+      "text": "The Messenger of Allah stood in respect for the funeral of a",
+      "options": {
+        "A": "Polytheist",
+        "B": "Jew",
+        "C": "Christian",
+        "D": "None of these"
+      },
+      "answer": "B",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 17,
+      "text": "Shaykh Ahmad Sirhandi's line of Sufism was",
+      "options": {
+        "A": "Qadiriya",
+        "B": "Suhrawardiya",
+        "C": "Chishtiyya",
+        "D": "None of these"
+      },
+      "answer": "D",
+      "explanation": "Naqshbandi order."
+    },
+    {
+      "id": 18,
+      "text": "During whose rule the subcontinent had 25% of the world's total GDP?",
+      "options": {
+        "A": "Akbar Azam",
+        "B": "Shah Jahan",
+        "C": "Aurangzeb Alamgir",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 19,
+      "text": "The aim of the Silk Handkerchief Movement was to achieve freedom of which country?",
+      "options": {
+        "A": "Afghanistan",
+        "B": "Subcontinent",
+        "C": "Turkey",
+        "D": "None of these"
+      },
+      "answer": "B",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 20,
+      "text": "___________ is called the New Testament.",
+      "options": {
+        "A": "Torah",
+        "B": "Psalms",
+        "C": "Suhuf Ibrahim",
+        "D": "None of these"
+      },
+      "answer": "D",
+      "explanation": "Injeel (Gospel)."
+    }
+  ]
+}
