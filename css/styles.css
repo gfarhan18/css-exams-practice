@@ -270,3 +270,48 @@ a.chip{text-decoration:none;flex:none}
 .foot{text-align:center;font-size:12.5px;color:var(--muted);padding:18px 16px 26px;border-top:1px solid var(--line)}
 @media (max-width:560px){.qcard{padding:18px}.opt{font-size:15px;padding:12px}.brand-text small{display:none}}
 @media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+
+/* ---------- practice bank (Objective › Practice) ---------- */
+.practice-title{margin-top:22px}
+.practice-nav{display:flex;flex-direction:column;gap:6px}
+.bank-item{display:flex;align-items:center;gap:12px;text-align:left;width:100%;padding:10px;border-radius:14px;border:1px solid var(--line);background:var(--card);color:var(--ink);box-shadow:var(--shadow);transition:border-color .15s}
+.bank-item:hover,.bank-item:focus-visible{border-color:var(--teal-2);outline:none}
+.bank-item.active{border-color:var(--teal);border-left:5px solid var(--teal);background:linear-gradient(135deg,#fff,var(--teal-soft))}
+.bank-item.active .sub-txt strong{color:var(--teal)}
+.bank-banner{display:flex;align-items:center;gap:14px;margin:22px 0 4px;padding:14px 16px;border-radius:var(--radius);border:1.5px dashed var(--teal-2);background:var(--teal-soft);color:var(--ink);text-decoration:none}
+.bank-banner:hover,.bank-banner:focus-visible{border-style:solid;outline:none}
+.bank-ic{flex:none;font-size:26px}
+.bank-txt{display:flex;flex-direction:column;line-height:1.3;flex:1;min-width:0}
+.bank-txt strong{color:var(--teal)}
+.bank-txt small{color:var(--muted);font-size:12.5px}
+.bank-go{font-size:22px;color:var(--teal);font-weight:700}
+.pill-btn{cursor:pointer;color:var(--teal);font-weight:600;font-family:inherit}
+.pill-btn:hover{border-color:var(--teal)}
+.disclaimer{background:#f8eedb;border:1px solid #ecd9b0;border-radius:14px;padding:12px 16px;font-size:13.5px;line-height:1.5;color:#6b5320;margin:0 0 22px}
+.sec-title{font-family:var(--serif);font-size:22px;margin:26px 0 12px;display:flex;flex-wrap:wrap;align-items:baseline;gap:4px 12px}
+.sec-title small{font-family:var(--font);font-size:13px;font-weight:400;color:var(--muted)}
+.pack-strip{display:flex;flex-wrap:wrap;gap:8px}
+.pack-chip,.set-card,.part-chip{position:relative;border:1px solid var(--line);background:var(--card);color:var(--ink);cursor:pointer;transition:border-color .15s,transform .15s,box-shadow .15s}
+.pack-chip:hover,.set-card:hover,.part-chip:hover,.pack-chip:focus-visible,.set-card:focus-visible,.part-chip:focus-visible{border-color:var(--teal);outline:none;transform:translateY(-2px);box-shadow:var(--shadow)}
+.pack-chip{display:flex;flex-direction:column;align-items:flex-start;padding:8px 14px;border-radius:12px;min-width:84px;text-align:left}
+.pack-chip strong{font-family:var(--serif);font-size:19px;color:var(--teal)}
+.pack-chip small{font-size:11.5px;color:var(--muted)}
+.pack-chip em,.part-chip em{font-style:normal;font-size:11px;font-weight:700}
+.topic-card{cursor:default}
+.topic-card:hover{transform:none}
+.part-chips{display:flex;flex-wrap:wrap;gap:6px;margin-top:12px}
+.part-chip{padding:5px 10px;border-radius:999px;font-size:13px;font-weight:600}
+.set-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(120px,1fr));gap:10px}
+.set-card{display:flex;flex-direction:column;gap:2px;text-align:left;padding:12px 14px;border-radius:14px;box-shadow:var(--shadow)}
+.set-card strong{font-family:var(--serif);font-size:18px;color:var(--teal)}
+.set-card small{font-size:12px;color:var(--muted)}
+.set-best{font-size:12px;font-weight:600;color:var(--muted)}
+.hi{border-color:#a9d8b8;background:#eef8f1}.hi em,.hi .set-best{color:var(--green)}
+.mid{border-color:#ecd9b0;background:#fbf4e6}.mid em,.mid .set-best{color:var(--gold)}
+.lo{border-color:#efc0bb;background:#fcefed}.lo em,.lo .set-best{color:var(--red)}
+@media (max-width:860px){
+  .practice-title{display:none}
+  .practice-nav{margin-top:8px}
+  .bank-item{padding:6px 12px 6px 6px}
+  .bank-item .sub-ic{width:30px;height:30px;font-size:16px}
+}

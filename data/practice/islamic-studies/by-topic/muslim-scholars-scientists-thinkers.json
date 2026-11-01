@@ -1,0 +1,160 @@
+{
+  "id": "islamic-studies-muslim-scholars-scientists-thinkers",
+  "name": "Islamic Studies: Muslim Scholars, Scientists & Thinkers",
+  "title": "Islamic Studies: Muslim Scholars, Scientists & Thinkers",
+  "subtitle": "CSS / FPSC Islamiat practice · Muslim Scholars, Scientists & Thinkers · 11 MCQs",
+  "bank": "practice",
+  "year": null,
+  "rtl": false,
+  "answerKeyNote": "Practice answer key (not an official FPSC key). Keys were cross-checked and corrected where needed; items marked Low confidence are noted in the explanation.",
+  "source": [
+    "https://cssprep.com.pk/css-islamic-studies-past-papers-mcqs/ (year pages /islamic-studies-mcqs-2005/ … /islamic-studies-mcqs-2023/)",
+    "https://pakjobmcqs.com/subjects/islamic-studies (topic chapters)",
+    "https://fpscmcqs.com/wp-content/uploads/2021/04/Islamiat-Past-Papers-MCQs-2005-2016-For-CSSFPSCPPSCNTSPTS.pdf (CSS Times solved 2005–2016, used to cross-check keys)"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "text": "Who was a historian jurist, philosopher, as well as a politician?",
+      "options": {
+        "A": "Shams uddin Ibni Khalkan",
+        "B": "Abdur Rehman Ibni Khaldoon",
+        "C": "Abu Bakar Muhammad Ibni Yahya",
+        "D": "None of these"
+      },
+      "answer": "B",
+      "explanation": "Source: CSS 2008 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Muslim Scholars, Scientists & Thinkers · CSS 2008"
+    },
+    {
+      "id": 2,
+      "text": "First Mujadid was Hazrat Umar bin Abdul Aziz. Who was the second one?",
+      "options": {
+        "A": "Imam al-Shafi'i",
+        "B": "Imam Ghizali",
+        "C": "Ahmad Sirhindi",
+        "D": "Shah Waliullah"
+      },
+      "answer": "A",
+      "explanation": "Low confidence: the \"second Mujaddid\" (2nd Hijri century) is usually given as Imam al-Shafi'i; the CSS Times compilation gave Ahmad Sirhindi, who is \"Mujaddid Alf-e-Sani\" (renewer of the 2nd millennium), a different idea. Source: CSS 2008 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Muslim Scholars, Scientists & Thinkers · CSS 2008"
+    },
+    {
+      "id": 3,
+      "text": "Who is the writer of fatawa Alamgiri?",
+      "options": {
+        "A": "Zafar shah",
+        "B": "Babar",
+        "C": "Shah jahan",
+        "D": "Aurangzaib"
+      },
+      "answer": "D",
+      "explanation": "Source: CSS 2012 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Muslim Scholars, Scientists & Thinkers · CSS 2012"
+    },
+    {
+      "id": 4,
+      "text": "The writer of Treaty of Hudaiybya was _______.",
+      "options": {
+        "A": "Hazrat Umer (RA)",
+        "B": "Hazrat Ali (RA)",
+        "C": "Hazrat Usman (RA)",
+        "D": "Hazrat Abu Bakr (RA)"
+      },
+      "answer": "B",
+      "explanation": "Source: CSS 2017 Islamiat past paper (cssprep.com.pk).",
+      "section": "Muslim Scholars, Scientists & Thinkers · CSS 2017"
+    },
+    {
+      "id": 5,
+      "text": "The book “Islam at the Crossroads” was written by ________.",
+      "options": {
+        "A": "Ibn Haitham",
+        "B": "Abul ala Maduvi",
+        "C": "Allam Shibli Naumani",
+        "D": "Muhammad Asad"
+      },
+      "answer": "D",
+      "explanation": "Source: CSS 2017 Islamiat past paper (cssprep.com.pk).",
+      "section": "Muslim Scholars, Scientists & Thinkers · CSS 2017"
+    },
+    {
+      "id": 6,
+      "text": "Abu-ul-Qasim Al -Zahrawi was a __________.",
+      "options": {
+        "A": "Physician and surgeon",
+        "B": "Mathematician",
+        "C": "Physicist",
+        "D": "Scientist"
+      },
+      "answer": "A",
+      "explanation": "Source: CSS 2017 Islamiat past paper (cssprep.com.pk).",
+      "section": "Muslim Scholars, Scientists & Thinkers · CSS 2017"
+    },
+    {
+      "id": 7,
+      "text": "Who suggested treatment of chicken pox?",
+      "options": {
+        "A": "Ibn Haitham",
+        "B": "Al Razi",
+        "C": "Ibn ali Sina",
+        "D": "Dr Akash"
+      },
+      "answer": "B",
+      "explanation": "Source: CSS 2018 Islamiat past paper (cssprep.com.pk).",
+      "section": "Muslim Scholars, Scientists & Thinkers · CSS 2018"
+    },
+    {
+      "id": 8,
+      "text": "What was the real name of Shah Waliullah?",
+      "options": {
+        "A": "Sheikh Sarhindi",
+        "B": "Qutb-ud-Din",
+        "C": "Mujaddid alf Sani",
+        "D": "Shah Jamal"
+      },
+      "answer": "B",
+      "explanation": "Source: CSS 2018 Islamiat past paper (cssprep.com.pk).",
+      "section": "Muslim Scholars, Scientists & Thinkers · CSS 2018"
+    },
+    {
+      "id": 9,
+      "text": "Who was the author of world’s first Mathematics textbook?",
+      "options": {
+        "A": "Omar Khayyam",
+        "B": "Al-khwarizmi",
+        "C": "Al-Samawal",
+        "D": "Nasir al-Din al-Tusi"
+      },
+      "answer": "B",
+      "explanation": "Source: CSS 2020 Islamiat past paper (cssprep.com.pk).",
+      "section": "Muslim Scholars, Scientists & Thinkers · CSS 2020"
+    },
+    {
+      "id": 10,
+      "text": "Who revolted against Akbar’s \"Deen-e-Ilahi\" for the first time?",
+      "options": {
+        "A": "KHAWAJA BAQI BILLAH",
+        "B": "SHEIKH AHMAD OF SIRHINDI",
+        "C": "HAZRAT SHAH WALIULLAH",
+        "D": "NONE OF THESE"
+      },
+      "answer": "B",
+      "explanation": "Source: CSS 2022 Islamiat past paper (cssprep.com.pk).",
+      "section": "Muslim Scholars, Scientists & Thinkers · CSS 2022"
+    },
+    {
+      "id": 11,
+      "text": "Who gave the concept of Wahdat ul Wujud?",
+      "options": {
+        "A": "SHEIKH AHMAD SIRHINDI",
+        "B": "IBN ARABI",
+        "C": "MOEEN UD DIN CHISHTI",
+        "D": "NONE OF THESE"
+      },
+      "answer": "B",
+      "explanation": "Source: CSS 2023 Islamiat past paper (cssprep.com.pk).",
+      "section": "Muslim Scholars, Scientists & Thinkers · CSS 2023"
+    }
+  ]
+}

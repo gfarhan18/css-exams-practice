@@ -1,0 +1,966 @@
+{
+  "id": "islamic-studies-fiqh-islamic-law",
+  "name": "Islamic Studies: Fiqh & Islamic Law",
+  "title": "Islamic Studies: Fiqh & Islamic Law",
+  "subtitle": "CSS / FPSC Islamiat practice · Fiqh & Islamic Law · 73 MCQs",
+  "bank": "practice",
+  "year": null,
+  "rtl": false,
+  "answerKeyNote": "Practice answer key (not an official FPSC key). Keys were cross-checked and corrected where needed; items marked Low confidence are noted in the explanation.",
+  "source": [
+    "https://cssprep.com.pk/css-islamic-studies-past-papers-mcqs/ (year pages /islamic-studies-mcqs-2005/ … /islamic-studies-mcqs-2023/)",
+    "https://pakjobmcqs.com/subjects/islamic-studies (topic chapters)",
+    "https://fpscmcqs.com/wp-content/uploads/2021/04/Islamiat-Past-Papers-MCQs-2005-2016-For-CSSFPSCPPSCNTSPTS.pdf (CSS Times solved 2005–2016, used to cross-check keys)"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "text": "Amount of zakat cannot be used in _____ .",
+      "options": {
+        "A": "Madrasah",
+        "B": "Mosque",
+        "C": "Hospital",
+        "D": "All of these"
+      },
+      "answer": "B",
+      "explanation": "Fixed: the classic CSS key (also CSS Times 2005 compilation) is \"Mosque\"; Zakat requires tamleek (transfer of ownership to an eligible person), so it cannot fund mosque construction. Original options vary between sources. Low confidence: with strict Hanafi tamleek, none of these buildings can be funded directly from Zakat (cssprep keys \"All of these\"), but the original FPSC paper offered only Madrasah/Mosque/Hospital and the accepted answer is Mosque. Zakat can reach a madrasah through its eligible students and a hospital through poor patients. Source: CSS 2005 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Fiqh & Islamic Law · CSS 2005"
+    },
+    {
+      "id": 2,
+      "text": "A male is coffined/wrapped in __ dressed sheets after death to bury.",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "answer": "C",
+      "explanation": "Source: CSS 2005 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Fiqh & Islamic Law · CSS 2005"
+    },
+    {
+      "id": 3,
+      "text": "A Muslim female is coffined in ________ .",
+      "options": {
+        "A": "Eight Sheets",
+        "B": "Five Sheets",
+        "C": "One Sheet",
+        "D": "Ten Sheets"
+      },
+      "answer": "B",
+      "explanation": "Source: CSS 2006 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Fiqh & Islamic Law · CSS 2006"
+    },
+    {
+      "id": 4,
+      "text": "The Nisab of Zakat on gold is __________.",
+      "options": {
+        "A": "18 Tolas",
+        "B": "24 Tolas",
+        "C": "7 ½ Tolas",
+        "D": "35 Tolas"
+      },
+      "answer": "C",
+      "explanation": "Source: CSS 2006 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Fiqh & Islamic Law · CSS 2006"
+    },
+    {
+      "id": 5,
+      "text": "Imam Shafi took the office of “Religious Judgment” in the age of _____.",
+      "options": {
+        "A": "13 years",
+        "B": "14 years",
+        "C": "20 years",
+        "D": "15 years"
+      },
+      "answer": "D",
+      "explanation": "Low confidence: biographies say Imam Shafi'i was allowed to give fatwa at about 15 years old. Source: CSS 2007 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Fiqh & Islamic Law · CSS 2007"
+    },
+    {
+      "id": 6,
+      "text": "Kitab-ul-Assar is compiled by ______________.",
+      "options": {
+        "A": "Imam Abu Hanifah (RA)",
+        "B": "Imam Shafi (RA)",
+        "C": "Imam Malik (RA)",
+        "D": "Imam Humbal (RA)"
+      },
+      "answer": "A",
+      "explanation": "Source: CSS 2007 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Fiqh & Islamic Law · CSS 2007"
+    },
+    {
+      "id": 7,
+      "text": "Who are the “Sahibain”?",
+      "options": {
+        "A": "Abu Hanifah and Abu Yusuf",
+        "B": "Abu Hanifah and Imam Shaibani",
+        "C": "Abu Yusuf and Imam Shaibani",
+        "D": "Abu Hanifah and Imam Shafi"
+      },
+      "answer": "C",
+      "explanation": "Source: CSS 2008 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Fiqh & Islamic Law · CSS 2008"
+    },
+    {
+      "id": 8,
+      "text": "The Nisab of Zakat on Silver is ________.",
+      "options": {
+        "A": "40 Tolas",
+        "B": "50 Tolas",
+        "C": "50 ½ Tolas",
+        "D": "52 ½ Tolas"
+      },
+      "answer": "D",
+      "explanation": "Source: CSS 2008 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Fiqh & Islamic Law · CSS 2008"
+    },
+    {
+      "id": 9,
+      "text": "“Kitab-al-Umm” is written by _________.",
+      "options": {
+        "A": "Abu Hanifa",
+        "B": "Imam Malik",
+        "C": "Imam Shafi",
+        "D": "Ahmad bin Hambal"
+      },
+      "answer": "C",
+      "explanation": "Source: CSS 2008 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Fiqh & Islamic Law · CSS 2008"
+    },
+    {
+      "id": 10,
+      "text": "The effective Zakat System can ensure the elimination of ____________.",
+      "options": {
+        "A": "Poverty",
+        "B": "Interest",
+        "C": "Class Distinction",
+        "D": "Ignorance"
+      },
+      "answer": "A",
+      "explanation": "Source: CSS 2009 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Fiqh & Islamic Law · CSS 2009"
+    },
+    {
+      "id": 11,
+      "text": "Wealth obtained from a mine is liable to __________.",
+      "options": {
+        "A": "Zakat",
+        "B": "Khumus",
+        "C": "Sulus",
+        "D": "Rubah"
+      },
+      "answer": "B",
+      "explanation": "Source: CSS 2009 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Fiqh & Islamic Law · CSS 2009"
+    },
+    {
+      "id": 12,
+      "text": "The punishment of Had-e-Qazaf (False Accusation) is _________.",
+      "options": {
+        "A": "50 Lashes",
+        "B": "70 Lashes",
+        "C": "80 Lashes",
+        "D": "90 Lashes"
+      },
+      "answer": "C",
+      "explanation": "Source: CSS 2009 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Fiqh & Islamic Law · CSS 2009"
+    },
+    {
+      "id": 13,
+      "text": "LEA’AN is _____________.",
+      "options": {
+        "A": "A clause of Islamic law",
+        "B": "To receive a reward",
+        "C": "A term of trade",
+        "D": "None of these"
+      },
+      "answer": "A",
+      "explanation": "Source: CSS 2010 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Fiqh & Islamic Law · CSS 2010"
+    },
+    {
+      "id": 14,
+      "text": "Fatwa Qazi Khan is an authentic Fatwa of __________.",
+      "options": {
+        "A": "Fiqh Hanbali",
+        "B": "Fiqh Maliki",
+        "C": "Fiqh Shafi",
+        "D": "Fiqh Hanafi"
+      },
+      "answer": "D",
+      "explanation": "Source: CSS 2010 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Fiqh & Islamic Law · CSS 2010"
+    },
+    {
+      "id": 15,
+      "text": "The heads of Zakat are ________.",
+      "options": {
+        "A": "Eight",
+        "B": "Nine",
+        "C": "Seven",
+        "D": "Five"
+      },
+      "answer": "A",
+      "explanation": "Source: CSS 2010 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Fiqh & Islamic Law · CSS 2010"
+    },
+    {
+      "id": 16,
+      "text": "Imam-e-Darul-Hijra was a title of ___________.",
+      "options": {
+        "A": "Imam Ahmad",
+        "B": "Imam Maalik",
+        "C": "Imam Shafai",
+        "D": "Imam Muhammad"
+      },
+      "answer": "B",
+      "explanation": "Source: CSS 2013 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Fiqh & Islamic Law · CSS 2013"
+    },
+    {
+      "id": 17,
+      "text": "On which tribe Zakat is prohibited?",
+      "options": {
+        "A": "Banu Hashim",
+        "B": "Banu Abbasi",
+        "C": "Banu Aad",
+        "D": "None of these"
+      },
+      "answer": "A",
+      "explanation": "Source: CSS 2014 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Fiqh & Islamic Law · CSS 2014"
+    },
+    {
+      "id": 18,
+      "text": "Masaharat means ……….",
+      "options": {
+        "A": "A law of Shariah that forbids specific men from marrying specific women.",
+        "B": "Discussion",
+        "C": "Importance of Marriage",
+        "D": "None of these"
+      },
+      "answer": "A",
+      "explanation": "Source: CSS 2018 Islamiat past paper (cssprep.com.pk).",
+      "section": "Fiqh & Islamic Law · CSS 2018"
+    },
+    {
+      "id": 19,
+      "text": "If a woman has no children, the share in her wealth, her husband is entitled to be ____________.",
+      "options": {
+        "A": "One fourth",
+        "B": "One half",
+        "C": "One sixth",
+        "D": "One eighth"
+      },
+      "answer": "B",
+      "explanation": "Source: CSS 2021 Islamiat past paper (cssprep.com.pk).",
+      "section": "Fiqh & Islamic Law · CSS 2021"
+    },
+    {
+      "id": 20,
+      "text": "How many times Holy Prophet (PBUH) paid zakat in his lifetime?",
+      "options": {
+        "A": "Once",
+        "B": "Thrice",
+        "C": "Twice",
+        "D": "Never"
+      },
+      "answer": "D",
+      "explanation": "Note: the usual answer is \"Never\", because the Prophet (PBUH) did not keep wealth reaching nisab for a full year. Source: CSS 2021 Islamiat past paper (cssprep.com.pk).",
+      "section": "Fiqh & Islamic Law · CSS 2021"
+    },
+    {
+      "id": 21,
+      "text": "Preferring one qiyas over another is called _________.",
+      "options": {
+        "A": "Muhsin",
+        "B": "Istihsan",
+        "C": "Ihtimam",
+        "D": "None of these"
+      },
+      "answer": "B",
+      "explanation": "Source: CSS 2021 Islamiat past paper (cssprep.com.pk).",
+      "section": "Fiqh & Islamic Law · CSS 2021"
+    },
+    {
+      "id": 22,
+      "text": "The real name of Imam Abu Hanifa is?",
+      "options": {
+        "A": "AL-NUMAN IBN SABIT",
+        "B": "AL-NUMAN IBN ZAHID",
+        "C": "AL-NUMAN IBN ABDULLA",
+        "D": "NONE OF THESE"
+      },
+      "answer": "A",
+      "explanation": "Source: CSS 2022 Islamiat past paper (cssprep.com.pk).",
+      "section": "Fiqh & Islamic Law · CSS 2022"
+    },
+    {
+      "id": 23,
+      "text": "The share of a widow in the legacy of her husband, if he died issueless, is?",
+      "options": {
+        "A": "1/4TH",
+        "B": "1/5TH",
+        "C": "1/6TH",
+        "D": "NONE OF THESE"
+      },
+      "answer": "A",
+      "explanation": "Source: CSS 2023 Islamiat past paper (cssprep.com.pk).",
+      "section": "Fiqh & Islamic Law · CSS 2023"
+    },
+    {
+      "id": 24,
+      "text": "What is the primary role of Bait-ul-Mal in the Islamic economic system?",
+      "options": {
+        "A": "To serve as a treasury for social welfare and public assistance",
+        "B": "To regulate trade and commerce in the Islamic state",
+        "C": "To collect and distribute Zakat only",
+        "D": "To manage the personal wealth of the Caliph"
+      },
+      "answer": "A",
+      "explanation": "The primary role of Bait-ul-Mal is to serve as a treasury for social welfare and public assistance in the Islamic economic system. Source: pakjobmcqs.com, economic system.",
+      "section": "Fiqh & Islamic Law"
+    },
+    {
+      "id": 25,
+      "text": "After performing the obligatory prayers, what is the status of seeking lawful (halal) earning in Islam?",
+      "options": {
+        "A": "Wajib (Necessary)",
+        "B": "Mustahab (Commendable)",
+        "C": "Mubah (Permissible)",
+        "D": "Farz (Obligatory)"
+      },
+      "answer": "D",
+      "explanation": "Seeking lawful (halal) earning after performing the obligatory prayers is Farz (Obligatory) in Islam. Source: pakjobmcqs.com, economic system.",
+      "section": "Fiqh & Islamic Law"
+    },
+    {
+      "id": 26,
+      "text": "What are Usher and Khums in the context of Islamic teachings?",
+      "options": {
+        "A": "Two kinds of Tax in Islam",
+        "B": "Two types of Islamic punishments",
+        "C": "Two categories of Salat",
+        "D": "Two famous Islamic scholars"
+      },
+      "answer": "A",
+      "explanation": "Usher and Khums are two kinds of Tax in Islam. Source: pakjobmcqs.com, economic system.",
+      "section": "Fiqh & Islamic Law"
+    },
+    {
+      "id": 27,
+      "text": "Which type of tax is traditionally levied on agricultural lands in Islamic history?",
+      "options": {
+        "A": "Jizya",
+        "B": "Kharaj",
+        "C": "Ushr",
+        "D": "Zakat"
+      },
+      "answer": "B",
+      "explanation": "The tax traditionally levied on agricultural lands in Islamic history is Kharaj. Source: pakjobmcqs.com, economic system.",
+      "section": "Fiqh & Islamic Law"
+    },
+    {
+      "id": 28,
+      "text": "What does the term 'Ghermeen' refer to in Islamic financial terminology?",
+      "options": {
+        "A": "Creditors",
+        "B": "Debtors",
+        "C": "Investors",
+        "D": "Trustees"
+      },
+      "answer": "B",
+      "explanation": "In Islamic financial terminology, 'Ghermeen' refers to debtors — individuals who are in debt and eligible to receive Zakat. Source: pakjobmcqs.com, economic system.",
+      "section": "Fiqh & Islamic Law"
+    },
+    {
+      "id": 29,
+      "text": "Who is the author of the Islamic book 'Kitab al Amwal' which focuses on Islamic revenue and finance?",
+      "options": {
+        "A": "Abu Ubaid al Qasim Ibn Sallam",
+        "B": "Imam Abu Yusuf",
+        "C": "Ibn Qudamah",
+        "D": "Al-Mawardi"
+      },
+      "answer": "A",
+      "explanation": "The book 'Kitab al Amwal' was authored by Abu Ubaid al Qasim Ibn Sallam. Source: pakjobmcqs.com, economic system.",
+      "section": "Fiqh & Islamic Law"
+    },
+    {
+      "id": 30,
+      "text": "In which year did Imam Ghazali pass away according to the Hijri calendar?",
+      "options": {
+        "A": "500 Hijri",
+        "B": "510 Hijri",
+        "C": "505 Hijri",
+        "D": "515 Hijri"
+      },
+      "answer": "C",
+      "explanation": "Imam Ghazali passed away in 505 Hijri according to the Hijri calendar. Source: pakjobmcqs.com, famous jurists (marked as a past-paper MCQ).",
+      "section": "Fiqh & Islamic Law"
+    },
+    {
+      "id": 31,
+      "text": "Who were the notable pupils of Imam Abu Hanifa?",
+      "options": {
+        "A": "Imam Malik and Imam Shafi'i",
+        "B": "Imam Ahmad ibn Hanbal and Imam Bukhari",
+        "C": "Both Imam Yusuf and Imam Muhammad",
+        "D": "Imam Ghazali and Imam Razi"
+      },
+      "answer": "C",
+      "explanation": "The most notable pupils of Imam Abu Hanifa were Imam Abu Yusuf and Imam Muhammad al-Shaybani. Source: pakjobmcqs.com, famous jurists (marked as a past-paper MCQ).",
+      "section": "Fiqh & Islamic Law"
+    },
+    {
+      "id": 32,
+      "text": "Which book was written by Imam Ghazali?",
+      "options": {
+        "A": "Ihya Ulum al-Din",
+        "B": "Kitab al-Umm",
+        "C": "Al-Muwatta",
+        "D": "Tafsir al-Tabari"
+      },
+      "answer": "A",
+      "explanation": "Imam Ghazali wrote Ihya Ulum al-Din (The Revival of Religious Sciences), his magnum opus covering Islamic spirituality, jurisprudence, and ethics. Source: pakjobmcqs.com, famous jurists (marked as a past-paper MCQ).",
+      "section": "Fiqh & Islamic Law"
+    },
+    {
+      "id": 33,
+      "text": "What was the real name of Ibn Taymiyyah?",
+      "options": {
+        "A": "Taqi-ud-din",
+        "B": "Shihab-ud-din",
+        "C": "Jalal-ud-din",
+        "D": "Najm-ud-din"
+      },
+      "answer": "A",
+      "explanation": "The real name of Ibn Taymiyyah was Taqi-ud-din Ahmad ibn Abd al-Halim. Source: pakjobmcqs.com, famous jurists (marked as a past-paper MCQ).",
+      "section": "Fiqh & Islamic Law"
+    },
+    {
+      "id": 34,
+      "text": "In which year did the author of Tahzeeb ul Ahkam, a significant Islamic text, pass away?",
+      "options": {
+        "A": "450 Hijri",
+        "B": "460 Hijri",
+        "C": "470 Hijri",
+        "D": "480 Hijri"
+      },
+      "answer": "B",
+      "explanation": "The author of Tahzeeb ul Ahkam, Sheikh Abu Ja'far Muhammad ibn Hasan al-Tusi (also known as Sheikh al-Ta'ifa), passed away in 460 Hijri. Source: pakjobmcqs.com, famous jurists.",
+      "section": "Fiqh & Islamic Law"
+    },
+    {
+      "id": 35,
+      "text": "At what age did Imam Shafi memorize the Quran?",
+      "options": {
+        "A": "Five",
+        "B": "Ten",
+        "C": "Nine",
+        "D": "Seven"
+      },
+      "answer": "D",
+      "explanation": "Imam Shafi memorized the Holy Quran at the age of seven. Source: pakjobmcqs.com, famous jurists.",
+      "section": "Fiqh & Islamic Law"
+    },
+    {
+      "id": 36,
+      "text": "Which prominent Islamic scholar died in the same year Imam Shafi (RA) was born?",
+      "options": {
+        "A": "Imam Abu Hanifa (RA)",
+        "B": "Imam Malik (RA)",
+        "C": "Imam Ahmad bin Hanbal (RA)",
+        "D": "Imam Sufyan al-Thawri (RA)"
+      },
+      "answer": "A",
+      "explanation": "Imam Abu Hanifa (RA), the founder of the Hanafi school of thought, passed away in 150 AH — the very same year Imam Shafi (RA) was born. Source: pakjobmcqs.com, famous jurists.",
+      "section": "Fiqh & Islamic Law"
+    },
+    {
+      "id": 37,
+      "text": "Writer of Al Kafi Muhammad bin Yaqub Al Kuliyani died in _?",
+      "options": {
+        "A": "329 Hijri",
+        "B": "339 Hijri",
+        "C": "319 Hijri",
+        "D": "349 Hijri"
+      },
+      "answer": "A",
+      "explanation": "Muhammad bin Yaqub Al Kulayni, the compiler of Al-Kafi, died in 329 Hijri (941 CE). Source: pakjobmcqs.com, fiqh jafria (marked as a past-paper MCQ).",
+      "section": "Fiqh & Islamic Law"
+    },
+    {
+      "id": 38,
+      "text": "Who is the author of the famous Islamic book 'Al-Kafi'?",
+      "options": {
+        "A": "Abu Ja'far Muhammad ibn Ya'qub ibn Ishaq",
+        "B": "Imam Bukhari",
+        "C": "Imam Muslim",
+        "D": "Imam Tirmidhi"
+      },
+      "answer": "A",
+      "explanation": "The famous Islamic book 'Al-Kafi' was authored by Abu Ja'far Muhammad ibn Ya'qub ibn Ishaq, also known as Sheikh Al-Kulayni. Source: pakjobmcqs.com, fiqh jafria.",
+      "section": "Fiqh & Islamic Law"
+    },
+    {
+      "id": 39,
+      "text": "What is the name of the author of Tahdhib al-Ahkam fi Sharh al-Din al-Mut'ah?",
+      "options": {
+        "A": "Abu Ja'far Muhammad ibn Hasan al-Tusi",
+        "B": "Abu al-Qasim Ali ibn Husayn al-Musawi",
+        "C": "Muhammad ibn Ya'qub al-Kulayni",
+        "D": "Shaykh al-Saduq Ibn Babawayh"
+      },
+      "answer": "A",
+      "explanation": "The author of Tahdhib al-Ahkam fi Sharh al-Din al-Mut'ah is Abu Ja'far Muhammad ibn Hasan al-Tusi, known as Shaykh al-Ta'ifah. Source: pakjobmcqs.com, fiqh jafria.",
+      "section": "Fiqh & Islamic Law"
+    },
+    {
+      "id": 40,
+      "text": "What does the term 'Qazf' refer to in Islamic law?",
+      "options": {
+        "A": "False accusation of Zina",
+        "B": "Theft of property",
+        "C": "Consumption of alcohol",
+        "D": "Highway robbery"
+      },
+      "answer": "A",
+      "explanation": "In Islamic law, 'Qazf' refers to the false accusation of Zina (adultery/fornication) against a chaste person without producing the required witnesses. Source: pakjobmcqs.com, islamic criminal law hudood.",
+      "section": "Fiqh & Islamic Law"
+    },
+    {
+      "id": 41,
+      "text": "Which tribe did the woman accused of theft during the Prophet Muhammad's (PBUH) era belong to?",
+      "options": {
+        "A": "Banu Qurayza",
+        "B": "Banu Qaynuqa",
+        "C": "Banu Nadir",
+        "D": "Banu Makhzum"
+      },
+      "answer": "D",
+      "explanation": "The woman accused of theft during the Prophet's (PBUH) era belonged to the tribe of Banu Makhzum. Source: pakjobmcqs.com, islamic criminal law hudood.",
+      "section": "Fiqh & Islamic Law"
+    },
+    {
+      "id": 42,
+      "text": "What is the punishment prescribed by Shariah for a married adulterer?",
+      "options": {
+        "A": "Rajm (Stoning to death)",
+        "B": "100 lashes",
+        "C": "80 lashes",
+        "D": "Exile for one year"
+      },
+      "answer": "A",
+      "explanation": "The punishment prescribed by Shariah for a married adulterer (muhsan) is Rajm (Stoning to death). Source: pakjobmcqs.com, islamic criminal law hudood.",
+      "section": "Fiqh & Islamic Law"
+    },
+    {
+      "id": 43,
+      "text": "Who are the rightful recipients of Diyat according to Islamic law?",
+      "options": {
+        "A": "Heirs of victim",
+        "B": "State treasury",
+        "C": "Charitable organizations",
+        "D": "None of these"
+      },
+      "answer": "A",
+      "explanation": "According to Islamic law, the rightful recipients of Diyat (blood money) are the heirs of the victim. Source: pakjobmcqs.com, islamic criminal law hudood.",
+      "section": "Fiqh & Islamic Law"
+    },
+    {
+      "id": 44,
+      "text": "What does the term 'Arsh' refer to in Islamic jurisprudence?",
+      "options": {
+        "A": "Compensation paid to the victim or his heirs",
+        "B": "A type of discretionary punishment",
+        "C": "Fixed punishment for theft",
+        "D": "Retaliation in kind (Qisas)"
+      },
+      "answer": "A",
+      "explanation": "In Islamic jurisprudence, 'Arsh' refers to compensation paid to the victim or his heirs for bodily injury or harm where exact Qisas is not applicable. Source: pakjobmcqs.com, islamic criminal law hudood.",
+      "section": "Fiqh & Islamic Law"
+    },
+    {
+      "id": 45,
+      "text": "Who wrote the book 'Usool-e-Dawat'?",
+      "options": {
+        "A": "Maulana Syed Abul A'la Maududi",
+        "B": "Dr. Israr Ahmed",
+        "C": "Maulana Abul Kalam Azad",
+        "D": "Dr. Abdul Karim Zaidan"
+      },
+      "answer": "D",
+      "explanation": "The book 'Usool-e-Dawat' was written by Dr. Abdul Karim Zaidan. Source: pakjobmcqs.com, miscellaneous islamic law jurisprudence (marked as a past-paper MCQ).",
+      "section": "Fiqh & Islamic Law"
+    },
+    {
+      "id": 46,
+      "text": "Which term in Islamic jurisprudence refers to actions that are neither rewarded nor sinful if not performed?",
+      "options": {
+        "A": "Mubah",
+        "B": "Mustahab",
+        "C": "Makruh",
+        "D": "Haram"
+      },
+      "answer": "A",
+      "explanation": "The term for actions that are neither rewarded nor sinful if performed or omitted is Mubah. Source: pakjobmcqs.com, miscellaneous islamic law jurisprudence.",
+      "section": "Fiqh & Islamic Law"
+    },
+    {
+      "id": 47,
+      "text": "What is the share of a husband in inheritance if there are no entitled descendants (children/grandchildren)?",
+      "options": {
+        "A": "1/2",
+        "B": "1/3",
+        "C": "1/8",
+        "D": "1/4"
+      },
+      "answer": "A",
+      "explanation": "Fixed: Surah An-Nisa 4:12 — the husband gets 1/2 if the wife leaves no children, and 1/4 if she does. Source: pakjobmcqs.com, miscellaneous islamic law jurisprudence.",
+      "section": "Fiqh & Islamic Law"
+    },
+    {
+      "id": 48,
+      "text": "What does the term 'Qalala' refer to in Islamic inheritance law?",
+      "options": {
+        "A": "A person with no surviving parents or children",
+        "B": "A person who leaves behind only female heirs",
+        "C": "A deceased person who had no spouse at the time of death",
+        "D": "A person who dies without leaving any will"
+      },
+      "answer": "A",
+      "explanation": "In Islamic inheritance law, 'Qalala' refers to a person with no surviving parents or children. Source: pakjobmcqs.com, miscellaneous islamic law jurisprudence.",
+      "section": "Fiqh & Islamic Law"
+    },
+    {
+      "id": 49,
+      "text": "What is the term used in Islamic jurisprudence for the wealth or property left by a deceased person?",
+      "options": {
+        "A": "Taraka",
+        "B": "Wasiyat",
+        "C": "Mirath",
+        "D": "Hiba"
+      },
+      "answer": "A",
+      "explanation": "The term used in Islamic jurisprudence for the wealth or property left by a deceased person is Taraka. Source: pakjobmcqs.com, miscellaneous islamic law jurisprudence.",
+      "section": "Fiqh & Islamic Law"
+    },
+    {
+      "id": 50,
+      "text": "What is the minimum number of members required for the Council of Islamic Ideology?",
+      "options": {
+        "A": "6",
+        "B": "8",
+        "C": "10",
+        "D": "12"
+      },
+      "answer": "B",
+      "explanation": "The minimum number of members required for the Council of Islamic Ideology is 8. Source: pakjobmcqs.com, political system.",
+      "section": "Fiqh & Islamic Law"
+    },
+    {
+      "id": 51,
+      "text": "The concept of 'Istihsan' in Islamic jurisprudence is primarily attributed to which Islamic scholar?",
+      "options": {
+        "A": "Imam Abu Hanifa",
+        "B": "Imam Malik",
+        "C": "Imam Shafi'i",
+        "D": "Imam Ahmad ibn Hanbal"
+      },
+      "answer": "A",
+      "explanation": "The concept of 'Istihsan' (juristic preference) in Islamic jurisprudence is primarily attributed to Imam Abu Hanifa. Source: pakjobmcqs.com, schools of thought (marked as a past-paper MCQ).",
+      "section": "Fiqh & Islamic Law"
+    },
+    {
+      "id": 52,
+      "text": "Which of the following is not recognized as one of the four Imams of the Sunni schools of jurisprudence?",
+      "options": {
+        "A": "Imam Abu Hanifa (R.A)",
+        "B": "Imam Malik (R.A)",
+        "C": "Imam Jaffer Sadiq (R.A)",
+        "D": "Imam Ahmad bin Hanbal (R.A)"
+      },
+      "answer": "C",
+      "explanation": "Imam Jaffer Sadiq (R.A) is not among the four Imams of Sunni schools; the four are Imam Abu Hanifa, Imam Malik, Imam Shafi, and Imam Ahmad bin Hanbal (R.A). Source: pakjobmcqs.com, schools of thought.",
+      "section": "Fiqh & Islamic Law"
+    },
+    {
+      "id": 53,
+      "text": "What is the status of a marriage contract in Hanafi jurisprudence if it is concluded without the presence of witnesses?",
+      "options": {
+        "A": "Valid but Makruh",
+        "B": "Invalid",
+        "C": "Valid with conditions",
+        "D": "Suspended (Mauquf)"
+      },
+      "answer": "B",
+      "explanation": "In Hanafi jurisprudence, a marriage contract concluded without the presence of witnesses is invalid. Source: pakjobmcqs.com, schools of thought.",
+      "section": "Fiqh & Islamic Law"
+    },
+    {
+      "id": 54,
+      "text": "What was the original name of the Islamic scholar known as Imam Shafi (RA)?",
+      "options": {
+        "A": "Muhammad bin Muslim",
+        "B": "Muhammad bin Hasan",
+        "C": "Muhammad bin Ismail",
+        "D": "Muhammad bin Idrees"
+      },
+      "answer": "D",
+      "explanation": "The original name of Imam Shafi (RA) was Muhammad bin Idrees. Source: pakjobmcqs.com, schools of thought.",
+      "section": "Fiqh & Islamic Law"
+    },
+    {
+      "id": 55,
+      "text": "What do the terms Hanfi, Maliki, Shafi'i, and Hanbali refer to in Islamic studies?",
+      "options": {
+        "A": "Fiqhi doctrines",
+        "B": "Tafseer methodologies",
+        "C": "Sufi orders",
+        "D": "Hadith compilations"
+      },
+      "answer": "A",
+      "explanation": "Hanfi, Maliki, Shafi'i, and Hanbali refer to the four major Sunni Fiqhi doctrines (schools of Islamic jurisprudence). Source: pakjobmcqs.com, schools of thought.",
+      "section": "Fiqh & Islamic Law"
+    },
+    {
+      "id": 56,
+      "text": "What is the term used in Islamic jurisprudence for an act that is discouraged but not sinful to perform?",
+      "options": {
+        "A": "Makruh-i-Tahrimi",
+        "B": "Makruh-i-Tanzihi",
+        "C": "Mubah",
+        "D": "Mustahab"
+      },
+      "answer": "B",
+      "explanation": "The term for an act that is discouraged but not sinful in Islamic jurisprudence is Makruh-i-Tanzihi. Source: pakjobmcqs.com, schools of thought.",
+      "section": "Fiqh & Islamic Law"
+    },
+    {
+      "id": 57,
+      "text": "Which Islamic school of thought is known for emphasizing rationalism in understanding the divine commands?",
+      "options": {
+        "A": "Ash'arism",
+        "B": "Mutazilism",
+        "C": "Maturidism",
+        "D": "Zahirism"
+      },
+      "answer": "B",
+      "explanation": "Mutazilism is the Islamic school of thought known for emphasizing rationalism in understanding divine commands. Source: pakjobmcqs.com, schools of thought.",
+      "section": "Fiqh & Islamic Law"
+    },
+    {
+      "id": 58,
+      "text": "Who is recognized as the founder of the Hanafi School of Islamic jurisprudence?",
+      "options": {
+        "A": "Imam Malik",
+        "B": "Imam Abu Hanifa",
+        "C": "Imam Shafi'i",
+        "D": "Imam Ahmad ibn Hanbal"
+      },
+      "answer": "B",
+      "explanation": "The Hanafi School of Islamic jurisprudence was founded by Imam Abu Hanifa (Nu'man ibn Thabit). Source: pakjobmcqs.com, schools of thought.",
+      "section": "Fiqh & Islamic Law"
+    },
+    {
+      "id": 59,
+      "text": "According to the Hanafi School of Islamic Law, how many total sharers are recognized in the Law of Inheritance?",
+      "options": {
+        "A": "10",
+        "B": "12",
+        "C": "14",
+        "D": "16"
+      },
+      "answer": "B",
+      "explanation": "According to the Hanafi School of Islamic Law, 12 total sharers are recognized in the Law of Inheritance. Source: pakjobmcqs.com, schools of thought.",
+      "section": "Fiqh & Islamic Law"
+    },
+    {
+      "id": 60,
+      "text": "Is Witr prayer considered obligatory (Fard) in Islam?",
+      "options": {
+        "A": "Yes, it is Fard",
+        "B": "No, it is Wajib",
+        "C": "No, it is Sunnah Mu'akkadah",
+        "D": "No, it is Nafl"
+      },
+      "answer": "B",
+      "explanation": "Witr prayer is not Fard; according to the Hanafi school, it is Wajib (necessary/obligatory). Source: pakjobmcqs.com, schools of thought.",
+      "section": "Fiqh & Islamic Law"
+    },
+    {
+      "id": 61,
+      "text": "In Arabic, what word is used to refer to a neighbor?",
+      "options": {
+        "A": "Jār",
+        "B": "Sadiq",
+        "C": "Dhayf",
+        "D": "Qarib"
+      },
+      "answer": "A",
+      "explanation": "The Arabic word for a neighbor is Jār. Source: pakjobmcqs.com, social system.",
+      "section": "Fiqh & Islamic Law"
+    },
+    {
+      "id": 62,
+      "text": "Which fundamental right emphasizes the sacredness of life in Islam?",
+      "options": {
+        "A": "Right to worship",
+        "B": "Right to property",
+        "C": "Right to live",
+        "D": "Right to equality"
+      },
+      "answer": "C",
+      "explanation": "The Right to live is the fundamental right in Islam that emphasizes the sacredness and sanctity of human life. Source: pakjobmcqs.com, social system.",
+      "section": "Fiqh & Islamic Law"
+    },
+    {
+      "id": 63,
+      "text": "What is the literal meaning of the Islamic term 'Qiyas'?",
+      "options": {
+        "A": "To migrate",
+        "B": "To recite",
+        "C": "To abstain",
+        "D": "To assess"
+      },
+      "answer": "D",
+      "explanation": "The literal meaning of the Islamic term 'Qiyas' is to assess. Source: pakjobmcqs.com, sources of islamic law.",
+      "section": "Fiqh & Islamic Law"
+    },
+    {
+      "id": 64,
+      "text": "What does the term 'Ijma' refer to in Islamic jurisprudence?",
+      "options": {
+        "A": "Analogical reasoning",
+        "B": "Independent reasoning",
+        "C": "Consensus",
+        "D": "Public welfare"
+      },
+      "answer": "C",
+      "explanation": "Ijma refers to the consensus of Muslim jurists on a particular legal issue in Islamic jurisprudence. Source: pakjobmcqs.com, sources of islamic law.",
+      "section": "Fiqh & Islamic Law"
+    },
+    {
+      "id": 65,
+      "text": "What is considered the second primary source of Islamic jurisprudence after the Quran?",
+      "options": {
+        "A": "Hadith (Sunnah)",
+        "B": "Ijma (Consensus)",
+        "C": "Qiyas (Analogical Reasoning)",
+        "D": "Ijtihad (Independent Reasoning)"
+      },
+      "answer": "A",
+      "explanation": "The second primary source of Islamic jurisprudence after the Quran is Hadith (Sunnah). Source: pakjobmcqs.com, sources of islamic law.",
+      "section": "Fiqh & Islamic Law"
+    },
+    {
+      "id": 66,
+      "text": "What is the third source of Islamic law called?",
+      "options": {
+        "A": "Ijma",
+        "B": "Qiyas",
+        "C": "Ijtihad",
+        "D": "Istihsan"
+      },
+      "answer": "A",
+      "explanation": "The third source of Islamic law is Ijma (consensus of the Muslim jurists). Source: pakjobmcqs.com, sources of islamic law.",
+      "section": "Fiqh & Islamic Law"
+    },
+    {
+      "id": 67,
+      "text": "What is the position of Sunnah in the hierarchy of Islamic sources of guidance?",
+      "options": {
+        "A": "First",
+        "B": "Third",
+        "C": "Second",
+        "D": "Fourth"
+      },
+      "answer": "C",
+      "explanation": "Sunnah holds the second position in the hierarchy of Islamic sources of guidance, coming after the Holy Quran. Source: pakjobmcqs.com, sources of islamic law.",
+      "section": "Fiqh & Islamic Law"
+    },
+    {
+      "id": 68,
+      "text": "What portion of a treasure found by Muslims is due as Khums according to Islamic law?",
+      "options": {
+        "A": "One tenth",
+        "B": "One fifth",
+        "C": "One fourth",
+        "D": "One third"
+      },
+      "answer": "B",
+      "explanation": "According to Islamic law, one fifth of a treasure (Rikaz) found by Muslims is due as Khums. Source: pakjobmcqs.com, sources of islamic law.",
+      "section": "Fiqh & Islamic Law"
+    },
+    {
+      "id": 69,
+      "text": "According to Islamic economic principles, what is the term for the mandatory charitable giving of wealth to help the less fortunate?",
+      "options": {
+        "A": "Jizya",
+        "B": "Sadaqah",
+        "C": "Khums",
+        "D": "Zakat"
+      },
+      "answer": "D",
+      "explanation": "The mandatory charitable giving of wealth to help the less fortunate in Islam is called Zakat. Source: pakjobmcqs.com, zakat.",
+      "section": "Fiqh & Islamic Law"
+    },
+    {
+      "id": 70,
+      "text": "To whom is Zakat primarily distributed according to Islamic teachings?",
+      "options": {
+        "A": "The poor and the needy",
+        "B": "Those employed to collect Zakat and those whose hearts are to be reconciled",
+        "C": "Debtors, wayfarers, and for the cause of Allah",
+        "D": "All of these"
+      },
+      "answer": "D",
+      "explanation": "Zakat is primarily distributed to eight categories of recipients as mentioned in Surah Al-Tawbah (9:60), so \"All of these\" is correct. Source: pakjobmcqs.com, zakat.",
+      "section": "Fiqh & Islamic Law"
+    },
+    {
+      "id": 71,
+      "text": "Zakat, one of the Five Pillars of Islam, is considered a type of what kind of worship?",
+      "options": {
+        "A": "Physical",
+        "B": "Financial",
+        "C": "Spiritual",
+        "D": "Verbal"
+      },
+      "answer": "B",
+      "explanation": "Zakat is a financial worship (Ibadah Maliyyah) that involves giving a fixed portion of one's wealth to the deserving. Source: pakjobmcqs.com, zakat.",
+      "section": "Fiqh & Islamic Law"
+    },
+    {
+      "id": 72,
+      "text": "What portion of the harvest's value is given as Zakat on land irrigated through labor-intensive means?",
+      "options": {
+        "A": "One-tenth (1/10)",
+        "B": "One-fifth (1/5)",
+        "C": "One-fortieth (1/40)",
+        "D": "One-twentieth (1/20)"
+      },
+      "answer": "D",
+      "explanation": "The Zakat on land irrigated through labor-intensive means (such as wells, buckets, or manual watering) is one-twentieth (1/20 or 5%) of the harvest. Source: pakjobmcqs.com, zakat.",
+      "section": "Fiqh & Islamic Law"
+    },
+    {
+      "id": 73,
+      "text": "When were the orders of Zakat first given in Islam?",
+      "options": {
+        "A": "1 A.H.",
+        "B": "4 A.H.",
+        "C": "3 A.H.",
+        "D": "2 A.H."
+      },
+      "answer": "D",
+      "explanation": "The orders of Zakat were first given in Islam in 2 A.H. Source: pakjobmcqs.com, zakat.",
+      "section": "Fiqh & Islamic Law"
+    }
+  ]
+}

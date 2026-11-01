@@ -1,0 +1,420 @@
+{
+  "id": "islamic-studies-hadith-sunnah",
+  "name": "Islamic Studies: Hadith & Sunnah",
+  "title": "Islamic Studies: Hadith & Sunnah",
+  "subtitle": "CSS / FPSC Islamiat practice · Hadith & Sunnah · 31 MCQs",
+  "bank": "practice",
+  "year": null,
+  "rtl": false,
+  "answerKeyNote": "Practice answer key (not an official FPSC key). Keys were cross-checked and corrected where needed; items marked Low confidence are noted in the explanation.",
+  "source": [
+    "https://cssprep.com.pk/css-islamic-studies-past-papers-mcqs/ (year pages /islamic-studies-mcqs-2005/ … /islamic-studies-mcqs-2023/)",
+    "https://pakjobmcqs.com/subjects/islamic-studies (topic chapters)",
+    "https://fpscmcqs.com/wp-content/uploads/2021/04/Islamiat-Past-Papers-MCQs-2005-2016-For-CSSFPSCPPSCNTSPTS.pdf (CSS Times solved 2005–2016, used to cross-check keys)"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "text": "What is Sahihain?",
+      "options": {
+        "A": "Mishkat",
+        "B": "Bukhari",
+        "C": "Bukhari and Muslim",
+        "D": "Ibne Majah"
+      },
+      "answer": "C",
+      "explanation": "Source: CSS 2005 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Hadith & Sunnah · CSS 2005"
+    },
+    {
+      "id": 2,
+      "text": "The original name of Imam Bukhari is ______________.",
+      "options": {
+        "A": "Saeed bin Hatem",
+        "B": "Zaid",
+        "C": "Ismail",
+        "D": "Muhammad bin Ismail"
+      },
+      "answer": "D",
+      "explanation": "Source: CSS 2006 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Hadith & Sunnah · CSS 2006"
+    },
+    {
+      "id": 3,
+      "text": "Give the name, who compiled first work of Hadith “Sahifa-e-Sadiqa.”",
+      "options": {
+        "A": "Hazrat Abu Bakar (RA)",
+        "B": "Imam Muslim (RA)",
+        "C": "Hazrat Abdullah bin Amr (RA)",
+        "D": "Hazrat Abu Hurairah (RA)"
+      },
+      "answer": "C",
+      "explanation": "Source: CSS 2007 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Hadith & Sunnah · CSS 2007"
+    },
+    {
+      "id": 4,
+      "text": "Sahifa Hammam bin Munabih was found by __________.",
+      "options": {
+        "A": "Mufti M. Abduhu",
+        "B": "Rasheed Ahmad Raza",
+        "C": "Dr. Hamidullah",
+        "D": "Dr. Zakir Naik"
+      },
+      "answer": "C",
+      "explanation": "Source: CSS 2008 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Hadith & Sunnah · CSS 2008"
+    },
+    {
+      "id": 5,
+      "text": "MAUWAZATAIN means ____________.",
+      "options": {
+        "A": "A collection of Ahadith",
+        "B": "Two specific Surahs of Quran",
+        "C": "A book of Jaffariah fiqh",
+        "D": "A book of hanafi fiqh"
+      },
+      "answer": "B",
+      "explanation": "Source: CSS 2010 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Hadith & Sunnah · CSS 2010"
+    },
+    {
+      "id": 6,
+      "text": "“Arbaeen” is the book of Hadith in which there are ________.",
+      "options": {
+        "A": "40 Ahadith",
+        "B": "50 ahadith",
+        "C": "30 Ahadith",
+        "D": "20 Ahadith"
+      },
+      "answer": "A",
+      "explanation": "Source: CSS 2010 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Hadith & Sunnah · CSS 2010"
+    },
+    {
+      "id": 7,
+      "text": "Name the 1st man who issued regular order to collect and write Ahadith.",
+      "options": {
+        "A": "Hazrat Umer bin khattab (R.A)",
+        "B": "Hazrat Usman bin Affan (R.A)",
+        "C": "Hazrat Ali bin Abu Talib (R.A)",
+        "D": "Hazrat Umer bin Abdul Aziz (R.A)"
+      },
+      "answer": "D",
+      "explanation": "Source: CSS 2011 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Hadith & Sunnah · CSS 2011"
+    },
+    {
+      "id": 8,
+      "text": "What is Jamiah Tirmazi?",
+      "options": {
+        "A": "Collection of Quran",
+        "B": "Collection of Hadith",
+        "C": "Collection of Holy Prophet’s companion stories",
+        "D": "None of these"
+      },
+      "answer": "B",
+      "explanation": "Source: CSS 2014 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Hadith & Sunnah · CSS 2014"
+    },
+    {
+      "id": 9,
+      "text": "Hadith-e-Taqriri means……………..",
+      "options": {
+        "A": "Hadith which Rasulullah (Sallallahu Alaihi Wasallam) quotes from Allah Ta’ala",
+        "B": "Hadith which includes some statements or acts of some of the companions of Rasulullah",
+        "C": "Hadith which describes something about physical, spiritual or states of Rasulullah",
+        "D": "Hadith which is not attributed to Rasulullah (Sallallahu Alaihi Wasallam) directly"
+      },
+      "answer": "B",
+      "explanation": "Source: CSS 2015 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Hadith & Sunnah · CSS 2015"
+    },
+    {
+      "id": 10,
+      "text": "Hadith-e-Mashoor consists of a chain of citings by the ____ number of people.",
+      "options": {
+        "A": "one",
+        "B": "two",
+        "C": "three",
+        "D": "four"
+      },
+      "answer": "C",
+      "explanation": "Source: CSS 2018 Islamiat past paper (cssprep.com.pk).",
+      "section": "Hadith & Sunnah · CSS 2018"
+    },
+    {
+      "id": 11,
+      "text": "Saha-e-Sitta is a term used for _______ authentic books of Hadiths.",
+      "options": {
+        "A": "three",
+        "B": "four",
+        "C": "five",
+        "D": "six"
+      },
+      "answer": "D",
+      "explanation": "Source: CSS 2019 Islamiat past paper (cssprep.com.pk).",
+      "section": "Hadith & Sunnah · CSS 2019"
+    },
+    {
+      "id": 12,
+      "text": "The early Hadith collection \"Al-Sahifa al-Sadiqa\" was written by whom?",
+      "options": {
+        "A": "MUHAMMAD IBN YA’QUB AL-KULAYNI AL-RAZI",
+        "B": "MUHAMMAD IBN BABUYA & AL-TAHDHIB",
+        "C": "ABDULLAH BIN AMAR (R.A)",
+        "D": "NONE OF THESE"
+      },
+      "answer": "C",
+      "explanation": "Source: CSS 2022 Islamiat past paper (cssprep.com.pk).",
+      "section": "Hadith & Sunnah · CSS 2022"
+    },
+    {
+      "id": 13,
+      "text": "Illat is a part of ___________.",
+      "options": {
+        "A": "Qias",
+        "B": "Ijmaa",
+        "C": "Hadith",
+        "D": "Sunnat"
+      },
+      "answer": "A",
+      "explanation": "Source: CSS 2012 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Hadith & Sunnah · CSS 2012"
+    },
+    {
+      "id": 14,
+      "text": "The study of Asma Ul Rijal is related to which of the following Islamic sciences?",
+      "options": {
+        "A": "Tafseer",
+        "B": "Hadith",
+        "C": "Fiqh",
+        "D": "Seerah"
+      },
+      "answer": "B",
+      "explanation": "The study of Asma Ul Rijal is related to the Islamic science of Hadith. Source: pakjobmcqs.com, hadith terminology classification (marked as a past-paper MCQ).",
+      "section": "Hadith & Sunnah"
+    },
+    {
+      "id": 15,
+      "text": "In the science of Hadith, this refers to a hadith whose chain of narration ends at a Tabi'i. What is this hadith called?",
+      "options": {
+        "A": "Hadith Marfu'",
+        "B": "Hadith Mawquf",
+        "C": "Hadith Mursal",
+        "D": "Hadith Maqtu'"
+      },
+      "answer": "D",
+      "explanation": "A hadith whose chain ends at a Tabi'i is called Hadith Maqtu'. Source: pakjobmcqs.com, hadith terminology classification (marked as a past-paper MCQ).",
+      "section": "Hadith & Sunnah"
+    },
+    {
+      "id": 16,
+      "text": "What is the term used for a Hadith that is found in both Sahih Bukhari and Sahih Muslim?",
+      "options": {
+        "A": "Muttafaq Alaih",
+        "B": "Hasan",
+        "C": "Mursal",
+        "D": "Mawquf"
+      },
+      "answer": "A",
+      "explanation": "A Hadith found in both Sahih Bukhari and Sahih Muslim is called Muttafaq Alaih (Agreed Upon). Source: pakjobmcqs.com, hadith terminology classification.",
+      "section": "Hadith & Sunnah"
+    },
+    {
+      "id": 17,
+      "text": "Which method is traditionally used by scholars to verify the authenticity of Hadith?",
+      "options": {
+        "A": "Isnad (chain of narrators) analysis",
+        "B": "Matn (text/content) analysis",
+        "C": "Cross-referencing with Quran and established Sunnah",
+        "D": "All of these"
+      },
+      "answer": "D",
+      "explanation": "Scholars traditionally verify Hadith authenticity through a combination of Isnad analysis, Matn analysis, and cross-referencing with the Quran and established Sunnah. Source: pakjobmcqs.com, hadith terminology classification.",
+      "section": "Hadith & Sunnah"
+    },
+    {
+      "id": 18,
+      "text": "What is the term used for a Hadith where a Sahabi's action was observed by the Prophet (SAW) without any objection?",
+      "options": {
+        "A": "Hadees-e-Qauli",
+        "B": "Hadees-e-Fe'li",
+        "C": "Hadees-e-Taqriri",
+        "D": "Hadees-e-Marfu"
+      },
+      "answer": "C",
+      "explanation": "The term for a Hadith where the Prophet (SAW) observed a Sahabi's action without objecting is Hadees-e-Taqriri. Source: pakjobmcqs.com, hadith terminology classification.",
+      "section": "Hadith & Sunnah"
+    },
+    {
+      "id": 19,
+      "text": "What does Hadith-e-Qudsi refer to?",
+      "options": {
+        "A": "The consensus of the scholars",
+        "B": "The actions of the Prophet (PBUH)",
+        "C": "The sayings of the Companions",
+        "D": "The words of Allah"
+      },
+      "answer": "D",
+      "explanation": "Hadith-e-Qudsi refers to the words of Allah conveyed by the Prophet (PBUH) in his own wording, distinct from the Quran. Source: pakjobmcqs.com, hadith terminology classification.",
+      "section": "Hadith & Sunnah"
+    },
+    {
+      "id": 20,
+      "text": "How many Ahadis were narrated by Hazrat Abu Hurairah (R.A)?",
+      "options": {
+        "A": "6238",
+        "B": "4876",
+        "C": "5374",
+        "D": "3540"
+      },
+      "answer": "C",
+      "explanation": "Hazrat Abu Hurairah (R.A) narrated a total of 5374 Ahadith, making him the most prolific narrator among the companions. Source: pakjobmcqs.com, introduction to hadith (marked as a past-paper MCQ).",
+      "section": "Hadith & Sunnah"
+    },
+    {
+      "id": 21,
+      "text": "According to which Islamic source is it stated that a person who hoards food for forty days is disassociated from Allah?",
+      "options": {
+        "A": "The Holy Quran",
+        "B": "Ijma",
+        "C": "Hadith",
+        "D": "Qiyas"
+      },
+      "answer": "C",
+      "explanation": "The statement that a person who hoards food for forty days is disassociated from Allah is found in Hadith. Source: pakjobmcqs.com, introduction to hadith.",
+      "section": "Hadith & Sunnah"
+    },
+    {
+      "id": 22,
+      "text": "What was the nature of the relationship between Imam Bukhari and Imam Hanbal?",
+      "options": {
+        "A": "Teacher - Student",
+        "B": "Father - Son",
+        "C": "Brothers",
+        "D": "No direct relationship"
+      },
+      "answer": "A",
+      "explanation": "Imam Bukhari was a student of Imam Ahmad bin Hanbal and studied Hadith under him. Source: pakjobmcqs.com, introduction to hadith.",
+      "section": "Hadith & Sunnah"
+    },
+    {
+      "id": 23,
+      "text": "Who is the author of the renowned Islamic book 'Fath al-Bari'?",
+      "options": {
+        "A": "Imam Nawawi",
+        "B": "Imam Ibn Kathir",
+        "C": "Imam Bukhari",
+        "D": "Hafiz Ibn Hajar Asqalani"
+      },
+      "answer": "D",
+      "explanation": "The renowned Islamic book 'Fath al-Bari' was authored by Hafiz Ibn Hajar Asqalani. Source: pakjobmcqs.com, introduction to hadith.",
+      "section": "Hadith & Sunnah"
+    },
+    {
+      "id": 24,
+      "text": "Who is the author of the renowned Hadith collection 'Al Muwatta'?",
+      "options": {
+        "A": "Imam Bukhari",
+        "B": "Imam Muslim",
+        "C": "Imam Malik",
+        "D": "Imam Tirmidhi"
+      },
+      "answer": "C",
+      "explanation": "The renowned Hadith collection 'Al Muwatta' was authored by Imam Malik (R.A). Source: pakjobmcqs.com, sihah sitta (marked as a past-paper MCQ).",
+      "section": "Hadith & Sunnah"
+    },
+    {
+      "id": 25,
+      "text": "Who is the author of Sahih Bukhari?",
+      "options": {
+        "A": "Muhammad bin Ismail Bukhari",
+        "B": "Muslim bin Hajjaj",
+        "C": "Abu Dawood",
+        "D": "Imam Tirmidhi"
+      },
+      "answer": "A",
+      "explanation": "The author of Sahih Bukhari is Muhammad bin Ismail Bukhari. Source: pakjobmcqs.com, sihah sitta (marked as a past-paper MCQ).",
+      "section": "Hadith & Sunnah"
+    },
+    {
+      "id": 26,
+      "text": "Which book is compiled by Ahmad Bin Shoaib?",
+      "options": {
+        "A": "Sunan Al Nisai",
+        "B": "Sunan Abu Dawood",
+        "C": "Jami Al Tirmidhi",
+        "D": "Sunan Ibn Majah"
+      },
+      "answer": "A",
+      "explanation": "Ahmad Bin Shoaib, famously known as Imam Al-Nisai, compiled Sunan Al Nisai, one of the six authentic Hadith collections (Sihah Sitta). Source: pakjobmcqs.com, sihah sitta (marked as a past-paper MCQ).",
+      "section": "Hadith & Sunnah"
+    },
+    {
+      "id": 27,
+      "text": "The year 206 AH is the birth year of which person?",
+      "options": {
+        "A": "Imam al-Bukhari",
+        "B": "Imam Abu Dawud",
+        "C": "Imam Muslim",
+        "D": "Imam al-Tirmidhi"
+      },
+      "answer": "C",
+      "explanation": "Note: Imam Muslim's birth year is given as 204 or 206 AH. The year 206 AH is the birth year of Imam Muslim. Source: pakjobmcqs.com, sihah sitta (marked as a past-paper MCQ).",
+      "section": "Hadith & Sunnah"
+    },
+    {
+      "id": 28,
+      "text": "Who is the compiler of Jami al-Tirmidhi?",
+      "options": {
+        "A": "Imam Muslim",
+        "B": "Imam Bukhari",
+        "C": "Muhammad bin Isa al-Tirmidhi",
+        "D": "Imam Abu Dawud"
+      },
+      "answer": "C",
+      "explanation": "The compiler of Jami al-Tirmidhi is Muhammad bin Isa al-Tirmidhi. Source: pakjobmcqs.com, sihah sitta.",
+      "section": "Hadith & Sunnah"
+    },
+    {
+      "id": 29,
+      "text": "Which of the following pairs of Islamic books is not included in the Sahahe Sitta?",
+      "options": {
+        "A": "Sahih Bukhari, Sahih Muslim",
+        "B": "Sunan Abu Dawood, Sunan Ibn Majah",
+        "C": "Sahih Bukhari, Shamail Tirmizi",
+        "D": "Jami Tirmizi, Sunan Nisai"
+      },
+      "answer": "C",
+      "explanation": "Sahih Bukhari, Shamail Tirmizi is the pair not included in Sahahe Sitta because Shamail Tirmizi is a separate work by Imam Tirmizi and not part of the six canonical hadith collections. Source: pakjobmcqs.com, sihah sitta.",
+      "section": "Hadith & Sunnah"
+    },
+    {
+      "id": 30,
+      "text": "Who is the collector of Sahih Muslim among the Sihah Sitta?",
+      "options": {
+        "A": "Muslim bin al-Hajjaj",
+        "B": "Muhammad bin Ismail al-Bukhari",
+        "C": "Abu Dawood Sulayman",
+        "D": "Malik bin Anas"
+      },
+      "answer": "A",
+      "explanation": "The collector of Sahih Muslim among the Sihah Sitta is Muslim bin al-Hajjaj. Source: pakjobmcqs.com, sihah sitta.",
+      "section": "Hadith & Sunnah"
+    },
+    {
+      "id": 31,
+      "text": "Which is the first authentic book among the Sahih Sittah in Islamic tradition?",
+      "options": {
+        "A": "Sahih Muslim",
+        "B": "Sahih Bukhari",
+        "C": "Sunan Abu Dawood",
+        "D": "Jami Tirmidhi"
+      },
+      "answer": "B",
+      "explanation": "The first authentic book among the Sahih Sittah is Sahih Bukhari, compiled by Imam Muhammad ibn Ismail al-Bukhari (194–256 AH). Source: pakjobmcqs.com, sihah sitta.",
+      "section": "Hadith & Sunnah"
+    }
+  ]
+}

@@ -1,0 +1,498 @@
+{
+  "id": "islamic-studies-comparative-religion",
+  "name": "Islamic Studies: Comparative Religion",
+  "title": "Islamic Studies: Comparative Religion",
+  "subtitle": "CSS / FPSC Islamiat practice · Comparative Religion · 37 MCQs",
+  "bank": "practice",
+  "year": null,
+  "rtl": false,
+  "answerKeyNote": "Practice answer key (not an official FPSC key). Keys were cross-checked and corrected where needed; items marked Low confidence are noted in the explanation.",
+  "source": [
+    "https://cssprep.com.pk/css-islamic-studies-past-papers-mcqs/ (year pages /islamic-studies-mcqs-2005/ … /islamic-studies-mcqs-2023/)",
+    "https://pakjobmcqs.com/subjects/islamic-studies (topic chapters)",
+    "https://fpscmcqs.com/wp-content/uploads/2021/04/Islamiat-Past-Papers-MCQs-2005-2016-For-CSSFPSCPPSCNTSPTS.pdf (CSS Times solved 2005–2016, used to cross-check keys)"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "text": "Ashabus sabt means ___________.",
+      "options": {
+        "A": "Jews",
+        "B": "Christians",
+        "C": "Muslims",
+        "D": "Sabieen"
+      },
+      "answer": "A",
+      "explanation": "Source: CSS 2010 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Comparative Religion · CSS 2010"
+    },
+    {
+      "id": 2,
+      "text": "Mention the religious book(s) of Buddism.",
+      "options": {
+        "A": "Weena pataka",
+        "B": "Sata pataka",
+        "C": "Abhi dhaman pataka",
+        "D": "Tripitaka"
+      },
+      "answer": "D",
+      "explanation": "Source: CSS 2011 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Comparative Religion · CSS 2011"
+    },
+    {
+      "id": 3,
+      "text": "What was the religion of the majority of the Arabs before Islam?",
+      "options": {
+        "A": "Buddhism",
+        "B": "Jewish",
+        "C": "Idolatrous",
+        "D": "Christianity"
+      },
+      "answer": "C",
+      "explanation": "Source: CSS 2011 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Comparative Religion · CSS 2011"
+    },
+    {
+      "id": 4,
+      "text": "Name of the son of Hazarat Yaqoob (A.S) whose off-springs are the Jews.",
+      "options": {
+        "A": "Tibrani",
+        "B": "Yahooda",
+        "C": "Ishaq (a.s)",
+        "D": "Yousaf (a.s)"
+      },
+      "answer": "B",
+      "explanation": "Source: CSS 2011 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Comparative Religion · CSS 2011"
+    },
+    {
+      "id": 5,
+      "text": "Which book is called old testament?",
+      "options": {
+        "A": "Zuboor",
+        "B": "Torait",
+        "C": "Injeel",
+        "D": "Quran"
+      },
+      "answer": "B",
+      "explanation": "Source: CSS 2011 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Comparative Religion · CSS 2011"
+    },
+    {
+      "id": 6,
+      "text": "For ______________, Saturday is important.",
+      "options": {
+        "A": "Jews",
+        "B": "Muslims",
+        "C": "Christ",
+        "D": "Zartisht"
+      },
+      "answer": "A",
+      "explanation": "Source: CSS 2012 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Comparative Religion · CSS 2012"
+    },
+    {
+      "id": 7,
+      "text": "Which is a religious book of Hinduism?",
+      "options": {
+        "A": "Injeel",
+        "B": "Taurait",
+        "C": "Ramain",
+        "D": "Bible"
+      },
+      "answer": "C",
+      "explanation": "Source: CSS 2012 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Comparative Religion · CSS 2012"
+    },
+    {
+      "id": 8,
+      "text": "Osta is the religious book of __________.",
+      "options": {
+        "A": "Zartishtianism",
+        "B": "Christanity",
+        "C": "Buddhism",
+        "D": "Hinduism"
+      },
+      "answer": "A",
+      "explanation": "Source: CSS 2012 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Comparative Religion · CSS 2012"
+    },
+    {
+      "id": 9,
+      "text": "________________, Jewish tribe was expelled from Medina after Badr.",
+      "options": {
+        "A": "Banu Qurayza",
+        "B": "Banu Nadr",
+        "C": "The Banu Qaynuqa",
+        "D": "Banu Shutayba"
+      },
+      "answer": "C",
+      "explanation": "Source: CSS 2016 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Comparative Religion · CSS 2016"
+    },
+    {
+      "id": 10,
+      "text": "Sasanian family ruled the _________.",
+      "options": {
+        "A": "Cyprus",
+        "B": "Iran",
+        "C": "Tajikistan",
+        "D": "Azerbaijan"
+      },
+      "answer": "B",
+      "explanation": "Source: CSS 2016 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Comparative Religion · CSS 2016"
+    },
+    {
+      "id": 11,
+      "text": "In Battle of Khyber, Jew warrior Marhab was killed by _________.",
+      "options": {
+        "A": "Hazrat Ali",
+        "B": "Hazrat Abdullah Ansaari",
+        "C": "Hazrat Muhammed ibn Maslamah",
+        "D": "Hazrat Ja’far ibn Abu Talib"
+      },
+      "answer": "A",
+      "explanation": "Source: CSS 2016 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Comparative Religion · CSS 2016"
+    },
+    {
+      "id": 12,
+      "text": "One who verbally claims to be a Muslim, but in his heart he isn’t that is known as ___________.",
+      "options": {
+        "A": "Christians",
+        "B": "Jews",
+        "C": "Mushriq",
+        "D": "Munafiq"
+      },
+      "answer": "D",
+      "explanation": "Source: CSS 2019 Islamiat past paper (cssprep.com.pk).",
+      "section": "Comparative Religion · CSS 2019"
+    },
+    {
+      "id": 13,
+      "text": "The Christian pilgrims who were allowed by the Prophet (PBUH) to stay in the Masjid-e-Nabwi, were coming from ________.",
+      "options": {
+        "A": "Najran",
+        "B": "Riyadh",
+        "C": "Taef",
+        "D": "None of these"
+      },
+      "answer": "A",
+      "explanation": "Source: CSS 2021 Islamiat past paper (cssprep.com.pk).",
+      "section": "Comparative Religion · CSS 2021"
+    },
+    {
+      "id": 14,
+      "text": "In which year was the founder of Buddhism born?",
+      "options": {
+        "A": "528 BCE",
+        "B": "483 BCE",
+        "C": "563 BCE",
+        "D": "600 BCE"
+      },
+      "answer": "C",
+      "explanation": "The founder of Buddhism, Gautama Buddha (Siddhartha Gautama), was born in 563 BCE in Lumbini (present-day Nepal). Source: pakjobmcqs.com, buddhism (marked as a past-paper MCQ).",
+      "section": "Comparative Religion"
+    },
+    {
+      "id": 15,
+      "text": "Who is credited with founding Buddhism?",
+      "options": {
+        "A": "Lao Tzu",
+        "B": "Mahavira",
+        "C": "Confucius",
+        "D": "Gautama Buddha"
+      },
+      "answer": "D",
+      "explanation": "Buddhism was founded by Gautama Buddha (Siddhartha Gautama), who lived in the 6th–5th century BCE in present-day Nepal/India. Source: pakjobmcqs.com, buddhism (marked as a past-paper MCQ).",
+      "section": "Comparative Religion"
+    },
+    {
+      "id": 16,
+      "text": "What significant events are commemorated by Buddhists on Vesak Day?",
+      "options": {
+        "A": "Birth of Buddha",
+        "B": "Enlightenment of Buddha",
+        "C": "Death (Parinirvana) of Buddha",
+        "D": "All of these"
+      },
+      "answer": "D",
+      "explanation": "Vesak Day commemorates all three major events: the birth, enlightenment, and death (Parinirvana) of Gautama Buddha. Source: pakjobmcqs.com, buddhism.",
+      "section": "Comparative Religion"
+    },
+    {
+      "id": 17,
+      "text": "The Tripitaka is the sacred scripture of which religion?",
+      "options": {
+        "A": "Jainism",
+        "B": "Sikhism",
+        "C": "Hinduism",
+        "D": "Buddhism"
+      },
+      "answer": "D",
+      "explanation": "The Tripitaka (meaning \"Three Baskets\") is the sacred scripture of Buddhism. Source: pakjobmcqs.com, buddhism.",
+      "section": "Comparative Religion"
+    },
+    {
+      "id": 18,
+      "text": "Which Holy Book is referred to as the New Testament in Islamic tradition?",
+      "options": {
+        "A": "The Zabur",
+        "B": "The Tawrat",
+        "C": "The Injeel",
+        "D": "The Quran"
+      },
+      "answer": "C",
+      "explanation": "The Holy Book referred to as the New Testament in Islamic tradition is The Injeel. Source: pakjobmcqs.com, christianity (marked as a past-paper MCQ).",
+      "section": "Comparative Religion"
+    },
+    {
+      "id": 19,
+      "text": "Which day is traditionally observed as the primary day of worship in Christianity?",
+      "options": {
+        "A": "Saturday",
+        "B": "Sunday",
+        "C": "Friday",
+        "D": "Monday"
+      },
+      "answer": "B",
+      "explanation": "The primary day of worship in Christianity is Sunday, commemorating the resurrection of Jesus Christ. Source: pakjobmcqs.com, christianity.",
+      "section": "Comparative Religion"
+    },
+    {
+      "id": 20,
+      "text": "Where was the first church in Christianity established?",
+      "options": {
+        "A": "Antioch",
+        "B": "Rome",
+        "C": "Jerusalem",
+        "D": "Alexandria"
+      },
+      "answer": "C",
+      "explanation": "The first church in Christianity was established in Jerusalem, where the early followers of Jesus (A.S) gathered after his ascension. Source: pakjobmcqs.com, christianity.",
+      "section": "Comparative Religion"
+    },
+    {
+      "id": 21,
+      "text": "Who believes in the trinity?",
+      "options": {
+        "A": "Jews",
+        "B": "Christians",
+        "C": "Muslims",
+        "D": "Hindus"
+      },
+      "answer": "B",
+      "explanation": "The doctrine of Trinity is a fundamental belief of Christians, who believe in God as Father, Son, and Holy Spirit. Source: pakjobmcqs.com, christianity.",
+      "section": "Comparative Religion"
+    },
+    {
+      "id": 22,
+      "text": "Who believes that there is no God?",
+      "options": {
+        "A": "Agnostics",
+        "B": "Polytheists",
+        "C": "Atheists",
+        "D": "Deists"
+      },
+      "answer": "C",
+      "explanation": "Atheists are those who believe that there is no God. Source: pakjobmcqs.com, comparative study (marked as a past-paper MCQ).",
+      "section": "Comparative Religion"
+    },
+    {
+      "id": 23,
+      "text": "Zoroaster was a _?",
+      "options": {
+        "A": "Roman Emperor",
+        "B": "Greek Philosopher",
+        "C": "Persian King",
+        "D": "Religion Founder"
+      },
+      "answer": "D",
+      "explanation": "Zoroaster (Zarathustra) was the founder of Zoroastrianism, the ancient pre-Islamic religion of Persia. Source: pakjobmcqs.com, comparative study.",
+      "section": "Comparative Religion"
+    },
+    {
+      "id": 24,
+      "text": "Which is the second largest Religion in the World?",
+      "options": {
+        "A": "Christianity",
+        "B": "Hinduism",
+        "C": "Islam",
+        "D": "Buddhism"
+      },
+      "answer": "C",
+      "explanation": "Islam is the second largest religion in the world after Christianity, with over 1.9 billion followers. Source: pakjobmcqs.com, comparative study.",
+      "section": "Comparative Religion"
+    },
+    {
+      "id": 25,
+      "text": "Zoroastrian is a worship of:",
+      "options": {
+        "A": "Fire",
+        "B": "Water",
+        "C": "Sun",
+        "D": "Idols"
+      },
+      "answer": "A",
+      "explanation": "Zoroastrianism is a worship of Fire. Source: pakjobmcqs.com, comparative study.",
+      "section": "Comparative Religion"
+    },
+    {
+      "id": 26,
+      "text": "How many gods are there in Zoroastrianism?",
+      "options": {
+        "A": "One",
+        "B": "Two",
+        "C": "Three",
+        "D": "None of these"
+      },
+      "answer": "A",
+      "explanation": "Note: Zoroastrianism worships one supreme god, Ahura Mazda, although it also has a dualist element. Zoroastrianism is a monotheistic religion that believes in one God, known as Ahura Mazda. Source: pakjobmcqs.com, comparative study.",
+      "section": "Comparative Religion"
+    },
+    {
+      "id": 27,
+      "text": "Jerusalem is a sacred place for",
+      "options": {
+        "A": "Muslims",
+        "B": "Christians",
+        "C": "Jews",
+        "D": "All of these"
+      },
+      "answer": "D",
+      "explanation": "Jerusalem is a sacred place for all of these — Muslims, Christians, and Jews alike. Source: pakjobmcqs.com, comparative study.",
+      "section": "Comparative Religion"
+    },
+    {
+      "id": 28,
+      "text": "How many gods do Sikhs believe in?",
+      "options": {
+        "A": "One",
+        "B": "Two",
+        "C": "Three",
+        "D": "None of these"
+      },
+      "answer": "A",
+      "explanation": "Sikhs believe in One God, a monotheistic concept known as \"Ik Onkar.\" Source: pakjobmcqs.com, comparative study (marked as a past-paper MCQ).",
+      "section": "Comparative Religion"
+    },
+    {
+      "id": 29,
+      "text": "The Bhagavad Gita is a sacred text of which religion?",
+      "options": {
+        "A": "Buddhism",
+        "B": "Jainism",
+        "C": "Hinduism",
+        "D": "Sikhism"
+      },
+      "answer": "C",
+      "explanation": "The Bhagavad Gita is the sacred scripture of Hinduism. Source: pakjobmcqs.com, hinduism (marked as a past-paper MCQ).",
+      "section": "Comparative Religion"
+    },
+    {
+      "id": 30,
+      "text": "What is the name of the religious scriptures of the Aryans?",
+      "options": {
+        "A": "Tripitaka",
+        "B": "Torah",
+        "C": "Zend Avesta",
+        "D": "Vedas"
+      },
+      "answer": "D",
+      "explanation": "The religious scriptures of the Aryans are called the Vedas. Source: pakjobmcqs.com, hinduism.",
+      "section": "Comparative Religion"
+    },
+    {
+      "id": 31,
+      "text": "What is the religion of the nation associated with Hazrat Musa (A.S.)?",
+      "options": {
+        "A": "Christianity",
+        "B": "Judaism",
+        "C": "Islam",
+        "D": "Sabianism"
+      },
+      "answer": "B",
+      "explanation": "The religion of the nation associated with Hazrat Musa (A.S.) is Judaism. Source: pakjobmcqs.com, judaism.",
+      "section": "Comparative Religion"
+    },
+    {
+      "id": 32,
+      "text": "What is the meaning of the term 'Torah' in Islamic studies?",
+      "options": {
+        "A": "Psalms",
+        "B": "Gospel",
+        "C": "Law",
+        "D": "Scrolls"
+      },
+      "answer": "C",
+      "explanation": "The term 'Torah' (Tawrat) in Islamic studies means Law, referring to the divine scripture revealed to Prophet Musa (Moses). Source: pakjobmcqs.com, judaism.",
+      "section": "Comparative Religion"
+    },
+    {
+      "id": 33,
+      "text": "To which religion does the Torah (Taurat) belong as its holy book?",
+      "options": {
+        "A": "Christianity",
+        "B": "Judaism",
+        "C": "Islam",
+        "D": "Hinduism"
+      },
+      "answer": "B",
+      "explanation": "The Torah (Taurat) is the holy book of Judaism. Source: pakjobmcqs.com, judaism.",
+      "section": "Comparative Religion"
+    },
+    {
+      "id": 34,
+      "text": "What is the religious name of the Jewish temple?",
+      "options": {
+        "A": "Synagogue",
+        "B": "Church",
+        "C": "Monastery",
+        "D": "Pagoda"
+      },
+      "answer": "A",
+      "explanation": "The Jewish place of worship is called a Synagogue. Source: pakjobmcqs.com, judaism.",
+      "section": "Comparative Religion"
+    },
+    {
+      "id": 35,
+      "text": "Which two religious groups consider the Dome of the Rock to be sacred?",
+      "options": {
+        "A": "Jews and Christians",
+        "B": "Muslims and Christians",
+        "C": "Muslims and Jews",
+        "D": "Muslims and Hindus"
+      },
+      "answer": "C",
+      "explanation": "The Dome of the Rock is considered sacred by both Muslims and Jews. Source: pakjobmcqs.com, judaism.",
+      "section": "Comparative Religion"
+    },
+    {
+      "id": 36,
+      "text": "Talmood is a book of which religion?",
+      "options": {
+        "A": "Christianity",
+        "B": "Buddhism",
+        "C": "Hinduism",
+        "D": "Judaism"
+      },
+      "answer": "D",
+      "explanation": "Talmood (Talmud) is the central religious text of Judaism. Source: pakjobmcqs.com, judaism.",
+      "section": "Comparative Religion"
+    },
+    {
+      "id": 37,
+      "text": "Deen e Hanif is the old name of?",
+      "options": {
+        "A": "Islam",
+        "B": "Christianity",
+        "C": "Judaism",
+        "D": "None of these"
+      },
+      "answer": "A",
+      "explanation": "Deen-e-Hanif is the old name of Islam, referring to the pure monotheistic faith of Prophet Ibrahim (A.S). Source: pakjobmcqs.com, miscellaneous.",
+      "section": "Comparative Religion"
+    }
+  ]
+}

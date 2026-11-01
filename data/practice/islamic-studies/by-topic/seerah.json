@@ -1,0 +1,2903 @@
+{
+  "id": "islamic-studies-seerah",
+  "name": "Islamic Studies: Seerah",
+  "title": "Islamic Studies: Seerah",
+  "subtitle": "CSS / FPSC Islamiat practice · Seerah · 222 MCQs",
+  "bank": "practice",
+  "year": null,
+  "rtl": false,
+  "answerKeyNote": "Practice answer key (not an official FPSC key). Keys were cross-checked and corrected where needed; items marked Low confidence are noted in the explanation.",
+  "source": [
+    "https://cssprep.com.pk/css-islamic-studies-past-papers-mcqs/ (year pages /islamic-studies-mcqs-2005/ … /islamic-studies-mcqs-2023/)",
+    "https://pakjobmcqs.com/subjects/islamic-studies (topic chapters)",
+    "https://fpscmcqs.com/wp-content/uploads/2021/04/Islamiat-Past-Papers-MCQs-2005-2016-For-CSSFPSCPPSCNTSPTS.pdf (CSS Times solved 2005–2016, used to cross-check keys)"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "text": "Jehad became mandatory in ___ Hijri.",
+      "options": {
+        "A": "1 AH",
+        "B": "2 AH",
+        "C": "3 AH",
+        "D": "4 AH"
+      },
+      "answer": "B",
+      "explanation": "Source: CSS 2005 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Seerah · CSS 2005"
+    },
+    {
+      "id": 2,
+      "text": "Makkah was conquered in _________.",
+      "options": {
+        "A": "5 A.H",
+        "B": "10 A.H",
+        "C": "2 A.H",
+        "D": "8 A.H"
+      },
+      "answer": "D",
+      "explanation": "Source: CSS 2006 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Seerah · CSS 2006"
+    },
+    {
+      "id": 3,
+      "text": "Who was the last Commander in Chief for Ghazwa-e-Mautah?",
+      "options": {
+        "A": "Hazrat Khalid bin Waleed (R.A)",
+        "B": "Abdur Rehman bin Auf (R.A)",
+        "C": "Abdullah bin Rawaha (R.A)",
+        "D": "None of these"
+      },
+      "answer": "A",
+      "explanation": "Source: CSS 2008 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Seerah · CSS 2008"
+    },
+    {
+      "id": 4,
+      "text": "The Prophet Muhammad PBUH made Hazrat Muaaz bin Jabal the Governor of ____________.",
+      "options": {
+        "A": "Kufa",
+        "B": "Makkah",
+        "C": "Medina",
+        "D": "Yemen"
+      },
+      "answer": "D",
+      "explanation": "Source: CSS 2008 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Seerah · CSS 2008"
+    },
+    {
+      "id": 5,
+      "text": "Masjid-e-Khief is located in ____________.",
+      "options": {
+        "A": "Muzdilifa",
+        "B": "Arafaat",
+        "C": "Minna",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "Source: CSS 2008 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Seerah · CSS 2008"
+    },
+    {
+      "id": 6,
+      "text": "Muslims are the best of all due to __________.",
+      "options": {
+        "A": "Justice",
+        "B": "Moderation",
+        "C": "Truthfulness",
+        "D": "None of these"
+      },
+      "answer": "B",
+      "explanation": "Source: CSS 2008 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Seerah · CSS 2008"
+    },
+    {
+      "id": 7,
+      "text": "What is the number of month “Rajab” in Islamic Calendar?",
+      "options": {
+        "A": "1st",
+        "B": "7th",
+        "C": "5th",
+        "D": "11th"
+      },
+      "answer": "B",
+      "explanation": "Source: CSS 2008 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Seerah · CSS 2008"
+    },
+    {
+      "id": 8,
+      "text": "The number of famous months are __________.",
+      "options": {
+        "A": "Four",
+        "B": "Six",
+        "C": "Seven",
+        "D": "Two"
+      },
+      "answer": "A",
+      "explanation": "Source: CSS 2009 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Seerah · CSS 2009"
+    },
+    {
+      "id": 9,
+      "text": "Hazrat Muhammad (SAW) gave the key of Baitullah permanently to Hazrat ______________.",
+      "options": {
+        "A": "Umara Bin Utba",
+        "B": "Hanzla bin Abi Aamir",
+        "C": "Usman bin Talha",
+        "D": "Abdullah Bin Aamir"
+      },
+      "answer": "C",
+      "explanation": "Source: CSS 2009 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Seerah · CSS 2009"
+    },
+    {
+      "id": 10,
+      "text": "The seal affixed on important letters by prophet (SAW) was in the Custody of ____________.",
+      "options": {
+        "A": "Hazrat Ali (RA)",
+        "B": "Mu'ayqib ibn Abi Fatimah",
+        "C": "Hazrat khuzaifa (RA)",
+        "D": "Hazrat Bilal (RA)"
+      },
+      "answer": "B",
+      "explanation": "Source: CSS 2009 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Seerah · CSS 2009"
+    },
+    {
+      "id": 11,
+      "text": "Sadaq-e-Eid-ul-fitr has been proclaimed in the year _________.",
+      "options": {
+        "A": "2 Hijri",
+        "B": "3 Hijri",
+        "C": "4 Hijri",
+        "D": "5 Hijri"
+      },
+      "answer": "A",
+      "explanation": "Note: Sadaqat-ul-Fitr was made obligatory in 2 AH, before the first Eid. Source: CSS 2009 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Seerah · CSS 2009"
+    },
+    {
+      "id": 12,
+      "text": "Ada Bin Hatam Thai embraced Islam in _______.",
+      "options": {
+        "A": "3 Hijri",
+        "B": "6 Hijri",
+        "C": "9 Hijri",
+        "D": "11 Hijri"
+      },
+      "answer": "C",
+      "explanation": "Source: CSS 2009 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Seerah · CSS 2009"
+    },
+    {
+      "id": 13,
+      "text": "Masjid Zu Qiblatain is situated in _____________.",
+      "options": {
+        "A": "Madina",
+        "B": "Mukkah",
+        "C": "Taif",
+        "D": "Jabal-e-Noor"
+      },
+      "answer": "A",
+      "explanation": "Source: CSS 2009 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Seerah · CSS 2009"
+    },
+    {
+      "id": 14,
+      "text": "Batha Valley is situated in ________.",
+      "options": {
+        "A": "Makkah",
+        "B": "Madina",
+        "C": "Egypt",
+        "D": "Jordan"
+      },
+      "answer": "A",
+      "explanation": "Source: CSS 2010 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Seerah · CSS 2010"
+    },
+    {
+      "id": 15,
+      "text": "Ozza was the name of ___________.",
+      "options": {
+        "A": "a specific goddess of Quraish",
+        "B": "Honour and Respect",
+        "C": "name of a tree",
+        "D": "name of a snake"
+      },
+      "answer": "A",
+      "explanation": "Source: CSS 2010 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Seerah · CSS 2010"
+    },
+    {
+      "id": 16,
+      "text": "“FIDK” garden was bestowed to the Holy Prophet as ____________.",
+      "options": {
+        "A": "Fay",
+        "B": "Booty",
+        "C": "Gift",
+        "D": "Loan"
+      },
+      "answer": "A",
+      "explanation": "Source: CSS 2010 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Seerah · CSS 2010"
+    },
+    {
+      "id": 17,
+      "text": "The Master of Hazrat Bilal during embracing Islam was __________.",
+      "options": {
+        "A": "Umayyah ibn Khalaf",
+        "B": "Abdullah",
+        "C": "Abu Lahab",
+        "D": "Abu Jahl"
+      },
+      "answer": "A",
+      "explanation": "Source: CSS 2010 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Seerah · CSS 2010"
+    },
+    {
+      "id": 18,
+      "text": "The Prophet’s stamp comprises of __________________ words.",
+      "options": {
+        "A": "Allah,Rasool,Muhammad",
+        "B": "Muhammad, Rasool,Allah",
+        "C": "Rasool,Muhammad,Allah",
+        "D": "Rasool,Allah,Muhammad"
+      },
+      "answer": "A",
+      "explanation": "Source: CSS 2010 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Seerah · CSS 2010"
+    },
+    {
+      "id": 19,
+      "text": "What was the total number of idols which were placed around the Kaaba?",
+      "options": {
+        "A": "260",
+        "B": "360",
+        "C": "460",
+        "D": "560"
+      },
+      "answer": "B",
+      "explanation": "Source: CSS 2011 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Seerah · CSS 2011"
+    },
+    {
+      "id": 20,
+      "text": "Hazrat Muhammad (PBUH) was born about three thousands years, after ________.",
+      "options": {
+        "A": "Hazrat Ismaeel (A.S)",
+        "B": "Hazrat Ibraheem (A.S)",
+        "C": "Hazrat Moosa (A.S)",
+        "D": "Hazrat Eessaa (A.S)"
+      },
+      "answer": "B",
+      "explanation": "Low confidence: the gap between Ibrahim (AS) and the Prophet (PBUH) is often given as about 2,500–3,000 years; B is the intended answer. Source: CSS 2011 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Seerah · CSS 2011"
+    },
+    {
+      "id": 21,
+      "text": "Who suggested name “Ahmed” for the Holy Prophet (PBUH)?",
+      "options": {
+        "A": "Hazrat Abdul Mutalib",
+        "B": "Hazrat Abu Talib",
+        "C": "Hazrat Abdullah",
+        "D": "Hazrat Bibi Amina"
+      },
+      "answer": "D",
+      "explanation": "Source: CSS 2011 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Seerah · CSS 2011"
+    },
+    {
+      "id": 22,
+      "text": "When Hazrat Umer (R.A) embraced Islam?",
+      "options": {
+        "A": "600 A.D",
+        "B": "608 A.D",
+        "C": "612 A.D",
+        "D": "616 A.D"
+      },
+      "answer": "D",
+      "explanation": "Source: CSS 2011 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Seerah · CSS 2011"
+    },
+    {
+      "id": 23,
+      "text": "The 3rd month of Islamic calendar is ________.",
+      "options": {
+        "A": "Zul-haj",
+        "B": "Muharram",
+        "C": "Safar",
+        "D": "Rabi-ul-Awwal"
+      },
+      "answer": "D",
+      "explanation": "Source: CSS 2012 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Seerah · CSS 2012"
+    },
+    {
+      "id": 24,
+      "text": "Mountain uhad is located in ____________.",
+      "options": {
+        "A": "Macca",
+        "B": "Madina",
+        "C": "Taif",
+        "D": "Tabuk"
+      },
+      "answer": "B",
+      "explanation": "Source: CSS 2012 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Seerah · CSS 2012"
+    },
+    {
+      "id": 25,
+      "text": "According to Nabi Akram (pbuh) the most favorite place of Allah is ___________.",
+      "options": {
+        "A": "Eidgah",
+        "B": "Bazar",
+        "C": "Mosque",
+        "D": "Home"
+      },
+      "answer": "C",
+      "explanation": "Source: CSS 2012 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Seerah · CSS 2012"
+    },
+    {
+      "id": 26,
+      "text": "After hijrat to Madina the 1st mosque constructed by the Holy Prophet (pbuh) was ___________.",
+      "options": {
+        "A": "Quba",
+        "B": "Nimrah",
+        "C": "Nabvi",
+        "D": "Zarar"
+      },
+      "answer": "A",
+      "explanation": "Source: CSS 2012 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Seerah · CSS 2012"
+    },
+    {
+      "id": 27,
+      "text": "The first month of Islamic calendar is _______.",
+      "options": {
+        "A": "Muharram",
+        "B": "Zil Hajjah",
+        "C": "Safar",
+        "D": "Rajab"
+      },
+      "answer": "A",
+      "explanation": "Source: CSS 2013 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Seerah · CSS 2013"
+    },
+    {
+      "id": 28,
+      "text": "Which country is known as the “Land of Prophet”?",
+      "options": {
+        "A": "Iraq",
+        "B": "Saudi Arabia",
+        "C": "Palestine",
+        "D": "Syria"
+      },
+      "answer": "C",
+      "explanation": "Source: CSS 2013 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Seerah · CSS 2013"
+    },
+    {
+      "id": 29,
+      "text": "Mannah and Quails arrived at Bani Israel at which place?",
+      "options": {
+        "A": "Valley of Seena, situated in Egypt",
+        "B": "Kufa",
+        "C": "Madina",
+        "D": "Yeman"
+      },
+      "answer": "A",
+      "explanation": "Source: CSS 2014 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Seerah · CSS 2014"
+    },
+    {
+      "id": 30,
+      "text": "Ya sabaaha means ___________.",
+      "options": {
+        "A": "Poverty",
+        "B": "Ignorance",
+        "C": "Class Distinction",
+        "D": "The danger of attack"
+      },
+      "answer": "D",
+      "explanation": "Source: CSS 2014 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Seerah · CSS 2014"
+    },
+    {
+      "id": 31,
+      "text": "Ashab-al-Aikah (“Companions of the Wood”) was the nation of which prophet?",
+      "options": {
+        "A": "Hazrat Ibrahim A.S",
+        "B": "Hazrat Shoiab A.S",
+        "C": "Hazrat Shees A.S",
+        "D": "Hazrat Haroon A.S"
+      },
+      "answer": "B",
+      "explanation": "Source: CSS 2014 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Seerah · CSS 2014"
+    },
+    {
+      "id": 32,
+      "text": "Which tribe has the key of Kaaba?",
+      "options": {
+        "A": "Banu Hashim",
+        "B": "Bani Abbasi",
+        "C": "Bani Shaiba",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "Source: CSS 2014 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Seerah · CSS 2014"
+    },
+    {
+      "id": 33,
+      "text": "Hazrat Maria Qibtia (R.A) belongs to __________.",
+      "options": {
+        "A": "Makkah",
+        "B": "Madina",
+        "C": "Alexandria, Egypt",
+        "D": "Khyber"
+      },
+      "answer": "C",
+      "explanation": "Source: CSS 2014 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Seerah · CSS 2014"
+    },
+    {
+      "id": 34,
+      "text": "Banu Thaqif was located in _________.",
+      "options": {
+        "A": "Tabuk",
+        "B": "Najran",
+        "C": "Asir",
+        "D": "Ta’if"
+      },
+      "answer": "D",
+      "explanation": "Source: CSS 2015 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Seerah · CSS 2015"
+    },
+    {
+      "id": 35,
+      "text": "Hazrat Muhammad (PBUH) went to Syria with Abu-Talib at the age of ________.",
+      "options": {
+        "A": "12",
+        "B": "15",
+        "C": "24",
+        "D": "35"
+      },
+      "answer": "A",
+      "explanation": "Source: CSS 2015 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Seerah · CSS 2015"
+    },
+    {
+      "id": 36,
+      "text": "Battle of Yamamah was fought against?",
+      "options": {
+        "A": "Musaylamah al-Kaddhab",
+        "B": "Banu Qaynuqa",
+        "C": "Banu Lahyan",
+        "D": "None of these"
+      },
+      "answer": "A",
+      "explanation": "Source: CSS 2015 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Seerah · CSS 2015"
+    },
+    {
+      "id": 37,
+      "text": "Wadd, Suwa`, Yaghuth, Ya`uq and Nasr were the names of _____________.",
+      "options": {
+        "A": "Name of wars",
+        "B": "The Idols of the People of Nuh (Alaihissalam)",
+        "C": "The Idols of the People of Ur",
+        "D": "None of these"
+      },
+      "answer": "B",
+      "explanation": "Source: CSS 2015 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Seerah · CSS 2015"
+    },
+    {
+      "id": 38,
+      "text": "Last Ghazwa of the Holy Prophet (PBUH) was Ghazwa ________.",
+      "options": {
+        "A": "Autas",
+        "B": "Hunayn",
+        "C": "Tabouk",
+        "D": "Khaybar"
+      },
+      "answer": "C",
+      "explanation": "Source: CSS 2015 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Seerah · CSS 2015"
+    },
+    {
+      "id": 39,
+      "text": "The total number of migrated people in second migration to Abyssinia was ________.",
+      "options": {
+        "A": "15",
+        "B": "92",
+        "C": "110",
+        "D": "101"
+      },
+      "answer": "D",
+      "explanation": "Source: CSS 2016 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Seerah · CSS 2016"
+    },
+    {
+      "id": 40,
+      "text": "Queen Saba was the ruler of __________.",
+      "options": {
+        "A": "Egypt",
+        "B": "Syria",
+        "C": "Yemen",
+        "D": "Taif"
+      },
+      "answer": "C",
+      "explanation": "Source: CSS 2016 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Seerah · CSS 2016"
+    },
+    {
+      "id": 41,
+      "text": "There are _____ clauses in Charter of Madina.",
+      "options": {
+        "A": "44",
+        "B": "45",
+        "C": "46",
+        "D": "47"
+      },
+      "answer": "D",
+      "explanation": "Low confidence: the number of clauses depends on how the text is split (Dr. Hamidullah 52/53; many CSS keys say 47). Source: CSS 2017 Islamiat past paper (cssprep.com.pk).",
+      "section": "Seerah · CSS 2017"
+    },
+    {
+      "id": 42,
+      "text": "Word Jibrael means ________.",
+      "options": {
+        "A": "Abdul Aziz (Servant of the Almighty)",
+        "B": "Abdul Rehman (The servant of the Merciful)",
+        "C": "Abdullah",
+        "D": "All of these"
+      },
+      "answer": "C",
+      "explanation": "Source: CSS 2017 Islamiat past paper (cssprep.com.pk).",
+      "section": "Seerah · CSS 2017"
+    },
+    {
+      "id": 43,
+      "text": "Ghazwa-e-Ahzab is also called ________.",
+      "options": {
+        "A": "Ghazwa-e-Badr",
+        "B": "Ghazwa-e-Khyber",
+        "C": "Ghazwa-e-Uhad",
+        "D": "Ghazwa-e-Khandaq"
+      },
+      "answer": "D",
+      "explanation": "Source: CSS 2017 Islamiat past paper (cssprep.com.pk).",
+      "section": "Seerah · CSS 2017"
+    },
+    {
+      "id": 44,
+      "text": "What was the relation between Hazrat Mosa and Hazrat Shoib?",
+      "options": {
+        "A": "Brother",
+        "B": "Father",
+        "C": "Father in Law",
+        "D": "Brother in Law"
+      },
+      "answer": "C",
+      "explanation": "Source: CSS 2018 Islamiat past paper (cssprep.com.pk).",
+      "section": "Seerah · CSS 2018"
+    },
+    {
+      "id": 45,
+      "text": "Hazrat Uthman (RA) was assassinated in _______ A.H.",
+      "options": {
+        "A": "30",
+        "B": "32",
+        "C": "33",
+        "D": "35"
+      },
+      "answer": "D",
+      "explanation": "Source: CSS 2018 Islamiat past paper (cssprep.com.pk).",
+      "section": "Seerah · CSS 2018"
+    },
+    {
+      "id": 46,
+      "text": "Nabi means ___________.",
+      "options": {
+        "A": "the person who tells good or bad",
+        "B": "the person who threats",
+        "C": "the one who gives news",
+        "D": "the one who connects people with Allah"
+      },
+      "answer": "C",
+      "explanation": "Source: CSS 2018 Islamiat past paper (cssprep.com.pk).",
+      "section": "Seerah · CSS 2018"
+    },
+    {
+      "id": 47,
+      "text": "There were _________ soldiers of Kuffar during Ghazwa-e-Khandaq.",
+      "options": {
+        "A": "1000",
+        "B": "10000",
+        "C": "12000",
+        "D": "15000"
+      },
+      "answer": "B",
+      "explanation": "Source: CSS 2018 Islamiat past paper (cssprep.com.pk).",
+      "section": "Seerah · CSS 2018"
+    },
+    {
+      "id": 48,
+      "text": "The literal meaning of word civilization is _______.",
+      "options": {
+        "A": "a society made up of villages",
+        "B": "a society made up of buildings",
+        "C": "a society made up of cities",
+        "D": "a society made up of shopping centers"
+      },
+      "answer": "C",
+      "explanation": "Source: CSS 2019 Islamiat past paper (cssprep.com.pk).",
+      "section": "Seerah · CSS 2019"
+    },
+    {
+      "id": 49,
+      "text": "The major revealed holy books are ________.",
+      "options": {
+        "A": "one",
+        "B": "two",
+        "C": "three",
+        "D": "four"
+      },
+      "answer": "D",
+      "explanation": "Source: CSS 2019 Islamiat past paper (cssprep.com.pk).",
+      "section": "Seerah · CSS 2019"
+    },
+    {
+      "id": 50,
+      "text": "Who was the first wife of Holy Prophet Muhammad (PBUH)?",
+      "options": {
+        "A": "Hazrat Aisha (R.A)",
+        "B": "Hazrat Khadija (R.A)",
+        "C": "Hazrat Memona (R.A)",
+        "D": "Hazrat Safia (R.A)"
+      },
+      "answer": "B",
+      "explanation": "Source: CSS 2019 Islamiat past paper (cssprep.com.pk).",
+      "section": "Seerah · CSS 2019"
+    },
+    {
+      "id": 51,
+      "text": "The Holy Book Zaboor was revealed on the ______________.",
+      "options": {
+        "A": "Hazrat Musa (A.S.)",
+        "B": "Hazrat Isa (A.S.)",
+        "C": "Hazrat Dawood (A.S.)",
+        "D": "Hazrat Muhammad (PBUH)"
+      },
+      "answer": "C",
+      "explanation": "Source: CSS 2019 Islamiat past paper (cssprep.com.pk).",
+      "section": "Seerah · CSS 2019"
+    },
+    {
+      "id": 52,
+      "text": "How many times did Prophet Hazrat Muhammad PBUH perform Umrah?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "answer": "D",
+      "explanation": "Source: CSS 2020 Islamiat past paper (cssprep.com.pk).",
+      "section": "Seerah · CSS 2020"
+    },
+    {
+      "id": 53,
+      "text": "First man to embrace Islam on the eve of Fatah-e-Makkah was __________.",
+      "options": {
+        "A": "Abul Baseer",
+        "B": "Abu Sufiyan",
+        "C": "Utba",
+        "D": "Amr bin Saleem"
+      },
+      "answer": "B",
+      "explanation": "Source: CSS 2020 Islamiat past paper (cssprep.com.pk).",
+      "section": "Seerah · CSS 2020"
+    },
+    {
+      "id": 54,
+      "text": "Who was the first Amir-ul-Haj?",
+      "options": {
+        "A": "Hazrat Abu Bakr",
+        "B": "Hazrat Umer",
+        "C": "Hazrat Usman",
+        "D": "Hazrat Ali"
+      },
+      "answer": "A",
+      "explanation": "Source: CSS 2020 Islamiat past paper (cssprep.com.pk).",
+      "section": "Seerah · CSS 2020"
+    },
+    {
+      "id": 55,
+      "text": "The act of the Holy Prophet (PBUH) termed as Fatah-e-Mubeen was _________.",
+      "options": {
+        "A": "Fatah Yasrab",
+        "B": "The Treaty of Hudaybiyyah",
+        "C": "Fatah Makkah",
+        "D": "The Treat of khubyer"
+      },
+      "answer": "B",
+      "explanation": "Source: CSS 2021 Islamiat past paper (cssprep.com.pk).",
+      "section": "Seerah · CSS 2021"
+    },
+    {
+      "id": 56,
+      "text": "The ghazwa in which Muslims camped on a high mound was _________.",
+      "options": {
+        "A": "Ghazwa-e-Badr",
+        "B": "Ghazwa-e-khyber",
+        "C": "Ghazwa-e-khandaq",
+        "D": "Ghazwa-e-Uhad"
+      },
+      "answer": "D",
+      "explanation": "Source: CSS 2021 Islamiat past paper (cssprep.com.pk).",
+      "section": "Seerah · CSS 2021"
+    },
+    {
+      "id": 57,
+      "text": "In Ghazwa Hunain, Muslims fought against __________ tribe.",
+      "options": {
+        "A": "Banu Hawazin",
+        "B": "Banu Yasrab",
+        "C": "Banu Quraish",
+        "D": "Banu Nazeer"
+      },
+      "answer": "A",
+      "explanation": "Source: CSS 2021 Islamiat past paper (cssprep.com.pk).",
+      "section": "Seerah · CSS 2021"
+    },
+    {
+      "id": 58,
+      "text": "The Sahabi who served the Holy Prophet (SAW) for 10 years was _________.",
+      "options": {
+        "A": "Hazrat Abu Hurera (RA)",
+        "B": "Hazrat Zaid Bin Sabit (RA)",
+        "C": "Hazrat Anas Bin Malik (RA)",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "Source: CSS 2021 Islamiat past paper (cssprep.com.pk).",
+      "section": "Seerah · CSS 2021"
+    },
+    {
+      "id": 59,
+      "text": "Hazrat Aisha (R.A) lived after the death of Prophet Muhammad for how many years?",
+      "options": {
+        "A": "28",
+        "B": "45",
+        "C": "44",
+        "D": "NONE OF THESE"
+      },
+      "answer": "D",
+      "explanation": "Fixed: the Prophet (PBUH) died in 11 AH and Hazrat Aisha (RA) died in 57/58 AH, i.e. about 46–47 years later, so none of 28/45/44 is right. Source: CSS 2022 Islamiat past paper (cssprep.com.pk).",
+      "section": "Seerah · CSS 2022"
+    },
+    {
+      "id": 60,
+      "text": "First Azan was given/called by which companion of Prophet Muhammad?",
+      "options": {
+        "A": "HAZRAT ALI (R.A)",
+        "B": "BILAL IBN RABAH (R.A)",
+        "C": "HAZRAT UMAR (R.A)",
+        "D": "NONE OF THESE"
+      },
+      "answer": "B",
+      "explanation": "Source: CSS 2022 Islamiat past paper (cssprep.com.pk).",
+      "section": "Seerah · CSS 2022"
+    },
+    {
+      "id": 61,
+      "text": "In which area was Man-o-Salwa (food from Heavens) given to Bani Israel?",
+      "options": {
+        "A": "MAKAH",
+        "B": "DESERT OF SINA",
+        "C": "MEDINA",
+        "D": "NONE OF THESE"
+      },
+      "answer": "B",
+      "explanation": "Source: CSS 2022 Islamiat past paper (cssprep.com.pk).",
+      "section": "Seerah · CSS 2022"
+    },
+    {
+      "id": 62,
+      "text": "The battle or Ghazwa was called Jaish-ul-Usra (The army of difficulty)?",
+      "options": {
+        "A": "BATTLE OF TABUK",
+        "B": "BATTLE OF KHAIBAR",
+        "C": "BATTLE OF KHANDAQ",
+        "D": "NONE OF THESE"
+      },
+      "answer": "A",
+      "explanation": "Source: CSS 2022 Islamiat past paper (cssprep.com.pk).",
+      "section": "Seerah · CSS 2022"
+    },
+    {
+      "id": 63,
+      "text": "When was Ghazwah Ahzab fought?",
+      "options": {
+        "A": "5 AH",
+        "B": "6 AH",
+        "C": "7 AH",
+        "D": "9 AH"
+      },
+      "answer": "A",
+      "explanation": "Source: CSS 2023 Islamiat past paper (cssprep.com.pk).",
+      "section": "Seerah · CSS 2023"
+    },
+    {
+      "id": 64,
+      "text": "Hazrat Umar appointed lady market inspector in Madina?",
+      "options": {
+        "A": "HAZRAT SAFIYYA (R.A)",
+        "B": "SHIFA BINT ABDULLAH",
+        "C": "HAZRAT UMM AIMAN (R.A)",
+        "D": "NONE OF THESE"
+      },
+      "answer": "B",
+      "explanation": "Source: CSS 2023 Islamiat past paper (cssprep.com.pk).",
+      "section": "Seerah · CSS 2023"
+    },
+    {
+      "id": 65,
+      "text": "What was Friday called before the advent of Islam?",
+      "options": {
+        "A": "Yawm al-Jazaa",
+        "B": "Yawm al-Qiyamah",
+        "C": "Yawm al-Ahad",
+        "D": "Yawm al-Arubah"
+      },
+      "answer": "D",
+      "explanation": "Before the advent of Islam, Friday was called Yawm al-Arubah by the Arabs. Source: pakjobmcqs.com, arabia before islam (marked as a past-paper MCQ).",
+      "section": "Seerah"
+    },
+    {
+      "id": 66,
+      "text": "Who among the following was a direct ancestor of the Holy Prophet Muhammad (PBUH)?",
+      "options": {
+        "A": "Hazrat Ismaeel (AS)",
+        "B": "Hazrat Ishaq (AS)",
+        "C": "Hazrat Yaqoob (AS)",
+        "D": "Hazrat Musa (AS)"
+      },
+      "answer": "A",
+      "explanation": "The Holy Prophet Muhammad (PBUH) is a direct descendant of Hazrat Ismaeel (AS) through the lineage of Adnan and the Arabized Arabs (Mustariba). Source: pakjobmcqs.com, arabia before islam.",
+      "section": "Seerah"
+    },
+    {
+      "id": 67,
+      "text": "What is the period between the time of Prophet Jesus (Hazrat Essa) and the birth of Prophet Muhammad (PBUH) known as?",
+      "options": {
+        "A": "Period of Fitrah",
+        "B": "Period of Interval",
+        "C": "Period of Jahiliyyah",
+        "D": "Period of Fatrah"
+      },
+      "answer": "D",
+      "explanation": "The period between Prophet Jesus (Hazrat Essa علیہ السلام) and Prophet Muhammad (PBUH) is known as the Period of Fatrah (Fitrah). Source: pakjobmcqs.com, arabia before islam.",
+      "section": "Seerah"
+    },
+    {
+      "id": 68,
+      "text": "What were the alternative names for the city of Makkah during the pre-Islamic period?",
+      "options": {
+        "A": "Bakkah",
+        "B": "Umm al-Qura",
+        "C": "Al-Balad al-Amin",
+        "D": "All of these"
+      },
+      "answer": "D",
+      "explanation": "During the pre-Islamic period, Makkah was known by several alternative names including Bakkah, Umm al-Qura, and Al-Balad al-Amin. Source: pakjobmcqs.com, arabia before islam.",
+      "section": "Seerah"
+    },
+    {
+      "id": 69,
+      "text": "What term is used to describe the era before the advent of Islam in Arabia?",
+      "options": {
+        "A": "Age of Ignorance",
+        "B": "Age of Darkness",
+        "C": "Age of Chaos",
+        "D": "Age of Tribalism"
+      },
+      "answer": "A",
+      "explanation": "The era before the advent of Islam in Arabia is called the Age of Ignorance (Jahiliyyah). Source: pakjobmcqs.com, arabia before islam.",
+      "section": "Seerah"
+    },
+    {
+      "id": 70,
+      "text": "What was the name of the most revered goddess among the Quraish tribe before the advent of Islam?",
+      "options": {
+        "A": "Al-Lat",
+        "B": "Manat",
+        "C": "Al-Uzza",
+        "D": "Hubal"
+      },
+      "answer": "C",
+      "explanation": "The most revered goddess among the Quraish tribe before Islam was Al-Uzza. Source: pakjobmcqs.com, arabia before islam.",
+      "section": "Seerah"
+    },
+    {
+      "id": 71,
+      "text": "Who was the childhood friend of Prophet Muhammad (PBUH)?",
+      "options": {
+        "A": "Hazrat Abu Bakr (RA)",
+        "B": "Hazrat Umar (RA)",
+        "C": "Hazrat Usman (RA)",
+        "D": "Hazrat Ali (RA)"
+      },
+      "answer": "A",
+      "explanation": "The childhood friend of Prophet Muhammad (PBUH) was Hazrat Abu Bakr (RA). Source: pakjobmcqs.com, birth early life (marked as a past-paper MCQ).",
+      "section": "Seerah"
+    },
+    {
+      "id": 72,
+      "text": "For how many years did Hazrat Abd-al-Muttalib care for the Holy Prophet before his own death?",
+      "options": {
+        "A": "Eight years",
+        "B": "Four years",
+        "C": "Six years",
+        "D": "Two years"
+      },
+      "answer": "D",
+      "explanation": "Hazrat Abd-al-Muttalib cared for the Holy Prophet (PBUH) for two years before his own death. Source: pakjobmcqs.com, birth early life.",
+      "section": "Seerah"
+    },
+    {
+      "id": 73,
+      "text": "Where did Prophet Muhammad (PBUH) undertake his first business journey?",
+      "options": {
+        "A": "Yemen",
+        "B": "Syria",
+        "C": "Iraq",
+        "D": "Egypt"
+      },
+      "answer": "B",
+      "explanation": "Prophet Muhammad (PBUH) undertook his first business journey to Syria at the age of 12, accompanying his uncle Abu Talib. Source: pakjobmcqs.com, birth early life.",
+      "section": "Seerah"
+    },
+    {
+      "id": 74,
+      "text": "What was the birth year of Prophet Muhammad (PBUH) famously known as?",
+      "options": {
+        "A": "Year of Elephant",
+        "B": "Year of Sorrow",
+        "C": "Year of Victory",
+        "D": "Year of Migration"
+      },
+      "answer": "A",
+      "explanation": "The birth year of Prophet Muhammad (PBUH) is famously known as the Year of Elephant (Aam-ul-Feel). Source: pakjobmcqs.com, birth early life.",
+      "section": "Seerah"
+    },
+    {
+      "id": 75,
+      "text": "Who was the mother of the Holy Prophet Muhammad (S.A.W)?",
+      "options": {
+        "A": "Hazrat Umm-e-Aiman (R.A)",
+        "B": "Hazrat Halima Saadia (R.A)",
+        "C": "Hazrat Fatima bint Asad (R.A)",
+        "D": "Hazrat Amina (R.A)"
+      },
+      "answer": "D",
+      "explanation": "The mother of the Holy Prophet Muhammad (S.A.W) was Hazrat Amina (R.A). Source: pakjobmcqs.com, birth early life.",
+      "section": "Seerah"
+    },
+    {
+      "id": 76,
+      "text": "In which year did the marriage of Prophet Muhammad (PBUH) and Hazrat Khadijah (R.A) take place?",
+      "options": {
+        "A": "595 A.D.",
+        "B": "590 A.D.",
+        "C": "600 A.D.",
+        "D": "610 A.D."
+      },
+      "answer": "A",
+      "explanation": "The marriage of Prophet Muhammad (PBUH) and Hazrat Khadijah (R.A) took place in 595 A.D. Source: pakjobmcqs.com, birth early life.",
+      "section": "Seerah"
+    },
+    {
+      "id": 77,
+      "text": "During the formation of the Brotherhood Pact in Yathrib, how many Muhajreen were there?",
+      "options": {
+        "A": "40",
+        "B": "45",
+        "C": "50",
+        "D": "55"
+      },
+      "answer": "B",
+      "explanation": "Low confidence: Mawakhat paired about 45 Muhajireen with 45 Ansar (90 people), per Ibn Sa'd. At the time of the Brotherhood Pact (Muwakhat) in Yathrib, there were 45 Muhajreen. Source: pakjobmcqs.com, brotherhood.",
+      "section": "Seerah"
+    },
+    {
+      "id": 78,
+      "text": "Who were the Ansar in the context of the brotherhood pact?",
+      "options": {
+        "A": "Muslims from Makkah",
+        "B": "Muslims from Madina",
+        "C": "Muslims from Abyssinia",
+        "D": "Muslims from Taif"
+      },
+      "answer": "B",
+      "explanation": "The Ansar were the Muslims from Madina who welcomed and supported the Muhajirun (migrants from Makkah) under the brotherhood pact established by the Prophet (PBUH). Source: pakjobmcqs.com, brotherhood.",
+      "section": "Seerah"
+    },
+    {
+      "id": 79,
+      "text": "Who were the two groups between whom the bond of 'Muwakhaat' was established by the Holy Prophet (PBUH)?",
+      "options": {
+        "A": "Muhaajireen and Jews",
+        "B": "Aws and Khazraj",
+        "C": "Quraysh and Ansaar",
+        "D": "Ansaar and Muhaajireen"
+      },
+      "answer": "D",
+      "explanation": "The bond of 'Muwakhaat' (brotherhood) was established by the Holy Prophet (PBUH) between the Ansaar and Muhaajireen. Source: pakjobmcqs.com, brotherhood.",
+      "section": "Seerah"
+    },
+    {
+      "id": 80,
+      "text": "Who were the Ashaab-e-Suffah in Islamic history?",
+      "options": {
+        "A": "Ansar (RA) who hosted the Muhajirs in Madina",
+        "B": "Muhajirs (RA) who stayed near the Masjid-e-Nabvi",
+        "C": "Sahaba (RA) who compiled the Quran during the Prophet's life",
+        "D": "Companions (RA) who fought in the Battle of Badr"
+      },
+      "answer": "B",
+      "explanation": "The Ashaab-e-Suffah were the Muhajirs (RA) who stayed near the Masjid-e-Nabvi on a raised platform (Suffah) dedicated to learning and worship. Source: pakjobmcqs.com, brotherhood.",
+      "section": "Seerah"
+    },
+    {
+      "id": 81,
+      "text": "What does the term 'Akhuwwat' refer to in Islamic teachings?",
+      "options": {
+        "A": "Charity",
+        "B": "Brotherhood",
+        "C": "Piety",
+        "D": "Justice"
+      },
+      "answer": "B",
+      "explanation": "The term 'Akhuwwat' in Islamic teachings refers to Brotherhood. Source: pakjobmcqs.com, brotherhood.",
+      "section": "Seerah"
+    },
+    {
+      "id": 82,
+      "text": "During the Brotherhood Pact in Madina, at whose house did the Holy Prophet (PBUH) gather the Muhajireen and Ansar?",
+      "options": {
+        "A": "Hazrat Anas bin Malik (R.A)",
+        "B": "Hazrat Abu Ayyub Ansari (R.A)",
+        "C": "Hazrat Saad bin Ubadah (R.A)",
+        "D": "Hazrat Abu Talha Ansari (R.A)"
+      },
+      "answer": "A",
+      "explanation": "The Holy Prophet (PBUH) gathered the Muhajireen and Ansar for the Brotherhood Pact at the house of Hazrat Anas bin Malik (R.A). Source: pakjobmcqs.com, brotherhood.",
+      "section": "Seerah"
+    },
+    {
+      "id": 83,
+      "text": "How many months after the migration to Madinah was the Brotherhood Pact (Mawakhat) established?",
+      "options": {
+        "A": "Three months",
+        "B": "Five months",
+        "C": "Seven months",
+        "D": "Nine months"
+      },
+      "answer": "B",
+      "explanation": "Low confidence: the time after Hijrah given for Mawakhat varies by source (about 5–8 months). The Brotherhood Pact (Mawakhat) between the Muhajireen and Ansar was established five months after the migration to Madinah. Source: pakjobmcqs.com, brotherhood.",
+      "section": "Seerah"
+    },
+    {
+      "id": 84,
+      "text": "How many Arab tribes were present in Madina at the time of the brotherhood pact?",
+      "options": {
+        "A": "Two",
+        "B": "Three",
+        "C": "Four",
+        "D": "Five"
+      },
+      "answer": "A",
+      "explanation": "At the time of the brotherhood pact (Muwakhat), there were two main Arab tribes in Madina: the Aws and the Khazraj. Source: pakjobmcqs.com, brotherhood.",
+      "section": "Seerah"
+    },
+    {
+      "id": 85,
+      "text": "In which Surah of the Quran is the change of Qiblah mentioned?",
+      "options": {
+        "A": "Surah Al-Imran",
+        "B": "Surah Maidah",
+        "C": "Surah Nisa",
+        "D": "Surah Baqarah"
+      },
+      "answer": "D",
+      "explanation": "The change of Qiblah is mentioned in Surah Baqarah (Chapter 2 of the Holy Quran). Source: pakjobmcqs.com, change of qibla.",
+      "section": "Seerah"
+    },
+    {
+      "id": 86,
+      "text": "What significant event took place at Masjid al-Qiblatayn regarding the direction of prayer?",
+      "options": {
+        "A": "Changed Qiblah from Jerusalem to Makkah",
+        "B": "Changed Qiblah from Makkah to Jerusalem",
+        "C": "First Jummah prayer was offered",
+        "D": "First congregational Eid prayer was held"
+      },
+      "answer": "A",
+      "explanation": "At Masjid al-Qiblatayn, the Qiblah was changed from Jerusalem to Makkah during a congregational prayer. Source: pakjobmcqs.com, change of qibla.",
+      "section": "Seerah"
+    },
+    {
+      "id": 87,
+      "text": "In which Hijri year was the Qibla changed from Jerusalem to Kaaba?",
+      "options": {
+        "A": "1 AH",
+        "B": "2 AH",
+        "C": "3 AH",
+        "D": "4 AH"
+      },
+      "answer": "B",
+      "explanation": "The Qibla was changed from Jerusalem to the Kaaba in 2 AH. Source: pakjobmcqs.com, change of qibla (marked as a past-paper MCQ).",
+      "section": "Seerah"
+    },
+    {
+      "id": 88,
+      "text": "What is considered the first written constitution in the world?",
+      "options": {
+        "A": "Meesaq-e-Madina",
+        "B": "Magna Carta",
+        "C": "Code of Hammurabi",
+        "D": "Constitution of Medina (U.S.)"
+      },
+      "answer": "A",
+      "explanation": "The first written constitution in the world is Meesaq-e-Madina (the Charter of Medina). Source: pakjobmcqs.com, charter of madina (marked as a past-paper MCQ).",
+      "section": "Seerah"
+    },
+    {
+      "id": 89,
+      "text": "Who were the signatories of the Constitution of Madina?",
+      "options": {
+        "A": "Muslims (Muhajireen and Ansar) only",
+        "B": "Non-Muslim tribes only",
+        "C": "Muslims (Muhajireen and Ansar) and non-Muslim tribes",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "The Constitution of Madina was signed by Muslims (Muhajireen and Ansar) and non-Muslim tribes, establishing the first pluralistic Islamic state. Source: pakjobmcqs.com, charter of madina.",
+      "section": "Seerah"
+    },
+    {
+      "id": 90,
+      "text": "The Charter of Medina was concluded between which groups?",
+      "options": {
+        "A": "Muslims and Jews only",
+        "B": "Muslims and Christians only",
+        "C": "Muslims, Jews, and other non-Muslims",
+        "D": "Muslims and the Quraysh of Makkah"
+      },
+      "answer": "C",
+      "explanation": "The Charter of Medina was concluded between Muslims, Jews, and other non-Muslims residing in Madina. Source: pakjobmcqs.com, charter of madina.",
+      "section": "Seerah"
+    },
+    {
+      "id": 91,
+      "text": "In which year was the Charter (Meesaq) of Madina signed?",
+      "options": {
+        "A": "1 A.H. / 622 A.D.",
+        "B": "2 A.H. / 623 A.D.",
+        "C": "3 A.H. / 624 A.D.",
+        "D": "4 A.H. / 625 A.D."
+      },
+      "answer": "A",
+      "explanation": "The Charter (Meesaq) of Madina was signed in 1 A.H. / 622 A.D., shortly after the Prophet's (PBUH) migration to Madina. Source: pakjobmcqs.com, charter of madina.",
+      "section": "Seerah"
+    },
+    {
+      "id": 92,
+      "text": "Who is credited with describing the Charter of Madina as the world's first written constitution?",
+      "options": {
+        "A": "Muhammad Hamidullah",
+        "B": "Dr. Muhammad Iqbal",
+        "C": "Syed Ameer Ali",
+        "D": "Maulana Shibli Nomani"
+      },
+      "answer": "A",
+      "explanation": "The Charter of Madina is described as the world's first written constitution by Muhammad Hamidullah, a renowned Islamic scholar and jurist. Source: pakjobmcqs.com, charter of madina.",
+      "section": "Seerah"
+    },
+    {
+      "id": 93,
+      "text": "Which Jewish tribe in Madinah was led by the chieftain Huyayy ibn Akhtab?",
+      "options": {
+        "A": "Banu Qaynuqa",
+        "B": "Banu Mustaliq",
+        "C": "Banu Qurayza",
+        "D": "Banu Nadir"
+      },
+      "answer": "D",
+      "explanation": "The Jewish tribe led by Huyayy ibn Akhtab in Madinah was Banu Nadir. Source: pakjobmcqs.com, charter of madina.",
+      "section": "Seerah"
+    },
+    {
+      "id": 94,
+      "text": "Who was entrusted with the keys to the Kaaba at the time of Prophet Muhammad (PBUH)?",
+      "options": {
+        "A": "Hazrat Usman bin Talha (RA)",
+        "B": "Hazrat Abu Bakr Siddiq (RA)",
+        "C": "Hazrat Ali bin Abi Talib (RA)",
+        "D": "Hazrat Khalid bin Waleed (RA)"
+      },
+      "answer": "A",
+      "explanation": "The keys to the Kaaba were entrusted to Hazrat Usman bin Talha (RA) at the time of Prophet Muhammad (PBUH). Source: pakjobmcqs.com, conquest of makkah.",
+      "section": "Seerah"
+    },
+    {
+      "id": 95,
+      "text": "What phrase did the Prophet Muhammad (PBUH) recite while removing idols from the Kaaba?",
+      "options": {
+        "A": "Victory belongs to Allah, the Lord of the worlds",
+        "B": "There is no god but Allah alone",
+        "C": "Allah is the Greatest, and all praise belongs to Him",
+        "D": "Truth has come, and falsehood has vanished"
+      },
+      "answer": "D",
+      "explanation": "The Prophet Muhammad (PBUH) recited \"Truth has come, and falsehood has vanished\" while removing idols from the Kaaba. Source: pakjobmcqs.com, conquest of makkah.",
+      "section": "Seerah"
+    },
+    {
+      "id": 96,
+      "text": "During the advance towards Makkah for the conquest, where was the Prophet's (PBUH) final encampment?",
+      "options": {
+        "A": "Mura Zahran",
+        "B": "Hudaibiya",
+        "C": "Jurf",
+        "D": "Dhu Tuwa"
+      },
+      "answer": "A",
+      "explanation": "The Prophet (PBUH) made his final encampment at Mura Zahran during the advance towards the conquest of Makkah. Source: pakjobmcqs.com, conquest of makkah.",
+      "section": "Seerah"
+    },
+    {
+      "id": 97,
+      "text": "Who was appointed as the governor of Makkah by the Holy Prophet (PBUH) after the Conquest of Makkah?",
+      "options": {
+        "A": "Hazrat Attab Bin Usaid (R.A)",
+        "B": "Hazrat Muaz Bin Jabal (R.A)",
+        "C": "Hazrat Khalid Bin Waleed (R.A)",
+        "D": "Hazrat Amr Bin Al-Aas (R.A)"
+      },
+      "answer": "A",
+      "explanation": "After the Conquest of Makkah, the Holy Prophet (PBUH) appointed Hazrat Attab Bin Usaid (R.A) as the governor of Makkah. Source: pakjobmcqs.com, conquest of makkah.",
+      "section": "Seerah"
+    },
+    {
+      "id": 98,
+      "text": "How many companions accompanied Prophet Muhammad (PBUH) during the conquest of Makkah?",
+      "options": {
+        "A": "10,000",
+        "B": "12,000",
+        "C": "8,000",
+        "D": "15,000"
+      },
+      "answer": "A",
+      "explanation": "Prophet Muhammad (PBUH) was accompanied by 10,000 companions during the conquest of Makkah. Source: pakjobmcqs.com, conquest of makkah.",
+      "section": "Seerah"
+    },
+    {
+      "id": 99,
+      "text": "Which places were declared safe for those who sought refuge during the Conquest of Makkah?",
+      "options": {
+        "A": "The house of Abu Sufyan",
+        "B": "The Sacred Mosque (Masjid al-Haram)",
+        "C": "Their own homes with doors locked",
+        "D": "All of these"
+      },
+      "answer": "D",
+      "explanation": "During the Conquest of Makkah, the Prophet (PBUH) declared that those who entered the house of Abu Sufyan, the Sacred Mosque (Masjid al-Haram), or their own homes with doors locked would be safe. Source: pakjobmcqs.com, conquest of makkah.",
+      "section": "Seerah"
+    },
+    {
+      "id": 100,
+      "text": "How many years did Prophet Muhammad (PBUH) and his companions endure the siege in Shi'ab-e-Abi-Talib?",
+      "options": {
+        "A": "2 years",
+        "B": "5 years",
+        "C": "4 years",
+        "D": "3 years"
+      },
+      "answer": "D",
+      "explanation": "The siege of Shi'ab-e-Abi-Talib lasted for 3 years, from the 7th to the 10th year of Prophethood. Source: pakjobmcqs.com, early preaching persecution.",
+      "section": "Seerah"
+    },
+    {
+      "id": 101,
+      "text": "For how many years did the social boycott of Prophet Muhammad (PBUH) by the Quraysh last?",
+      "options": {
+        "A": "2 years",
+        "B": "5 years",
+        "C": "4 years",
+        "D": "3 years"
+      },
+      "answer": "D",
+      "explanation": "The social boycott of Prophet Muhammad (PBUH) by the Quraysh lasted for 3 years. Source: pakjobmcqs.com, early preaching persecution.",
+      "section": "Seerah"
+    },
+    {
+      "id": 102,
+      "text": "Where is Masjid al-Jinn located?",
+      "options": {
+        "A": "Madinah",
+        "B": "Makkah",
+        "C": "Taif",
+        "D": "Jerusalem"
+      },
+      "answer": "B",
+      "explanation": "Masjid al-Jinn is located in Makkah. Source: pakjobmcqs.com, early preaching persecution.",
+      "section": "Seerah"
+    },
+    {
+      "id": 103,
+      "text": "Abu Jahl, a prominent opponent of the Prophet Muhammad (PBUH), was the chief of which tribe?",
+      "options": {
+        "A": "Banu Quraysh",
+        "B": "Banu Hashim",
+        "C": "Banu Umayyah",
+        "D": "Banu Makhzum"
+      },
+      "answer": "D",
+      "explanation": "Abu Jahl, one of the fiercest opponents of the Prophet Muhammad (PBUH), was the chief of Banu Makhzum. Source: pakjobmcqs.com, early preaching persecution.",
+      "section": "Seerah"
+    },
+    {
+      "id": 104,
+      "text": "During which event did Uqbah bin Abi Mu'ait place the camel's intestines on the Holy Prophet's back while he was in prostration?",
+      "options": {
+        "A": "During a prayer in Makkah",
+        "B": "During the migration to Madina",
+        "C": "During the Battle of Uhud",
+        "D": "During the Treaty of Hudaibia"
+      },
+      "answer": "A",
+      "explanation": "Uqbah bin Abi Mu'ait placed camel intestines on the Holy Prophet's (PBUH) back during a prayer in Makkah while he was in prostration. Source: pakjobmcqs.com, early preaching persecution.",
+      "section": "Seerah"
+    },
+    {
+      "id": 105,
+      "text": "During which event was the Holy Prophet Muhammad (P.B.U.H) subjected to a social boycott by the Quraysh?",
+      "options": {
+        "A": "Pledge of Aqabah",
+        "B": "Treaty of Hudaibia",
+        "C": "Migration to Madina",
+        "D": "Shoib Abi Talib"
+      },
+      "answer": "D",
+      "explanation": "The Holy Prophet Muhammad (P.B.U.H) was subjected to a social boycott by the Quraysh during the Shoib Abi Talib (Valley of Abu Talib). Source: pakjobmcqs.com, early preaching persecution.",
+      "section": "Seerah"
+    },
+    {
+      "id": 106,
+      "text": "Where did the Holy Prophet Muhammad (PBUH) establish the first Islamic learning center known as Dar-e-Arqam?",
+      "options": {
+        "A": "Madina",
+        "B": "Makkah",
+        "C": "Taif",
+        "D": "Jerusalem"
+      },
+      "answer": "B",
+      "explanation": "The Holy Prophet Muhammad (PBUH) established the first Islamic learning center, Dar-e-Arqam, in Makkah. Source: pakjobmcqs.com, early preaching persecution.",
+      "section": "Seerah"
+    },
+    {
+      "id": 107,
+      "text": "Which speech is known as the first Charter of Human Rights in Islamic history?",
+      "options": {
+        "A": "Sermon of the Conquest of Makkah",
+        "B": "Khutba at Arafat (7 AH)",
+        "C": "Khutba-Hajjat-ul-Vida",
+        "D": "Charter of Madina"
+      },
+      "answer": "C",
+      "explanation": "The Khutba-Hajjat-ul-Vida (Farewell Sermon) delivered by the Prophet Muhammad (PBUH) during his last Hajj is recognized as the first Charter of Human Rights in Islamic history. Source: pakjobmcqs.com, farewell sermon (marked as a past-paper MCQ).",
+      "section": "Seerah"
+    },
+    {
+      "id": 108,
+      "text": "On which hill did the Holy Prophet Muhammad (PBUH) deliver the Khutba of Hajjat ul Wida?",
+      "options": {
+        "A": "Jabal al-Noor",
+        "B": "Jabal al-Rehmat",
+        "C": "Jabal Thawr",
+        "D": "Jabal Uhud"
+      },
+      "answer": "B",
+      "explanation": "The Holy Prophet Muhammad (PBUH) delivered the Khutba of Hajjat ul Wida on Jabal al-Rehmat (the Mount of Mercy) at Arafat. Source: pakjobmcqs.com, farewell sermon.",
+      "section": "Seerah"
+    },
+    {
+      "id": 109,
+      "text": "Before his passing, the Prophet Muhammad (PBUH) advised kind treatment towards which group?",
+      "options": {
+        "A": "Ansar",
+        "B": "Muhajireen",
+        "C": "Bedouins",
+        "D": "Hypocrites (Munafiqeen)"
+      },
+      "answer": "A",
+      "explanation": "Fixed: in his final illness the Prophet (PBUH) urged the Muhajireen to treat the Ansar kindly (Sahih al-Bukhari, Manaqib al-Ansar). Source: pakjobmcqs.com, farewell sermon.",
+      "section": "Seerah"
+    },
+    {
+      "id": 110,
+      "text": "In which year did the Holy Prophet (SAW) perform his farewell pilgrimage, known as Hajjat-ul-Wada?",
+      "options": {
+        "A": "8th Hijri",
+        "B": "9th Hijri",
+        "C": "10th Hijri",
+        "D": "11th Hijri"
+      },
+      "answer": "C",
+      "explanation": "The Holy Prophet (SAW) performed his farewell pilgrimage, Hajjat-ul-Wada, in 10th Hijri. Source: pakjobmcqs.com, farewell sermon.",
+      "section": "Seerah"
+    },
+    {
+      "id": 111,
+      "text": "On what date did the Holy Prophet Muhammad (SAW) pass away?",
+      "options": {
+        "A": "8th June 632 AD",
+        "B": "12th Rabi-ul-Awwal 10 AH",
+        "C": "10th June 630 AD",
+        "D": "2nd Rabi-ul-Awwal 11 AH"
+      },
+      "answer": "A",
+      "explanation": "The Holy Prophet Muhammad (SAW) passed away on 8th June 632 AD, corresponding to 12th Rabi-ul-Awwal 11 AH. Source: pakjobmcqs.com, farewell sermon.",
+      "section": "Seerah"
+    },
+    {
+      "id": 112,
+      "text": "At what age did the Holy Prophet Muhammad (PBUH) pass away?",
+      "options": {
+        "A": "60 years",
+        "B": "63 years",
+        "C": "65 years",
+        "D": "61 years"
+      },
+      "answer": "B",
+      "explanation": "The Holy Prophet Muhammad (PBUH) passed away at the age of 63 years. Source: pakjobmcqs.com, farewell sermon.",
+      "section": "Seerah"
+    },
+    {
+      "id": 113,
+      "text": "The Battle of Badr was fought in which Islamic month?",
+      "options": {
+        "A": "Shawwal",
+        "B": "Ramazan",
+        "C": "Zul-Hijjah",
+        "D": "Muharram"
+      },
+      "answer": "B",
+      "explanation": "The Battle of Badr was fought in the Islamic month of Ramazan. Source: pakjobmcqs.com, ghazwa badr (marked as a past-paper MCQ).",
+      "section": "Seerah"
+    },
+    {
+      "id": 114,
+      "text": "Which battle is known as Yaumul Furqan in Islamic history?",
+      "options": {
+        "A": "Ghazwa Hunain",
+        "B": "Ghazwa Uhud",
+        "C": "Ghazwa Khandaq",
+        "D": "Ghazwa Badr"
+      },
+      "answer": "D",
+      "explanation": "The Battle of Badr is known as Yaumul Furqan (the Day of Criterion) because it was the first decisive battle that distinguished truth from falsehood in Islam. Source: pakjobmcqs.com, ghazwa badr (marked as a past-paper MCQ).",
+      "section": "Seerah"
+    },
+    {
+      "id": 115,
+      "text": "When was the Battle of Badr fought?",
+      "options": {
+        "A": "13 March 624 CE",
+        "B": "17 March 625 CE",
+        "C": "15 March 627 CE",
+        "D": "10 March 623 CE"
+      },
+      "answer": "A",
+      "explanation": "The Battle of Badr was fought on 13 March 624 CE (17 Ramadan 2 AH). Source: pakjobmcqs.com, ghazwa badr (marked as a past-paper MCQ).",
+      "section": "Seerah"
+    },
+    {
+      "id": 116,
+      "text": "Who was the first to raise the flag in a Ghazwa for the Muslims?",
+      "options": {
+        "A": "Hazrat Umar (R.A)",
+        "B": "Hazrat Ali (R.A)",
+        "C": "Hazrat Hamza (R.A)",
+        "D": "Hazrat Abu Bakr (R.A)"
+      },
+      "answer": "C",
+      "explanation": "Low confidence: Hazrat Hamza (RA) carried the first banner, on the Sif al-Bahr expedition (1 AH). Some sources say Ubaidah bin Harith (RA). The first to raise the flag in a Ghazwa for the Muslims was Hazrat Hamza (R.A). Source: pakjobmcqs.com, ghazwa badr (marked as a past-paper MCQ).",
+      "section": "Seerah"
+    },
+    {
+      "id": 117,
+      "text": "How many members of the Quraysh tribe were captured by the Muslims during the Battle of Badr?",
+      "options": {
+        "A": "60",
+        "B": "90",
+        "C": "80",
+        "D": "70"
+      },
+      "answer": "D",
+      "explanation": "The Muslims captured 70 members of the Quraysh tribe during the Battle of Badr. Source: pakjobmcqs.com, ghazwa badr.",
+      "section": "Seerah"
+    },
+    {
+      "id": 118,
+      "text": "How many Muslims were martyred in the Ghazwa Badar?",
+      "options": {
+        "A": "10",
+        "B": "14",
+        "C": "18",
+        "D": "22"
+      },
+      "answer": "B",
+      "explanation": "In the Ghazwa Badar, 14 Muslims were martyred. Source: pakjobmcqs.com, ghazwa badr.",
+      "section": "Seerah"
+    },
+    {
+      "id": 119,
+      "text": "In which Hijri year did the Battle of Hunain take place?",
+      "options": {
+        "A": "6th Hijri",
+        "B": "7th Hijri",
+        "C": "8th Hijri",
+        "D": "9th Hijri"
+      },
+      "answer": "C",
+      "explanation": "The Battle of Hunain took place in 8th Hijri. Source: pakjobmcqs.com, ghazwa hunain.",
+      "section": "Seerah"
+    },
+    {
+      "id": 120,
+      "text": "On 1st Shawwal, 8th Hijra, how many soldiers were in the strong Islamic force that approached the valley of Hunain?",
+      "options": {
+        "A": "10,000",
+        "B": "12,000",
+        "C": "14,000",
+        "D": "15,000"
+      },
+      "answer": "B",
+      "explanation": "The strong Islamic force that approached the valley of Hunain on 1st Shawwal, 8th Hijra, consisted of 12,000 soldiers. Source: pakjobmcqs.com, ghazwa hunain.",
+      "section": "Seerah"
+    },
+    {
+      "id": 121,
+      "text": "Who was the leader of the Banu Hawazin during the Battle of Hunain?",
+      "options": {
+        "A": "Abu Sufyan ibn Harb",
+        "B": "Malik ibn Auf",
+        "C": "Khalid ibn Walid",
+        "D": "Suhail ibn Amr"
+      },
+      "answer": "B",
+      "explanation": "The leader of the Banu Hawazin during the Battle of Hunain was Malik ibn Auf. Source: pakjobmcqs.com, ghazwa hunain.",
+      "section": "Seerah"
+    },
+    {
+      "id": 122,
+      "text": "Who was sent by Prophet Muhammad (PBUH) to encircle the Valley of Autas during the Battle of Hunain?",
+      "options": {
+        "A": "Ali bin Abi Talib (R.A)",
+        "B": "Khalid bin Walid (R.A)",
+        "C": "Zubair bin Al-Awwam (R.A)",
+        "D": "Abu Amir Ashari (R.A)"
+      },
+      "answer": "D",
+      "explanation": "Prophet Muhammad (PBUH) sent Abu Amir Ashari (R.A) to encircle the Valley of Autas during the Battle of Hunain. Source: pakjobmcqs.com, ghazwa hunain.",
+      "section": "Seerah"
+    },
+    {
+      "id": 123,
+      "text": "Which Ghazwa was fought immediately after the Fatah Makkah?",
+      "options": {
+        "A": "Ghazwa Hunain",
+        "B": "Ghazwa Tabuk",
+        "C": "Ghazwa Khyber",
+        "D": "Ghazwa Mauta"
+      },
+      "answer": "A",
+      "explanation": "The Ghazwa fought immediately after Fatah Makkah was Ghazwa Hunain. Source: pakjobmcqs.com, ghazwa hunain.",
+      "section": "Seerah"
+    },
+    {
+      "id": 124,
+      "text": "Who were the adversaries of the Prophet (PBUH) and his companions in the Battle of Hunain?",
+      "options": {
+        "A": "Banu Nadir and Banu Qaynuqa",
+        "B": "Quraysh and Kinanah",
+        "C": "Hawazin and Thaqif",
+        "D": "Ghatafan and Banu Sulaym"
+      },
+      "answer": "C",
+      "explanation": "The adversaries of the Prophet (PBUH) and his companions in the Battle of Hunain were Hawazin and Thaqif. Source: pakjobmcqs.com, ghazwa hunain.",
+      "section": "Seerah"
+    },
+    {
+      "id": 125,
+      "text": "Who was appointed as the arbitrator in the matter of Banu Qurayza?",
+      "options": {
+        "A": "Hazrat Sa'ad bin Mu'adh (R.A)",
+        "B": "Hazrat Sa'ad bin Ubadah (R.A)",
+        "C": "Hazrat Abdullah bin Ubayy",
+        "D": "Hazrat Usaid bin Hudair (R.A)"
+      },
+      "answer": "A",
+      "explanation": "The arbitrator appointed in the matter of Banu Qurayza was Hazrat Sa'ad bin Mu'adh (R.A). Source: pakjobmcqs.com, ghazwa khandaq (marked as a past-paper MCQ).",
+      "section": "Seerah"
+    },
+    {
+      "id": 126,
+      "text": "Who was the Muslim warrior that killed the pagan Amr ibn Abd al-Wud during the Battle of the Trench (Ghazwa Khandaq)?",
+      "options": {
+        "A": "Hazrat Hamza (RA)",
+        "B": "Hazrat Ali (RA)",
+        "C": "Hazrat Umar (RA)",
+        "D": "Hazrat Khalid bin Walid (RA)"
+      },
+      "answer": "B",
+      "explanation": "The Muslim warrior who killed the pagan champion Amr ibn Abd al-Wud during the Battle of the Trench was Hazrat Ali (RA). Source: pakjobmcqs.com, ghazwa khandaq (marked as a past-paper MCQ).",
+      "section": "Seerah"
+    },
+    {
+      "id": 127,
+      "text": "Who suggested digging a trench as a defensive strategy in the Battle of the Trench?",
+      "options": {
+        "A": "Hazrat Umar (R.A)",
+        "B": "Hazrat Ali (R.A)",
+        "C": "Hazrat Salman Farsi (R.A)",
+        "D": "Hazrat Abu Bakr (R.A)"
+      },
+      "answer": "C",
+      "explanation": "The strategy of digging a trench in the Battle of the Trench (Ghazwa Khandaq) was suggested by Hazrat Salman Farsi (R.A). Source: pakjobmcqs.com, ghazwa khandaq.",
+      "section": "Seerah"
+    },
+    {
+      "id": 128,
+      "text": "During the Battle of the Trench (Ghazwa Khandaq), which tribe inside Madinah betrayed the Muslims?",
+      "options": {
+        "A": "Banu Nadir",
+        "B": "Banu Qurayza",
+        "C": "Banu Qaynuqa",
+        "D": "Banu Mustaliq"
+      },
+      "answer": "B",
+      "explanation": "During the Battle of the Trench, the Jewish tribe Banu Qurayza betrayed the Muslims by siding with the Quraysh-led confederates. Source: pakjobmcqs.com, ghazwa khandaq.",
+      "section": "Seerah"
+    },
+    {
+      "id": 129,
+      "text": "In which battle did Allah send cold, strong winds to aid the Muslims against their enemies?",
+      "options": {
+        "A": "Ghazwa Badr",
+        "B": "Ghazwa Uhud",
+        "C": "Ghazwa Khandaq",
+        "D": "Ghazwa Khyber"
+      },
+      "answer": "C",
+      "explanation": "Allah sent cold, strong winds to aid the Muslims during Ghazwa Khandaq (the Battle of the Trench). Source: pakjobmcqs.com, ghazwa khandaq.",
+      "section": "Seerah"
+    },
+    {
+      "id": 130,
+      "text": "Which battle occurred immediately before the Ghazwa Banu Qurayzah?",
+      "options": {
+        "A": "Ghazwa Uhud",
+        "B": "Ghazwa Khandaq (Trench)",
+        "C": "Ghazwa Badr",
+        "D": "Ghazwa Khyber"
+      },
+      "answer": "B",
+      "explanation": "The battle that occurred immediately before Ghazwa Banu Qurayzah was Ghazwa Khandaq (Trench). Source: pakjobmcqs.com, ghazwa khandaq.",
+      "section": "Seerah"
+    },
+    {
+      "id": 131,
+      "text": "What was the main Jewish settlement about a hundred miles from Madina on the route to Syria, consisting of a series of forts?",
+      "options": {
+        "A": "Khyber",
+        "B": "Taif",
+        "C": "Tabuk",
+        "D": "Hunain"
+      },
+      "answer": "A",
+      "explanation": "The main Jewish settlement about a hundred miles from Madina on the route to Syria, consisting of a series of forts, was Khyber. Source: pakjobmcqs.com, ghazwa khyber.",
+      "section": "Seerah"
+    },
+    {
+      "id": 132,
+      "text": "Which group held the stronghold of Khyber during the time of the Prophet Muhammad (PBUH)?",
+      "options": {
+        "A": "Christians",
+        "B": "Jews",
+        "C": "Hypocrites",
+        "D": "Quraysh"
+      },
+      "answer": "B",
+      "explanation": "The stronghold of Khyber during the time of the Prophet Muhammad (PBUH) was held by the Jews. Source: pakjobmcqs.com, ghazwa khyber.",
+      "section": "Seerah"
+    },
+    {
+      "id": 133,
+      "text": "In which battle was Marhab killed during the Prophet's time?",
+      "options": {
+        "A": "Battle of Khandaq",
+        "B": "Battle of Khaibar",
+        "C": "Battle of Hunain",
+        "D": "Battle of Badr"
+      },
+      "answer": "B",
+      "explanation": "Marhab, the famous Jewish warrior, was killed during the Battle of Khaibar in 7 AH. Source: pakjobmcqs.com, ghazwa khyber.",
+      "section": "Seerah"
+    },
+    {
+      "id": 134,
+      "text": "During which significant event was the Holy Prophet ﷺ poisoned by a lady named Zainab?",
+      "options": {
+        "A": "Conquest of Makkah",
+        "B": "Conquest of Khyber",
+        "C": "Ghazwa Hunain",
+        "D": "Ghazwa Tabuk"
+      },
+      "answer": "B",
+      "explanation": "The Holy Prophet ﷺ was poisoned by a Jewish lady named Zainab bint Al-Harith during the Conquest of Khyber. Source: pakjobmcqs.com, ghazwa khyber.",
+      "section": "Seerah"
+    },
+    {
+      "id": 135,
+      "text": "Who among the companions ate the poisoned food along with the Holy Prophet (PBUH) at the time of Ghazwa Khyber?",
+      "options": {
+        "A": "Hazrat Abu Dujana (RA)",
+        "B": "Hazrat Abdullah bin Rawaha (RA)",
+        "C": "Hazrat Zaid bin Harith (RA)",
+        "D": "Hazrat Bashr bin Bara (RA)"
+      },
+      "answer": "D",
+      "explanation": "The companion who ate the poisoned food along with the Holy Prophet (PBUH) at Ghazwa Khyber and was martyred due to it was Hazrat Bashr bin Bara (RA). Source: pakjobmcqs.com, ghazwa khyber.",
+      "section": "Seerah"
+    },
+    {
+      "id": 136,
+      "text": "What was the name of the main fort of the Jews at Khybar, considered invincible?",
+      "options": {
+        "A": "Qamoos",
+        "B": "Na'im",
+        "C": "Sa'b bin Mu'adh",
+        "D": "Zubair"
+      },
+      "answer": "A",
+      "explanation": "The main fort of the Jews at Khybar, considered invincible, was Qamoos. Source: pakjobmcqs.com, ghazwa khyber.",
+      "section": "Seerah"
+    },
+    {
+      "id": 137,
+      "text": "In which battle was Hazrat Jaffar Tayyar martyred?",
+      "options": {
+        "A": "Battle of Badr",
+        "B": "Battle of Uhud",
+        "C": "Battle of Moota",
+        "D": "Battle of Khandaq"
+      },
+      "answer": "C",
+      "explanation": "Hazrat Jaffar Tayyar (R.A) was martyred in the Battle of Moota (8 AH). Source: pakjobmcqs.com, ghazwa mauta (marked as a past-paper MCQ).",
+      "section": "Seerah"
+    },
+    {
+      "id": 138,
+      "text": "Who was appointed as the leader of the Muslim army after the martyrdom of Hazrat Zaid Bin Haritha in the Battle of Muta?",
+      "options": {
+        "A": "Hazrat Abdullah bin Rawaha (R.A)",
+        "B": "Hazrat Jafar ibn Abi Talib (R.A)",
+        "C": "Hazrat Khalid bin Waleed (R.A)",
+        "D": "Hazrat Abu Ubaidah bin Jarrah (R.A)"
+      },
+      "answer": "B",
+      "explanation": "After the martyrdom of Hazrat Zaid bin Haritha (R.A) in the Battle of Muta, the leadership was assumed by Hazrat Jafar ibn Abi Talib (R.A). Source: pakjobmcqs.com, ghazwa mauta.",
+      "section": "Seerah"
+    },
+    {
+      "id": 139,
+      "text": "Who took over the command of the Muslim army after Jafar ibn Abi Talib (RA) in the Battle of Mota?",
+      "options": {
+        "A": "Hazrat Khalid bin Waleed (RA)",
+        "B": "Hazrat Abdullah bin Rawaha (RA)",
+        "C": "Hazrat Zaid bin Haritha (RA)",
+        "D": "Hazrat Abu Ubaidah (RA)"
+      },
+      "answer": "B",
+      "explanation": "After the martyrdom of Jafar ibn Abi Talib (RA) in the Battle of Mota, the command was taken over by Hazrat Abdullah bin Rawaha (RA). Source: pakjobmcqs.com, ghazwa mauta.",
+      "section": "Seerah"
+    },
+    {
+      "id": 140,
+      "text": "During the Battle of Mauta, how many swords did Khalid Bin Walid (RA) break?",
+      "options": {
+        "A": "Seven",
+        "B": "Nine",
+        "C": "Five",
+        "D": "Eleven"
+      },
+      "answer": "B",
+      "explanation": "During the Battle of Mauta, Khalid Bin Walid (RA) broke nine swords while fighting valiantly. Source: pakjobmcqs.com, ghazwa mauta.",
+      "section": "Seerah"
+    },
+    {
+      "id": 141,
+      "text": "How many Muslim soldiers were martyred in the Battle of Mauta?",
+      "options": {
+        "A": "18",
+        "B": "15",
+        "C": "10",
+        "D": "12"
+      },
+      "answer": "D",
+      "explanation": "Note: most Seerah sources say 12 Muslims were martyred at Mu'tah. In the Battle of Mauta, 12 Muslim soldiers were martyred. Source: pakjobmcqs.com, ghazwa mauta.",
+      "section": "Seerah"
+    },
+    {
+      "id": 142,
+      "text": "During the Ghazwa Tabuk, what punishment was given to the famous Companions who stayed behind?",
+      "options": {
+        "A": "Flogging",
+        "B": "Imprisonment",
+        "C": "Exile from Madina",
+        "D": "Social Boycott"
+      },
+      "answer": "D",
+      "explanation": "The punishment given to the famous Companions who stayed behind during Ghazwa Tabuk was Social Boycott. Source: pakjobmcqs.com, ghazwa tabuk.",
+      "section": "Seerah"
+    },
+    {
+      "id": 143,
+      "text": "During which Ghazwa did Hazrat Uthman (R.A) donate nine hundred camels, one hundred horses, and ten thousand dinars?",
+      "options": {
+        "A": "Ghazwa Badr",
+        "B": "Ghazwa Uhud",
+        "C": "Ghazwa Tabuk",
+        "D": "Ghazwa Hunain"
+      },
+      "answer": "C",
+      "explanation": "Hazrat Uthman (R.A) donated nine hundred camels, one hundred horses, and ten thousand dinars during Ghazwa Tabuk. Source: pakjobmcqs.com, ghazwa tabuk.",
+      "section": "Seerah"
+    },
+    {
+      "id": 144,
+      "text": "During which Ghazwa was Hazrat Ali (R.A) appointed as the caretaker of Madina by the Holy Prophet (PBUH)?",
+      "options": {
+        "A": "Ghazwa Khandaq",
+        "B": "Ghazwa Khyber",
+        "C": "Ghazwa Tabuk",
+        "D": "Ghazwa Hunain"
+      },
+      "answer": "C",
+      "explanation": "Hazrat Ali (R.A) was appointed as the caretaker of Madina by the Holy Prophet (PBUH) during Ghazwa Tabuk. Source: pakjobmcqs.com, ghazwa tabuk.",
+      "section": "Seerah"
+    },
+    {
+      "id": 145,
+      "text": "During which expedition in 9th Hijri did Prophet Muhammad (PBUH) lead a 30,000 strong force to the border of Syria?",
+      "options": {
+        "A": "Expedition of Mauta",
+        "B": "Expedition of Tabuk",
+        "C": "Expedition of Hunain",
+        "D": "Expedition of Khyber"
+      },
+      "answer": "B",
+      "explanation": "In the 9th Hijri, Prophet Muhammad (PBUH) led a 30,000-strong army to the border of Syria during the Expedition of Tabuk. Source: pakjobmcqs.com, ghazwa tabuk.",
+      "section": "Seerah"
+    },
+    {
+      "id": 146,
+      "text": "In which Ghazwa did the hypocrites make an excuse of extreme weather conditions to stay behind?",
+      "options": {
+        "A": "Ghazwa Uhud",
+        "B": "Ghazwa Hunain",
+        "C": "Ghazwa Khandaq",
+        "D": "Ghazwa Tabuk"
+      },
+      "answer": "D",
+      "explanation": "The hypocrites made an excuse of extreme weather conditions to stay behind during Ghazwa Tabuk. Source: pakjobmcqs.com, ghazwa tabuk.",
+      "section": "Seerah"
+    },
+    {
+      "id": 147,
+      "text": "In the Battle of Uhud, after whose martyrdom did Hazrat Ali (R.A) take up the standard?",
+      "options": {
+        "A": "Hazrat Hamza (R.A)",
+        "B": "Hazrat Musab bin Umair (R.A)",
+        "C": "Hazrat Zubair bin Al-Awwam (R.A)",
+        "D": "Hazrat Saad bin Abi Waqqas (R.A)"
+      },
+      "answer": "B",
+      "explanation": "In the Battle of Uhud, Hazrat Ali (R.A) took up the standard after the martyrdom of Hazrat Musab bin Umair (R.A). Source: pakjobmcqs.com, ghazwa uhud (marked as a past-paper MCQ).",
+      "section": "Seerah"
+    },
+    {
+      "id": 148,
+      "text": "Near which city is the site of Ohad located?",
+      "options": {
+        "A": "Makkah",
+        "B": "Taif",
+        "C": "Madina",
+        "D": "Khyber"
+      },
+      "answer": "C",
+      "explanation": "The site of Ohad (Uhud) is located near Madina. Source: pakjobmcqs.com, ghazwa uhud.",
+      "section": "Seerah"
+    },
+    {
+      "id": 149,
+      "text": "In which year was the Battle of Uhud fought?",
+      "options": {
+        "A": "624 AD",
+        "B": "625 AD",
+        "C": "627 AD",
+        "D": "628 AD"
+      },
+      "answer": "B",
+      "explanation": "The Battle of Uhud was fought in 625 AD (3 AH) between the Muslims of Madina and the Quraysh of Makkah. Source: pakjobmcqs.com, ghazwa uhud.",
+      "section": "Seerah"
+    },
+    {
+      "id": 150,
+      "text": "Which Sahabi is known to be buried at the site of the Battle of Uhud?",
+      "options": {
+        "A": "Hazrat Abdullah bin Jahsh (RA)",
+        "B": "Hazrat Mus'ab bin Umair (RA)",
+        "C": "Hazrat Hamza (RA)",
+        "D": "Hazrat Abu Talha (RA)"
+      },
+      "answer": "C",
+      "explanation": "Hazrat Hamza (RA), the beloved uncle of the Prophet (PBUH) and the \"Lion of Allah,\" is buried at the site of the Battle of Uhud along with other martyrs. Source: pakjobmcqs.com, ghazwa uhud.",
+      "section": "Seerah"
+    },
+    {
+      "id": 151,
+      "text": "Who was responsible for the martyrdom of Hazrat Hamza (RA) during the Battle of Uhud?",
+      "options": {
+        "A": "Abu Sufyan",
+        "B": "Wahshi bin Harb",
+        "C": "Khalid bin Walid",
+        "D": "Abu Jahl"
+      },
+      "answer": "B",
+      "explanation": "Hazrat Hamza (RA) was martyred by Wahshi bin Harb, an Abyssinian slave, during the Battle of Uhud. Source: pakjobmcqs.com, ghazwa uhud.",
+      "section": "Seerah"
+    },
+    {
+      "id": 152,
+      "text": "Who was the leader of the Quraysh during the Battle of Uhud?",
+      "options": {
+        "A": "Abu Lahab",
+        "B": "Abu Sufyan",
+        "C": "Abu Jahl",
+        "D": "Khalid bin Waleed"
+      },
+      "answer": "B",
+      "explanation": "The leader of the Quraysh during the Battle of Uhud was Abu Sufyan. Source: pakjobmcqs.com, ghazwa uhud.",
+      "section": "Seerah"
+    },
+    {
+      "id": 153,
+      "text": "How many skillful archers did Prophet Muhammad (PBUH) select to stay on the mountain during the Battle of Uhud?",
+      "options": {
+        "A": "40",
+        "B": "50",
+        "C": "60",
+        "D": "70"
+      },
+      "answer": "B",
+      "explanation": "Prophet Muhammad (PBUH) selected 50 skillful archers to stay on the mountain (Jabal al-Rumah) during the Battle of Uhud. Source: pakjobmcqs.com, ghazwa uhud.",
+      "section": "Seerah"
+    },
+    {
+      "id": 154,
+      "text": "What is the term for the dowry amount that is paid immediately after the nikkah in an Islamic marriage?",
+      "options": {
+        "A": "Mahr al-Muajjal",
+        "B": "Mahr al-Muwassa",
+        "C": "Mahr al-Mithl",
+        "D": "Mahr al-Sunnah"
+      },
+      "answer": "A",
+      "explanation": "The dowry amount paid immediately after the nikkah is called Mahr al-Muajjal. Source: pakjobmcqs.com, islamic terminology key concepts (marked as a past-paper MCQ).",
+      "section": "Seerah"
+    },
+    {
+      "id": 155,
+      "text": "Which month is the fifth month of the Islamic calendar?",
+      "options": {
+        "A": "Rabi al-Thani",
+        "B": "Jumada al-Awwal",
+        "C": "Rajab",
+        "D": "Sha'ban"
+      },
+      "answer": "B",
+      "explanation": "The fifth month of the Islamic (Hijri) calendar is Jumada al-Awwal. Source: pakjobmcqs.com, islamic terminology key concepts.",
+      "section": "Seerah"
+    },
+    {
+      "id": 156,
+      "text": "In which year did Prophet Muhammad (PBUH) send letters to various kings inviting them to Islam?",
+      "options": {
+        "A": "5 AH",
+        "B": "8 AH",
+        "C": "7 AH",
+        "D": "6 AH"
+      },
+      "answer": "D",
+      "explanation": "Note: the letters to rulers were sent at the end of 6 AH / start of 7 AH, after Hudaybiyyah. Prophet Muhammad (PBUH) sent letters to various kings inviting them to Islam in the year 6 AH, following the Treaty of Hudaibia. Source: pakjobmcqs.com, letters to kings (marked as a past-paper MCQ).",
+      "section": "Seerah"
+    },
+    {
+      "id": 157,
+      "text": "Who was the ruler of the Byzantine Empire to whom the Prophet Muhammad (PBUH) sent a letter?",
+      "options": {
+        "A": "Heraclius",
+        "B": "Khosrow Parvez",
+        "C": "Negus (Najashi)",
+        "D": "Muqawqis"
+      },
+      "answer": "A",
+      "explanation": "The Prophet Muhammad (PBUH) sent a letter to Heraclius, the Byzantine Emperor, inviting him to Islam. Source: pakjobmcqs.com, letters to kings.",
+      "section": "Seerah"
+    },
+    {
+      "id": 158,
+      "text": "Which ruler sent a white mule named 'Duldul' as a gift to the Holy Prophet (PBUH)?",
+      "options": {
+        "A": "Negus of Abyssinia",
+        "B": "Maqauqis of Egypt",
+        "C": "Heraclius of Rome",
+        "D": "Chosroes of Persia"
+      },
+      "answer": "B",
+      "explanation": "The white mule named 'Duldul' was sent as a gift to the Holy Prophet (PBUH) by Maqauqis of Egypt. Source: pakjobmcqs.com, letters to kings.",
+      "section": "Seerah"
+    },
+    {
+      "id": 159,
+      "text": "Who was appointed by the Prophet Muhammad (PBUH) as his envoy to the King of Abyssinia?",
+      "options": {
+        "A": "Dihyah al-Kalbi",
+        "B": "Abdullah ibn Hudhafah",
+        "C": "Amr ibn Umayyah",
+        "D": "Hatib ibn Abi Balta'ah"
+      },
+      "answer": "C",
+      "explanation": "The Prophet Muhammad (PBUH) appointed Amr ibn Umayyah as his envoy to the Negus (King) of Abyssinia. Source: pakjobmcqs.com, letters to kings.",
+      "section": "Seerah"
+    },
+    {
+      "id": 160,
+      "text": "What was the reaction of Khosrow II, the Emperor of Iran, upon receiving the Prophet Muhammad's (PBUH) letter?",
+      "options": {
+        "A": "He embraced Islam immediately",
+        "B": "He tore the letter into pieces",
+        "C": "He sent a respectful reply",
+        "D": "He ignored the letter completely"
+      },
+      "answer": "B",
+      "explanation": "Khosrow II (Parvez), the Emperor of Iran, tore the letter into pieces upon receiving the Prophet Muhammad's (PBUH) invitation to Islam. Source: pakjobmcqs.com, letters to kings.",
+      "section": "Seerah"
+    },
+    {
+      "id": 161,
+      "text": "During which years did Heraclius rule the Byzantine Empire?",
+      "options": {
+        "A": "590-620 A.D.",
+        "B": "602-628 A.D.",
+        "C": "622-650 A.D.",
+        "D": "610-641 A.D."
+      },
+      "answer": "D",
+      "explanation": "Heraclius ruled the Byzantine Empire from 610 to 641 A.D. Source: pakjobmcqs.com, letters to kings.",
+      "section": "Seerah"
+    },
+    {
+      "id": 162,
+      "text": "Which companion of the Prophet Muhammad (PBUH) was sent as an ambassador to the Roman Emperor?",
+      "options": {
+        "A": "Hazrat Amr bin Al-Aas (R.A)",
+        "B": "Hazrat Abdullah bin Hudhafah (R.A)",
+        "C": "Hazrat Dihyah bin Khalifa Kalbi (R.A)",
+        "D": "Hazrat Khalid bin Saeed (R.A)"
+      },
+      "answer": "C",
+      "explanation": "The companion sent as an ambassador to the Roman Emperor Heraclius was Hazrat Dihyah bin Khalifa Kalbi (R.A). Source: pakjobmcqs.com, letters to kings.",
+      "section": "Seerah"
+    },
+    {
+      "id": 163,
+      "text": "Which ruler of Egypt did the Prophet Muhammad (PBUH) send a letter to after the Treaty of Hudaibia?",
+      "options": {
+        "A": "Heraclius",
+        "B": "Negus",
+        "C": "Chosroes",
+        "D": "Maqauqas"
+      },
+      "answer": "D",
+      "explanation": "The Prophet Muhammad (PBUH) sent a letter to Maqauqas, the ruler of Egypt, inviting him to Islam after the Treaty of Hudaibia. Source: pakjobmcqs.com, letters to kings.",
+      "section": "Seerah"
+    },
+    {
+      "id": 164,
+      "text": "In which year did the significant event of Shab-e-Miraj occur in the Islamic calendar?",
+      "options": {
+        "A": "620 A.D",
+        "B": "621 A.D",
+        "C": "622 A.D",
+        "D": "623 A.D"
+      },
+      "answer": "B",
+      "explanation": "The event of Shab-e-Miraj (the Night Journey and Ascension) occurred in 621 A.D, approximately one year before the Hijrah to Madina. Source: pakjobmcqs.com, meraj.",
+      "section": "Seerah"
+    },
+    {
+      "id": 165,
+      "text": "During the Night Journey (Miraj), which Prophet did Hazrat Muhammad (SAW) meet at the first heaven?",
+      "options": {
+        "A": "Hazrat Musa (AS)",
+        "B": "Hazrat Isa (AS)",
+        "C": "Hazrat Adam (AS)",
+        "D": "Hazrat Ibrahim (AS)"
+      },
+      "answer": "C",
+      "explanation": "At the first heaven during Miraj, Hazrat Muhammad (SAW) met Hazrat Adam (AS). Source: pakjobmcqs.com, meraj.",
+      "section": "Seerah"
+    },
+    {
+      "id": 166,
+      "text": "During the event of Meraj, on which heaven did Hazrat Musa (A.S) meet the Holy Prophet ﷺ?",
+      "options": {
+        "A": "4th Heaven",
+        "B": "5th Heaven",
+        "C": "6th Heaven",
+        "D": "7th Heaven"
+      },
+      "answer": "C",
+      "explanation": "During Meraj, the Holy Prophet ﷺ met Hazrat Musa (A.S) on the 6th Heaven. Source: pakjobmcqs.com, meraj.",
+      "section": "Seerah"
+    },
+    {
+      "id": 167,
+      "text": "On which level of heaven did Prophet Muhammad ﷺ meet Prophet Idris (A.S) during the event of Mi'raj?",
+      "options": {
+        "A": "2nd",
+        "B": "3rd",
+        "C": "4th",
+        "D": "5th"
+      },
+      "answer": "C",
+      "explanation": "Prophet Muhammad ﷺ met Prophet Idris (A.S) on the 4th level of heaven during the event of Mi'raj. Source: pakjobmcqs.com, meraj.",
+      "section": "Seerah"
+    },
+    {
+      "id": 168,
+      "text": "Which structure is located directly above the Kaaba and is circumambulated by seventy thousand angels daily?",
+      "options": {
+        "A": "Bait al-Mamur",
+        "B": "Bait al-Maqdis",
+        "C": "Sidrat al-Muntaha",
+        "D": "Arsh-e-Mu'alla"
+      },
+      "answer": "A",
+      "explanation": "Bait al-Mamur is the heavenly structure located directly above the Kaaba in the seventh sky, circumambulated by seventy thousand angels daily. Source: pakjobmcqs.com, meraj.",
+      "section": "Seerah"
+    },
+    {
+      "id": 169,
+      "text": "On which heaven did Hazrat Yahya (A.S) meet the Holy Prophet ﷺ during the journey of Meraj?",
+      "options": {
+        "A": "1st Heaven",
+        "B": "3rd Heaven",
+        "C": "2nd Heaven",
+        "D": "4th Heaven"
+      },
+      "answer": "C",
+      "explanation": "Hazrat Yahya (A.S) met the Holy Prophet ﷺ on the 2nd Heaven during the journey of Meraj. Source: pakjobmcqs.com, meraj.",
+      "section": "Seerah"
+    },
+    {
+      "id": 170,
+      "text": "On which date is Shab-e-Mairaj observed in the Islamic calendar?",
+      "options": {
+        "A": "27th Ramadan",
+        "B": "27th Rajab",
+        "C": "15th Shaban",
+        "D": "12th Rabi-ul-Awwal"
+      },
+      "answer": "B",
+      "explanation": "Note: 27 Rajab is the traditional date; the exact date of Miraj is disputed among scholars. Shab-e-Mairaj is observed on the 27th Rajab in the Islamic calendar. Source: pakjobmcqs.com, meraj.",
+      "section": "Seerah"
+    },
+    {
+      "id": 171,
+      "text": "When did the Prophet Muhammad (PBUH) purchase the camel named Qaswa?",
+      "options": {
+        "A": "At the time of the Farewell Pilgrimage",
+        "B": "Before the Battle of Badr",
+        "C": "During the Conquest of Makkah",
+        "D": "During the Hijrah to Madinah"
+      },
+      "answer": "D",
+      "explanation": "The Prophet Muhammad (PBUH) purchased the camel named Qaswa during the Hijrah to Madinah. Source: pakjobmcqs.com, migration to madina (marked as a past-paper MCQ).",
+      "section": "Seerah"
+    },
+    {
+      "id": 172,
+      "text": "In which tribe did the Prophet Muhammad (PBUH) perform his first Friday prayer (Jummah)?",
+      "options": {
+        "A": "Banu Aws",
+        "B": "Banu Najjar",
+        "C": "Banu Qurayza",
+        "D": "Banu Salim"
+      },
+      "answer": "D",
+      "explanation": "The Prophet Muhammad (PBUH) performed his first Friday prayer (Jummah) among the tribe of Banu Salim during the migration to Madina. Source: pakjobmcqs.com, migration to madina (marked as a past-paper MCQ).",
+      "section": "Seerah"
+    },
+    {
+      "id": 173,
+      "text": "In which year did the Holy Prophet (PBUH) offer the first Jumma prayer after migration to Madina?",
+      "options": {
+        "A": "1 A.H",
+        "B": "2 A.H",
+        "C": "3 A.H",
+        "D": "4 A.H"
+      },
+      "answer": "A",
+      "explanation": "The Holy Prophet (PBUH) offered the first Jumma prayer in 1 A.H after migration to Madina. Source: pakjobmcqs.com, migration to madina.",
+      "section": "Seerah"
+    },
+    {
+      "id": 174,
+      "text": "Where is the historical graveyard of Jannat-ul-Baqi located?",
+      "options": {
+        "A": "Makkah",
+        "B": "Madina",
+        "C": "Taif",
+        "D": "Jerusalem"
+      },
+      "answer": "B",
+      "explanation": "The historical graveyard of Jannat-ul-Baqi is located in Madina. Source: pakjobmcqs.com, migration to madina.",
+      "section": "Seerah"
+    },
+    {
+      "id": 175,
+      "text": "Where did the Prophet Muhammad (SAW) establish his court after the migration to Madina?",
+      "options": {
+        "A": "Dar-ul-Arqam",
+        "B": "Masjid-e-Quba",
+        "C": "Masjid-e-Nabvi",
+        "D": "Suffah"
+      },
+      "answer": "C",
+      "explanation": "After migrating to Madina, the Prophet Muhammad (SAW) established his court and administrative center at Masjid-e-Nabvi. Source: pakjobmcqs.com, migration to madina.",
+      "section": "Seerah"
+    },
+    {
+      "id": 176,
+      "text": "Which companion of the Holy Prophet (SAAW) recited verses of the Holy Quran in the presence of Najjashi?",
+      "options": {
+        "A": "Hazrat Zaid bin Harith (R.A)",
+        "B": "Hazrat Abdullah bin Masood (R.A)",
+        "C": "Hazrat Musab bin Umair (R.A)",
+        "D": "Hazrat Jaffar Tyar (R.A)"
+      },
+      "answer": "D",
+      "explanation": "The companion who recited verses of the Holy Quran in the presence of Najjashi was Hazrat Jaffar Tyar (R.A). Source: pakjobmcqs.com, migrations to habsha (marked as a past-paper MCQ).",
+      "section": "Seerah"
+    },
+    {
+      "id": 177,
+      "text": "In which Nabvi year did the first migration to Habsha (Abyssinia) take place?",
+      "options": {
+        "A": "3rd Nabvi Year",
+        "B": "4th Nabvi Year",
+        "C": "5th Nabvi Year",
+        "D": "6th Nabvi Year"
+      },
+      "answer": "C",
+      "explanation": "Fixed: the first migration to Abyssinia took place in Rajab of the 5th year of Prophethood (615 AD). Source: pakjobmcqs.com, migrations to habsha.",
+      "section": "Seerah"
+    },
+    {
+      "id": 178,
+      "text": "Which relatives of the Prophet Muhammad (PBUH) participated in the first migration to Abyssinia?",
+      "options": {
+        "A": "Zaid (R.A) and Umm Kulthum (R.A)",
+        "B": "Ali (R.A) and Fatima (R.A)",
+        "C": "Abu Bakr (R.A) and Aisha (R.A)",
+        "D": "Usman (R.A) and Ruqayya (R.A)"
+      },
+      "answer": "D",
+      "explanation": "The Prophet's (PBUH) son-in-law Usman (R.A) and his daughter Ruqayya (R.A) were the relatives who participated in the first migration to Abyssinia. Source: pakjobmcqs.com, migrations to habsha.",
+      "section": "Seerah"
+    },
+    {
+      "id": 179,
+      "text": "In which Islamic month did the emigrants return from Abyssinia (Habsha)?",
+      "options": {
+        "A": "Ramadan",
+        "B": "Shawwal",
+        "C": "Dhul Hijjah",
+        "D": "Muharram"
+      },
+      "answer": "B",
+      "explanation": "Low confidence: the migrants are reported to have returned in Shawwal of the 5th Nabawi year. The emigrants returned from Abyssinia (Habsha) in the Islamic month of Shawwal. Source: pakjobmcqs.com, migrations to habsha.",
+      "section": "Seerah"
+    },
+    {
+      "id": 180,
+      "text": "Which ruler's funeral was conducted by the Holy Prophet Muhammad (PBUH) despite being far from Madina?",
+      "options": {
+        "A": "Negus of Habsha (Najashi)",
+        "B": "Heraclius of Rome",
+        "C": "Chosroes of Persia",
+        "D": "Muqawqis of Egypt"
+      },
+      "answer": "A",
+      "explanation": "The Holy Prophet Muhammad (PBUH) performed the funeral prayer (Salat-ul-Ghaib) of Negus of Habsha (Najashi) despite being far from Madina. Source: pakjobmcqs.com, migrations to habsha.",
+      "section": "Seerah"
+    },
+    {
+      "id": 181,
+      "text": "How many women accompanied the second migration to Abyssinia?",
+      "options": {
+        "A": "16",
+        "B": "22",
+        "C": "20",
+        "D": "18"
+      },
+      "answer": "D",
+      "explanation": "The second migration to Abyssinia (Habsha) included 18 women among the emigrants. Source: pakjobmcqs.com, migrations to habsha.",
+      "section": "Seerah"
+    },
+    {
+      "id": 182,
+      "text": "How did King Najashi react after listening to the passage from Surah Maryam?",
+      "options": {
+        "A": "He rejected the message and asked the Muslims to leave",
+        "B": "He wept and acknowledged the common source of the passage and the Anjeel",
+        "C": "He remained silent and referred the matter to his bishops",
+        "D": "He accepted Islam immediately and abdicated his throne"
+      },
+      "answer": "B",
+      "explanation": "King Najashi wept and acknowledged the common source of the passage and the Anjeel after listening to the verses from Surah Maryam. Source: pakjobmcqs.com, migrations to habsha.",
+      "section": "Seerah"
+    },
+    {
+      "id": 183,
+      "text": "The Battle of Sariya is known as a battle in which _?",
+      "options": {
+        "A": "Prophet Muhammad (PBUH) did not participate",
+        "B": "Prophet Muhammad (PBUH) led the army himself",
+        "C": "only Ansar participated",
+        "D": "only Muhajireen participated"
+      },
+      "answer": "A",
+      "explanation": "The Battle of Sariya is known as a battle in which Prophet Muhammad (PBUH) did not participate. Source: pakjobmcqs.com, miscellaneous ghazwat expeditions (marked as a past-paper MCQ).",
+      "section": "Seerah"
+    },
+    {
+      "id": 184,
+      "text": "In which year did the Ghazwa of Banu Nadhir take place during the Islamic calendar?",
+      "options": {
+        "A": "3 A.H",
+        "B": "6 A.H",
+        "C": "5 A.H",
+        "D": "4 A.H"
+      },
+      "answer": "D",
+      "explanation": "The Ghazwa of Banu Nadhir took place in 4 A.H (Rabi' al-Awwal) during the Islamic calendar. Source: pakjobmcqs.com, miscellaneous ghazwat expeditions.",
+      "section": "Seerah"
+    },
+    {
+      "id": 185,
+      "text": "During which Ghazwa was the revelation of Tayammum granted to the Muslims?",
+      "options": {
+        "A": "Ghazwa Badr",
+        "B": "Ghazwa Khandaq",
+        "C": "Ghazwa Uhud",
+        "D": "Ghazwa Banu Mustaliq"
+      },
+      "answer": "D",
+      "explanation": "The revelation of Tayammum (dry ablution) was granted to the Muslims during Ghazwa Banu Mustaliq. Source: pakjobmcqs.com, miscellaneous ghazwat expeditions.",
+      "section": "Seerah"
+    },
+    {
+      "id": 186,
+      "text": "Who led the last Sariya (military expedition) during the lifetime of the Prophet Muhammad (PBUH)?",
+      "options": {
+        "A": "Hazrat Usama bin Zaid (RA)",
+        "B": "Hazrat Saad bin Abi Waqas (RA)",
+        "C": "Hazrat Khalid bin Waleed (RA)",
+        "D": "Hazrat Ali bin Abi Talib (RA)"
+      },
+      "answer": "A",
+      "explanation": "Fixed: the last expedition dispatched by the Prophet (PBUH) was the army of Usama bin Zaid (RA) towards Syria; it set out after his passing under Hazrat Abu Bakr (RA). Source: pakjobmcqs.com, miscellaneous ghazwat expeditions.",
+      "section": "Seerah"
+    },
+    {
+      "id": 187,
+      "text": "Which mosque was ordered by Allah to be destroyed?",
+      "options": {
+        "A": "Masjid Quba",
+        "B": "Masjid Zirar",
+        "C": "Masjid Qiblatain",
+        "D": "Masjid Fath"
+      },
+      "answer": "B",
+      "explanation": "The mosque ordered by Allah to be destroyed was Masjid Zirar, built by hypocrites to cause disunity among Muslims. Source: pakjobmcqs.com, miscellaneous seerah madinan period (marked as a past-paper MCQ).",
+      "section": "Seerah"
+    },
+    {
+      "id": 188,
+      "text": "In which city was the Masjid e Zarar located during the time of the Prophet Muhammad (P.B.U.H)?",
+      "options": {
+        "A": "Makkah",
+        "B": "Madina",
+        "C": "Taif",
+        "D": "Khyber"
+      },
+      "answer": "B",
+      "explanation": "Masjid e Zarar was located in Madina during the time of the Prophet Muhammad (P.B.U.H). Source: pakjobmcqs.com, miscellaneous seerah madinan period.",
+      "section": "Seerah"
+    },
+    {
+      "id": 189,
+      "text": "Who were responsible for the construction of the Mosque Zarrar according to Islamic history?",
+      "options": {
+        "A": "The Jews",
+        "B": "The Hypocrites",
+        "C": "The Christians",
+        "D": "The Polytheists of Makkah"
+      },
+      "answer": "B",
+      "explanation": "Masjid-e-Zarrar was built by the Hypocrites (Munafiqeen) of Madina under the leadership of Abu Amir to harm the Muslim community. Source: pakjobmcqs.com, miscellaneous seerah madinan period.",
+      "section": "Seerah"
+    },
+    {
+      "id": 190,
+      "text": "Where was Prophet Muhammad (PBUH) laid to rest after his passing?",
+      "options": {
+        "A": "Makkah",
+        "B": "Taif",
+        "C": "Madina",
+        "D": "Jerusalem"
+      },
+      "answer": "C",
+      "explanation": "Prophet Muhammad (PBUH) was laid to rest in Madina, in the chamber of his wife Aisha (R.A), which is now part of Masjid-e-Nabawi. Source: pakjobmcqs.com, miscellaneous seerah madinan period.",
+      "section": "Seerah"
+    },
+    {
+      "id": 191,
+      "text": "Who is the Christian-turned-Muslim writer of the biography Muhammad: His Life Based on the Earliest Sources?",
+      "options": {
+        "A": "William Montgomery Watt",
+        "B": "Karen Armstrong",
+        "C": "Martin Lings",
+        "D": "Michael H. Hart"
+      },
+      "answer": "C",
+      "explanation": "The Christian-turned-Muslim writer of the biography *Muhammad: His Life Based on the Earliest Sources* is Martin Lings (also known as Abu Bakr Siraj ad-Din). Source: pakjobmcqs.com, miscellaneous seerah makkan period (marked as a past-paper MCQ).",
+      "section": "Seerah"
+    },
+    {
+      "id": 192,
+      "text": "What is the central theme of the book 'Zad al-Ma'ad fi Huda Khayr al-Ibad'?",
+      "options": {
+        "A": "Fiqh",
+        "B": "Seerah",
+        "C": "Hadith",
+        "D": "Tafseer"
+      },
+      "answer": "B",
+      "explanation": "The central theme of 'Zad al-Ma'ad fi Huda Khayr al-Ibad' is Seerah. Source: pakjobmcqs.com, miscellaneous seerah makkan period.",
+      "section": "Seerah"
+    },
+    {
+      "id": 193,
+      "text": "Where is Jannat al-Mu'alla located?",
+      "options": {
+        "A": "Medina",
+        "B": "Jerusalem",
+        "C": "Mecca",
+        "D": "Taif"
+      },
+      "answer": "C",
+      "explanation": "Jannat al-Mu'alla is located in Mecca. Source: pakjobmcqs.com, miscellaneous seerah makkan period (marked as a past-paper MCQ).",
+      "section": "Seerah"
+    },
+    {
+      "id": 194,
+      "text": "Who wrote an 'Essay on life of Hazrat Muhammad (peace be upon him)'?",
+      "options": {
+        "A": "Sir Syed Ahmad Khan",
+        "B": "Shibli Nomani",
+        "C": "Allama Iqbal",
+        "D": "Syed Ameer Ali"
+      },
+      "answer": "A",
+      "explanation": "Fixed: Sir Syed Ahmad Khan wrote \"A Series of Essays on the Life of Mohammed\" (1870) in reply to William Muir. Source: pakjobmcqs.com, miscellaneous seerah makkan period.",
+      "section": "Seerah"
+    },
+    {
+      "id": 195,
+      "text": "Who wrote the first book on Seerah Rasool Ullah?",
+      "options": {
+        "A": "Ibn Kathir",
+        "B": "Ibn Ishaq",
+        "C": "Al-Tabari",
+        "D": "Ibn Hisham"
+      },
+      "answer": "B",
+      "explanation": "Fixed: Muhammad ibn Ishaq (d. 150/151 AH) wrote the first comprehensive Seerah; Ibn Hisham later edited/abridged it. Source: pakjobmcqs.com, miscellaneous seerah makkan period.",
+      "section": "Seerah"
+    },
+    {
+      "id": 196,
+      "text": "What is the name of the famous book written by Ibn Hisham?",
+      "options": {
+        "A": "Tarikh al-Rusul wa al-Muluk",
+        "B": "Kitab al-Maghazi",
+        "C": "Al-Sirah al-Nabawiyyah",
+        "D": "Al-Bidayah wa al-Nihayah"
+      },
+      "answer": "C",
+      "explanation": "Ibn Hisham's famous book is Al-Sirah al-Nabawiyyah, which is an edited and abridged version of Ibn Ishaq's earlier biography of the Prophet (PBUH). Source: pakjobmcqs.com, miscellaneous seerah makkan period.",
+      "section": "Seerah"
+    },
+    {
+      "id": 197,
+      "text": "Which month is the seventh month of the Islamic calendar?",
+      "options": {
+        "A": "Sha'ban",
+        "B": "Shawwal",
+        "C": "Ramadan",
+        "D": "Rajab"
+      },
+      "answer": "D",
+      "explanation": "The seventh month of the Islamic calendar is Rajab. Source: pakjobmcqs.com, miscellaneous (marked as a past-paper MCQ).",
+      "section": "Seerah"
+    },
+    {
+      "id": 198,
+      "text": "According to Islamic tradition, what was the first creation of Allah?",
+      "options": {
+        "A": "The Throne (Arsh)",
+        "B": "The Pen (Qalam)",
+        "C": "The Light of the Prophet (Noor-e-Muhammadi)",
+        "D": "Water"
+      },
+      "answer": "B",
+      "explanation": "According to Islamic tradition, the first creation of Allah was the Pen (Qalam). Source: pakjobmcqs.com, miscellaneous.",
+      "section": "Seerah"
+    },
+    {
+      "id": 199,
+      "text": "How many obligatory acts (Faraid) are there in Ghusl (ritual purification bath) according to Islamic teachings?",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5"
+      },
+      "answer": "B",
+      "explanation": "There are 3 obligatory acts (Faraid) in Ghusl according to Islamic teachings. Source: pakjobmcqs.com, miscellaneous.",
+      "section": "Seerah"
+    },
+    {
+      "id": 200,
+      "text": "Which is the first mosque ever built on Earth according to Islamic tradition?",
+      "options": {
+        "A": "Masjid-ul-Haram (Bait-ul-Allah)",
+        "B": "Masjid-e-Nabwi",
+        "C": "Masjid-e-Quba",
+        "D": "Masjid-e-Aqsa"
+      },
+      "answer": "A",
+      "explanation": "According to Islamic tradition, Masjid-ul-Haram (Bait-ul-Allah) in Makkah is the first mosque ever built on Earth. Source: pakjobmcqs.com, miscellaneous.",
+      "section": "Seerah"
+    },
+    {
+      "id": 201,
+      "text": "Which angel is responsible for taking the souls of living beings according to Islamic belief?",
+      "options": {
+        "A": "Hazrat Jibraeel (AS)",
+        "B": "Hazrat Mikaeel (AS)",
+        "C": "Hazrat Izraeel (AS)",
+        "D": "Hazrat Israfeel (AS)"
+      },
+      "answer": "C",
+      "explanation": "The angel responsible for taking the souls of living beings is Hazrat Izraeel (AS), also known as Malak-ul-Maut (the Angel of Death). Source: pakjobmcqs.com, miscellaneous.",
+      "section": "Seerah"
+    },
+    {
+      "id": 202,
+      "text": "Which angel is responsible for the provision of rain and food according to Islamic belief?",
+      "options": {
+        "A": "Hazrat Jibraeel A.S",
+        "B": "Hazrat Israfeel A.S",
+        "C": "Hazrat Meekail A.S",
+        "D": "Hazrat Izraeel A.S"
+      },
+      "answer": "C",
+      "explanation": "The angel responsible for the provision of rain and food (sustenance) according to Islamic belief is Hazrat Meekail (Michael) A.S. Source: pakjobmcqs.com, miscellaneous.",
+      "section": "Seerah"
+    },
+    {
+      "id": 203,
+      "text": "Which person is known as the 'Teacher of Madina'?",
+      "options": {
+        "A": "Musab Bin Umair (R.A)",
+        "B": "Saad Bin Abi Waqas (R.A)",
+        "C": "Abdullah Bin Masud (R.A)",
+        "D": "Salman Al-Farsi (R.A)"
+      },
+      "answer": "A",
+      "explanation": "The person known as the 'Teacher of Madina' is Musab Bin Umair (R.A). Source: pakjobmcqs.com, pledges of aqabah (marked as a past-paper MCQ).",
+      "section": "Seerah"
+    },
+    {
+      "id": 204,
+      "text": "What is meant by the term 'Mithaq' in Islamic history?",
+      "options": {
+        "A": "Covenant",
+        "B": "Migration",
+        "C": "Brotherhood",
+        "D": "Constitution"
+      },
+      "answer": "A",
+      "explanation": "The term 'Mithaq' in Islamic history means Covenant, referring to a solemn pledge or agreement. Source: pakjobmcqs.com, pledges of aqabah.",
+      "section": "Seerah"
+    },
+    {
+      "id": 205,
+      "text": "Which two tribes in Madina accepted Islam at the time of the Prophet Muhammad's migration (Hijrah)?",
+      "options": {
+        "A": "Ows and Khazraj",
+        "B": "Quraysh and Thaqif",
+        "C": "Aad and Thamud",
+        "D": "Banu Nadir and Banu Qurayza"
+      },
+      "answer": "A",
+      "explanation": "The two tribes in Madina that accepted Islam at the time of the Prophet's migration were Ows and Khazraj. Source: pakjobmcqs.com, pledges of aqabah.",
+      "section": "Seerah"
+    },
+    {
+      "id": 206,
+      "text": "Who was sent by the Prophet to Yasrib to teach the Qur'an and Islam after the First Pledge of Aqba?",
+      "options": {
+        "A": "Hazrat Musab bin Umair (RA)",
+        "B": "Hazrat Abdullah bin Masood (RA)",
+        "C": "Hazrat Muaz bin Jabal (RA)",
+        "D": "Hazrat Zaid bin Harith (RA)"
+      },
+      "answer": "A",
+      "explanation": "The Prophet (PBUH) sent Hazrat Musab bin Umair (RA) to Yasrib after the First Pledge of Aqba to teach the Qur'an and Islam. Source: pakjobmcqs.com, pledges of aqabah.",
+      "section": "Seerah"
+    },
+    {
+      "id": 207,
+      "text": "How many people from Yasrib participated in the First Pledge of Aqba in 621 A.D.?",
+      "options": {
+        "A": "6",
+        "B": "12",
+        "C": "18",
+        "D": "24"
+      },
+      "answer": "B",
+      "explanation": "12 people from Yathrib participated in the First Pledge of Aqabah in 621 A.D. Source: pakjobmcqs.com, pledges of aqabah.",
+      "section": "Seerah"
+    },
+    {
+      "id": 208,
+      "text": "Who was appointed as the first ambassador of Islam by the Prophet Muhammad (P.B.U.H)?",
+      "options": {
+        "A": "Hazrat Abu Bakr Siddique (R.A)",
+        "B": "Hazrat Mus'ab bin Umair (R.A)",
+        "C": "Hazrat Ali ibn Abi Talib (R.A)",
+        "D": "Hazrat Zaid bin Haritha (R.A)"
+      },
+      "answer": "B",
+      "explanation": "The first ambassador of Islam appointed by the Prophet Muhammad (P.B.U.H) was Hazrat Mus'ab bin Umair (R.A). Source: pakjobmcqs.com, pledges of aqabah.",
+      "section": "Seerah"
+    },
+    {
+      "id": 209,
+      "text": "In which year did a deputation from Madina accept Islam?",
+      "options": {
+        "A": "618 A.D.",
+        "B": "620 A.D.",
+        "C": "622 A.D.",
+        "D": "624 A.D."
+      },
+      "answer": "B",
+      "explanation": "A deputation from Madina accepted Islam in the year 620 A.D. Source: pakjobmcqs.com, pledges of aqabah.",
+      "section": "Seerah"
+    },
+    {
+      "id": 210,
+      "text": "How many people, including men and women, participated in the Second Pledge of Aqabah?",
+      "options": {
+        "A": "Men 70 and Women 5",
+        "B": "Men 73 and Women 2",
+        "C": "Men 75 and Women 3",
+        "D": "Men 72 and Women 1"
+      },
+      "answer": "B",
+      "explanation": "The Second Pledge of Aqabah was attended by 73 men and 2 women. Source: pakjobmcqs.com, pledges of aqabah.",
+      "section": "Seerah"
+    },
+    {
+      "id": 211,
+      "text": "Who among the following was the slave of Hazrat Khadija before marrying the Holy Prophet (PBUH)?",
+      "options": {
+        "A": "Anas bin Malik (R.A)",
+        "B": "Zaid bin Harith (R.A)",
+        "C": "Bilal (R.A)",
+        "D": "Mysra"
+      },
+      "answer": "D",
+      "explanation": "The slave of Hazrat Khadija (R.A) before her marriage to the Holy Prophet (PBUH) was Mysra. Source: pakjobmcqs.com, servants belongings.",
+      "section": "Seerah"
+    },
+    {
+      "id": 212,
+      "text": "What material was used to craft the seal of the Prophet Muhammad (P.B.U.H)?",
+      "options": {
+        "A": "Gold",
+        "B": "Iron",
+        "C": "Copper",
+        "D": "Silver"
+      },
+      "answer": "D",
+      "explanation": "The seal of the Prophet Muhammad (P.B.U.H) was crafted from silver. Source: pakjobmcqs.com, servants belongings.",
+      "section": "Seerah"
+    },
+    {
+      "id": 213,
+      "text": "The Treaty of Hudaibiya was signed to last for how many years?",
+      "options": {
+        "A": "5 years",
+        "B": "15 years",
+        "C": "10 years",
+        "D": "20 years"
+      },
+      "answer": "C",
+      "explanation": "The Treaty of Hudaibiya was signed to last for 10 years. Source: pakjobmcqs.com, treaty of hudaibia (marked as a past-paper MCQ).",
+      "section": "Seerah"
+    },
+    {
+      "id": 214,
+      "text": "During the Treaty of Hudaibia, which companion of the Prophet (PBUH) was detained by the Quraysh?",
+      "options": {
+        "A": "Hazrat Abu Bakr (R.A)",
+        "B": "Hazrat Ali (R.A)",
+        "C": "Hazrat Usman (R.A)",
+        "D": "Hazrat Umar (R.A)"
+      },
+      "answer": "C",
+      "explanation": "The companion detained by the Quraysh during the Treaty of Hudaibia was Hazrat Usman (R.A). Source: pakjobmcqs.com, treaty of hudaibia.",
+      "section": "Seerah"
+    },
+    {
+      "id": 215,
+      "text": "How many companions of the Holy Prophet (PBUH) were present at the Bait-e-Shajrah?",
+      "options": {
+        "A": "1400",
+        "B": "1200",
+        "C": "1500",
+        "D": "1300"
+      },
+      "answer": "A",
+      "explanation": "The number of companions of the Holy Prophet (PBUH) present at Bait-e-Shajrah was 1400. Source: pakjobmcqs.com, treaty of hudaibia.",
+      "section": "Seerah"
+    },
+    {
+      "id": 216,
+      "text": "According to the Treaty of Hudaibia, in what condition were Muslims required to carry their swords in the following year?",
+      "options": {
+        "A": "Not allowed to carry swords at all",
+        "B": "Unsheathed",
+        "C": "Sheathed",
+        "D": "Carried only by leaders"
+      },
+      "answer": "C",
+      "explanation": "According to the Treaty of Hudaibia, Muslims were required to carry their swords sheathed when they returned for Umrah the following year. Source: pakjobmcqs.com, treaty of hudaibia.",
+      "section": "Seerah"
+    },
+    {
+      "id": 217,
+      "text": "What rumor spread among Muslims when Hazrat Usman (R.A) stayed longer in Makkah during his mission to negotiate with the Quraysh?",
+      "options": {
+        "A": "He had accepted Islam",
+        "B": "He was martyred by the Quraysh",
+        "C": "He had joined the Quraysh",
+        "D": "He was taken as a prisoner of war"
+      },
+      "answer": "B",
+      "explanation": "When Hazrat Usman (R.A) was delayed in Makkah during negotiations, a rumor spread that he was martyred by the Quraysh, which led to the Pledge of Ridwan (Bait-e-Ridwan) under the tree. Source: pakjobmcqs.com, treaty of hudaibia.",
+      "section": "Seerah"
+    },
+    {
+      "id": 218,
+      "text": "Who served as the representative of the Quraish during the Treaty of Hudaibiya negotiations?",
+      "options": {
+        "A": "Abu Sufyan bin Harb",
+        "B": "Sohail bin Umro",
+        "C": "Ikrimah bin Abi Jahl",
+        "D": "Khalid bin Waleed"
+      },
+      "answer": "B",
+      "explanation": "The Quraish appointed Sohail bin Umro as their representative to negotiate the Treaty of Hudaibiya with the Prophet (PBUH). Source: pakjobmcqs.com, treaty of hudaibia.",
+      "section": "Seerah"
+    },
+    {
+      "id": 219,
+      "text": "Which two parties signed the Treaty of Hudaybiyyah?",
+      "options": {
+        "A": "Makkan tribe of Quraysh and the Muslims",
+        "B": "Makkan tribe of Quraysh and the Jews of Madina",
+        "C": "Muslims and the tribe of Banu Bakr",
+        "D": "Muslims and the Romans"
+      },
+      "answer": "A",
+      "explanation": "The Treaty of Hudaybiyyah was signed between the Makkan tribe of Quraysh and the Muslims in 6 AH (628 CE). Source: pakjobmcqs.com, treaty of hudaibia.",
+      "section": "Seerah"
+    },
+    {
+      "id": 220,
+      "text": "In which year did the Holy Prophet (PBUH) declare the Year of Sorrow?",
+      "options": {
+        "A": "619 AD",
+        "B": "620 AD",
+        "C": "618 AD",
+        "D": "621 AD"
+      },
+      "answer": "A",
+      "explanation": "The Holy Prophet (PBUH) declared the Year of Sorrow in 619 AD. Source: pakjobmcqs.com, year of sorrow (marked as a past-paper MCQ).",
+      "section": "Seerah"
+    },
+    {
+      "id": 221,
+      "text": "After the Year of Sorrow, where did the Holy Prophet (PBUH) go to preach Islam?",
+      "options": {
+        "A": "Madina",
+        "B": "Habsha",
+        "C": "Taif",
+        "D": "Yathrib"
+      },
+      "answer": "C",
+      "explanation": "After the Year of Sorrow, the Holy Prophet (PBUH) went to Taif to preach Islam, where he was harshly rejected and pelted with stones. Source: pakjobmcqs.com, year of sorrow.",
+      "section": "Seerah"
+    },
+    {
+      "id": 222,
+      "text": "In which year did Hazrat Khadija (RA), the first wife of the Holy Prophet (PBUH), pass away?",
+      "options": {
+        "A": "619 A.D",
+        "B": "620 A.D",
+        "C": "618 A.D",
+        "D": "621 A.D"
+      },
+      "answer": "A",
+      "explanation": "Hazrat Khadija (RA) passed away in 619 A.D, a year famously known as the Year of Sorrow (Aam-ul-Huzn). Source: pakjobmcqs.com, year of sorrow.",
+      "section": "Seerah"
+    }
+  ]
+}

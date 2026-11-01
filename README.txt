@@ -32,6 +32,16 @@ HOW IT WORKS (Objective)
     year, and shown on the home cards and sidebar. "Reset scores" (top right) clears the
     selected year only.
 
+PRACTICE BANK (Objective > Practice bank in the left sidebar, or the banner on the home page)
+  * Islamic Studies: 676 checked MCQs in 91 packs of up to 20 questions, using the same quiz:
+      19 CSS past-paper packs (2005-2023), 10 topics split into 38 parts, 34 mixed sets, and Random 20.
+  * Links: index.html#practice/islamic-studies, index.html#practice/islamic-studies/seerah-3,
+    index.html#practice/islamic-studies/css-2015 and index.html#practice/islamic-studies/set-7
+  * Bank scores are saved separately (cssMcqPractice.islamic-studies.scores.v1) from yearly scores.
+  * Data: data/practice/islamic-studies/ (main JSON, by-topic/, sources.md, verification-report.md)
+    and data/practice-catalog.json. After editing, run  python rebuild-data.py  to refresh js/practice-data.js.
+  * The keys are practice keys, NOT official FPSC keys (see verification-report.md).
+
 ANSWER KEYS
   These are PRACTICE keys prepared for revision — NOT official FPSC keys.
   Punjabi (all years) and Current Affairs 2026 came from scans; treat their keys as best-effort.

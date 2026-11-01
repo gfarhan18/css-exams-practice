@@ -1,0 +1,849 @@
+{
+  "id": "islamic-studies-companions-family",
+  "name": "Islamic Studies: Companions & Family",
+  "title": "Islamic Studies: Companions & Family",
+  "subtitle": "CSS / FPSC Islamiat practice · Companions & Family · 64 MCQs",
+  "bank": "practice",
+  "year": null,
+  "rtl": false,
+  "answerKeyNote": "Practice answer key (not an official FPSC key). Keys were cross-checked and corrected where needed; items marked Low confidence are noted in the explanation.",
+  "source": [
+    "https://cssprep.com.pk/css-islamic-studies-past-papers-mcqs/ (year pages /islamic-studies-mcqs-2005/ … /islamic-studies-mcqs-2023/)",
+    "https://pakjobmcqs.com/subjects/islamic-studies (topic chapters)",
+    "https://fpscmcqs.com/wp-content/uploads/2021/04/Islamiat-Past-Papers-MCQs-2005-2016-For-CSSFPSCPPSCNTSPTS.pdf (CSS Times solved 2005–2016, used to cross-check keys)"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "text": "Who was the first woman to embrace Islam?",
+      "options": {
+        "A": "Hazrat Fatima (RA)",
+        "B": "Hazrat Zainab (RA)",
+        "C": "Hazrat Khadija (RA)",
+        "D": "Hazrat Ayesha (RA)"
+      },
+      "answer": "C",
+      "explanation": "Source: CSS 2005 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Companions & Family · CSS 2005"
+    },
+    {
+      "id": 2,
+      "text": "Who was the first martyr in Islam?",
+      "options": {
+        "A": "Hazrat Hamza (RA)",
+        "B": "Hazrat Yasir (RA)",
+        "C": "Hazarat Sumaya (RA),Yasir’s wife",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "Source: CSS 2005 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Companions & Family · CSS 2005"
+    },
+    {
+      "id": 3,
+      "text": "Who is called “saqi zam zam”?",
+      "options": {
+        "A": "Hazrat Abbas (RA)",
+        "B": "Hazrat Hamzah (RA)",
+        "C": "Hazrat Muaz bin Jabal (RA)",
+        "D": "Hazrat Muawiyah (RA)"
+      },
+      "answer": "A",
+      "explanation": "Source: CSS 2007 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Companions & Family · CSS 2007"
+    },
+    {
+      "id": 4,
+      "text": "What was the name of foster sister of the Holy Prophet (PBUH)?",
+      "options": {
+        "A": "Hazrat Salmah (RA)",
+        "B": "Hazrat Raqiyyah (RA)",
+        "C": "Hazrat Mariah (RA)",
+        "D": "Hazrat Shima (RA)"
+      },
+      "answer": "D",
+      "explanation": "Source: CSS 2007 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Companions & Family · CSS 2007"
+    },
+    {
+      "id": 5,
+      "text": "Who was appointed as Usher for Hijrat-e-Madinah?",
+      "options": {
+        "A": "Hazrat Saad bin Ubada (R.A)",
+        "B": "Hazrat Utab bin Usaid (R.A)",
+        "C": "Hazrat Abdullah bin Ariqat (R.A)",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "Source: CSS 2008 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Companions & Family · CSS 2008"
+    },
+    {
+      "id": 6,
+      "text": "Ghaseel-ul-Malaika is the title of ____________.",
+      "options": {
+        "A": "Hazrat Abu Talha (R.A)",
+        "B": "Hazrat Abu Dahana (R.A)",
+        "C": "Hazrat Hanzala (R.A)",
+        "D": "Hazrat Saad (R.A)"
+      },
+      "answer": "C",
+      "explanation": "Source: CSS 2008 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Companions & Family · CSS 2008"
+    },
+    {
+      "id": 7,
+      "text": "Sahib Us-Ser is the nickname of ___________.",
+      "options": {
+        "A": "Hazrat Khuzaifa (R.A)",
+        "B": "Hazrat Uqba (R.A)",
+        "C": "Hazrat Saad (R.A)",
+        "D": "None of these"
+      },
+      "answer": "A",
+      "explanation": "Source: CSS 2008 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Companions & Family · CSS 2008"
+    },
+    {
+      "id": 8,
+      "text": "Which one of the following is included amongst the Ushera-e-Mubhashera?",
+      "options": {
+        "A": "Saad Bin Ubaid",
+        "B": "Saad bin Abada",
+        "C": "Saad Bin Abi waqas",
+        "D": "hazrat Hamza"
+      },
+      "answer": "C",
+      "explanation": "Source: CSS 2009 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Companions & Family · CSS 2009"
+    },
+    {
+      "id": 9,
+      "text": "Khateeb –ul-Anbia is a title of _________.",
+      "options": {
+        "A": "Hazrat Idress (AS)",
+        "B": "Hazrat Ibrahim (AS)",
+        "C": "Hazrat Yaqoob (AS)",
+        "D": "Hazrat Shoaib (AS)"
+      },
+      "answer": "D",
+      "explanation": "Source: CSS 2009 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Companions & Family · CSS 2009"
+    },
+    {
+      "id": 10,
+      "text": "Umm-ul-Masakeen was the title given to ___________, one of the wives of the Prophet (SAW).",
+      "options": {
+        "A": "Harat Sauda (RA)",
+        "B": "Hazrat Zainab benet Jehash (RA)",
+        "C": "Hazrat Zainab bint Khuzima (RA)",
+        "D": "Hazrat Safia (RA)"
+      },
+      "answer": "C",
+      "explanation": "Source: CSS 2009 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Companions & Family · CSS 2009"
+    },
+    {
+      "id": 11,
+      "text": "Ameen–ul-Ummat is the title of Hazrat _____________.",
+      "options": {
+        "A": "Emar bin Yasir (RA)",
+        "B": "Suleman Farsi (RA)",
+        "C": "Abu-ubaida bin Al jaraah (RA)",
+        "D": "Abu Saeeed Khuzir (RA)"
+      },
+      "answer": "C",
+      "explanation": "Source: CSS 2009 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Companions & Family · CSS 2009"
+    },
+    {
+      "id": 12,
+      "text": "The title given to the pioneers of Islam was ____________.",
+      "options": {
+        "A": "Mushahidoon al Awwalun",
+        "B": "Muslimoon al Awwalun",
+        "C": "Assabiqoon al Awwalun",
+        "D": "Al-awwalun al awwalun"
+      },
+      "answer": "C",
+      "explanation": "Source: CSS 2010 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Companions & Family · CSS 2010"
+    },
+    {
+      "id": 13,
+      "text": "To which tribe did Hazrat Khalid-bin-Waleed (R.A) belong?",
+      "options": {
+        "A": "Banu Ummayya",
+        "B": "Banu Asad",
+        "C": "Banu Zuhra",
+        "D": "Banu Makhzoom"
+      },
+      "answer": "D",
+      "explanation": "Source: CSS 2011 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Companions & Family · CSS 2011"
+    },
+    {
+      "id": 14,
+      "text": "Zou-Shadatian is the title of Hazrat ___________.",
+      "options": {
+        "A": "Khuzaima bin Sabit (R.A)",
+        "B": "Huzaifa bin Yaman (R.A)",
+        "C": "Ammar bin Yasir (R.A)",
+        "D": "Ahmed bin Hanbal"
+      },
+      "answer": "A",
+      "explanation": "Source: CSS 2011 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Companions & Family · CSS 2011"
+    },
+    {
+      "id": 15,
+      "text": "Which wives of Hazrat Muhammad (PBUH) fathered offspring?",
+      "options": {
+        "A": "Hadhrat Umme Habibah (Radhiyallaho anha)",
+        "B": "Hadhrat Khadijah (Radhiyallaho anha)",
+        "C": "Hadhrat Aishah (Radhiyallaho anha)",
+        "D": "Hadhrat Zainab bint Jahsh (Radhiyallaho anha)"
+      },
+      "answer": "B",
+      "explanation": "Source: CSS 2015 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Companions & Family · CSS 2015"
+    },
+    {
+      "id": 16,
+      "text": "Jadul Anbaya is the name given to _____________.",
+      "options": {
+        "A": "Prophet Adam Alaihis Salaam",
+        "B": "Prophet Ibrahim (Abraham) Alaihis Salaam",
+        "C": "Prophet Muhammad (PBUH)",
+        "D": "Prophet Ismaeel Alaihis Salaam"
+      },
+      "answer": "B",
+      "explanation": "Source: CSS 2015 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Companions & Family · CSS 2015"
+    },
+    {
+      "id": 17,
+      "text": "Amin al-Ummah (Custodian of Ummah) is the name given to ___________ Sahabi.",
+      "options": {
+        "A": "Anas bin Malik",
+        "B": "Abu Ubaida bin al-Jarraah",
+        "C": "Thabit bin ad-Duhdaah",
+        "D": "Saad bin Abi Waqas"
+      },
+      "answer": "B",
+      "explanation": "Source: CSS 2015 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Companions & Family · CSS 2015"
+    },
+    {
+      "id": 18,
+      "text": "Four Sacred months of Hijri Calendar are …………….",
+      "options": {
+        "A": "Muharram, Rajab, Jumada al-thani, and Shawwal",
+        "B": "Dhil-Qi’dah, Dhil-Hijjah, Muharram and Rajab",
+        "C": "Safar, Sha’ban, Rabi’al-awwal , and Shawwal",
+        "D": "Dhu al-Hijjah, Ramadan, Rabi’al-awwal, Rabi-ul- Sani"
+      },
+      "answer": "B",
+      "explanation": "Source: CSS 2015 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Companions & Family · CSS 2015"
+    },
+    {
+      "id": 19,
+      "text": "Who was called as Abul Bashar e Sani?",
+      "options": {
+        "A": "Hazrat Ibraheem (AS)",
+        "B": "Hazrat Shees (AS)",
+        "C": "Hazrat Noah (AS)",
+        "D": "Hazrat Uzair (AS)"
+      },
+      "answer": "C",
+      "explanation": "Source: CSS 2016 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Companions & Family · CSS 2016"
+    },
+    {
+      "id": 20,
+      "text": "Umm Al-Masakeen is the title of ____________.",
+      "options": {
+        "A": "Hazrat Umme Habibah",
+        "B": "Hazrat Zainab bint Khuzayma",
+        "C": "Hazrat Umme Salamah",
+        "D": "Hazrat Maimoonah"
+      },
+      "answer": "B",
+      "explanation": "Source: CSS 2016 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Companions & Family · CSS 2016"
+    },
+    {
+      "id": 21,
+      "text": "The first lady inspector of Madina appointed by Hazrat Umer was _________.",
+      "options": {
+        "A": "Umm Al-Shifaa bint Umer",
+        "B": "Umm Al-Shifaa bint Sabit",
+        "C": "Umm Al-Shifaa bint Abdullah",
+        "D": "Umm Al-Shifaa bint Inam"
+      },
+      "answer": "C",
+      "explanation": "Source: CSS 2017 Islamiat past paper (cssprep.com.pk).",
+      "section": "Companions & Family · CSS 2017"
+    },
+    {
+      "id": 22,
+      "text": "After demise of Hajrat Khadija (RA),Prophet (PBUH) married with _____________.",
+      "options": {
+        "A": "Hazrat Maria (R.A)",
+        "B": "Hazrat Safia (R.A)",
+        "C": "Hazrat Sawda (R.A)",
+        "D": "Hazrat Memoona (R.A)"
+      },
+      "answer": "C",
+      "explanation": "Source: CSS 2018 Islamiat past paper (cssprep.com.pk).",
+      "section": "Companions & Family · CSS 2018"
+    },
+    {
+      "id": 23,
+      "text": "Who was the spoken or foster son of Prophet Muhammad (PBUH)?",
+      "options": {
+        "A": "Zaid Bin Haris (R.A)",
+        "B": "Ibrahim",
+        "C": "Qasim",
+        "D": "All of these"
+      },
+      "answer": "A",
+      "explanation": "Source: CSS 2018 Islamiat past paper (cssprep.com.pk).",
+      "section": "Companions & Family · CSS 2018"
+    },
+    {
+      "id": 24,
+      "text": "Khalil Ullah is the title of ___________.",
+      "options": {
+        "A": "Hazrat Ibrahim (A.S)",
+        "B": "Hazrat Mosa (A.S)",
+        "C": "Hazrat Khalid (A.S)",
+        "D": "Hazrat Ishaque (A.S)"
+      },
+      "answer": "A",
+      "explanation": "Source: CSS 2019 Islamiat past paper (cssprep.com.pk).",
+      "section": "Companions & Family · CSS 2019"
+    },
+    {
+      "id": 25,
+      "text": "______________ was given the title of Zulnoorain.",
+      "options": {
+        "A": "Hazrat Usman (R.A)",
+        "B": "Hazrat Ali (R.A)",
+        "C": "Hazrat Bilal (R.A)",
+        "D": "Hazrat Umer (R.A)"
+      },
+      "answer": "A",
+      "explanation": "Source: CSS 2019 Islamiat past paper (cssprep.com.pk).",
+      "section": "Companions & Family · CSS 2019"
+    },
+    {
+      "id": 26,
+      "text": "Name of the mother of Prophet’s (PBUH) son Hazrat Ibrahim bin Muhammad (RA) is _________.",
+      "options": {
+        "A": "Ruqayya (RA)",
+        "B": "Malia al-Qibtiyya (RA)",
+        "C": "Zainab (RA)",
+        "D": "Khadija (RA)"
+      },
+      "answer": "B",
+      "explanation": "Source: CSS 2021 Islamiat past paper (cssprep.com.pk).",
+      "section": "Companions & Family · CSS 2021"
+    },
+    {
+      "id": 27,
+      "text": "Dai Haleema belonged to which tribe?",
+      "options": {
+        "A": "BANU ADI",
+        "B": "BANU TAIM",
+        "C": "BANU SAAD",
+        "D": "NONE OF THESE"
+      },
+      "answer": "C",
+      "explanation": "Source: CSS 2022 Islamiat past paper (cssprep.com.pk).",
+      "section": "Companions & Family · CSS 2022"
+    },
+    {
+      "id": 28,
+      "text": "Who was the first female Shaheed (martyr) of Islam?",
+      "options": {
+        "A": "HAZRAT SUMAYYAH BINT KHABBAT (RA)",
+        "B": "HAZRAT NAFEESA (RA)",
+        "C": "HAZRAT UMM AIMEN (RA)",
+        "D": "NONE OF THESE"
+      },
+      "answer": "A",
+      "explanation": "Source: CSS 2022 Islamiat past paper (cssprep.com.pk).",
+      "section": "Companions & Family · CSS 2022"
+    },
+    {
+      "id": 29,
+      "text": "Hazrat Abu Bakr belonged to which tribe?",
+      "options": {
+        "A": "BANU TAYM",
+        "B": "QURAISH",
+        "C": "BANU UMMAYYA",
+        "D": "NONE OF THESE"
+      },
+      "answer": "A",
+      "explanation": "Source: CSS 2023 Islamiat past paper (cssprep.com.pk).",
+      "section": "Companions & Family · CSS 2023"
+    },
+    {
+      "id": 30,
+      "text": "Who is referred to by the titles 'Batool' and 'Zahra' in Islamic tradition?",
+      "options": {
+        "A": "Hazrat Aisha (R.A)",
+        "B": "Hazrat Maryam (A.S)",
+        "C": "Hazrat Khadija (R.A)",
+        "D": "Hazrat Fatima (R.A)"
+      },
+      "answer": "D",
+      "explanation": "The titles 'Batool' and 'Zahra' refer to Hazrat Fatima (R.A), the beloved daughter of Prophet Muhammad (PBUH). Source: pakjobmcqs.com, ahl e bait.",
+      "section": "Companions & Family"
+    },
+    {
+      "id": 31,
+      "text": "Who was the parental grandmother of Prophet Muhammad (PBUH)?",
+      "options": {
+        "A": "Fatimah bint Amr",
+        "B": "Fatimah bint Asad",
+        "C": "Barakah (Umm Ayman)",
+        "D": "Halima Saadia"
+      },
+      "answer": "A",
+      "explanation": "The parental grandmother of Prophet Muhammad (PBUH) was Fatimah bint Amr. Source: pakjobmcqs.com, ahl e bait.",
+      "section": "Companions & Family"
+    },
+    {
+      "id": 32,
+      "text": "Who was the ten-year-old cousin of Prophet Muhammad (PBUH) who accepted Islam early?",
+      "options": {
+        "A": "Hazrat Zaid bin Harith (R.A)",
+        "B": "Hazrat Abu Bakr Siddiq (R.A)",
+        "C": "Hazrat Ali ibn Abi Talib (R.A)",
+        "D": "Hazrat Usman ibn Affan (R.A)"
+      },
+      "answer": "C",
+      "explanation": "The ten-year-old cousin of Prophet Muhammad (PBUH) who accepted Islam early was Hazrat Ali ibn Abi Talib (R.A). Source: pakjobmcqs.com, ahl e bait.",
+      "section": "Companions & Family"
+    },
+    {
+      "id": 33,
+      "text": "Which family member of Hazrat Hussain was also martyred at Karbala at the age of six months?",
+      "options": {
+        "A": "Hazrat Ali al-Asghar",
+        "B": "Hazrat Ali Akbar",
+        "C": "Hazrat Qasim ibn Hasan",
+        "D": "Hazrat Aun ibn Abdullah"
+      },
+      "answer": "A",
+      "explanation": "The six-month-old infant martyred at Karbala was Hazrat Ali al-Asghar, the youngest son of Hazrat Hussain (R.A). Source: pakjobmcqs.com, ahl e bait.",
+      "section": "Companions & Family"
+    },
+    {
+      "id": 34,
+      "text": "Who holds the title of Sayyidatu nisa-alamin in Islamic history?",
+      "options": {
+        "A": "Hazrat Aisha (R.A)",
+        "B": "Hazrat Fatima (R.A)",
+        "C": "Hazrat Maryam (A.S)",
+        "D": "Hazrat Khadija (R.A)"
+      },
+      "answer": "B",
+      "explanation": "The title Sayyidatu nisa-alamin (Leader of the Women of the Worlds) is held by Hazrat Fatima (R.A). Source: pakjobmcqs.com, ahl e bait.",
+      "section": "Companions & Family"
+    },
+    {
+      "id": 35,
+      "text": "What was the relationship of Hazrat Ali (RA) to the Holy Prophet (PBUH)?",
+      "options": {
+        "A": "Uncle and son-in-law",
+        "B": "Nephew and son-in-law",
+        "C": "First cousin and brother-in-law",
+        "D": "First cousin and son-in-law"
+      },
+      "answer": "D",
+      "explanation": "Hazrat Ali (RA) was the first cousin and son-in-law of the Holy Prophet (PBUH). Source: pakjobmcqs.com, ahl e bait.",
+      "section": "Companions & Family"
+    },
+    {
+      "id": 36,
+      "text": "Which companion of the Prophet (PBUH) is among the Ashra Mubashra?",
+      "options": {
+        "A": "Hazrat Saad bin Abi Waqqas (R.A)",
+        "B": "Hazrat Anas bin Malik (R.A)",
+        "C": "Hazrat Abu Hurairah (R.A)",
+        "D": "Hazrat Abdullah bin Masood (R.A)"
+      },
+      "answer": "A",
+      "explanation": "Hazrat Saad bin Abi Waqqas (R.A) is among the Ashra Mubashra, the ten companions promised Paradise by the Prophet (PBUH). Source: pakjobmcqs.com, ashra mubashra (marked as a past-paper MCQ).",
+      "section": "Companions & Family"
+    },
+    {
+      "id": 37,
+      "text": "How many companions of the Prophet Muhammad (PBUH) are referred to as Ashra-e-Mubashra, who were given the glad tidings of Paradise?",
+      "options": {
+        "A": "8",
+        "B": "12",
+        "C": "10",
+        "D": "15"
+      },
+      "answer": "C",
+      "explanation": "The Ashra-e-Mubashra refers to 10 companions of the Prophet Muhammad (PBUH) who were given the glad tidings of Paradise during their lifetime. Source: pakjobmcqs.com, ashra mubashra.",
+      "section": "Companions & Family"
+    },
+    {
+      "id": 38,
+      "text": "Which companion of the Prophet (PBUH) is not included among the Ashara-e-Mubashara, the ten companions promised paradise?",
+      "options": {
+        "A": "Hazrat Abu Bakr (RA)",
+        "B": "Hazrat Umar (RA)",
+        "C": "Hazrat Abu Huraira (RA)",
+        "D": "Hazrat Ali (RA)"
+      },
+      "answer": "C",
+      "explanation": "Hazrat Abu Huraira (RA) is not among the Ashara-e-Mubashara, although he is one of the most prolific narrators of Hadith. Source: pakjobmcqs.com, ashra mubashra.",
+      "section": "Companions & Family"
+    },
+    {
+      "id": 39,
+      "text": "Who among the following is the brother-in-law of Hazrat Umar (RA) and also one of the Ashra-e-Mubashra?",
+      "options": {
+        "A": "Zubayr ibn al-Awwam",
+        "B": "Abdur Rahman ibn Awf",
+        "C": "Sa'id ibn Zayd",
+        "D": "Talha ibn Ubaydullah"
+      },
+      "answer": "C",
+      "explanation": "Sa'id ibn Zayd is the brother-in-law of Hazrat Umar (RA) and also among the Ashra-e-Mubashra. Source: pakjobmcqs.com, ashra mubashra.",
+      "section": "Companions & Family"
+    },
+    {
+      "id": 40,
+      "text": "Who among the Ashra Mubashara was honored with the title of Amin-ul-Ummat?",
+      "options": {
+        "A": "Hazrat Talha Bin Ubaidullah (RA)",
+        "B": "Hazrat Saad Bin Abi Waqqas (RA)",
+        "C": "Hazrat Abdur Rehman Bin Auf (RA)",
+        "D": "Hazrat Abu-Ubaidah Bin Al-Jirrah (RA)"
+      },
+      "answer": "D",
+      "explanation": "Hazrat Abu-Ubaidah Bin Al-Jirrah (RA) was honored with the title Amin-ul-Ummat (Custodian of the Ummah) by the Holy Prophet (PBUH). Source: pakjobmcqs.com, ashra mubashra.",
+      "section": "Companions & Family"
+    },
+    {
+      "id": 41,
+      "text": "What is the significance of the term 'Ashra Mubashra' in Islamic history?",
+      "options": {
+        "A": "Ten companions promised Paradise",
+        "B": "Ten early martyrs of Islam",
+        "C": "Ten scribes of the Quran",
+        "D": "Ten commanders of Ghazwat"
+      },
+      "answer": "A",
+      "explanation": "The term 'Ashra Mubashra' refers to the ten companions promised Paradise by the Prophet Muhammad (PBUH) during their lifetime. Source: pakjobmcqs.com, ashra mubashra.",
+      "section": "Companions & Family"
+    },
+    {
+      "id": 42,
+      "text": "To which tribe did Hazrat Usman (R.A) belong?",
+      "options": {
+        "A": "Banu Hashim",
+        "B": "Banu Umayyah",
+        "C": "Banu Makhzum",
+        "D": "Banu Qurayza"
+      },
+      "answer": "B",
+      "explanation": "Hazrat Usman (R.A) belonged to the Banu Umayyah tribe of the Quraysh. Source: pakjobmcqs.com, ashra mubashra.",
+      "section": "Companions & Family"
+    },
+    {
+      "id": 43,
+      "text": "In which year did Hazrat Ume Kalsoom (RA) pass away?",
+      "options": {
+        "A": "628 AD",
+        "B": "632 AD",
+        "C": "630 AD",
+        "D": "634 AD"
+      },
+      "answer": "C",
+      "explanation": "Hazrat Ume Kalsoom (RA) passed away in 630 AD. Source: pakjobmcqs.com, children (marked as a past-paper MCQ).",
+      "section": "Companions & Family"
+    },
+    {
+      "id": 44,
+      "text": "Where was Hazrat Bibi Fatima (RA) born?",
+      "options": {
+        "A": "Madinah",
+        "B": "Jerusalem",
+        "C": "Taif",
+        "D": "Makkah"
+      },
+      "answer": "D",
+      "explanation": "Hazrat Bibi Fatima (RA) was born in Makkah. Source: pakjobmcqs.com, children.",
+      "section": "Companions & Family"
+    },
+    {
+      "id": 45,
+      "text": "Who was the second daughter of the Holy Prophet Muhammad ﷺ?",
+      "options": {
+        "A": "Hazrat Zainab (RA)",
+        "B": "Hazrat Ruqayyah (RA)",
+        "C": "Hazrat Umm Kulthum (RA)",
+        "D": "Hazrat Fatima (RA)"
+      },
+      "answer": "B",
+      "explanation": "The second daughter of the Holy Prophet Muhammad ﷺ was Hazrat Ruqayyah (RA). Source: pakjobmcqs.com, children.",
+      "section": "Companions & Family"
+    },
+    {
+      "id": 46,
+      "text": "Who was the eldest son of the Prophet Muhammad (PBUH)?",
+      "options": {
+        "A": "Hazrat Abdullah",
+        "B": "Hazrat Ibrahim",
+        "C": "Hazrat Qasim",
+        "D": "Hazrat Tahir"
+      },
+      "answer": "C",
+      "explanation": "The eldest son of the Prophet Muhammad (PBUH) was Hazrat Qasim, who was born to Hazrat Khadija (R.A) and passed away in infancy. Source: pakjobmcqs.com, children.",
+      "section": "Companions & Family"
+    },
+    {
+      "id": 47,
+      "text": "Who was the third daughter of the Holy Prophet Muhammad (ﷺ)?",
+      "options": {
+        "A": "Hazrat Zainab (RA)",
+        "B": "Hazrat Ruqayyah (RA)",
+        "C": "Hazrat Umme Kulsom (RA)",
+        "D": "Hazrat Fatima (RA)"
+      },
+      "answer": "C",
+      "explanation": "The third daughter of the Holy Prophet Muhammad (ﷺ) was Hazrat Umme Kulsom (RA). Source: pakjobmcqs.com, children.",
+      "section": "Companions & Family"
+    },
+    {
+      "id": 48,
+      "text": "Who is referred to as 'Khatoon-e-Jannat' in Islamic history?",
+      "options": {
+        "A": "Bibi Khadija (R.A)",
+        "B": "Bibi Fatima (R.A)",
+        "C": "Bibi Aisha (R.A)",
+        "D": "Bibi Maryam (A.S)"
+      },
+      "answer": "B",
+      "explanation": "The title 'Khatoon-e-Jannat' (Lady of Paradise) refers to Bibi Fatima (R.A) , the beloved daughter of Prophet Muhammad (PBUH). Source: pakjobmcqs.com, children.",
+      "section": "Companions & Family"
+    },
+    {
+      "id": 49,
+      "text": "How many daughters did Hazrat Khadija (RA) have with the Prophet Muhammad ﷺ?",
+      "options": {
+        "A": "Two",
+        "B": "Three",
+        "C": "Four",
+        "D": "Five"
+      },
+      "answer": "C",
+      "explanation": "Hazrat Khadija (RA) had four daughters with the Prophet Muhammad ﷺ. Source: pakjobmcqs.com, children.",
+      "section": "Companions & Family"
+    },
+    {
+      "id": 50,
+      "text": "Which of the Prophet Muhammad's (PBUH) children was not born to Hazrat Khadija (R.A)?",
+      "options": {
+        "A": "Hazrat Ibrahim (R.A)",
+        "B": "Hazrat Fatima (R.A)",
+        "C": "Hazrat Qasim (R.A)",
+        "D": "Hazrat Ruqayya (R.A)"
+      },
+      "answer": "A",
+      "explanation": "The Prophet Muhammad (PBUH) had Hazrat Ibrahim (R.A) from Hazrat Maria Qibtiya (R.A), while all his other children were born to Hazrat Khadija (R.A). Source: pakjobmcqs.com, children.",
+      "section": "Companions & Family"
+    },
+    {
+      "id": 51,
+      "text": "How many sons and daughters did the Holy Prophet Muhammad (PBUH) have?",
+      "options": {
+        "A": "2 sons and 4 daughters",
+        "B": "3 sons and 3 daughters",
+        "C": "3 sons and 4 daughters",
+        "D": "4 sons and 3 daughters"
+      },
+      "answer": "C",
+      "explanation": "The Holy Prophet Muhammad (PBUH) had 3 sons and 4 daughters. Source: pakjobmcqs.com, children.",
+      "section": "Companions & Family"
+    },
+    {
+      "id": 52,
+      "text": "How many sons did Prophet Muhammad ﷺ have with his first wife, Hazrat Khadija (RA)?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "answer": "B",
+      "explanation": "Note: the sons were Qasim and Abdullah (Tayyib and Tahir are taken as Abdullah's titles); some sources count more. Prophet Muhammad ﷺ had 2 sons with Hazrat Khadija (RA): Hazrat Qasim and Hazrat Abdullah (also known as Tayyab/Tahir). Source: pakjobmcqs.com, children.",
+      "section": "Companions & Family"
+    },
+    {
+      "id": 53,
+      "text": "The title 'Maseeh ul Islam' is associated with which Companion of the Prophet Muhammad (PBUH)?",
+      "options": {
+        "A": "Hazrat Abu Bakr Siddique (R.A)",
+        "B": "Hazrat Abu Zar Ghaffari (R.A)",
+        "C": "Hazrat Salman Farsi (R.A)",
+        "D": "Hazrat Bilal Habshi (R.A)"
+      },
+      "answer": "B",
+      "explanation": "Note: Abu Dhar Ghifari (RA) is often called \"Masih-ul-Islam\" because of his asceticism. The title 'Maseeh ul Islam' (Messiah of Islam) is associated with Hazrat Abu Zar Ghaffari (R.A). Source: pakjobmcqs.com, prominent sahaba r a (marked as a past-paper MCQ).",
+      "section": "Companions & Family"
+    },
+    {
+      "id": 54,
+      "text": "What was the real name of Hazrat Abu Huraira (RA)?",
+      "options": {
+        "A": "Abdul Rehman Ibne Sakhr Ad-Dausi",
+        "B": "Abdullah Ibne Masood",
+        "C": "Abdul Rehman Ibne Auf",
+        "D": "Abdullah Ibne Abbas"
+      },
+      "answer": "A",
+      "explanation": "The real name of Hazrat Abu Huraira (RA) was Abdul Rehman Ibne Sakhr Ad-Dausi. Source: pakjobmcqs.com, prominent sahaba r a (marked as a past-paper MCQ).",
+      "section": "Companions & Family"
+    },
+    {
+      "id": 55,
+      "text": "Who was the first companion of the Prophet Muhammad (PBUH) to be buried in Jannatul Baqi?",
+      "options": {
+        "A": "Hazrat Saad bin Muaz (R.A)",
+        "B": "Hazrat Asad bin Zurarah (R.A)",
+        "C": "Hazrat Uthman bin Mazoun (R.A)",
+        "D": "Hazrat Abdullah bin Masood (R.A)"
+      },
+      "answer": "C",
+      "explanation": "The first companion to be buried in Jannatul Baqi was Hazrat Uthman bin Mazoun (R.A). Source: pakjobmcqs.com, prominent sahaba r a.",
+      "section": "Companions & Family"
+    },
+    {
+      "id": 56,
+      "text": "Where is Hazrat Bilal (RA) buried?",
+      "options": {
+        "A": "Madina",
+        "B": "Makkah",
+        "C": "Damascus",
+        "D": "Jerusalem"
+      },
+      "answer": "C",
+      "explanation": "Hazrat Bilal (RA) is buried in Damascus, Syria. Source: pakjobmcqs.com, prominent sahaba r a.",
+      "section": "Companions & Family"
+    },
+    {
+      "id": 57,
+      "text": "Who is known by the titles Zun-Noorain and Jame-al-Quran among the following Sahaba?",
+      "options": {
+        "A": "Hazrat Abu Bakr (RA)",
+        "B": "Hazrat Usman (RA)",
+        "C": "Hazrat Ali (RA)",
+        "D": "Hazrat Umar (RA)"
+      },
+      "answer": "B",
+      "explanation": "Hazrat Usman (RA) is known as Zun-Noorain (Possessor of Two Lights) because he married two daughters of the Prophet (PBUH) and Jame-al-Quran (Compiler of the Quran) for his role in the official compilation of the Holy Quran. Source: pakjobmcqs.com, prominent sahaba r a.",
+      "section": "Companions & Family"
+    },
+    {
+      "id": 58,
+      "text": "Who was responsible for liberating Amir bin Faheera?",
+      "options": {
+        "A": "Hazrat Abu Bakr (RA)",
+        "B": "Hazrat Umar (RA)",
+        "C": "Hazrat Usman (RA)",
+        "D": "Hazrat Ali (RA)"
+      },
+      "answer": "A",
+      "explanation": "Amir bin Faheera was liberated from slavery by Hazrat Abu Bakr (RA). Source: pakjobmcqs.com, prominent sahaba r a.",
+      "section": "Companions & Family"
+    },
+    {
+      "id": 59,
+      "text": "What was the name of Hazrat Abu Sufyan's daughter who married the Prophet Muhammad (PBUH)?",
+      "options": {
+        "A": "Hazrat Juwairiyah (R.A)",
+        "B": "Hazrat Umm Salamah (R.A)",
+        "C": "Hazrat Safiyyah (R.A)",
+        "D": "Hazrat Umm Habibah (R.A)"
+      },
+      "answer": "D",
+      "explanation": "Hazrat Abu Sufyan's daughter who married the Prophet Muhammad (PBUH) was Hazrat Umm Habibah (R.A). Source: pakjobmcqs.com, wives (marked as a past-paper MCQ).",
+      "section": "Companions & Family"
+    },
+    {
+      "id": 60,
+      "text": "What was the Kunya (nickname) of Hazrat Aisha (R.A.)?",
+      "options": {
+        "A": "Umm Abdullah",
+        "B": "Umm Habiba",
+        "C": "Umm Kulthum",
+        "D": "Umm Salama"
+      },
+      "answer": "A",
+      "explanation": "The Kunya (nickname) of Hazrat Aisha (R.A.) was Umm Abdullah. Source: pakjobmcqs.com, wives.",
+      "section": "Companions & Family"
+    },
+    {
+      "id": 61,
+      "text": "Who among the following are referred to as Umm-ul-Momineen in Islamic tradition?",
+      "options": {
+        "A": "The daughters of the Holy Prophet (PBUH)",
+        "B": "The wives of the Holy Prophet (PBUH)",
+        "C": "The female companions who accepted Islam first",
+        "D": "The women of the Ahl-e-Bait"
+      },
+      "answer": "B",
+      "explanation": "The title Umm-ul-Momineen (Mother of the Believers) is exclusively used for the wives of the Holy Prophet (PBUH). Source: pakjobmcqs.com, wives.",
+      "section": "Companions & Family"
+    },
+    {
+      "id": 62,
+      "text": "Which wife of Prophet Muhammad (P.B.U.H) was the daughter of the head of the Banu Nadir tribe?",
+      "options": {
+        "A": "Umm Habiba (Ramla bint Abi Sufyan)",
+        "B": "Juwairiya bint al-Harith",
+        "C": "Safiya bint Huyayy",
+        "D": "Maimuna bint al-Harith"
+      },
+      "answer": "C",
+      "explanation": "The wife of Prophet Muhammad (P.B.U.H) who was the daughter of the head of the Banu Nadir tribe was Safiya bint Huyayy. Source: pakjobmcqs.com, wives (marked as a past-paper MCQ).",
+      "section": "Companions & Family"
+    },
+    {
+      "id": 63,
+      "text": "What was the name of the woman from Banu Mustaliq whom Prophet Muhammad (PBUH) married?",
+      "options": {
+        "A": "Hazrat Safiyya bint Huyayy (RA)",
+        "B": "Hazrat Umm Habiba bint Abi Sufyan (RA)",
+        "C": "Hazrat Maimuna bint al-Harith (RA)",
+        "D": "Hazrat Juwayriya bint al-Harith (RA)"
+      },
+      "answer": "D",
+      "explanation": "The woman from Banu Mustaliq whom Prophet Muhammad (PBUH) married was Hazrat Juwayriya bint al-Harith (RA). Source: pakjobmcqs.com, wives (marked as a past-paper MCQ).",
+      "section": "Companions & Family"
+    },
+    {
+      "id": 64,
+      "text": "The Incident of Ifk (Slander) is related to which wife of the Holy Prophet ﷺ?",
+      "options": {
+        "A": "Hazrat Saudah (RA)",
+        "B": "Hazrat Hafsa (RA)",
+        "C": "Hazrat Ayesha (RA)",
+        "D": "Hazrat Umm-e-Salma (RA)"
+      },
+      "answer": "C",
+      "explanation": "The Incident of Ifk (Slander) is related to Hazrat Ayesha (RA). Source: pakjobmcqs.com, wives (marked as a past-paper MCQ).",
+      "section": "Companions & Family"
+    }
+  ]
+}

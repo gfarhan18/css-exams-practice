@@ -1,0 +1,719 @@
+{
+  "id": "islamic-studies-pillars-worship",
+  "name": "Islamic Studies: Pillars & Worship",
+  "title": "Islamic Studies: Pillars & Worship",
+  "subtitle": "CSS / FPSC Islamiat practice · Pillars & Worship · 54 MCQs",
+  "bank": "practice",
+  "year": null,
+  "rtl": false,
+  "answerKeyNote": "Practice answer key (not an official FPSC key). Keys were cross-checked and corrected where needed; items marked Low confidence are noted in the explanation.",
+  "source": [
+    "https://cssprep.com.pk/css-islamic-studies-past-papers-mcqs/ (year pages /islamic-studies-mcqs-2005/ … /islamic-studies-mcqs-2023/)",
+    "https://pakjobmcqs.com/subjects/islamic-studies (topic chapters)",
+    "https://fpscmcqs.com/wp-content/uploads/2021/04/Islamiat-Past-Papers-MCQs-2005-2016-For-CSSFPSCPPSCNTSPTS.pdf (CSS Times solved 2005–2016, used to cross-check keys)"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "text": "What is Istelam?",
+      "options": {
+        "A": "Salam to Kaaba",
+        "B": "Salam to Hajre Aswad",
+        "C": "Kissing Hajre Aswad",
+        "D": "Praying at Muqam –e-Ibrahim"
+      },
+      "answer": "C",
+      "explanation": "Source: CSS 2005 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Pillars & Worship · CSS 2005"
+    },
+    {
+      "id": 2,
+      "text": "Which one is called Masha’ar-ul-Haram?",
+      "options": {
+        "A": "Mina valley",
+        "B": "Muzdalifa valley",
+        "C": "Arafat",
+        "D": "Madina"
+      },
+      "answer": "B",
+      "explanation": "Source: CSS 2005 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Pillars & Worship · CSS 2005"
+    },
+    {
+      "id": 3,
+      "text": "Gathering on Arafat during Hajj is made on ____________.",
+      "options": {
+        "A": "9th Zil Hajjah",
+        "B": "3rd Ramazan",
+        "C": "2nd Safar",
+        "D": "18 Shawal"
+      },
+      "answer": "A",
+      "explanation": "Source: CSS 2006 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Pillars & Worship · CSS 2006"
+    },
+    {
+      "id": 4,
+      "text": "Qurbani (Holy Slaughtering) is made during Hajj at __________.",
+      "options": {
+        "A": "Arafat",
+        "B": "Mina",
+        "C": "Muzdalifa",
+        "D": "Safa"
+      },
+      "answer": "B",
+      "explanation": "Source: CSS 2006 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Pillars & Worship · CSS 2006"
+    },
+    {
+      "id": 5,
+      "text": "What is the number of Ramzan in the Islamic Calender?",
+      "options": {
+        "A": "8th",
+        "B": "9th",
+        "C": "10th",
+        "D": "11th"
+      },
+      "answer": "B",
+      "explanation": "Source: CSS 2007 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Pillars & Worship · CSS 2007"
+    },
+    {
+      "id": 6,
+      "text": "The “Kissing of the Hajr-e-Aswad” is called _____________.",
+      "options": {
+        "A": "Saee",
+        "B": "Mabroor",
+        "C": "Istelam",
+        "D": "Shaut"
+      },
+      "answer": "C",
+      "explanation": "Source: CSS 2007 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Pillars & Worship · CSS 2007"
+    },
+    {
+      "id": 7,
+      "text": "Namaz-e-Istisqa” is a prayer for __________.",
+      "options": {
+        "A": "Blessing of God",
+        "B": "Pardon",
+        "C": "Rain",
+        "D": "Sleep"
+      },
+      "answer": "C",
+      "explanation": "Source: CSS 2007 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Pillars & Worship · CSS 2007"
+    },
+    {
+      "id": 8,
+      "text": "Hajj is not completed unless you go to __________.",
+      "options": {
+        "A": "Makkah",
+        "B": "Medina",
+        "C": "Mina",
+        "D": "Arafat"
+      },
+      "answer": "D",
+      "explanation": "Source: CSS 2008 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Pillars & Worship · CSS 2008"
+    },
+    {
+      "id": 9,
+      "text": "Jabal-e-Noor is situated in ____________.",
+      "options": {
+        "A": "Arafat",
+        "B": "Ghar e Hira",
+        "C": "Ghar e Saur",
+        "D": "Hejaz"
+      },
+      "answer": "D",
+      "explanation": "Source: CSS 2010 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Pillars & Worship · CSS 2010"
+    },
+    {
+      "id": 10,
+      "text": "Splitting of the moon occurred in ________.",
+      "options": {
+        "A": "Arafat",
+        "B": "Mina",
+        "C": "Muzdalifa",
+        "D": "Haram e Pak"
+      },
+      "answer": "B",
+      "explanation": "Note: according to Ibn Mas'ud (Bukhari), the splitting of the moon was seen while they were at Mina. Source: CSS 2010 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Pillars & Worship · CSS 2010"
+    },
+    {
+      "id": 11,
+      "text": "What is Tahleel?",
+      "options": {
+        "A": "Recitation of 4th kalima",
+        "B": "Recitation of 3rd kalima",
+        "C": "Recitation of 2nd kalima",
+        "D": "Recitation of 1st kalima"
+      },
+      "answer": "D",
+      "explanation": "Source: CSS 2011 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Pillars & Worship · CSS 2011"
+    },
+    {
+      "id": 12,
+      "text": "Name the 8th month of Islamic Calendar.",
+      "options": {
+        "A": "Rabi-ul-Awal",
+        "B": "Rajab",
+        "C": "Ramzan",
+        "D": "Shaban"
+      },
+      "answer": "D",
+      "explanation": "Source: CSS 2011 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Pillars & Worship · CSS 2011"
+    },
+    {
+      "id": 13,
+      "text": "9th Zil-Hajj is also called ________.",
+      "options": {
+        "A": "Yaum-e-Arfat",
+        "B": "Waquf-e-Arafat",
+        "C": "Yaum-e-Mina",
+        "D": "Waqufe-e-Mina"
+      },
+      "answer": "A",
+      "explanation": "Fixed: 9 Dhul-Hijjah is called Yawm-e-Arafah (Day of Arafah); \"Wuquf-e-Arafat\" is the rite performed on that day, not the name of the day. Source: CSS 2011 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Pillars & Worship · CSS 2011"
+    },
+    {
+      "id": 14,
+      "text": "From which place seven small stones are collected to strike jammarats?",
+      "options": {
+        "A": "Mina",
+        "B": "Arafat",
+        "C": "Seena",
+        "D": "Muzdalfa"
+      },
+      "answer": "D",
+      "explanation": "Source: CSS 2012 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Pillars & Worship · CSS 2012"
+    },
+    {
+      "id": 15,
+      "text": "Yaum-e-Nahar is on _______.",
+      "options": {
+        "A": "4th Zil Hajj",
+        "B": "6th Zil Hajj",
+        "C": "8th Zil Hajj",
+        "D": "10th Zil Hajj"
+      },
+      "answer": "D",
+      "explanation": "Source: CSS 2014 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Pillars & Worship · CSS 2014"
+    },
+    {
+      "id": 16,
+      "text": "Masjid Nimrah is located in ___________.",
+      "options": {
+        "A": "Arafat",
+        "B": "Jerusalem",
+        "C": "Medina",
+        "D": "None of these"
+      },
+      "answer": "A",
+      "explanation": "Source: CSS 2015 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Pillars & Worship · CSS 2015"
+    },
+    {
+      "id": 17,
+      "text": "Sermon of Hajj is delivered in _________.",
+      "options": {
+        "A": "Masjid al-Qiblatayn",
+        "B": "Masjid e Taneem",
+        "C": "Masjid e Nimra",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "Source: CSS 2015 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Pillars & Worship · CSS 2015"
+    },
+    {
+      "id": 18,
+      "text": "The five salat were made obligatory at the time of __________.",
+      "options": {
+        "A": "Eid-ul-Fitr",
+        "B": "Eid-ul-Adha",
+        "C": "Miraj",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "Source: CSS 2017 Islamiat past paper (cssprep.com.pk).",
+      "section": "Pillars & Worship · CSS 2017"
+    },
+    {
+      "id": 19,
+      "text": "Literal meaning of Hajj is _______.",
+      "options": {
+        "A": "Intend to go somewhere",
+        "B": "Intend to meet Muslims",
+        "C": "Intend to go to a Masjid",
+        "D": "Intend to read something"
+      },
+      "answer": "A",
+      "explanation": "Source: CSS 2017 Islamiat past paper (cssprep.com.pk).",
+      "section": "Pillars & Worship · CSS 2017"
+    },
+    {
+      "id": 20,
+      "text": "Prayer offered at the time of Lunar eclipse is _________.",
+      "options": {
+        "A": "Chashat",
+        "B": "Khasoof",
+        "C": "Both",
+        "D": "None of these"
+      },
+      "answer": "B",
+      "explanation": "Source: CSS 2018 Islamiat past paper (cssprep.com.pk).",
+      "section": "Pillars & Worship · CSS 2018"
+    },
+    {
+      "id": 21,
+      "text": "There are ____ basic pillars of Islam.",
+      "options": {
+        "A": "4",
+        "B": "5",
+        "C": "6",
+        "D": "8"
+      },
+      "answer": "B",
+      "explanation": "Source: CSS 2019 Islamiat past paper (cssprep.com.pk).",
+      "section": "Pillars & Worship · CSS 2019"
+    },
+    {
+      "id": 22,
+      "text": "Prophet Muhammad (PBUH) performed his last and first Hajj in _________.",
+      "options": {
+        "A": "08 A.H",
+        "B": "10 A.H",
+        "C": "12 A.H",
+        "D": "14 A.H"
+      },
+      "answer": "B",
+      "explanation": "Source: CSS 2019 Islamiat past paper (cssprep.com.pk).",
+      "section": "Pillars & Worship · CSS 2019"
+    },
+    {
+      "id": 23,
+      "text": "What is the name of the optional prayer performed very shortly after sunrise?",
+      "options": {
+        "A": "Ishraq",
+        "B": "Fajr",
+        "C": "Both",
+        "D": "None of these"
+      },
+      "answer": "A",
+      "explanation": "Source: CSS 2019 Islamiat past paper (cssprep.com.pk).",
+      "section": "Pillars & Worship · CSS 2019"
+    },
+    {
+      "id": 24,
+      "text": "Which Salaah (prayer) is offered during the time of war?",
+      "options": {
+        "A": "Salat-al-Harb",
+        "B": "Salat-al-Qitaal",
+        "C": "Salat-e-Khauf",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "Source: CSS 2019 Islamiat past paper (cssprep.com.pk).",
+      "section": "Pillars & Worship · CSS 2019"
+    },
+    {
+      "id": 25,
+      "text": "When Hajj was made compulsory?",
+      "options": {
+        "A": "9 Hijri",
+        "B": "10 Hijri",
+        "C": "11 Hijri",
+        "D": "8 Hijri"
+      },
+      "answer": "A",
+      "explanation": "Note: most sources say Hajj became obligatory in 9 AH (some say 6 AH). Source: CSS 2020 Islamiat past paper (cssprep.com.pk).",
+      "section": "Pillars & Worship · CSS 2020"
+    },
+    {
+      "id": 26,
+      "text": "Hajj e Akbar is the ________.",
+      "options": {
+        "A": "Vast hajj",
+        "B": "The annual hajj",
+        "C": "First hajj",
+        "D": "Maqbool hajj"
+      },
+      "answer": "B",
+      "explanation": "Source: CSS 2021 Islamiat past paper (cssprep.com.pk).",
+      "section": "Pillars & Worship · CSS 2021"
+    },
+    {
+      "id": 27,
+      "text": "Which prayer was offered by the Prophet Muhammad at the time of solar eclipse?",
+      "options": {
+        "A": "NAMAZ-E-KASOOF",
+        "B": "SALAT AL-ISTISQA",
+        "C": "ȘALĀT AL-ISTISQA",
+        "D": "NONE OF THESE"
+      },
+      "answer": "A",
+      "explanation": "Source: CSS 2022 Islamiat past paper (cssprep.com.pk).",
+      "section": "Pillars & Worship · CSS 2022"
+    },
+    {
+      "id": 28,
+      "text": "Saudi Arabia raised the number of Hajj pilgrims from inside and outside the kingdom to in 2022?",
+      "options": {
+        "A": "3 MILLION",
+        "B": "5 MILLION",
+        "C": "1 MILLION",
+        "D": "NONE OF THESE"
+      },
+      "answer": "C",
+      "explanation": "Source: CSS 2023 Islamiat past paper (cssprep.com.pk).",
+      "section": "Pillars & Worship · CSS 2023"
+    },
+    {
+      "id": 29,
+      "text": "The Hajj pilgrims are required to wear Ihram at a location known as?",
+      "options": {
+        "A": "Miqat",
+        "B": "Meezan",
+        "C": "Mina",
+        "D": "Muzdalifah"
+      },
+      "answer": "A",
+      "explanation": "The designated boundary where Hajj pilgrims must enter the state of Ihram is called Miqat. Source: pakjobmcqs.com, hajj (marked as a past-paper MCQ).",
+      "section": "Pillars & Worship"
+    },
+    {
+      "id": 30,
+      "text": "Ziarat-e-Tawaf is considered to be what in Islamic rituals?",
+      "options": {
+        "A": "Wajib",
+        "B": "Faraz",
+        "C": "Sunnat",
+        "D": "Mustahab"
+      },
+      "answer": "B",
+      "explanation": "Ziarat-e-Tawaf is considered Faraz (obligatory) in Islamic rituals. Source: pakjobmcqs.com, hajj (marked as a past-paper MCQ).",
+      "section": "Pillars & Worship"
+    },
+    {
+      "id": 31,
+      "text": "From which Miqat do pilgrims from Pakistan wear ihram?",
+      "options": {
+        "A": "Qarn al-Manazil",
+        "B": "Yalamlam",
+        "C": "Dhu al-Hulayfah",
+        "D": "Juhfah"
+      },
+      "answer": "B",
+      "explanation": "Pilgrims from Pakistan (and the Indian subcontinent) wear ihram at Yalamlam, the Miqat designated for those coming from the direction of Yemen and the south. Source: pakjobmcqs.com, hajj.",
+      "section": "Pillars & Worship"
+    },
+    {
+      "id": 32,
+      "text": "Which pillar of Islam demonstrates the principles of brotherhood, equality, punctuality, and discipline?",
+      "options": {
+        "A": "Salat",
+        "B": "Zakat",
+        "C": "Hajj",
+        "D": "Saum"
+      },
+      "answer": "C",
+      "explanation": "Hajj is the pillar of Islam that demonstrates the principles of brotherhood, equality, punctuality, and discipline through its collective rituals performed at specified times. Source: pakjobmcqs.com, hajj.",
+      "section": "Pillars & Worship"
+    },
+    {
+      "id": 33,
+      "text": "On which date do pilgrims perform Rami-Jamrat at all three jamarats?",
+      "options": {
+        "A": "10th Zil Hajj",
+        "B": "11th Zil Hajj",
+        "C": "12th Zil Hajj",
+        "D": "9th Zil Hajj"
+      },
+      "answer": "B",
+      "explanation": "Pilgrims perform Rami-Jamrat at all three jamarats on 11th Zil Hajj. Source: pakjobmcqs.com, hajj.",
+      "section": "Pillars & Worship"
+    },
+    {
+      "id": 34,
+      "text": "What is the first pillar of Islam?",
+      "options": {
+        "A": "Salat",
+        "B": "Zakat",
+        "C": "Shahadatain",
+        "D": "Saum"
+      },
+      "answer": "C",
+      "explanation": "The first pillar of Islam is Shahadatain (the declaration of faith: \"There is no god but Allah, and Muhammad is His Messenger\"). Source: pakjobmcqs.com, kalma faith (marked as a past-paper MCQ).",
+      "section": "Pillars & Worship"
+    },
+    {
+      "id": 35,
+      "text": "Which Kalma is considered the primary declaration of faith for Muslims?",
+      "options": {
+        "A": "Kalma-e-Tauheed",
+        "B": "Kalma-e-Shahadat",
+        "C": "Kalma-e-Tamjeed",
+        "D": "Kalma-e-Tayyaba"
+      },
+      "answer": "D",
+      "explanation": "The primary declaration of faith for Muslims is Kalma-e-Tayyaba. Source: pakjobmcqs.com, kalma faith.",
+      "section": "Pillars & Worship"
+    },
+    {
+      "id": 36,
+      "text": "What is the serial number of the Kalimah 'Radd-e-Kufr' among the six Kalimahs?",
+      "options": {
+        "A": "Fourth",
+        "B": "Fifth",
+        "C": "Sixth",
+        "D": "Third"
+      },
+      "answer": "C",
+      "explanation": "The Kalimah 'Radd-e-Kufr' is the Sixth Kalimah among the six Kalimahs. Source: pakjobmcqs.com, kalma faith.",
+      "section": "Pillars & Worship"
+    },
+    {
+      "id": 37,
+      "text": "What is the meaning of the Arabic word 'shahadah'?",
+      "options": {
+        "A": "Prayer",
+        "B": "Fasting",
+        "C": "Charity",
+        "D": "Testimony"
+      },
+      "answer": "D",
+      "explanation": "The Arabic word 'shahadah' means testimony, and it refers to the declaration of faith in Islam. Source: pakjobmcqs.com, kalma faith.",
+      "section": "Pillars & Worship"
+    },
+    {
+      "id": 38,
+      "text": "How many essential beliefs are articulated in the Iman-e-Mufassal for a Muslim's faith?",
+      "options": {
+        "A": "5",
+        "B": "6",
+        "C": "7",
+        "D": "8"
+      },
+      "answer": "C",
+      "explanation": "Iman-e-Mufassal articulates 7 essential beliefs of a Muslim's faith. Source: pakjobmcqs.com, kalma faith.",
+      "section": "Pillars & Worship"
+    },
+    {
+      "id": 39,
+      "text": "What is the second fundamental belief in Islam after the belief in the oneness of Allah?",
+      "options": {
+        "A": "Belief in Prophets",
+        "B": "Belief in Angels",
+        "C": "Belief in the Day of Judgment",
+        "D": "Belief in the Holy Books"
+      },
+      "answer": "B",
+      "explanation": "The second fundamental belief in Islam after the belief in the oneness of Allah is Belief in Angels (Mala'ika). Source: pakjobmcqs.com, kalma faith.",
+      "section": "Pillars & Worship"
+    },
+    {
+      "id": 40,
+      "text": "How many Kalimas are there in Islam?",
+      "options": {
+        "A": "Five",
+        "B": "Six",
+        "C": "Seven",
+        "D": "Four"
+      },
+      "answer": "B",
+      "explanation": "There are six Kalimas in Islam. Source: pakjobmcqs.com, kalma faith.",
+      "section": "Pillars & Worship"
+    },
+    {
+      "id": 41,
+      "text": "Belief in pre-destination is which article of faith in Islam?",
+      "options": {
+        "A": "Fourth",
+        "B": "Fifth",
+        "C": "Sixth",
+        "D": "Third"
+      },
+      "answer": "C",
+      "explanation": "Belief in pre-destination (Taqdeer) is the sixth article of faith in Islam. Source: pakjobmcqs.com, kalma faith.",
+      "section": "Pillars & Worship"
+    },
+    {
+      "id": 42,
+      "text": "Salat-e-Kasoof is offered during which astronomical event?",
+      "options": {
+        "A": "Lunar eclipse",
+        "B": "Heavy rainfall",
+        "C": "Earthquake",
+        "D": "Solar eclipse"
+      },
+      "answer": "D",
+      "explanation": "Salat-e-Kasoof is offered during a solar eclipse. Source: pakjobmcqs.com, salat (marked as a past-paper MCQ).",
+      "section": "Pillars & Worship"
+    },
+    {
+      "id": 43,
+      "text": "What is the term for the declaration made before starting the Namaz (prayer)?",
+      "options": {
+        "A": "Takbeer-e-Tahreema",
+        "B": "Takbeer-e-Tashreeq",
+        "C": "Takbeer-e-Ta'awwuz",
+        "D": "Takbeer-e-Tasmiyah"
+      },
+      "answer": "A",
+      "explanation": "The declaration made before starting the Namaz (prayer) is called Takbeer-e-Tahreema. Source: pakjobmcqs.com, salat.",
+      "section": "Pillars & Worship"
+    },
+    {
+      "id": 44,
+      "text": "Which Islamic prayer is performed after midnight and before dawn?",
+      "options": {
+        "A": "Ishraq",
+        "B": "Chasht",
+        "C": "Tahajud",
+        "D": "Awwabin"
+      },
+      "answer": "C",
+      "explanation": "The prayer performed after midnight and before dawn is Tahajud, a highly recommended voluntary (nafl) prayer. Source: pakjobmcqs.com, salat.",
+      "section": "Pillars & Worship"
+    },
+    {
+      "id": 45,
+      "text": "What did Hazrat Muhammad (PBUH) declare as the key to Paradise?",
+      "options": {
+        "A": "Salat",
+        "B": "Zakat",
+        "C": "Saum",
+        "D": "Hajj"
+      },
+      "answer": "A",
+      "explanation": "Hazrat Muhammad (PBUH) declared Salat as the key to Paradise. Source: pakjobmcqs.com, salat.",
+      "section": "Pillars & Worship"
+    },
+    {
+      "id": 46,
+      "text": "How far must a Muslim travel to perform Qasr prayer according to Islamic jurisprudence?",
+      "options": {
+        "A": "78 km",
+        "B": "48 km",
+        "C": "90 km",
+        "D": "60 km"
+      },
+      "answer": "A",
+      "explanation": "Note: the Hanafi Qasr distance is 48 miles (about 77–78 km). According to the majority of Islamic jurists, a Muslim must travel a distance of approximately 78 km (48 miles) to be eligible for Qasr prayer. Source: pakjobmcqs.com, salat.",
+      "section": "Pillars & Worship"
+    },
+    {
+      "id": 47,
+      "text": "In which Hijri year was fasting (Roza) made obligatory for Muslims?",
+      "options": {
+        "A": "1 A.H",
+        "B": "4 A.H",
+        "C": "3 A.H",
+        "D": "2 A.H"
+      },
+      "answer": "D",
+      "explanation": "Fasting (Roza) was made obligatory for Muslims in 2 A.H. Source: pakjobmcqs.com, saum (marked as a past-paper MCQ).",
+      "section": "Pillars & Worship"
+    },
+    {
+      "id": 48,
+      "text": "What is the literal meaning of the word 'Saum' in Islamic terminology?",
+      "options": {
+        "A": "Struggling",
+        "B": "Praying",
+        "C": "Purifying",
+        "D": "Refraining/Abstaining"
+      },
+      "answer": "D",
+      "explanation": "The literal meaning of the word 'Saum' in Islamic terminology is Refraining/Abstaining. Source: pakjobmcqs.com, saum.",
+      "section": "Pillars & Worship"
+    },
+    {
+      "id": 49,
+      "text": "Which pillar of Islam is metaphorically referred to as 'armour' for its protective benefits?",
+      "options": {
+        "A": "Salat",
+        "B": "Saum",
+        "C": "Zakat",
+        "D": "Hajj"
+      },
+      "answer": "B",
+      "explanation": "Saum (fasting) is metaphorically referred to as 'armour' because it protects a believer from sins and evil desires. Source: pakjobmcqs.com, saum.",
+      "section": "Pillars & Worship"
+    },
+    {
+      "id": 50,
+      "text": "What is the meaning of Eid-ul-Fitr in Islam?",
+      "options": {
+        "A": "Festival of Sacrifice",
+        "B": "Breaking fast",
+        "C": "Night of Power",
+        "D": "Day of Gathering"
+      },
+      "answer": "B",
+      "explanation": "Eid-ul-Fitr means Breaking fast, celebrated at the end of Ramadan. Source: pakjobmcqs.com, saum.",
+      "section": "Pillars & Worship"
+    },
+    {
+      "id": 51,
+      "text": "What is the practice of Etikaf in Islam?",
+      "options": {
+        "A": "Pilgrimage",
+        "B": "Charity",
+        "C": "Seclusion",
+        "D": "Fasting"
+      },
+      "answer": "C",
+      "explanation": "Etikaf is the practice of seclusion in the mosque during the last ten days of Ramadan for worship and devotion. Source: pakjobmcqs.com, saum.",
+      "section": "Pillars & Worship"
+    },
+    {
+      "id": 52,
+      "text": "According to the Hadith, what is considered the Zakat of the body?",
+      "options": {
+        "A": "Hajj",
+        "B": "Roza",
+        "C": "Sadaqah",
+        "D": "Salat"
+      },
+      "answer": "B",
+      "explanation": "Note: this hadith (Sunan Ibn Majah) is graded weak by some scholars. According to the Hadith, the Zakat (purifying charity) of the body is Roza (fasting). Source: pakjobmcqs.com, saum.",
+      "section": "Pillars & Worship"
+    },
+    {
+      "id": 53,
+      "text": "During which times is fasting (Sawm) prohibited in Islam?",
+      "options": {
+        "A": "From dawn to sunset",
+        "B": "On the day of Eid-ul-Fitr and Eid-ul-Adha",
+        "C": "During the month of Ramadan",
+        "D": "Both a & b"
+      },
+      "answer": "B",
+      "explanation": "Fasting (Sawm) is prohibited on the days of Eid-ul-Fitr and Eid-ul-Adha. Source: pakjobmcqs.com, saum.",
+      "section": "Pillars & Worship"
+    },
+    {
+      "id": 54,
+      "text": "Which days are referred to as the 'White Days' in Islam?",
+      "options": {
+        "A": "1st, 2nd, and 3rd of every Islamic month",
+        "B": "10th, 11th, and 12th of every Islamic month",
+        "C": "27th, 28th, and 29th of every Islamic month",
+        "D": "13th, 14th, and 15th of every Islamic month"
+      },
+      "answer": "D",
+      "explanation": "The 'White Days' (Ayyam-e-Beed) in Islam refer to the 13th, 14th, and 15th of every Islamic month. Source: pakjobmcqs.com, saum.",
+      "section": "Pillars & Worship"
+    }
+  ]
+}

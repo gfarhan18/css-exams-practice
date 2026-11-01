@@ -46,3 +46,73 @@ if os.path.exists(pcat_path):
         f.write("// AUTO-GENERATED from data/subjective-catalog.json by rebuild-data.py — edit the JSON and re-run.\n")
         f.write("window.PAPERS_DATA = " + json.dumps(pcat, ensure_ascii=False, indent=1) + ";\n")
     print("papers-data.js rebuilt:", {s["id"]: len(s["papers"]) for s in pcat["subjects"]})
+
+# ---- Practice banks: data/practice-catalog.json -> js/practice-data.js ----
+# Questions are stored once per bank; packs (CSS-year packs, topic parts, mixed sets) are index lists into them.
+import math, re
+prcat_path = os.path.join(HERE, "data", "practice-catalog.json")
+if os.path.exists(prcat_path):
+    prcat = json.load(open(prcat_path, encoding="utf-8"))
+    banks, perr = [], []
+    def chunks(idx, size):
+        n = max(1, math.ceil(len(idx) / size)); base, extra = divmod(len(idx), n); out, k = [], 0
+        for i in range(n):
+            m = base + (1 if i < extra else 0); out.append(idx[k:k + m]); k += m
+        return out
+    for b in prcat["banks"]:
+        doc = json.load(open(os.path.join(HERE, b["file"]), encoding="utf-8"))
+        qs = doc["questions"]
+        for q in qs:
+            if q.get("answer") not in list("ABCD") or sorted(q.get("options", {})) != list("ABCD") or not q.get("text") \
+               or not all(str(v).strip() for v in q["options"].values()):
+                perr.append(f"{b['file']} Q{q.get('id')}: bad shape")
+        key = lambda q: json.dumps([q["text"], q["options"], q["answer"]], ensure_ascii=False)
+        pos = {key(q): i for i, q in enumerate(qs)}
+        packs = []
+        # 1) real CSS papers: section tag ending "CSS <year>"
+        by_year = {}
+        for i, q in enumerate(qs):
+            m = re.search(r"CSS (\d{4})\s*$", q.get("section", ""))
+            if m: by_year.setdefault(int(m.group(1)), []).append(i)
+        years = sorted(by_year, reverse=True)
+        for y in years:
+            packs.append({"id": f"css-{y}", "kind": "year", "group": str(y), "title": f"CSS {y} past-paper MCQs",
+                          "label": str(y), "q": by_year[y]})
+        # 2) topics, split into parts
+        topics = []
+        for t in b["topics"]:
+            tdoc = json.load(open(os.path.join(HERE, t["file"]), encoding="utf-8"))
+            idx = []
+            for q in tdoc["questions"]:
+                k = key(q)
+                if k not in pos: perr.append(f"{t['file']} Q{q.get('id')}: not found in main bank")
+                else: idx.append(pos[k])
+            tname = tdoc["title"].split(":", 1)[-1].strip()
+            parts = chunks(idx, b.get("partSize", 20))
+            pids = []
+            for n, part in enumerate(parts, 1):
+                pid = f"{t['id']}-{n}"; pids.append(pid)
+                packs.append({"id": pid, "kind": "topic", "group": t["id"],
+                              "title": f"{tname}" + (f" · Part {n} of {len(parts)}" if len(parts) > 1 else ""),
+                              "label": f"Part {n}", "q": part})
+            topics.append({"id": t["id"], "name": tname, "icon": t.get("icon", "📝"), "count": len(idx), "packs": pids})
+        # 3) mixed sets in bank order
+        sets = chunks(list(range(len(qs))), b.get("setSize", 20))
+        set_ids = []
+        for n, part in enumerate(sets, 1):
+            pid = f"set-{n}"; set_ids.append(pid)
+            packs.append({"id": pid, "kind": "set", "group": "sets", "title": f"Mixed set {n} of {len(sets)}",
+                          "label": f"Set {n}", "range": [part[0] + 1, part[-1] + 1], "q": part})
+        covered = sorted({i for p in packs if p["kind"] == "topic" for i in p["q"]})
+        if covered != list(range(len(qs))): perr.append(f"{b['id']}: topic packs cover {len(covered)}/{len(qs)} questions")
+        banks.append({"id": b["id"], "name": b["name"], "shortName": b.get("shortName", b["name"]), "icon": b.get("icon", "📚"),
+                      "title": doc.get("title", b["name"]), "subtitle": doc.get("subtitle", ""), "rtl": bool(doc.get("rtl")),
+                      "answerKeyNote": doc.get("answerKeyNote", ""), "sources": doc.get("source", []), "sourceNotes": b.get("sourceNotes", ""),
+                      "total": len(qs), "years": years, "topics": topics, "sets": set_ids, "packs": packs,
+                      "questions": [{k: q[k] for k in ("id", "text", "options", "answer", "explanation", "section") if k in q} for q in qs]})
+    if perr:
+        sys.exit("Practice data errors:\n" + "\n".join(perr))
+    with open(os.path.join(HERE, "js", "practice-data.js"), "w", encoding="utf-8") as f:
+        f.write("// AUTO-GENERATED from data/practice-catalog.json + data/practice/** by rebuild-data.py — edit the JSON and re-run.\n")
+        f.write("window.PRACTICE_DATA = " + json.dumps({"banks": banks}, ensure_ascii=False, separators=(",", ":")) + ";\n")
+    print("practice-data.js rebuilt:", {b["id"]: {"questions": b["total"], "yearPacks": len(b["years"]), "topicPacks": sum(len(t["packs"]) for t in b["topics"]), "sets": len(b["sets"])} for b in banks})
