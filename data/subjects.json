@@ -1,0 +1,68 @@
+{
+  "year": 2026,
+  "subjects": [
+    {
+      "id": "current-affairs",
+      "title": "Current Affairs",
+      "subtitle": "General Knowledge-II · CSS 2026",
+      "icon": "🌍",
+      "questionCount": 20,
+      "rtl": false,
+      "file": "data/current-affairs.json"
+    },
+    {
+      "id": "pakistan-affairs",
+      "title": "Pakistan Affairs",
+      "subtitle": "General Knowledge-III · CSS 2026",
+      "icon": "🇵🇰",
+      "questionCount": 20,
+      "rtl": false,
+      "file": "data/pakistan-affairs.json"
+    },
+    {
+      "id": "english-vocabulary",
+      "title": "English Vocabulary",
+      "subtitle": "Precis & Composition Part-I · CSS 2026",
+      "icon": "📖",
+      "questionCount": 20,
+      "rtl": false,
+      "file": "data/english-vocabulary.json"
+    },
+    {
+      "id": "islamic-studies",
+      "title": "Islamiyat",
+      "subtitle": "Islamic Studies · CSS 2026",
+      "icon": "🕌",
+      "questionCount": 20,
+      "rtl": false,
+      "file": "data/islamic-studies.json"
+    },
+    {
+      "id": "criminology",
+      "title": "Criminology",
+      "subtitle": "Optional Subject · CSS 2026",
+      "icon": "⚖️",
+      "questionCount": 20,
+      "rtl": false,
+      "file": "data/criminology.json"
+    },
+    {
+      "id": "gender-studies",
+      "title": "Gender Studies",
+      "subtitle": "Optional Subject · CSS 2026",
+      "icon": "⚧️",
+      "questionCount": 20,
+      "rtl": false,
+      "file": "data/gender-studies.json"
+    },
+    {
+      "id": "punjabi",
+      "title": "Punjabi",
+      "subtitle": "پنجابی · Optional Subject · CSS 2026",
+      "icon": "🪶",
+      "questionCount": 20,
+      "rtl": true,
+      "file": "data/punjabi.json"
+    }
+  ]
+}

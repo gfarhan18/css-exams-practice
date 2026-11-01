@@ -1,0 +1,12 @@
+node_modules/
+.vercel/
+.DS_Store
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.id_rsa*
+credentials.json
+secrets/
+.vercel

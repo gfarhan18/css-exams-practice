@@ -1,0 +1,243 @@
+{
+  "id": "criminology",
+  "title": "Criminology",
+  "subtitle": "Optional Subject · CSS 2026",
+  "year": 2026,
+  "rtl": false,
+  "answerKeyNote": "Practice answer key (not an official FPSC key). Review carefully.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Who is known as the \"Father of Modern Criminology\"?",
+      "options": {
+        "A": "Cesare Lombroso",
+        "B": "Beccaria",
+        "C": "Sutherland",
+        "D": "None of these"
+      },
+      "answer": "A",
+      "explanation": "Lombroso is called the father of modern (positivist) criminology."
+    },
+    {
+      "id": 2,
+      "text": "\"Anomie\" is associated with:",
+      "options": {
+        "A": "Durkheim",
+        "B": "Freud",
+        "C": "Hirschi",
+        "D": "None of these"
+      },
+      "answer": "A",
+      "explanation": "Émile Durkheim (later Merton)."
+    },
+    {
+      "id": 3,
+      "text": "Penology deals with the study of:",
+      "options": {
+        "A": "Causes of crime",
+        "B": "Punishment and prisons",
+        "C": "Victim rights",
+        "D": "All of these"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 4,
+      "text": "Which theory states \"people commit crime due to blocked opportunities\"?",
+      "options": {
+        "A": "Strain Theory",
+        "B": "Labeling Theory",
+        "C": "Conflict Theory",
+        "D": "None of these"
+      },
+      "answer": "A",
+      "explanation": "Merton's Strain Theory."
+    },
+    {
+      "id": 5,
+      "text": "The Broken Windows Theory is associated with:",
+      "options": {
+        "A": "Beccaria",
+        "B": "Hirschi",
+        "C": "Becker",
+        "D": "None of these"
+      },
+      "answer": "D",
+      "explanation": "Wilson & Kelling (1982) — not listed."
+    },
+    {
+      "id": 6,
+      "text": "The term \"White-Collar Crime\" was coined by:",
+      "options": {
+        "A": "Reckless",
+        "B": "Cohen",
+        "C": "Sutherland",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "Edwin Sutherland, 1939."
+    },
+    {
+      "id": 7,
+      "text": "The routine activity theory emphasizes:",
+      "options": {
+        "A": "Motivated offender",
+        "B": "Suitable target",
+        "C": "Absence of capable guardian",
+        "D": "All of these"
+      },
+      "answer": "D",
+      "explanation": "Cohen & Felson's three elements."
+    },
+    {
+      "id": 8,
+      "text": "A crime committed without criminal intent is known as:",
+      "options": {
+        "A": "Mens rea",
+        "B": "Strict liability",
+        "C": "Mala prohibita",
+        "D": "All of these"
+      },
+      "answer": "B",
+      "explanation": "Strict liability needs no mens rea."
+    },
+    {
+      "id": 9,
+      "text": "\"Mala in se\" crimes are:",
+      "options": {
+        "A": "Wrong because they are prohibited",
+        "B": "Wrong in themselves",
+        "C": "Civil wrongs",
+        "D": "None of these"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 10,
+      "text": "The first modern police force was established in:",
+      "options": {
+        "A": "USA",
+        "B": "France",
+        "C": "England",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "London Metropolitan Police, 1829 (Robert Peel)."
+    },
+    {
+      "id": 11,
+      "text": "The term actus reus means:",
+      "options": {
+        "A": "Criminal intent",
+        "B": "Criminal act",
+        "C": "Defense",
+        "D": "All of these"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 12,
+      "text": "Forensic pathology deals with:",
+      "options": {
+        "A": "Dead bodies",
+        "B": "DNA analysis",
+        "C": "Fingerprints",
+        "D": "None of these"
+      },
+      "answer": "A",
+      "explanation": "Determining cause of death via autopsy."
+    },
+    {
+      "id": 13,
+      "text": "According to Freud, criminality arises from imbalance in:",
+      "options": {
+        "A": "Ego, Id, Superego",
+        "B": "Body fluids",
+        "C": "Strength",
+        "D": "All of these"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 14,
+      "text": "Environmental criminology focuses on:",
+      "options": {
+        "A": "Forest protection",
+        "B": "Crime locations and patterns",
+        "C": "Weather/Climate",
+        "D": "All of these"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 15,
+      "text": "The psychological test for deception is:",
+      "options": {
+        "A": "Narco test",
+        "B": "DNA",
+        "C": "Fingerprint",
+        "D": "None of these"
+      },
+      "answer": "A",
+      "explanation": "Best available option (polygraph not listed)."
+    },
+    {
+      "id": 16,
+      "text": "A criminal's signature refers to:",
+      "options": {
+        "A": "Unique ritualistic behaviour",
+        "B": "Fingerprints",
+        "C": "Legal signature",
+        "D": "None of these"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 17,
+      "text": "Labeling Theory was proposed by:",
+      "options": {
+        "A": "Cohen",
+        "B": "Freud",
+        "C": "Becker",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "Howard Becker, Outsiders (1963)."
+    },
+    {
+      "id": 18,
+      "text": "Predictive policing uses:",
+      "options": {
+        "A": "Data analytics",
+        "B": "Astrology",
+        "C": "Guesswork",
+        "D": "All of these"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 19,
+      "text": "The M'Naghten Rule relates to:",
+      "options": {
+        "A": "Eyewitness",
+        "B": "Bail",
+        "C": "Insanity defense",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "M'Naghten's Case (1843)."
+    },
+    {
+      "id": 20,
+      "text": "Eyewitness testimony is:",
+      "options": {
+        "A": "Always accurate",
+        "B": "Fully Scientific",
+        "C": "Not allowed",
+        "D": "None of these"
+      },
+      "answer": "D",
+      "explanation": "It is admissible but fallible."
+    }
+  ]
+}

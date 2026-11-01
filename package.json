@@ -1,0 +1,9 @@
+{
+  "name": "css-2026-mcq-practice",
+  "version": "1.0.0",
+  "private": true,
+  "description": "CSS 2026 Part-I MCQ Practice — static quiz site",
+  "scripts": {
+    "build": "echo \"Static site — no build step\""
+  }
+}

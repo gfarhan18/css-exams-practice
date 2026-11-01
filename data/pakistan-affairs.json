@@ -1,0 +1,250 @@
+{
+  "id": "pakistan-affairs",
+  "title": "Pakistan Affairs",
+  "subtitle": "General Knowledge-III · CSS 2026",
+  "year": 2026,
+  "rtl": false,
+  "answerKeyNote": "Practice answer key (not an official FPSC key). Review carefully.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Article ________ empowers the Supreme Court to enforce Fundamental Rights directly.",
+      "options": {
+        "A": "185(6)",
+        "B": "187(2)",
+        "C": "Both A and B",
+        "D": "184(3)"
+      },
+      "answer": "D",
+      "explanation": "Article 184(3): original jurisdiction for fundamental rights."
+    },
+    {
+      "id": 2,
+      "text": "India has constructed Baglihar Dam on ________ River.",
+      "options": {
+        "A": "Ravi",
+        "B": "Indus",
+        "C": "Jhelum",
+        "D": "None of these"
+      },
+      "answer": "D",
+      "explanation": "Baglihar Dam is on the Chenab."
+    },
+    {
+      "id": 3,
+      "text": "Pakistan Army provided training to which Middle Eastern country's armed forces in the 1970s?",
+      "options": {
+        "A": "Iran",
+        "B": "Turkey",
+        "C": "UAE",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "Pakistan helped raise and train UAE forces in the 1970s."
+    },
+    {
+      "id": 4,
+      "text": "Which constitutional amendment generated debate about judicial reforms?",
+      "options": {
+        "A": "26th Amendment",
+        "B": "27th Amendment",
+        "C": "Both (A) & (B)",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "26th (2024) and 27th (2025) both restructured the judiciary."
+    },
+    {
+      "id": 5,
+      "text": "Which province introduced a \"Green Energy Transition Policy\" in 2024?",
+      "options": {
+        "A": "Balochistan",
+        "B": "Khyber Pakhtunkhwa",
+        "C": "Punjab",
+        "D": "Sindh"
+      },
+      "answer": "C",
+      "explanation": "Best-effort key."
+    },
+    {
+      "id": 6,
+      "text": "The edited volume \"The Future of Pakistan\" is authored by:",
+      "options": {
+        "A": "Anatol Lieven",
+        "B": "Stephen P. Cohen",
+        "C": "Pervez Hoodbhoy",
+        "D": "None of these"
+      },
+      "answer": "B",
+      "explanation": "Edited by Stephen P. Cohen (Brookings, 2011)."
+    },
+    {
+      "id": 7,
+      "text": "The establishment and structure of the Supreme Court is provided under Article ________:",
+      "options": {
+        "A": "63-64",
+        "B": "99",
+        "C": "176-191",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "Part VII, Chapter 2: Articles 176–191."
+    },
+    {
+      "id": 8,
+      "text": "Pakistan joined the International Monetary Fund (IMF) in:",
+      "options": {
+        "A": "1956",
+        "B": "1973",
+        "C": "1981",
+        "D": "None of these"
+      },
+      "answer": "D",
+      "explanation": "Pakistan joined the IMF on 11 July 1950."
+    },
+    {
+      "id": 9,
+      "text": "Badshahi Mosque was built by:",
+      "options": {
+        "A": "Akbar",
+        "B": "Shah Jahan",
+        "C": "Jahangir",
+        "D": "None of these"
+      },
+      "answer": "D",
+      "explanation": "Built by Aurangzeb (1671–73)."
+    },
+    {
+      "id": 10,
+      "text": "SAARC was founded in:",
+      "options": {
+        "A": "1985",
+        "B": "1975",
+        "C": "1980",
+        "D": "1987"
+      },
+      "answer": "A",
+      "explanation": "Founded in Dhaka, December 1985."
+    },
+    {
+      "id": 11,
+      "text": "Pakistan's largest solar park is in:",
+      "options": {
+        "A": "Gwadar",
+        "B": "Bahawalpur",
+        "C": "Dera Ismail Khan",
+        "D": "Sukkur"
+      },
+      "answer": "B",
+      "explanation": "Quaid-e-Azam Solar Park, Bahawalpur."
+    },
+    {
+      "id": 12,
+      "text": "________ was the Ottoman Caliph when the Khilafat movement began.",
+      "options": {
+        "A": "Mehmed VI",
+        "B": "Murad V",
+        "C": "Abdul Hameed II",
+        "D": "Abdul Mejid II"
+      },
+      "answer": "A",
+      "explanation": "Mehmed VI (r. 1918–22)."
+    },
+    {
+      "id": 13,
+      "text": "Who is the author of the book \"Making Sense of Pakistan\"?",
+      "options": {
+        "A": "Ayesha Jalal",
+        "B": "Farzana Shaikh",
+        "C": "Anatol Lieven",
+        "D": "K.K Aziz"
+      },
+      "answer": "B",
+      "explanation": "Farzana Shaikh (2009)."
+    },
+    {
+      "id": 14,
+      "text": "The only Pakistani PM who visited the US and addressed a joint session of Congress is:",
+      "options": {
+        "A": "Benazir Bhutto",
+        "B": "Liaquat Ali Khan",
+        "C": "Shaukat Aziz",
+        "D": "None of these"
+      },
+      "answer": "A",
+      "explanation": "Benazir Bhutto addressed a joint session on 7 June 1989 (Liaquat addressed the two houses separately in 1950)."
+    },
+    {
+      "id": 15,
+      "text": "Which Middle Eastern country was the first to recognize Pakistan in 1947?",
+      "options": {
+        "A": "Saudi Arabia",
+        "B": "Egypt",
+        "C": "Iran",
+        "D": "Iraq"
+      },
+      "answer": "C",
+      "explanation": "Iran was the first country to recognize Pakistan."
+    },
+    {
+      "id": 16,
+      "text": "________ was the first country to purchase the JF-17 Thunder fighter Jet.",
+      "options": {
+        "A": "Myanmar",
+        "B": "Azerbaijan",
+        "C": "Libya",
+        "D": "Nigeria"
+      },
+      "answer": "A",
+      "explanation": "Myanmar was the first export customer (2015)."
+    },
+    {
+      "id": 17,
+      "text": "Which sector is projected to be the primary driver of Pakistan's GDP growth under the latest 5 year plan (2024-29)?",
+      "options": {
+        "A": "Agriculture only",
+        "B": "Heavy manufacturing",
+        "C": "Services sector",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "Best-effort key: services is the largest growth contributor."
+    },
+    {
+      "id": 18,
+      "text": "Which of the following is not included in the '5 Es Framework to Turnaround Pakistan'?",
+      "options": {
+        "A": "Equity & empowerment",
+        "B": "Environment",
+        "C": "E-Pakistan",
+        "D": "Efficiency"
+      },
+      "answer": "D",
+      "explanation": "The 5Es are Exports, E-Pakistan, Environment, Energy, Equity & Empowerment."
+    },
+    {
+      "id": 19,
+      "text": "________ founded the Khaksar Tehreek.",
+      "options": {
+        "A": "Maulana Hasrat Mohani",
+        "B": "Allama Inayatullah Mashriqi",
+        "C": "Allama Shibli Nomani",
+        "D": "Maulana Abul Kalam Azad"
+      },
+      "answer": "B",
+      "explanation": "Founded by Allama Mashriqi in 1931."
+    },
+    {
+      "id": 20,
+      "text": "Islamabad officially became the capital of Pakistan in:",
+      "options": {
+        "A": "1969",
+        "B": "1966",
+        "C": "1962",
+        "D": "None of these"
+      },
+      "answer": "D",
+      "explanation": "Islamabad formally became the capital in 1967."
+    }
+  ]
+}
