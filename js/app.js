@@ -364,7 +364,7 @@
       </section>
       <div class="disclaimer" role="note"><b>Practice answer key — not an official FPSC key.</b> ${esc(keyNote(b))}</div>
 
-      <h2 class="sec-title">CSS past papers <small>Real Part-I Islamiat MCQs, ${b.years[b.years.length - 1]}–${b.years[0]} (only the ones that survived checking)</small></h2>
+      <h2 class="sec-title">CSS past papers <small>Real Part-I ${esc(b.shortName)} MCQs, ${b.years[b.years.length - 1]}–${b.years[0]} (only the ones that survived checking)</small></h2>
       <section class="pack-strip">
         ${yearPacks.map(p => packBtn(b, p, sc, "pack-chip", (r, pc) => `<strong>${esc(p.label)}</strong><small>${p.q.length} MCQs</small>${chip(r, pc)}`)).join("")}
       </section>
@@ -382,11 +382,11 @@
         }).join("")}
       </section>
 
-      <h2 class="sec-title">Mixed sets <small>All ${b.total} MCQs in ${b.sets.length} sets, in bank order (CSS papers first, then topic-wise)</small></h2>
+      <h2 class="sec-title">Mixed sets <small>All ${b.total} MCQs in ${b.sets.length} sets, in bank order${b.setOrderNote ? " (" + esc(b.setOrderNote) + ")" : ""}</small></h2>
       <section class="set-grid">
         ${b.sets.map(id => { const p = b.packById[id]; return packBtn(b, p, sc, "set-card", (r, pc) => `<strong>${esc(p.label)}</strong><small>Q${p.range[0]}–${p.range[1]}</small><span class="set-best">${r ? `Best ${r.best}/${r.total}` : "Not tried"}</span>`); }).join("")}
       </section>
-      <p class="help">${esc(b.sourceNotes)} Sources: ${b.sources.map(u => { const url = String(u).split(" ")[0]; let host = url; try { host = new URL(url).hostname; } catch (e) {} return `<a href="${esc(url)}" target="_blank" rel="noopener">${esc(host)}</a>`; }).join(", ")}.
+      <p class="help">${esc(b.sourceNotes)} Sources: ${b.sources.filter(u => /^https?:\/\//.test(String(u))).map(u => { const url = String(u).split(" ")[0]; let host = url; try { host = new URL(url).hostname; } catch (e) {} return `<a href="${esc(url)}" target="_blank" rel="noopener">${esc(host)}</a>`; }).join(", ")}.
         Scores for this bank are saved separately from your yearly paper scores.</p>`;
     app.querySelectorAll("[data-p]").forEach(el => el.addEventListener("click", () => go("practice/" + bid + "/" + el.dataset.p)));
     document.getElementById("randomBtn").addEventListener("click", () => go("practice/" + bid + "/random"));

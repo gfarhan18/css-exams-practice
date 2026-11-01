@@ -1,9 +1,9 @@
 {
   "name": "css-mcq-practice",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "private": true,
-  "description": "CSS Part-I MCQ practice (2024\u20132026) + Part-II subjective past papers (2016\u20132026) \u2014 static site",
+  "description": "CSS Part-I MCQ practice (2024–2026) + Islamiyat & Pakistan Affairs practice banks + Part-II subjective past papers (2016–2026) — static site",
   "scripts": {
-    "build": "echo \"Static site \u2014 no build step\""
+    "build": "echo \"Static site — no build step\""
   }
 }

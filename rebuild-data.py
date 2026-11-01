@@ -87,7 +87,7 @@ if os.path.exists(prcat_path):
                 k = key(q)
                 if k not in pos: perr.append(f"{t['file']} Q{q.get('id')}: not found in main bank")
                 else: idx.append(pos[k])
-            tname = tdoc["title"].split(":", 1)[-1].strip()
+            tname = re.split(r"[:·]", tdoc["title"], maxsplit=1)[-1].strip()
             parts = chunks(idx, b.get("partSize", 20))
             pids = []
             for n, part in enumerate(parts, 1):
@@ -107,7 +107,7 @@ if os.path.exists(prcat_path):
         if covered != list(range(len(qs))): perr.append(f"{b['id']}: topic packs cover {len(covered)}/{len(qs)} questions")
         banks.append({"id": b["id"], "name": b["name"], "shortName": b.get("shortName", b["name"]), "icon": b.get("icon", "📚"),
                       "title": doc.get("title", b["name"]), "subtitle": doc.get("subtitle", ""), "rtl": bool(doc.get("rtl")),
-                      "answerKeyNote": doc.get("answerKeyNote", ""), "sources": doc.get("source", []), "sourceNotes": b.get("sourceNotes", ""),
+                      "answerKeyNote": doc.get("answerKeyNote", ""), "sources": doc.get("source", []), "sourceNotes": b.get("sourceNotes", ""), "setOrderNote": b.get("setOrderNote", ""),
                       "total": len(qs), "years": years, "topics": topics, "sets": set_ids, "packs": packs,
                       "questions": [{k: q[k] for k in ("id", "text", "options", "answer", "explanation", "section") if k in q} for q in qs]})
     if perr:
