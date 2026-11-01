@@ -1,11 +1,21 @@
-CSS 2024–2026 — Part-I MCQ Practice (offline website)
-=====================================================
+CSS Practice — Part-I MCQs (2024–2026) + Part-II past papers (2016–2026)
+=========================================================================
 
 HOW TO OPEN
   Just double-click  index.html  — it opens in your browser and works offline.
   (No internet, no install, no server needed.)
 
-HOW IT WORKS
+TWO MODES (switch at the top of the left sidebar)
+  * OBJECTIVE  = the MCQ quiz described below (2024, 2025, 2026).
+  * SUBJECTIVE = past papers. A second sidebar lists 7 subjects. Pick one to see a card for each year
+    from 2026 back to 2016. Click a year card to view that paper's PDF, open it in a new tab, or
+    download it.
+    Links: index.html#subjective/criminology  and  index.html#subjective/criminology/2023
+    The PDFs are in papers/<subject>/<year>.pdf. The list of papers is in data/subjective-catalog.json.
+    After editing that list, run  python rebuild-data.py.
+    The source (cssaspirants.pk) has no papers before 2016. The 2016–2023 papers have Part-II only.
+
+HOW IT WORKS (Objective)
   * Pick an exam YEAR (2024, 2025, 2026) from the timeline in the left sidebar (top strip on phones)
     or the year chips on the home page. The home page then shows that year's 7 subject cards.
     Pick ONE subject; you only get that subject's 20 MCQs.

@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>CSS 2024–2026 · MCQ Practice</title>
-  <meta name="description" content="Practice CSS Part-I MCQs from the 2024, 2025 and 2026 papers, one subject at a time, with instant feedback." />
+  <title>CSS Practice · MCQs 2024–2026 · Past papers 2016–2026</title>
+  <meta name="description" content="Practice CSS Part-I MCQs (2024–2026) with instant feedback, and browse Part-II subjective past papers (2016–2026) by subject and year." />
   <!-- Optional web font for Punjabi (Shahmukhi). Offline, the system Urdu/Arabic fonts in css/styles.css are used instead. -->
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -15,16 +15,34 @@
   <header class="topbar">
     <button class="brand" id="homeBtn" aria-label="Back to subjects">
       <span class="brand-mark">C</span>
-      <span class="brand-text"><strong id="brandTitle">CSS 2026</strong><small>Part-I MCQ Practice · 2024–2026</small></span>
+      <span class="brand-text"><strong id="brandTitle">CSS 2026</strong><small id="brandSub">Part-I MCQ Practice · 2024–2026</small></span>
     </button>
     <button class="ghost-btn" id="resetBtn" title="Clear saved scores for the selected year">Reset scores</button>
   </header>
 
-  <div class="layout">
-    <aside class="sidebar" aria-label="Exam year">
-      <h2 class="side-title">Exam year</h2>
-      <nav id="yearNav" class="timeline"></nav>
-      <div id="gapList" class="gaps"></div>
+  <div class="layout" id="layout">
+    <nav class="rail" aria-label="Paper type">
+      <h2 class="side-title">Paper type</h2>
+      <div class="mode-switch" role="group" aria-label="Objective or subjective">
+        <button class="mode" data-mode="objective" aria-pressed="true">
+          <span class="mode-ic" aria-hidden="true">✓</span>
+          <span class="mode-txt"><strong>Objective</strong><small>Part-I MCQs · 2024–2026</small></span>
+        </button>
+        <button class="mode" data-mode="subjective" aria-pressed="false">
+          <span class="mode-ic" aria-hidden="true">✍</span>
+          <span class="mode-txt"><strong>Subjective</strong><small>Part-II past papers · 2016–2026</small></span>
+        </button>
+      </div>
+      <div id="objSide" class="rail-section">
+        <h2 class="side-title">Exam year</h2>
+        <nav id="yearNav" class="timeline"></nav>
+        <div id="gapList" class="gaps"></div>
+      </div>
+      <div id="subjSideInfo" class="rail-section rail-info" hidden></div>
+    </nav>
+    <aside class="subnav" id="subNav" aria-label="Subjects (past papers)" hidden>
+      <h2 class="side-title">Subjects</h2>
+      <div id="subList" class="sub-list"></div>
     </aside>
     <main id="app" class="container" aria-live="polite"></main>
   </div>
@@ -32,11 +50,12 @@
   <div id="toast" class="toast" role="status" aria-live="assertive"></div>
 
   <footer class="foot">
-    Part-I MCQs from CSS 2024, 2025 and 2026 papers (via cssaspirants.pk). Answer keys are practice keys, not official FPSC keys.<br />
-    Part-I MCQs for 2006–2023 aren't published on that free source, so those years aren't included.
+    Part-I MCQs from CSS 2024, 2025 and 2026 papers, and Part-II past-paper PDFs for 2016–2026 (all via cssaspirants.pk). Answer keys are practice keys, not official FPSC keys.<br />
+    Part-I MCQs for 2006–2023 aren't published on that free source, and it has no papers at all before 2016.
   </footer>
 
   <script src="js/quiz-data.js"></script>
+  <script src="js/papers-data.js"></script>
   <script src="js/app.js"></script>
 </body>
 </html>

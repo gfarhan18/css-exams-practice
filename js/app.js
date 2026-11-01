@@ -10,6 +10,7 @@
 
   if (!DATA || !DATA.byYear) { app.innerHTML = "<p>Could not load js/quiz-data.js.</p>"; return; }
   const YEARS = DATA.years.map(String);
+  let mode = "objective";          // "objective" (MCQ quiz) | "subjective" (Part-II past papers)
   let year = null;                 // selected exam year (string)
   let YD = null;                   // DATA.byYear[year]
 
@@ -37,7 +38,7 @@
     if (!DATA.byYear[y]) y = String(DATA.defaultYear);
     year = y; YD = DATA.byYear[y];
     try { localStorage.setItem(YEAR_STORE, y); } catch (e) {}
-    document.getElementById("brandTitle").textContent = "CSS " + y;
+    if (mode === "objective") document.getElementById("brandTitle").textContent = "CSS " + y;
     renderSidebar();
     if (!opts || !opts.silent) { app.className = "container"; renderHome(); }
   }
@@ -72,6 +73,7 @@
   /* ---------- home ---------- */
   function renderHome() {
     state = null;
+    setMode("objective");
     document.title = "CSS " + year + " · MCQ Practice";
     setHash(year);
     renderSidebar();
@@ -119,6 +121,7 @@
   function startQuiz(id) {
     const subj = YD.byId[id];
     if (!subj) { renderHome(); return; }
+    setMode("objective");
     state = { subj, year, i: 0, answers: new Array(subj.questions.length).fill(null) };
     document.title = subj.title + " · CSS " + year + " MCQs";
     setHash(year + "/" + id);
@@ -256,6 +259,7 @@
 
   /* ---------- global ---------- */
   document.getElementById("homeBtn").addEventListener("click", () => {
+    if (mode === "subjective") { go("subjective"); return; }
     if (!confirmLeave()) return;
     app.className = "container"; renderHome();
   });
@@ -275,10 +279,163 @@
     else if (e.key === "ArrowLeft" && state.i > 0) { state.i--; renderQuestion(); }
   });
 
-  /* ---------- boot: #2025 or #2025/punjabi > last selected year > default ---------- */
-  const [hy, hs] = decodeURIComponent(location.hash.replace(/^#\/?/, "")).split("/");
+  /* ================= SUBJECTIVE (Part-II past papers) ================= */
+  const PD = window.PAPERS_DATA || { subjects: [], years: [], gaps: [] };
+  const PSUB = {}; PD.subjects.forEach(s => (PSUB[s.id] = s));
+  const SUBJ_STORE = "cssPapers.subject";
+  const layoutEl = document.getElementById("layout");
+  const subNav = document.getElementById("subNav"), subList = document.getElementById("subList");
+  const objSide = document.getElementById("objSide"), subjInfo = document.getElementById("subjSideInfo");
+  const resetBtn = document.getElementById("resetBtn");
+  const totalPapers = PD.subjects.reduce((a, s) => a + s.papers.length, 0);
+  const yrRange = s => s.papers.length ? Math.min(...s.papers.map(p => p.year)) + "–" + Math.max(...s.papers.map(p => p.year)) : "—";
+  let curSubj = null, curPaper = null;
+
+  function setMode(m) {
+    mode = m;
+    const subj = m === "subjective";
+    document.body.classList.toggle("mode-subjective", subj);
+    layoutEl.classList.toggle("three", subj);
+    document.querySelectorAll(".mode").forEach(b => { const on = b.dataset.mode === m; b.classList.toggle("active", on); b.setAttribute("aria-pressed", on); });
+    objSide.hidden = subj; subjInfo.hidden = !subj; subNav.hidden = !subj; resetBtn.hidden = subj;
+    document.getElementById("brandTitle").textContent = subj ? "CSS Past Papers" : "CSS " + year;
+    document.getElementById("brandSub").textContent = subj ? "Part-II Subjective · 2016–2026" : "Part-I MCQ Practice · 2024–2026";
+    if (subj) { app.className = "container"; renderSubNav(); }
+  }
+  // Subjective navigation goes through the URL hash so Back/Forward and deep links work.
+  function go(h) { if (location.hash.replace(/^#\/?/, "") === h) route(); else location.hash = h; }
+
+  function renderSubNav() {
+    subList.innerHTML = PD.subjects.map(s => `<button class="sub-item ${curSubj === s.id ? "active" : ""}" data-s="${s.id}" aria-pressed="${curSubj === s.id}">
+        <span class="sub-ic" aria-hidden="true">${s.icon}</span>
+        <span class="sub-txt"><strong>${esc(s.name)}</strong><small>${s.papers.length} papers · ${yrRange(s)}</small></span>
+      </button>`).join("");
+    subList.querySelectorAll(".sub-item").forEach(b => b.addEventListener("click", () => go("subjective/" + b.dataset.s)));
+    subjInfo.innerHTML = `<div class="info-card"><strong>${totalPapers} papers</strong><small>${PD.subjects.length} subjects × ${PD.years.length} years (${PD.years[PD.years.length - 1]}–${PD.years[0]})</small></div>` +
+      (PD.gaps || []).map(g => `<div class="gap"><span class="node" aria-hidden="true"></span><span><strong>${esc(g.range)}</strong><small>${esc(g.note)}</small></span></div>`).join("");
+  }
+
+  function renderPapersHome() {
+    curSubj = null; curPaper = null; setMode("subjective");
+    document.title = "CSS Past Papers (Part-II) · 2016–2026";
+    app.innerHTML = `
+      <section class="hero">
+        <h1>Subjective past papers, 2016–2026.</h1>
+        <p>Pick a subject from the list to see its papers year by year, then open any year to read or download that paper.</p>
+        <div class="overall"><span class="pill">Subjects: <b>${PD.subjects.length}</b></span><span class="pill">Papers: <b>${totalPapers}</b></span><span class="pill">Years: <b>${PD.years[PD.years.length - 1]}–${PD.years[0]}</b></span></div>
+      </section>
+      <section class="grid">
+        ${PD.subjects.map(s => `<button class="subject" data-s="${s.id}" aria-label="Open ${esc(s.name)} past papers">
+          <div class="icon" aria-hidden="true">${s.icon}</div>
+          <h3>${esc(s.name)}</h3>
+          <p class="sub">Part-II subjective papers</p>
+          <div class="meta"><span>${s.papers.length} papers</span><span class="best">${yrRange(s)}</span></div>
+        </button>`).join("")}
+      </section>
+      <p class="help">Source: <a href="${esc(PD.source)}" target="_blank" rel="noopener">cssaspirants.pk</a>. ${esc(PD.notes || "")} Nothing before 2016 is on this source.</p>`;
+    app.querySelectorAll(".subject").forEach(b => b.addEventListener("click", () => go("subjective/" + b.dataset.s)));
+    window.scrollTo({ top: 0 });
+  }
+
+  function badges(p) {
+    return `${p.hasMcqs ? `<span class="tag mcq">Part-I + II</span>` : `<span class="tag">Part-II</span>`}${p.scanned ? `<span class="tag scan">Scanned</span>` : ""}`;
+  }
+  function renderSubject(sid) {
+    const s = PSUB[sid];
+    curSubj = sid; curPaper = null; setMode("subjective");
+    try { localStorage.setItem(SUBJ_STORE, sid); } catch (e) {}
+    document.title = s.name + " · CSS Past Papers";
+    app.innerHTML = `
+      <nav class="crumbs" aria-label="Breadcrumb"><a href="#subjective">Subjective</a><span>›</span><b>${esc(s.name)}</b></nav>
+      <section class="hero compact">
+        <h1><span aria-hidden="true">${s.icon}</span> ${esc(s.name)}</h1>
+        <p>${s.papers.length} past papers (${yrRange(s)}). Click a year to open the paper.</p>
+      </section>
+      <section class="year-grid">
+        ${s.papers.map(p => `<button class="ycard" data-y="${p.year}" aria-label="Open ${esc(p.title)}">
+          <span class="ycard-year">${p.year}</span>
+          <span class="ycard-sub">${esc(s.name)}</span>
+          <span class="ycard-tags">${badges(p)}</span>
+          <span class="ycard-meta">${p.pages ? p.pages + " page" + (p.pages > 1 ? "s" : "") + " · " : ""}${p.sizeKB >= 1024 ? (p.sizeKB / 1024).toFixed(1) + " MB" : p.sizeKB + " KB"} · PDF</span>
+          <span class="ycard-open">Open paper →</span>
+        </button>`).join("")}
+        <div class="ycard gap-card" aria-label="2006 to 2015 not available"><span class="ycard-year">2006–2015</span><span class="ycard-sub">Not on cssaspirants.pk</span></div>
+      </section>
+      <p class="help">PDFs from <a href="${esc(s.hub)}" target="_blank" rel="noopener">cssaspirants.pk</a>, saved with this site. 2024–2026 papers include the Part-I MCQs, which you can also practise under <a href="#objective">Objective</a>.</p>`;
+    app.querySelectorAll(".ycard[data-y]").forEach(b => b.addEventListener("click", () => go("subjective/" + sid + "/" + b.dataset.y)));
+    window.scrollTo({ top: 0 });
+  }
+
+  function renderPaper(sid, y) {
+    const s = PSUB[sid];
+    const i = s.papers.findIndex(p => String(p.year) === String(y));
+    const p = s.papers[i];
+    curSubj = sid; curPaper = p.year; setMode("subjective");
+    try { localStorage.setItem(SUBJ_STORE, sid); } catch (e) {}
+    document.title = p.title + " · Past paper";
+    const newer = s.papers[i - 1], older = s.papers[i + 1];
+    const quiz = DATA.byYear[p.year] && DATA.byYear[p.year].byId[s.objectiveId];
+    app.innerHTML = `
+      <nav class="crumbs" aria-label="Breadcrumb"><a href="#subjective">Subjective</a><span>›</span><a href="#subjective/${sid}">${esc(s.name)}</a><span>›</span><b>${p.year}</b></nav>
+      <div class="paper-head">
+        <div><h2>${esc(s.name)} <span class="year-tag">${p.year}</span></h2>
+          <div class="sub">${badges(p)} ${p.pages ? p.pages + " pages · " : ""}${esc(p.contents)}</div></div>
+        <div class="paper-actions">
+          <a class="btn" href="${esc(p.pdfPath)}" target="_blank" rel="noopener">Open in new tab ↗</a>
+          <a class="btn secondary" href="${esc(p.pdfPath)}" download="CSS-${p.year}-${sid}.pdf">Download</a>
+          ${quiz ? `<a class="btn secondary" href="#${p.year}/${s.objectiveId}">Practise ${p.year} MCQs</a>` : ""}
+        </div>
+      </div>
+      <div class="year-strip" role="group" aria-label="${esc(s.name)} years">
+        ${s.papers.map(q => `<a class="chip ${q.year === p.year ? "active" : ""}" href="#subjective/${sid}/${q.year}" ${q.year === p.year ? 'aria-current="page"' : ""}>${q.year}</a>`).join("")}
+      </div>
+      <div class="viewer">
+        <iframe src="${esc(p.pdfPath)}#view=FitH" title="${esc(p.title)} (PDF)" loading="lazy"></iframe>
+      </div>
+      <div class="actions">
+        ${newer ? `<a class="btn secondary" href="#subjective/${sid}/${newer.year}">← ${newer.year}</a>` : "<span></span>"}
+        <a class="btn secondary" href="#subjective/${sid}">All ${esc(s.name)} years</a>
+        ${older ? `<a class="btn secondary" href="#subjective/${sid}/${older.year}">${older.year} →</a>` : "<span></span>"}
+      </div>
+      <p class="note">PDF not showing (common on phones)? Use “Open in new tab”. Source: <a href="${esc(p.sourceUrl)}" target="_blank" rel="noopener">cssaspirants.pk</a>.</p>`;
+    window.scrollTo({ top: 0 });
+  }
+
+  /* ---------- router: #2025, #2025/punjabi, #objective, #subjective[/subject[/year]] ---------- */
+  function route() {
+    const parts = decodeURIComponent(location.hash.replace(/^#\/?/, "")).split("/").filter(Boolean);
+    if (parts[0] === "subjective") {
+      if (state && !confirmLeave()) { setHash(year + "/" + state.subj.id); return; }
+      state = null;
+      const sid = PSUB[parts[1]] ? parts[1] : null;
+      if (!sid) return renderPapersHome();
+      if (parts[2] && PSUB[sid].papers.some(p => String(p.year) === parts[2])) return renderPaper(sid, parts[2]);
+      return renderSubject(sid);
+    }
+    const [hy, hs] = parts;
+    if (DATA.byYear[hy] && hy !== year) selectYear(hy, { silent: true });
+    if (hs && YD.byId[hs]) startQuiz(hs); else { app.className = "container"; renderHome(); }
+  }
+  window.addEventListener("hashchange", route);
+
+  document.querySelectorAll(".mode").forEach(b => b.addEventListener("click", () => {
+    const m = b.dataset.mode;
+    if (m === mode && m === "objective" && !state) return;
+    if (m === "subjective") {
+      if (!confirmLeave()) return;
+      let last = null; try { last = localStorage.getItem(SUBJ_STORE); } catch (e) {}
+      go(mode === "subjective" ? "subjective" : PSUB[last] ? "subjective/" + last : "subjective");
+    } else {
+      if (!confirmLeave()) return;
+      state = null;
+      if (mode === "subjective") go(year); else { app.className = "container"; renderHome(); }
+    }
+  }));
+
+  /* ---------- boot: #subjective/... > #2025 or #2025/punjabi > last selected year > default ---------- */
+  const [hy] = decodeURIComponent(location.hash.replace(/^#\/?/, "")).split("/");
   let saved = null; try { saved = localStorage.getItem(YEAR_STORE); } catch (e) {}
   const initial = DATA.byYear[hy] ? hy : DATA.byYear[saved] ? saved : String(DATA.defaultYear);
   selectYear(initial, { silent: true });
-  if (hs && YD.byId[hs]) startQuiz(hs); else renderHome();
+  route();
 })();

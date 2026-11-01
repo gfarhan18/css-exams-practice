@@ -1,0 +1,937 @@
+{
+ "source": "https://cssaspirants.pk/css-past-papers/",
+ "checkedAt": "2026-11-01",
+ "years": [
+  2026,
+  2025,
+  2024,
+  2023,
+  2022,
+  2021,
+  2020,
+  2019,
+  2018,
+  2017,
+  2016
+ ],
+ "subjects": [
+  {
+   "id": "english-precis-and-composition",
+   "name": "English Precis & Composition",
+   "icon": "📖",
+   "objectiveId": "english-vocabulary",
+   "hub": "https://cssaspirants.pk/css-past-papers/english-precis-and-composition/",
+   "papers": [
+    {
+     "year": 2026,
+     "title": "CSS 2026 English Precis & Composition",
+     "pdfPath": "papers/english-precis-and-composition/2026.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2026/07/english-precis-2026.pdf",
+     "pages": 6,
+     "sizeKB": 991,
+     "scanned": true,
+     "hasMcqs": true,
+     "contents": "Part-I MCQs + Part-II"
+    },
+    {
+     "year": 2025,
+     "title": "CSS 2025 English Precis & Composition",
+     "pdfPath": "papers/english-precis-and-composition/2025.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2026/07/english-precis-2025.pdf",
+     "pages": 5,
+     "sizeKB": 455,
+     "scanned": false,
+     "hasMcqs": true,
+     "contents": "Part-I MCQs + Part-II"
+    },
+    {
+     "year": 2024,
+     "title": "CSS 2024 English Precis & Composition",
+     "pdfPath": "papers/english-precis-and-composition/2024.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2026/07/english-precis-2024.pdf",
+     "pages": 5,
+     "sizeKB": 355,
+     "scanned": false,
+     "hasMcqs": true,
+     "contents": "Part-I MCQs + Part-II"
+    },
+    {
+     "year": 2023,
+     "title": "CSS 2023 English Precis & Composition",
+     "pdfPath": "papers/english-precis-and-composition/2023.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2023/10/English-PC-2023.pdf",
+     "pages": 3,
+     "sizeKB": 300,
+     "scanned": false,
+     "hasMcqs": false,
+     "contents": "Part-II (subjective) only"
+    },
+    {
+     "year": 2022,
+     "title": "CSS 2022 English Precis & Composition",
+     "pdfPath": "papers/english-precis-and-composition/2022.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2023/10/English-PC-2022.pdf",
+     "pages": 3,
+     "sizeKB": 362,
+     "scanned": false,
+     "hasMcqs": false,
+     "contents": "Part-II (subjective) only"
+    },
+    {
+     "year": 2021,
+     "title": "CSS 2021 English Precis & Composition",
+     "pdfPath": "papers/english-precis-and-composition/2021.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/English-PC-2021.pdf",
+     "pages": 3,
+     "sizeKB": 160,
+     "scanned": false,
+     "hasMcqs": false,
+     "contents": "Part-II (subjective) only"
+    },
+    {
+     "year": 2020,
+     "title": "CSS 2020 English Precis & Composition",
+     "pdfPath": "papers/english-precis-and-composition/2020.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/English-PC-2020.pdf",
+     "pages": 3,
+     "sizeKB": 214,
+     "scanned": false,
+     "hasMcqs": false,
+     "contents": "Part-II (subjective) only"
+    },
+    {
+     "year": 2019,
+     "title": "CSS 2019 English Precis & Composition",
+     "pdfPath": "papers/english-precis-and-composition/2019.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/English-PC-2019.pdf",
+     "pages": 4,
+     "sizeKB": 301,
+     "scanned": false,
+     "hasMcqs": false,
+     "contents": "Part-II (subjective) only"
+    },
+    {
+     "year": 2018,
+     "title": "CSS 2018 English Precis & Composition",
+     "pdfPath": "papers/english-precis-and-composition/2018.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/English-PC-2018.pdf",
+     "pages": 3,
+     "sizeKB": 272,
+     "scanned": false,
+     "hasMcqs": false,
+     "contents": "Part-II (subjective) only"
+    },
+    {
+     "year": 2017,
+     "title": "CSS 2017 English Precis & Composition",
+     "pdfPath": "papers/english-precis-and-composition/2017.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/English-PC-2017.pdf",
+     "pages": 3,
+     "sizeKB": 413,
+     "scanned": false,
+     "hasMcqs": false,
+     "contents": "Part-II (subjective) only"
+    },
+    {
+     "year": 2016,
+     "title": "CSS 2016 English Precis & Composition",
+     "pdfPath": "papers/english-precis-and-composition/2016.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/English-PC-2016.pdf",
+     "pages": 4,
+     "sizeKB": 274,
+     "scanned": false,
+     "hasMcqs": false,
+     "contents": "Part-II (subjective) only"
+    }
+   ]
+  },
+  {
+   "id": "pakistan-affairs",
+   "name": "Pakistan Affairs",
+   "icon": "🇵🇰",
+   "objectiveId": "pakistan-affairs",
+   "hub": "https://cssaspirants.pk/css-past-papers/pakistan-affairs/",
+   "papers": [
+    {
+     "year": 2026,
+     "title": "CSS 2026 Pakistan Affairs",
+     "pdfPath": "papers/pakistan-affairs/2026.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2026/07/pakistan-affairs-2026.pdf",
+     "pages": 4,
+     "sizeKB": 557,
+     "scanned": true,
+     "hasMcqs": true,
+     "contents": "Part-I MCQs + Part-II"
+    },
+    {
+     "year": 2025,
+     "title": "CSS 2025 Pakistan Affairs",
+     "pdfPath": "papers/pakistan-affairs/2025.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2026/07/pakistan-affairs-2025.pdf",
+     "pages": 3,
+     "sizeKB": 413,
+     "scanned": false,
+     "hasMcqs": true,
+     "contents": "Part-I MCQs + Part-II"
+    },
+    {
+     "year": 2024,
+     "title": "CSS 2024 Pakistan Affairs",
+     "pdfPath": "papers/pakistan-affairs/2024.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2026/07/pakistan-affairs-2024.pdf",
+     "pages": 3,
+     "sizeKB": 340,
+     "scanned": false,
+     "hasMcqs": true,
+     "contents": "Part-I MCQs + Part-II"
+    },
+    {
+     "year": 2023,
+     "title": "CSS 2023 Pakistan Affairs",
+     "pdfPath": "papers/pakistan-affairs/2023.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2023/10/Pakistan-Affairs-2023.pdf",
+     "pages": 2,
+     "sizeKB": 252,
+     "scanned": false,
+     "hasMcqs": false,
+     "contents": "Part-II (subjective) only"
+    },
+    {
+     "year": 2022,
+     "title": "CSS 2022 Pakistan Affairs",
+     "pdfPath": "papers/pakistan-affairs/2022.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2023/10/Pakistan-Affairs-2022.pdf",
+     "pages": 2,
+     "sizeKB": 303,
+     "scanned": false,
+     "hasMcqs": false,
+     "contents": "Part-II (subjective) only"
+    },
+    {
+     "year": 2021,
+     "title": "CSS 2021 Pakistan Affairs",
+     "pdfPath": "papers/pakistan-affairs/2021.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/Pakistan-Affairs-2021.pdf",
+     "pages": 2,
+     "sizeKB": 152,
+     "scanned": false,
+     "hasMcqs": false,
+     "contents": "Part-II (subjective) only"
+    },
+    {
+     "year": 2020,
+     "title": "CSS 2020 Pakistan Affairs",
+     "pdfPath": "papers/pakistan-affairs/2020.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/Pakistan-Affairs-2020.pdf",
+     "pages": 2,
+     "sizeKB": 152,
+     "scanned": false,
+     "hasMcqs": false,
+     "contents": "Part-II (subjective) only"
+    },
+    {
+     "year": 2019,
+     "title": "CSS 2019 Pakistan Affairs",
+     "pdfPath": "papers/pakistan-affairs/2019.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/Pakistan-Affairs-2019.pdf",
+     "pages": 2,
+     "sizeKB": 153,
+     "scanned": false,
+     "hasMcqs": false,
+     "contents": "Part-II (subjective) only"
+    },
+    {
+     "year": 2018,
+     "title": "CSS 2018 Pakistan Affairs",
+     "pdfPath": "papers/pakistan-affairs/2018.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/Pakistan-Affairs-2018.pdf",
+     "pages": 2,
+     "sizeKB": 152,
+     "scanned": false,
+     "hasMcqs": false,
+     "contents": "Part-II (subjective) only"
+    },
+    {
+     "year": 2017,
+     "title": "CSS 2017 Pakistan Affairs",
+     "pdfPath": "papers/pakistan-affairs/2017.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/Pakistan-Affairs-2017.pdf",
+     "pages": 2,
+     "sizeKB": 148,
+     "scanned": false,
+     "hasMcqs": false,
+     "contents": "Part-II (subjective) only"
+    },
+    {
+     "year": 2016,
+     "title": "CSS 2016 Pakistan Affairs",
+     "pdfPath": "papers/pakistan-affairs/2016.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/Pakistan-Affairs-2016.pdf",
+     "pages": 2,
+     "sizeKB": 156,
+     "scanned": false,
+     "hasMcqs": false,
+     "contents": "Part-II (subjective) only"
+    }
+   ]
+  },
+  {
+   "id": "current-affairs",
+   "name": "Current Affairs",
+   "icon": "🌍",
+   "objectiveId": "current-affairs",
+   "hub": "https://cssaspirants.pk/css-past-papers/current-affairs/",
+   "papers": [
+    {
+     "year": 2026,
+     "title": "CSS 2026 Current Affairs",
+     "pdfPath": "papers/current-affairs/2026.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2026/07/current-affairs-2026.pdf",
+     "pages": 5,
+     "sizeKB": 725,
+     "scanned": true,
+     "hasMcqs": true,
+     "contents": "Part-I MCQs + Part-II"
+    },
+    {
+     "year": 2025,
+     "title": "CSS 2025 Current Affairs",
+     "pdfPath": "papers/current-affairs/2025.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2026/07/current-affairs-2025.pdf",
+     "pages": 3,
+     "sizeKB": 379,
+     "scanned": false,
+     "hasMcqs": true,
+     "contents": "Part-I MCQs + Part-II"
+    },
+    {
+     "year": 2024,
+     "title": "CSS 2024 Current Affairs",
+     "pdfPath": "papers/current-affairs/2024.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2026/07/current-affairs-2024.pdf",
+     "pages": 3,
+     "sizeKB": 328,
+     "scanned": false,
+     "hasMcqs": true,
+     "contents": "Part-I MCQs + Part-II"
+    },
+    {
+     "year": 2023,
+     "title": "CSS 2023 Current Affairs",
+     "pdfPath": "papers/current-affairs/2023.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2023/10/Current-Affairs-2023.pdf",
+     "pages": 2,
+     "sizeKB": 317,
+     "scanned": true,
+     "hasMcqs": false,
+     "contents": "Part-II (subjective) only"
+    },
+    {
+     "year": 2022,
+     "title": "CSS 2022 Current Affairs",
+     "pdfPath": "papers/current-affairs/2022.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2023/10/Current-Affairs-2022.pdf",
+     "pages": 2,
+     "sizeKB": 307,
+     "scanned": false,
+     "hasMcqs": false,
+     "contents": "Part-II (subjective) only"
+    },
+    {
+     "year": 2021,
+     "title": "CSS 2021 Current Affairs",
+     "pdfPath": "papers/current-affairs/2021.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/Current-Affairs-2021.pdf",
+     "pages": 2,
+     "sizeKB": 97,
+     "scanned": false,
+     "hasMcqs": false,
+     "contents": "Part-II (subjective) only"
+    },
+    {
+     "year": 2020,
+     "title": "CSS 2020 Current Affairs",
+     "pdfPath": "papers/current-affairs/2020.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/Current-Affairs-2020.pdf",
+     "pages": 2,
+     "sizeKB": 152,
+     "scanned": false,
+     "hasMcqs": false,
+     "contents": "Part-II (subjective) only"
+    },
+    {
+     "year": 2019,
+     "title": "CSS 2019 Current Affairs",
+     "pdfPath": "papers/current-affairs/2019.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/Current-Affairs-2019.pdf",
+     "pages": 2,
+     "sizeKB": 151,
+     "scanned": false,
+     "hasMcqs": false,
+     "contents": "Part-II (subjective) only"
+    },
+    {
+     "year": 2018,
+     "title": "CSS 2018 Current Affairs",
+     "pdfPath": "papers/current-affairs/2018.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/Current-Affairs-2018.pdf",
+     "pages": 2,
+     "sizeKB": 152,
+     "scanned": false,
+     "hasMcqs": false,
+     "contents": "Part-II (subjective) only"
+    },
+    {
+     "year": 2017,
+     "title": "CSS 2017 Current Affairs",
+     "pdfPath": "papers/current-affairs/2017.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/Current-Affairs-2017.pdf",
+     "pages": 2,
+     "sizeKB": 152,
+     "scanned": false,
+     "hasMcqs": false,
+     "contents": "Part-II (subjective) only"
+    },
+    {
+     "year": 2016,
+     "title": "CSS 2016 Current Affairs",
+     "pdfPath": "papers/current-affairs/2016.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/Current-Affairs-2016.pdf",
+     "pages": 2,
+     "sizeKB": 165,
+     "scanned": false,
+     "hasMcqs": false,
+     "contents": "Part-II (subjective) only"
+    }
+   ]
+  },
+  {
+   "id": "islamic-studies",
+   "name": "Islamic Studies (Islamiat)",
+   "icon": "🕌",
+   "objectiveId": "islamic-studies",
+   "hub": "https://cssaspirants.pk/css-past-papers/islamic-studies/",
+   "papers": [
+    {
+     "year": 2026,
+     "title": "CSS 2026 Islamic Studies (Islamiat)",
+     "pdfPath": "papers/islamic-studies/2026.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2026/07/islamic-studies-2026.pdf",
+     "pages": 5,
+     "sizeKB": 728,
+     "scanned": true,
+     "hasMcqs": true,
+     "contents": "Part-I MCQs + Part-II"
+    },
+    {
+     "year": 2025,
+     "title": "CSS 2025 Islamic Studies (Islamiat)",
+     "pdfPath": "papers/islamic-studies/2025.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2026/07/islamic-studies-2025.pdf",
+     "pages": 4,
+     "sizeKB": 508,
+     "scanned": false,
+     "hasMcqs": true,
+     "contents": "Part-I MCQs + Part-II"
+    },
+    {
+     "year": 2024,
+     "title": "CSS 2024 Islamic Studies (Islamiat)",
+     "pdfPath": "papers/islamic-studies/2024.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2026/07/islamic-studies-2024.pdf",
+     "pages": 4,
+     "sizeKB": 446,
+     "scanned": false,
+     "hasMcqs": true,
+     "contents": "Part-I MCQs + Part-II"
+    },
+    {
+     "year": 2023,
+     "title": "CSS 2023 Islamic Studies (Islamiat)",
+     "pdfPath": "papers/islamic-studies/2023.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2023/10/Islamic-Studies-2023.pdf",
+     "pages": 3,
+     "sizeKB": 285,
+     "scanned": false,
+     "hasMcqs": false,
+     "contents": "Part-II (subjective) only"
+    },
+    {
+     "year": 2022,
+     "title": "CSS 2022 Islamic Studies (Islamiat)",
+     "pdfPath": "papers/islamic-studies/2022.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2023/10/Islamic-Studies-2022.pdf",
+     "pages": 2,
+     "sizeKB": 335,
+     "scanned": false,
+     "hasMcqs": false,
+     "contents": "Part-II (subjective) only"
+    },
+    {
+     "year": 2021,
+     "title": "CSS 2021 Islamic Studies (Islamiat)",
+     "pdfPath": "papers/islamic-studies/2021.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/Islamiat-2021.pdf",
+     "pages": 3,
+     "sizeKB": 144,
+     "scanned": false,
+     "hasMcqs": false,
+     "contents": "Part-II (subjective) only"
+    },
+    {
+     "year": 2020,
+     "title": "CSS 2020 Islamic Studies (Islamiat)",
+     "pdfPath": "papers/islamic-studies/2020.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/Islamiat-2020.pdf",
+     "pages": 2,
+     "sizeKB": 277,
+     "scanned": false,
+     "hasMcqs": false,
+     "contents": "Part-II (subjective) only"
+    },
+    {
+     "year": 2019,
+     "title": "CSS 2019 Islamic Studies (Islamiat)",
+     "pdfPath": "papers/islamic-studies/2019.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/Islamiat-2019.pdf",
+     "pages": 2,
+     "sizeKB": 273,
+     "scanned": false,
+     "hasMcqs": false,
+     "contents": "Part-II (subjective) only"
+    },
+    {
+     "year": 2018,
+     "title": "CSS 2018 Islamic Studies (Islamiat)",
+     "pdfPath": "papers/islamic-studies/2018.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/Islamiat-2018.pdf",
+     "pages": 3,
+     "sizeKB": 137,
+     "scanned": false,
+     "hasMcqs": false,
+     "contents": "Part-II (subjective) only"
+    },
+    {
+     "year": 2017,
+     "title": "CSS 2017 Islamic Studies (Islamiat)",
+     "pdfPath": "papers/islamic-studies/2017.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/Islamiat-2017.pdf",
+     "pages": 3,
+     "sizeKB": 136,
+     "scanned": false,
+     "hasMcqs": false,
+     "contents": "Part-II (subjective) only"
+    },
+    {
+     "year": 2016,
+     "title": "CSS 2016 Islamic Studies (Islamiat)",
+     "pdfPath": "papers/islamic-studies/2016.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/Islamiat-2016.pdf",
+     "pages": 3,
+     "sizeKB": 182,
+     "scanned": false,
+     "hasMcqs": false,
+     "contents": "Part-II (subjective) only"
+    }
+   ]
+  },
+  {
+   "id": "criminology",
+   "name": "Criminology",
+   "icon": "⚖️",
+   "objectiveId": "criminology",
+   "hub": "https://cssaspirants.pk/css-past-papers/criminology/",
+   "papers": [
+    {
+     "year": 2026,
+     "title": "CSS 2026 Criminology",
+     "pdfPath": "papers/criminology/2026.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2026/07/criminology-2026.pdf",
+     "pages": 5,
+     "sizeKB": 737,
+     "scanned": true,
+     "hasMcqs": true,
+     "contents": "Part-I MCQs + Part-II"
+    },
+    {
+     "year": 2025,
+     "title": "CSS 2025 Criminology",
+     "pdfPath": "papers/criminology/2025.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2026/07/criminology-2025.pdf",
+     "pages": 3,
+     "sizeKB": 434,
+     "scanned": false,
+     "hasMcqs": true,
+     "contents": "Part-I MCQs + Part-II"
+    },
+    {
+     "year": 2024,
+     "title": "CSS 2024 Criminology",
+     "pdfPath": "papers/criminology/2024.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2026/07/criminology-2024.pdf",
+     "pages": 3,
+     "sizeKB": 324,
+     "scanned": false,
+     "hasMcqs": true,
+     "contents": "Part-I MCQs + Part-II"
+    },
+    {
+     "year": 2023,
+     "title": "CSS 2023 Criminology",
+     "pdfPath": "papers/criminology/2023.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2026/07/criminology-2023.pdf",
+     "pages": 2,
+     "sizeKB": 276,
+     "scanned": false,
+     "hasMcqs": false,
+     "contents": "Part-II (subjective) only"
+    },
+    {
+     "year": 2022,
+     "title": "CSS 2022 Criminology",
+     "pdfPath": "papers/criminology/2022.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2026/07/criminology-2022.pdf",
+     "pages": 2,
+     "sizeKB": 326,
+     "scanned": false,
+     "hasMcqs": false,
+     "contents": "Part-II (subjective) only"
+    },
+    {
+     "year": 2021,
+     "title": "CSS 2021 Criminology",
+     "pdfPath": "papers/criminology/2021.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/09/Criminology-2021.pdf",
+     "pages": 2,
+     "sizeKB": 111,
+     "scanned": false,
+     "hasMcqs": false,
+     "contents": "Part-II (subjective) only"
+    },
+    {
+     "year": 2020,
+     "title": "CSS 2020 Criminology",
+     "pdfPath": "papers/criminology/2020.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/09/Criminology-2020.pdf",
+     "pages": 2,
+     "sizeKB": 96,
+     "scanned": false,
+     "hasMcqs": false,
+     "contents": "Part-II (subjective) only"
+    },
+    {
+     "year": 2019,
+     "title": "CSS 2019 Criminology",
+     "pdfPath": "papers/criminology/2019.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/09/Criminology-2019.pdf",
+     "pages": 2,
+     "sizeKB": 96,
+     "scanned": false,
+     "hasMcqs": false,
+     "contents": "Part-II (subjective) only"
+    },
+    {
+     "year": 2018,
+     "title": "CSS 2018 Criminology",
+     "pdfPath": "papers/criminology/2018.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/09/Criminology-2018.pdf",
+     "pages": 2,
+     "sizeKB": 96,
+     "scanned": false,
+     "hasMcqs": false,
+     "contents": "Part-II (subjective) only"
+    },
+    {
+     "year": 2017,
+     "title": "CSS 2017 Criminology",
+     "pdfPath": "papers/criminology/2017.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/09/Criminology-2017.pdf",
+     "pages": 2,
+     "sizeKB": 91,
+     "scanned": false,
+     "hasMcqs": false,
+     "contents": "Part-II (subjective) only"
+    },
+    {
+     "year": 2016,
+     "title": "CSS 2016 Criminology",
+     "pdfPath": "papers/criminology/2016.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/09/Criminology-2016.pdf",
+     "pages": 2,
+     "sizeKB": 906,
+     "scanned": false,
+     "hasMcqs": false,
+     "contents": "Part-II (subjective) only"
+    }
+   ]
+  },
+  {
+   "id": "gender-studies",
+   "name": "Gender Studies",
+   "icon": "⚧️",
+   "objectiveId": "gender-studies",
+   "hub": "https://cssaspirants.pk/css-past-papers/gender-studies/",
+   "papers": [
+    {
+     "year": 2026,
+     "title": "CSS 2026 Gender Studies",
+     "pdfPath": "papers/gender-studies/2026.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2026/07/gender-studies-2026.pdf",
+     "pages": 6,
+     "sizeKB": 772,
+     "scanned": true,
+     "hasMcqs": true,
+     "contents": "Part-I MCQs + Part-II"
+    },
+    {
+     "year": 2025,
+     "title": "CSS 2025 Gender Studies",
+     "pdfPath": "papers/gender-studies/2025.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2026/07/gender-studies-2025.pdf",
+     "pages": 3,
+     "sizeKB": 411,
+     "scanned": false,
+     "hasMcqs": true,
+     "contents": "Part-I MCQs + Part-II"
+    },
+    {
+     "year": 2024,
+     "title": "CSS 2024 Gender Studies",
+     "pdfPath": "papers/gender-studies/2024.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2026/07/gender-studies-2024.pdf",
+     "pages": 3,
+     "sizeKB": 352,
+     "scanned": false,
+     "hasMcqs": true,
+     "contents": "Part-I MCQs + Part-II"
+    },
+    {
+     "year": 2023,
+     "title": "CSS 2023 Gender Studies",
+     "pdfPath": "papers/gender-studies/2023.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2026/07/gender-studies-2023.pdf",
+     "pages": 2,
+     "sizeKB": 275,
+     "scanned": false,
+     "hasMcqs": false,
+     "contents": "Part-II (subjective) only"
+    },
+    {
+     "year": 2022,
+     "title": "CSS 2022 Gender Studies",
+     "pdfPath": "papers/gender-studies/2022.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2026/07/gender-studies-2022.pdf",
+     "pages": 2,
+     "sizeKB": 272,
+     "scanned": false,
+     "hasMcqs": false,
+     "contents": "Part-II (subjective) only"
+    },
+    {
+     "year": 2021,
+     "title": "CSS 2021 Gender Studies",
+     "pdfPath": "papers/gender-studies/2021.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/09/Gender-Studies-2021.pdf",
+     "pages": 2,
+     "sizeKB": 112,
+     "scanned": false,
+     "hasMcqs": false,
+     "contents": "Part-II (subjective) only"
+    },
+    {
+     "year": 2020,
+     "title": "CSS 2020 Gender Studies",
+     "pdfPath": "papers/gender-studies/2020.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/09/Gender-Studies-2020.pdf",
+     "pages": 2,
+     "sizeKB": 95,
+     "scanned": false,
+     "hasMcqs": false,
+     "contents": "Part-II (subjective) only"
+    },
+    {
+     "year": 2019,
+     "title": "CSS 2019 Gender Studies",
+     "pdfPath": "papers/gender-studies/2019.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/09/Gender-Studies-2019.pdf",
+     "pages": 2,
+     "sizeKB": 96,
+     "scanned": false,
+     "hasMcqs": false,
+     "contents": "Part-II (subjective) only"
+    },
+    {
+     "year": 2018,
+     "title": "CSS 2018 Gender Studies",
+     "pdfPath": "papers/gender-studies/2018.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/09/Gender-Studies-2018.pdf",
+     "pages": 2,
+     "sizeKB": 98,
+     "scanned": false,
+     "hasMcqs": false,
+     "contents": "Part-II (subjective) only"
+    },
+    {
+     "year": 2017,
+     "title": "CSS 2017 Gender Studies",
+     "pdfPath": "papers/gender-studies/2017.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/09/Gender-Studies-2017.pdf",
+     "pages": 2,
+     "sizeKB": 98,
+     "scanned": false,
+     "hasMcqs": false,
+     "contents": "Part-II (subjective) only"
+    },
+    {
+     "year": 2016,
+     "title": "CSS 2016 Gender Studies",
+     "pdfPath": "papers/gender-studies/2016.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/09/Gender-Studies-2016.pdf",
+     "pages": 2,
+     "sizeKB": 231,
+     "scanned": true,
+     "hasMcqs": false,
+     "contents": "Part-II (subjective) only"
+    }
+   ]
+  },
+  {
+   "id": "punjabi",
+   "name": "Punjabi",
+   "icon": "🪶",
+   "objectiveId": "punjabi",
+   "hub": "https://cssaspirants.pk/css-past-papers/punjabi/",
+   "papers": [
+    {
+     "year": 2026,
+     "title": "CSS 2026 Punjabi",
+     "pdfPath": "papers/punjabi/2026.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2026/07/punjabi-2026.pdf",
+     "pages": 5,
+     "sizeKB": 661,
+     "scanned": true,
+     "hasMcqs": true,
+     "contents": "Part-I MCQs + Part-II"
+    },
+    {
+     "year": 2025,
+     "title": "CSS 2025 Punjabi",
+     "pdfPath": "papers/punjabi/2025.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2026/07/punjabi-2025.pdf",
+     "pages": 3,
+     "sizeKB": 522,
+     "scanned": true,
+     "hasMcqs": true,
+     "contents": "Part-I MCQs + Part-II"
+    },
+    {
+     "year": 2024,
+     "title": "CSS 2024 Punjabi",
+     "pdfPath": "papers/punjabi/2024.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2026/07/punjabi-2024.pdf",
+     "pages": 3,
+     "sizeKB": 444,
+     "scanned": true,
+     "hasMcqs": true,
+     "contents": "Part-I MCQs + Part-II"
+    },
+    {
+     "year": 2023,
+     "title": "CSS 2023 Punjabi",
+     "pdfPath": "papers/punjabi/2023.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2026/07/punjabi-2023.pdf",
+     "pages": 2,
+     "sizeKB": 329,
+     "scanned": false,
+     "hasMcqs": false,
+     "contents": "Part-II (subjective) only"
+    },
+    {
+     "year": 2022,
+     "title": "CSS 2022 Punjabi",
+     "pdfPath": "papers/punjabi/2022.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2026/07/punjabi-2022.pdf",
+     "pages": 2,
+     "sizeKB": 361,
+     "scanned": false,
+     "hasMcqs": false,
+     "contents": "Part-II (subjective) only"
+    },
+    {
+     "year": 2021,
+     "title": "CSS 2021 Punjabi",
+     "pdfPath": "papers/punjabi/2021.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/09/Punjabi-2021.pdf",
+     "pages": 2,
+     "sizeKB": 565,
+     "scanned": true,
+     "hasMcqs": false,
+     "contents": "Part-II (subjective) only"
+    },
+    {
+     "year": 2020,
+     "title": "CSS 2020 Punjabi",
+     "pdfPath": "papers/punjabi/2020.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/09/Punjabi-2020.pdf",
+     "pages": 2,
+     "sizeKB": 579,
+     "scanned": true,
+     "hasMcqs": false,
+     "contents": "Part-II (subjective) only"
+    },
+    {
+     "year": 2019,
+     "title": "CSS 2019 Punjabi",
+     "pdfPath": "papers/punjabi/2019.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/09/Punjabi-2019.pdf",
+     "pages": 2,
+     "sizeKB": 577,
+     "scanned": true,
+     "hasMcqs": false,
+     "contents": "Part-II (subjective) only"
+    },
+    {
+     "year": 2018,
+     "title": "CSS 2018 Punjabi",
+     "pdfPath": "papers/punjabi/2018.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/09/Punjabi-2018.pdf",
+     "pages": 2,
+     "sizeKB": 520,
+     "scanned": true,
+     "hasMcqs": false,
+     "contents": "Part-II (subjective) only"
+    },
+    {
+     "year": 2017,
+     "title": "CSS 2017 Punjabi",
+     "pdfPath": "papers/punjabi/2017.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/09/Punjabi-2017.pdf",
+     "pages": 2,
+     "sizeKB": 242,
+     "scanned": false,
+     "hasMcqs": false,
+     "contents": "Part-II (subjective) only"
+    },
+    {
+     "year": 2016,
+     "title": "CSS 2016 Punjabi",
+     "pdfPath": "papers/punjabi/2016.pdf",
+     "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2026/07/punjabi-2016.pdf",
+     "pages": 2,
+     "sizeKB": 432,
+     "scanned": true,
+     "hasMcqs": false,
+     "contents": "Part-II (subjective) only"
+    }
+   ]
+  }
+ ],
+ "missing": [],
+ "gaps": [
+  {
+   "range": "2006–2015",
+   "note": "No papers for these years on cssaspirants.pk."
+  }
+ ],
+ "notes": "Part-II (subjective) papers. 2024–2026 PDFs also contain Part-I MCQs; for 2016–2023 only Part-II was published."
+}

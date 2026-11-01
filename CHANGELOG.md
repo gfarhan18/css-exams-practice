@@ -1,5 +1,26 @@
 # Changelog
 
+## 2026-11-01 — Subjective (Part-II) past papers, 2016–2026
+
+### Added
+- **Objective / Subjective switch** at the top of the left sidebar. It's always visible (a two-button toggle on phones).
+  - **Objective** is the existing Part-I MCQ quiz for 2024–2026. It works as before.
+  - **Subjective** opens a second sidebar that stays in place, listing 7 subjects: English Precis & Composition, Pakistan Affairs, Current Affairs, Islamic Studies (Islamiat), Criminology, Gender Studies and Punjabi.
+- **Year cards**: pick a subject to see one card per year, 2026 back to 2016. Each card shows the page count and file size, a "Part-I + II" or "Part-II" tag, and a "Scanned" tag where the PDF is a scan. A dashed card notes that 2006–2015 aren't on the source.
+- **Paper viewer**: click a year card to see the PDF embedded on the page. The viewer has these controls:
+  - Open in new tab and Download
+  - A strip of years for jumping to another year
+  - Newer/older buttons
+  - A link to the cssaspirants.pk original
+  - A "Practise <year> MCQs" button on 2024–2026 papers, which opens that year's Objective quiz
+- **77 PDFs** (7 subjects × 11 years) are stored with the site in `papers/<subject-id>/<year>.pdf`, so the site doesn't link to files on cssaspirants.pk. All source URLs were checked on 1 Nov 2026 and returned HTTP 200.
+- `data/subjective-catalog.json` is the source list of papers. `rebuild-data.py` now also builds `js/papers-data.js` from it and stops with an error if any listed PDF is missing.
+- **Deep links**: `#subjective`, `#subjective/criminology` and `#subjective/criminology/2023`. Old links like `#2025` and `#2025/punjabi` still work, and `#objective` opens the Objective home page. Back and Forward work in Subjective, and the site remembers the last subject you opened.
+
+### Notes
+- cssaspirants.pk has no papers before 2016. The 2016–2023 PDFs contain Part-II only, while the 2024–2026 PDFs also include Part-I.
+- Persian isn't included.
+
 ## 2026-11-01 — Multi-year support (2024, 2025, 2026)
 
 ### Added
