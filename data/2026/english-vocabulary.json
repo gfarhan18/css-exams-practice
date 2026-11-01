@@ -1,0 +1,270 @@
+{
+  "id": "english-vocabulary",
+  "title": "English Vocabulary",
+  "subtitle": "Precis & Composition Part-I · CSS 2026",
+  "year": 2026,
+  "rtl": false,
+  "answerKeyNote": "Practice answer key (not an official FPSC key). Review carefully.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Synonym: choose the word nearest in meaning to ENIGMA",
+      "options": {
+        "A": "Stature",
+        "B": "Axiom",
+        "C": "Adage",
+        "D": "Conundrum"
+      },
+      "answer": "D",
+      "explanation": "Enigma → Conundrum",
+      "section": "Synonyms"
+    },
+    {
+      "id": 2,
+      "text": "Synonym: choose the word nearest in meaning to HACKNEYED",
+      "options": {
+        "A": "Unplanned",
+        "B": "Intriguing",
+        "C": "Stubborn",
+        "D": "Clichéd"
+      },
+      "answer": "D",
+      "explanation": "Hackneyed → Clichéd",
+      "section": "Synonyms"
+    },
+    {
+      "id": 3,
+      "text": "Synonym: choose the word nearest in meaning to PANACEA",
+      "options": {
+        "A": "Elixir",
+        "B": "Destitution",
+        "C": "Deprivation",
+        "D": "Predicament"
+      },
+      "answer": "A",
+      "explanation": "Panacea → Elixir",
+      "section": "Synonyms"
+    },
+    {
+      "id": 4,
+      "text": "Synonym: choose the word nearest in meaning to CAJOLE",
+      "options": {
+        "A": "Lure",
+        "B": "Intimidate",
+        "C": "Harass",
+        "D": "Tease"
+      },
+      "answer": "A",
+      "explanation": "Cajole → Lure",
+      "section": "Synonyms"
+    },
+    {
+      "id": 5,
+      "text": "Synonym: choose the word nearest in meaning to INSCRUTABLE",
+      "options": {
+        "A": "Unattainable",
+        "B": "Mysterious",
+        "C": "Obstinate",
+        "D": "Vigilant"
+      },
+      "answer": "B",
+      "explanation": "Inscrutable → Mysterious",
+      "section": "Synonyms"
+    },
+    {
+      "id": 6,
+      "text": "Synonym: choose the word nearest in meaning to REVERIE",
+      "options": {
+        "A": "Palimpsest",
+        "B": "Phantom",
+        "C": "Daydream",
+        "D": "Curio"
+      },
+      "answer": "C",
+      "explanation": "Reverie → Daydream",
+      "section": "Synonyms"
+    },
+    {
+      "id": 7,
+      "text": "Synonym: choose the word nearest in meaning to SUMPTUOUS",
+      "options": {
+        "A": "Delirious",
+        "B": "Gorgeous",
+        "C": "Perilous",
+        "D": "Luxurious"
+      },
+      "answer": "D",
+      "explanation": "Sumptuous → Luxurious",
+      "section": "Synonyms"
+    },
+    {
+      "id": 8,
+      "text": "Synonym: choose the word nearest in meaning to APPALL",
+      "options": {
+        "A": "Delirious",
+        "B": "Covered",
+        "C": "Dismay",
+        "D": "Confuse"
+      },
+      "answer": "C",
+      "explanation": "Appall → Dismay",
+      "section": "Synonyms"
+    },
+    {
+      "id": 9,
+      "text": "Synonym: choose the word nearest in meaning to ABJECT",
+      "options": {
+        "A": "Indigent",
+        "B": "Desire",
+        "C": "Despondent",
+        "D": "Extreme"
+      },
+      "answer": "C",
+      "explanation": "Abject → Despondent",
+      "section": "Synonyms"
+    },
+    {
+      "id": 10,
+      "text": "Synonym: choose the word nearest in meaning to BESPOKE",
+      "options": {
+        "A": "Tailored",
+        "B": "Quiet",
+        "C": "Gentle",
+        "D": "Handsome"
+      },
+      "answer": "A",
+      "explanation": "Bespoke → Tailored",
+      "section": "Synonyms"
+    },
+    {
+      "id": 11,
+      "text": "Antonym: choose the word nearest opposite in meaning to CANDOUR",
+      "options": {
+        "A": "Rebuttal",
+        "B": "Evasiveness",
+        "C": "Restraint",
+        "D": "Candidness"
+      },
+      "answer": "B",
+      "explanation": "Candour → Evasiveness",
+      "section": "Antonyms"
+    },
+    {
+      "id": 12,
+      "text": "Antonym: choose the word nearest opposite in meaning to COLLOQUIAL",
+      "options": {
+        "A": "Vernacular",
+        "B": "Informal",
+        "C": "Literary",
+        "D": "Quarrelsome"
+      },
+      "answer": "C",
+      "explanation": "Colloquial → Literary",
+      "section": "Antonyms"
+    },
+    {
+      "id": 13,
+      "text": "Antonym: choose the word nearest opposite in meaning to EUPHORIA",
+      "options": {
+        "A": "Ecstasy",
+        "B": "Obnoxious",
+        "C": "Nostalgic",
+        "D": "Melancholy"
+      },
+      "answer": "D",
+      "explanation": "Euphoria → Melancholy",
+      "section": "Antonyms"
+    },
+    {
+      "id": 14,
+      "text": "Antonym: choose the word nearest opposite in meaning to SURROGATE",
+      "options": {
+        "A": "Proxy",
+        "B": "Soothing",
+        "C": "Forbidden",
+        "D": "Real"
+      },
+      "answer": "D",
+      "explanation": "Surrogate → Real",
+      "section": "Antonyms"
+    },
+    {
+      "id": 15,
+      "text": "Antonym: choose the word nearest opposite in meaning to OBLIVIOUS",
+      "options": {
+        "A": "Ignorant",
+        "B": "Conscious",
+        "C": "Sober",
+        "D": "Flamboyant"
+      },
+      "answer": "B",
+      "explanation": "Oblivious → Conscious",
+      "section": "Antonyms"
+    },
+    {
+      "id": 16,
+      "text": "Antonym: choose the word nearest opposite in meaning to AMELIORATE",
+      "options": {
+        "A": "Impair",
+        "B": "Rectify",
+        "C": "Precipitate",
+        "D": "Renew"
+      },
+      "answer": "A",
+      "explanation": "Ameliorate → Impair",
+      "section": "Antonyms"
+    },
+    {
+      "id": 17,
+      "text": "Antonym: choose the word nearest opposite in meaning to BENIGN",
+      "options": {
+        "A": "Amiable",
+        "B": "Effective",
+        "C": "Boost",
+        "D": "Malicious"
+      },
+      "answer": "D",
+      "explanation": "Benign → Malicious",
+      "section": "Antonyms"
+    },
+    {
+      "id": 18,
+      "text": "Antonym: choose the word nearest opposite in meaning to CACOPHONY",
+      "options": {
+        "A": "Noise",
+        "B": "Disaster",
+        "C": "Stillness",
+        "D": "Rattle"
+      },
+      "answer": "C",
+      "explanation": "Cacophony → Stillness",
+      "section": "Antonyms"
+    },
+    {
+      "id": 19,
+      "text": "Antonym: choose the word nearest opposite in meaning to DOLEFUL",
+      "options": {
+        "A": "Witty",
+        "B": "Rich",
+        "C": "Empty",
+        "D": "Vivacious"
+      },
+      "answer": "D",
+      "explanation": "Doleful → Vivacious",
+      "section": "Antonyms"
+    },
+    {
+      "id": 20,
+      "text": "Antonym: choose the word nearest opposite in meaning to ELAN",
+      "options": {
+        "A": "Inelegance",
+        "B": "Stupidity",
+        "C": "Obscure",
+        "D": "Despair"
+      },
+      "answer": "A",
+      "explanation": "Elan → Inelegance",
+      "section": "Antonyms"
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "id": "criminology",
+  "name": "Criminology",
+  "title": "Criminology",
+  "subtitle": "Optional Subject · CSS 2024",
+  "year": 2024,
+  "rtl": false,
+  "answerKeyNote": "Practice answer key (not an official FPSC key). Review carefully.",
+  "source": "https://cssaspirants.pk/wp-content/uploads/2026/07/criminology-2024.pdf",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Children who continue to commit status offense despite repeated intervention by the family, school, social service, and Law Enforcement Agencies are called",
+      "options": {
+        "A": "Life course persistent offender",
+        "B": "Chronic status offender",
+        "C": "Recidivist",
+        "D": "None of these"
+      },
+      "answer": "B",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 2,
+      "text": "Cesare Beccaria had written a book on “crime and punishment” in",
+      "options": {
+        "A": "1764",
+        "B": "1738",
+        "C": "1799",
+        "D": "None of these"
+      },
+      "answer": "A",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 3,
+      "text": "“Parens patriae” is",
+      "options": {
+        "A": "The supreme guardian of every child",
+        "B": "Ultimate guardian of every child",
+        "C": "Both A & B",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 4,
+      "text": "The first specialized correctional institute for youth in the United States was",
+      "options": {
+        "A": "Borstal institution",
+        "B": "Juvenile court",
+        "C": "House of commons",
+        "D": "None of these"
+      },
+      "answer": "D",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 5,
+      "text": "___________ is called the father of probation.",
+      "options": {
+        "A": "Blackstone",
+        "B": "John Augustus",
+        "C": "Travis Hirschi",
+        "D": "None of these"
+      },
+      "answer": "B",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 6,
+      "text": "A philosophy of punishment based on society’s moral outrage or disapproval of a crime is called",
+      "options": {
+        "A": "Individual justice",
+        "B": "Utilitarian philosophy",
+        "C": "Retribution",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 7,
+      "text": "Social Disorganization Theory was proposed by",
+      "options": {
+        "A": "Wilson & Kelin",
+        "B": "Robert K. Merton",
+        "C": "Edwin Sutherland",
+        "D": "None of these"
+      },
+      "answer": "D",
+      "explanation": "Shaw & McKay (Chicago School)."
+    },
+    {
+      "id": 8,
+      "text": "Many of the rules prescribed severe penalties which apply the dictum \" An eye for an eye, a tooth for a tooth.\" was related to",
+      "options": {
+        "A": "The code of severe punishment",
+        "B": "The Code of Hammurabi",
+        "C": "Societal laws of UK",
+        "D": "None of these"
+      },
+      "answer": "B",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 9,
+      "text": "According to Strain theory, ___________ are those individuals who have traditional success goals, but substitute deviant means to achieve them.",
+      "options": {
+        "A": "Conformists",
+        "B": "Innovators",
+        "C": "Rebeles",
+        "D": "None of these"
+      },
+      "answer": "B",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 10,
+      "text": "____________ coined the term Criminology.",
+      "options": {
+        "A": "Cesare Beccaria",
+        "B": "Cesare Lombroso",
+        "C": "Becker",
+        "D": "None of these"
+      },
+      "answer": "D",
+      "explanation": "Coined by Raffaele Garofalo (some cite Topinard)."
+    },
+    {
+      "id": 11,
+      "text": "Who is considered the father of Criminology?",
+      "options": {
+        "A": "Cesare Beccaria",
+        "B": "Jermy Bentham",
+        "C": "Cesare Lombroso",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "Lombroso = father of modern criminology; Beccaria = classical school."
+    },
+    {
+      "id": 12,
+      "text": "___________ is a malicious software that inserts itself into other programs.",
+      "options": {
+        "A": "Worms",
+        "B": "Malware",
+        "C": "Virus",
+        "D": "None of these"
+      },
+      "answer": "A",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 13,
+      "text": "_________damages data, ___________ steals sensitive private information.",
+      "options": {
+        "A": "Virus, Spyware",
+        "B": "Virus, Antivirus",
+        "C": "Antivirus, Spyware",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 14,
+      "text": "Phishing is a form of",
+      "options": {
+        "A": "Impersonation",
+        "B": "Spamming",
+        "C": "Identity theft",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "Also arguably impersonation (A)."
+    },
+    {
+      "id": 15,
+      "text": "A working definition of the problem is formulated during which stage of the SARA problem-solving approach?",
+      "options": {
+        "A": "Assessment",
+        "B": "Analysis",
+        "C": "Response",
+        "D": "None of these"
+      },
+      "answer": "D",
+      "explanation": "In SARA, the problem is defined at Scanning stage — not listed."
+    },
+    {
+      "id": 16,
+      "text": "Community policing recommends _________________, with less reliance on the patrol car and more emphasis on face-to-face interactions.",
+      "options": {
+        "A": "Prevention Emphasis",
+        "B": "Geographic Focus",
+        "C": "Both A & B",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 17,
+      "text": "____________ is when a company or person sends unwanted email to another person.",
+      "options": {
+        "A": "Skimming",
+        "B": "Spoofing",
+        "C": "Spamming",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 18,
+      "text": "A person who frequently has been convicted of criminal behavior and is presumed to be a danger.",
+      "options": {
+        "A": "Occasional Criminals",
+        "B": "Habitual Criminals",
+        "C": "Professional Criminals",
+        "D": "None of these"
+      },
+      "answer": "B",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 19,
+      "text": "_________________ applied a positivist approach in analyzing crimes.",
+      "options": {
+        "A": "Cesare Lombroso",
+        "B": "R. K. Merton",
+        "C": "Cesare Beccaria",
+        "D": "None of these"
+      },
+      "answer": "A",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 20,
+      "text": "_____________ describes repeat offending by those who have been in prison.",
+      "options": {
+        "A": "Repetition",
+        "B": "Receprocal",
+        "C": "Recidivism",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "Practice key."
+    }
+  ]
+}

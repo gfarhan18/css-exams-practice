@@ -1,9 +1,9 @@
 {
-  "name": "css-2026-mcq-practice",
-  "version": "1.0.0",
+  "name": "css-mcq-practice",
+  "version": "1.1.0",
   "private": true,
-  "description": "CSS 2026 Part-I MCQ Practice — static quiz site",
+  "description": "CSS 2024\u20132026 Part-I MCQ Practice \u2014 static quiz site with year timeline",
   "scripts": {
-    "build": "echo \"Static site — no build step\""
+    "build": "echo \"Static site \u2014 no build step\""
   }
 }

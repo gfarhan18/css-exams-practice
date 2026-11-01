@@ -3,17 +3,63 @@
   const DATA = window.MCQ_DATA;
   const app = document.getElementById("app");
   const toastEl = document.getElementById("toast");
-  const STORE = "cssMcq2026.scores.v1";
+  const yearNav = document.getElementById("yearNav");
+  const gapList = document.getElementById("gapList");
   const LETTERS = ["A", "B", "C", "D"];
+  const YEAR_STORE = "cssMcq.selectedYear";
 
-  /* ---------- storage ---------- */
-  function loadScores() { try { return JSON.parse(localStorage.getItem(STORE)) || {}; } catch (e) { return {}; } }
+  if (!DATA || !DATA.byYear) { app.innerHTML = "<p>Could not load js/quiz-data.js.</p>"; return; }
+  const YEARS = DATA.years.map(String);
+  let year = null;                 // selected exam year (string)
+  let YD = null;                   // DATA.byYear[year]
+
+  /* ---------- storage (namespaced per year, e.g. cssMcq2025.scores.v1; 2026 keeps the original key) ---------- */
+  const storeKey = y => "cssMcq" + y + ".scores.v1";
+  function loadScores(y) { try { return JSON.parse(localStorage.getItem(storeKey(y || year))) || {}; } catch (e) { return {}; } }
   function saveScore(id, score, total) {
     const all = loadScores();
     const prev = all[id] || { best: 0, attempts: 0 };
     all[id] = { best: Math.max(prev.best, score), total, attempts: prev.attempts + 1, last: score, lastAt: new Date().toISOString() };
-    try { localStorage.setItem(STORE, JSON.stringify(all)); } catch (e) {}
+    try { localStorage.setItem(storeKey(year), JSON.stringify(all)); } catch (e) {}
     return { isNewBest: score > prev.best || prev.attempts === 0, prevBest: prev.best };
+  }
+  function yearStats(y) {
+    const subs = DATA.byYear[y].subjects, sc = loadScores(y);
+    const done = subs.filter(s => sc[s.id]);
+    const avg = done.length ? Math.round(done.reduce((a, s) => a + sc[s.id].best / s.questionCount, 0) / done.length * 100) : null;
+    return { subs, sc, done, avg };
+  }
+
+  /* ---------- year selection ---------- */
+  function setHash(h) { try { history.replaceState(null, "", "#" + h); } catch (e) { /* file:// in some browsers */ } }
+  function selectYear(y, opts) {
+    y = String(y);
+    if (!DATA.byYear[y]) y = String(DATA.defaultYear);
+    year = y; YD = DATA.byYear[y];
+    try { localStorage.setItem(YEAR_STORE, y); } catch (e) {}
+    document.getElementById("brandTitle").textContent = "CSS " + y;
+    renderSidebar();
+    if (!opts || !opts.silent) { app.className = "container"; renderHome(); }
+  }
+  function confirmLeave() {
+    if (!state || !document.querySelector(".qcard")) return true;
+    const n = state.answers.filter(Boolean).length;
+    return n === 0 || n === state.answers.length || confirm("Leave this subject? Progress in this attempt will be lost.");
+  }
+  function renderSidebar() {
+    yearNav.innerHTML = YEARS.map(y => {
+      const { subs, done, avg } = yearStats(y);
+      return `<button class="year ${y === year ? "active" : ""}" data-y="${y}" aria-pressed="${y === year}" aria-label="CSS ${y}: ${done.length} of ${subs.length} subjects attempted">
+        <span class="node" aria-hidden="true"></span>
+        <span class="y-main"><strong>${y}</strong><small>${subs.length} subjects · ${done.length}/${subs.length} tried${avg === null ? "" : " · " + avg + "%"}</small></span>
+      </button>`;
+    }).join("");
+    yearNav.querySelectorAll(".year").forEach(b => b.addEventListener("click", () => {
+      if (b.dataset.y === year && !state) return;
+      if (!confirmLeave()) return;
+      selectYear(b.dataset.y);
+    }));
+    gapList.innerHTML = (DATA.gaps || []).map(g => `<div class="gap" title="${esc(g.note)}"><span class="node" aria-hidden="true"></span><span><strong>${esc(g.range)}</strong><small>${esc(g.note)}</small></span></div>`).join("");
   }
 
   const esc = s => String(s).replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
@@ -26,25 +72,30 @@
   /* ---------- home ---------- */
   function renderHome() {
     state = null;
-    document.title = "CSS 2026 · MCQ Practice";
-    const scores = loadScores();
-    const done = DATA.subjects.filter(s => scores[s.id]);
-    const avg = done.length ? Math.round(done.reduce((a, s) => a + scores[s.id].best / s.questionCount, 0) / done.length * 100) : null;
+    document.title = "CSS " + year + " · MCQ Practice";
+    setHash(year);
+    renderSidebar();
+    const { sc: scores, done, avg } = yearStats(year);
     app.innerHTML = `
       <section class="hero">
-        <h1>Practice one subject at a time.</h1>
+        <div class="year-chips" role="group" aria-label="Available years">
+          <span class="chips-label">Years available:</span>
+          ${YEARS.map(y => `<button class="chip ${y === year ? "active" : ""}" data-y="${y}" aria-pressed="${y === year}">${y}</button>`).join("")}
+        </div>
+        <h1>CSS ${year} — practice one subject at a time.</h1>
         <p>Pick a subject, answer its 20 Part-I MCQs, and get instant feedback — <b style="color:var(--green)">green</b> when you're right,
         <b style="color:var(--red)">red</b> when you're not. Your best score for each subject is saved in this browser.</p>
         <div class="overall">
-          <span class="pill">Subjects attempted: <b>${done.length}/${DATA.subjects.length}</b></span>
+          <span class="pill">CSS ${year} subjects attempted: <b>${done.length}/${YD.subjects.length}</b></span>
           <span class="pill">Average best: <b>${avg === null ? "—" : avg + "%"}</b></span>
         </div>
       </section>
       <section class="grid">
-        ${DATA.subjects.map(s => {
+        ${YD.subjects.map(s => {
           const sc = scores[s.id];
           const pct = sc ? Math.round(sc.best / s.questionCount * 100) : 0;
-          return `<button class="subject" data-id="${s.id}" aria-label="Start ${esc(s.title)}">
+          return `<button class="subject" data-id="${s.id}" aria-label="Start ${esc(s.title)} ${year}">
+            <span class="year-badge">${year}</span>
             <div class="icon" aria-hidden="true">${s.icon}</div>
             <h3>${esc(s.title)}</h3>
             <p class="sub">${esc(s.subtitle)}</p>
@@ -55,17 +106,22 @@
             </div>
           </button>`;
         }).join("")}
-      </section>`;
+      </section>
+      <p class="help">Only 2024, 2025 and 2026 are here: Part-I MCQs for 2016–2023 aren't published on the free source we used
+        (those PDFs carry Part-II only), and 2006–2015 aren't on it at all. ${esc(DATA.keyNote || "Answer keys are practice keys, not official FPSC keys.")}</p>`;
     app.querySelectorAll(".subject").forEach(b => b.addEventListener("click", () => startQuiz(b.dataset.id)));
+    app.querySelectorAll(".chip").forEach(b => b.addEventListener("click", () => { if (b.dataset.y !== year) selectYear(b.dataset.y); }));
     window.scrollTo({ top: 0 });
   }
 
   /* ---------- quiz ---------- */
   let state = null;
   function startQuiz(id) {
-    const subj = DATA.byId[id];
-    state = { subj, i: 0, answers: new Array(subj.questions.length).fill(null) };
-    document.title = subj.title + " · CSS 2026 MCQs";
+    const subj = YD.byId[id];
+    if (!subj) { renderHome(); return; }
+    state = { subj, year, i: 0, answers: new Array(subj.questions.length).fill(null) };
+    document.title = subj.title + " · CSS " + year + " MCQs";
+    setHash(year + "/" + id);
     renderQuestion();
   }
 
@@ -78,10 +134,11 @@
     const wrongCount = answers.filter((a, k) => a && a !== subj.questions[k].answer).length;
     const doneCount = answers.filter(Boolean).length;
 
+    const dir = subj.rtl ? ` dir="rtl" lang="pnb"` : "";
     app.className = "container" + (subj.rtl ? " rtl" : "");
     app.innerHTML = `
       <div class="quiz-head">
-        <div><h2>${esc(subj.title)}</h2><div class="sub">${esc(subj.subtitle)}</div></div>
+        <div><h2>${esc(subj.title)} <span class="year-tag">${state.year}</span></h2><div class="sub"><bdi>${esc(subj.subtitle)}</bdi></div></div>
         <div class="counter">Question ${i + 1} / ${total}</div>
       </div>
       <div class="progress" aria-label="Progress"><span style="width:${doneCount / total * 100}%"></span></div>
@@ -90,7 +147,7 @@
         const cls = a ? (a === qq.answer ? "ok" : "bad") : "";
         return `<button class="dot ${cls} ${k === i ? "current" : ""}" data-k="${k}" aria-label="Go to question ${k + 1}">${k + 1}</button>`;
       }).join("")}</div>
-      <article class="qcard">
+      <article class="qcard"${dir}>
         ${q.section ? `<span class="section-tag">${esc(q.section)}</span>` : ""}
         <p class="qtext"><bdi>${q.id}.</bdi> ${esc(q.text)}</p>
         <div class="options">
@@ -163,6 +220,7 @@
   /* ---------- result ---------- */
   function renderResult() {
     const { subj, answers } = state;
+    const dir = subj.rtl ? ` dir="rtl" lang="pnb"` : "";
     const total = subj.questions.length;
     const score = answers.filter((a, k) => a === subj.questions[k].answer).length;
     const pct = Math.round(score / total * 100);
@@ -174,7 +232,7 @@
     app.innerHTML = `
       <section class="result">
         <div class="ring" style="--p:${pct};--ring-color:${color}"><div><strong>${score}/${total}</strong><small>${pct}%</small></div></div>
-        <h2>${esc(subj.title)} — ${msg}</h2>
+        <h2>${esc(subj.title)} ${state.year} — ${msg}</h2>
         <p>${isNewBest && prevBest < score ? "🎉 New best score!" : `Best so far: ${Math.max(prevBest, score)}/${total}`} · ${total - score} wrong</p>
         <div class="row">
           <button class="btn" id="retryBtn">↻ Retry ${esc(subj.title)}</button>
@@ -182,7 +240,7 @@
         </div>
         <div class="review">
           ${wrong.length ? `<h3>Review your mistakes (${wrong.length})</h3>` + wrong.map(({ q, a }) => `
-            <div class="rv">
+            <div class="rv"${dir}>
               <div class="q"><bdi>${q.id}.</bdi> ${esc(q.text)}</div>
               <div class="a"><span class="yours">✗ Your answer: ${a}) ${esc(q.options[a])}</span><br>
               <span class="right">✓ Correct: ${q.answer}) ${esc(q.options[q.answer])}</span></div>
@@ -192,16 +250,20 @@
       </section>`;
     document.getElementById("retryBtn").addEventListener("click", () => startQuiz(subj.id));
     document.getElementById("backBtn").addEventListener("click", () => { app.className = "container"; renderHome(); });
+    renderSidebar();
     window.scrollTo({ top: 0, behavior: "smooth" });
   }
 
   /* ---------- global ---------- */
   document.getElementById("homeBtn").addEventListener("click", () => {
-    if (state && state.answers.some(Boolean) && !confirm("Leave this subject? Progress in this attempt will be lost.")) return;
+    if (!confirmLeave()) return;
     app.className = "container"; renderHome();
   });
   document.getElementById("resetBtn").addEventListener("click", () => {
-    if (confirm("Clear all saved best scores?")) { localStorage.removeItem(STORE); if (!state) renderHome(); }
+    if (confirm("Clear saved best scores for CSS " + year + "? Other years are kept.")) {
+      try { localStorage.removeItem(storeKey(year)); } catch (e) {}
+      renderSidebar(); if (!state) renderHome();
+    }
   });
   document.addEventListener("keydown", e => {
     if (!state || !document.querySelector(".qcard")) return;
@@ -213,6 +275,10 @@
     else if (e.key === "ArrowLeft" && state.i > 0) { state.i--; renderQuestion(); }
   });
 
-  if (!DATA) { app.innerHTML = "<p>Could not load js/quiz-data.js.</p>"; return; }
-  renderHome();
+  /* ---------- boot: #2025 or #2025/punjabi > last selected year > default ---------- */
+  const [hy, hs] = decodeURIComponent(location.hash.replace(/^#\/?/, "")).split("/");
+  let saved = null; try { saved = localStorage.getItem(YEAR_STORE); } catch (e) {}
+  const initial = DATA.byYear[hy] ? hy : DATA.byYear[saved] ? saved : String(DATA.defaultYear);
+  selectYear(initial, { silent: true });
+  if (hs && YD.byId[hs]) startQuiz(hs); else renderHome();
 })();

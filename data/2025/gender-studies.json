@@ -1,0 +1,252 @@
+{
+  "id": "gender-studies",
+  "name": "Gender Studies",
+  "title": "Gender Studies",
+  "subtitle": "Optional Subject · CSS 2025",
+  "year": 2025,
+  "rtl": false,
+  "answerKeyNote": "Practice answer key (not an official FPSC key). Review carefully.",
+  "source": "https://cssaspirants.pk/wp-content/uploads/2026/07/gender-studies-2025.pdf",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Feminist perspectives are distinctive due to",
+      "options": {
+        "A": "They emphasize the centrality of gender in social analysis",
+        "B": "Only women can write from a feminist perspective",
+        "C": "Other theoretical perspectives have not researched women",
+        "D": "None of these"
+      },
+      "answer": "A",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 2,
+      "text": "The term “social and cultural expectations” being male or female describes",
+      "options": {
+        "A": "Societal Role",
+        "B": "Sex Role",
+        "C": "Gender Role",
+        "D": "Gender Mainstreaming"
+      },
+      "answer": "C",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 3,
+      "text": "Which of the following has not been central to feminist theorizing?",
+      "options": {
+        "A": "Male Domination in Society",
+        "B": "The Gendered Character of Knowledge",
+        "C": "The Experience of Black Women",
+        "D": "All of these"
+      },
+      "answer": "C",
+      "explanation": "Question is ambiguous; key follows standard test-bank answer."
+    },
+    {
+      "id": 4,
+      "text": "Which is an example of a social construct of gender?",
+      "options": {
+        "A": "Male domination in the political spheres",
+        "B": "The ability of a Woman to bear children",
+        "C": "The notion that boys should play with trucks",
+        "D": "Physical features and differences between men and women"
+      },
+      "answer": "C",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 5,
+      "text": "A feminist perspective that emphasizes the value and importance of women's personal experiences",
+      "options": {
+        "A": "Liberal Feminism",
+        "B": "Radical Feminism",
+        "C": "Socialist Feminism",
+        "D": "Postmodern Feminism"
+      },
+      "answer": "B",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 6,
+      "text": "Gender Specialists use the term 'Sex' for",
+      "options": {
+        "A": "Anatomical and physiological difference",
+        "B": "Erotic and physical practices",
+        "C": "Psychological and social difference",
+        "D": "All of these"
+      },
+      "answer": "A",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 7,
+      "text": "_____________is not a Millennium Development Goal.",
+      "options": {
+        "A": "Develop a global partnership for development",
+        "B": "Environmental sustainability",
+        "C": "Ensure equal political participation of women",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 8,
+      "text": "\"The Feminine Mystique\" was authored by",
+      "options": {
+        "A": "Carol Hanisch",
+        "B": "Betty Friedan",
+        "C": "Gloria Steinem",
+        "D": "Audre Lorde"
+      },
+      "answer": "B",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 9,
+      "text": "The Black feminism differs from mainstream feminism due to its focus on",
+      "options": {
+        "A": "Studying the injustices affecting the daily lives of Black women",
+        "B": "A long-standing emphasis on intersectionality",
+        "C": "Focuses on the cumulative effects of multiple forms of discrimination",
+        "D": "All of these"
+      },
+      "answer": "D",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 10,
+      "text": "Who wrote the influential book \"The Second Sex\"?",
+      "options": {
+        "A": "Betty Friedan",
+        "B": "Gloria Steinem",
+        "C": "Audre Lorde",
+        "D": "Simone de Beauvoir"
+      },
+      "answer": "D",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 11,
+      "text": "The Seneca Falls Convention was led by",
+      "options": {
+        "A": "Susan B. Anthony",
+        "B": "Sojourner Truth",
+        "C": "Elizabeth Cady Stanton",
+        "D": "Alice Paul"
+      },
+      "answer": "C",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 12,
+      "text": "The Landmark Supreme Court Case in 1973 that legalized abortion in the United States is",
+      "options": {
+        "A": "Roe v. Wade",
+        "B": "Planned Parenthood v. Casey",
+        "C": "Griswold v. Connecticut",
+        "D": "Eisenstadt v. Baird"
+      },
+      "answer": "A",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 13,
+      "text": "The concept of Gender and Development focuses on",
+      "options": {
+        "A": "Gender equality",
+        "B": "Women's empowerment",
+        "C": "Patriarchy",
+        "D": "All of these"
+      },
+      "answer": "D",
+      "explanation": "Low confidence."
+    },
+    {
+      "id": 14,
+      "text": "Which of the following indicators measures gender inequality?",
+      "options": {
+        "A": "Gender Development Index (GDI)",
+        "B": "Gender Empowerment Measure (GEM)",
+        "C": "Human Development Index (HDI)",
+        "D": "All of these"
+      },
+      "answer": "D",
+      "explanation": "GII is the current measure; GDI and GEM both measure gender gaps."
+    },
+    {
+      "id": 15,
+      "text": "Which of the following is a benefit of gender mainstreaming?",
+      "options": {
+        "A": "Increased efficiency",
+        "B": "Improved effectiveness",
+        "C": "Enhanced accountability",
+        "D": "All of these"
+      },
+      "answer": "D",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 16,
+      "text": "Which of the following laws was a major focus of the women's rights movement in Pakistan in the 1980s?",
+      "options": {
+        "A": "The Hudood Ordinance",
+        "B": "The Zina Ordinance",
+        "C": "The Qanun-e-Shahadat",
+        "D": "The Pakistan Penal Code"
+      },
+      "answer": "A",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 17,
+      "text": "Gender-based violence (GBV) is commonly known as",
+      "options": {
+        "A": "Violence committed by men against women",
+        "B": "Violence committed by women against men",
+        "C": "Violence committed by individuals against themselves",
+        "D": "Violence directed by individuals based on their sex or gender"
+      },
+      "answer": "D",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 18,
+      "text": "Sharmeen Obaid-Chinoy is famous for her profession as",
+      "options": {
+        "A": "Journalist",
+        "B": "Filmmaker",
+        "C": "Human rights activist",
+        "D": "Politician"
+      },
+      "answer": "B",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 19,
+      "text": "The gendering of world politics is seen in which areas?",
+      "options": {
+        "A": "Prostitution and human trafficking",
+        "B": "Civil wars and refugee flows",
+        "C": "Trade and development",
+        "D": "All of these"
+      },
+      "answer": "D",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 20,
+      "text": "The term Third Wave to Feminism was coined by",
+      "options": {
+        "A": "Betty Friden",
+        "B": "Rebecca Walker",
+        "C": "Gloria Anzalua",
+        "D": "Herat Tailor"
+      },
+      "answer": "B",
+      "explanation": "Practice key."
+    }
+  ]
+}

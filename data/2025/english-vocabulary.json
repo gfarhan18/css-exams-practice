@@ -1,0 +1,272 @@
+{
+  "id": "english-vocabulary",
+  "name": "English Vocabulary",
+  "title": "English Vocabulary",
+  "subtitle": "Precis & Composition Part-I · CSS 2025",
+  "year": 2025,
+  "rtl": false,
+  "answerKeyNote": "Practice answer key (not an official FPSC key). Review carefully.",
+  "source": "https://cssaspirants.pk/wp-content/uploads/2026/07/english-precis-2025.pdf",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Synonym: choose the word nearest in meaning to FRABJOUS",
+      "options": {
+        "A": "Wonderful",
+        "B": "Surprising",
+        "C": "Blithe",
+        "D": "Gusto"
+      },
+      "answer": "A",
+      "section": "Synonyms",
+      "explanation": "Frabjous → Wonderful"
+    },
+    {
+      "id": 2,
+      "text": "Synonym: choose the word nearest in meaning to ACCUBATION",
+      "options": {
+        "A": "Conversation",
+        "B": "Reclining",
+        "C": "Ambulation",
+        "D": "Occupation"
+      },
+      "answer": "B",
+      "section": "Synonyms",
+      "explanation": "Accubation → Reclining"
+    },
+    {
+      "id": 3,
+      "text": "Synonym: choose the word nearest in meaning to LEVITATE",
+      "options": {
+        "A": "Sink",
+        "B": "Float",
+        "C": "Plod",
+        "D": "Wander"
+      },
+      "answer": "B",
+      "section": "Synonyms",
+      "explanation": "Levitate → Float"
+    },
+    {
+      "id": 4,
+      "text": "Synonym: choose the word nearest in meaning to SIBYLLINE",
+      "options": {
+        "A": "Enigmatic",
+        "B": "Obvious",
+        "C": "Transparent",
+        "D": "Subtle"
+      },
+      "answer": "A",
+      "section": "Synonyms",
+      "explanation": "Sibylline → Enigmatic"
+    },
+    {
+      "id": 5,
+      "text": "Synonym: choose the word nearest in meaning to MACADAMIZED",
+      "options": {
+        "A": "Graveled",
+        "B": "Mudded",
+        "C": "Turfed",
+        "D": "Paved"
+      },
+      "answer": "D",
+      "section": "Synonyms",
+      "explanation": "Macadamized → Paved"
+    },
+    {
+      "id": 6,
+      "text": "Synonym: choose the word nearest in meaning to FINAGLE",
+      "options": {
+        "A": "Surrender",
+        "B": "Manipulate",
+        "C": "Cooperate",
+        "D": "Wheedle"
+      },
+      "answer": "B",
+      "section": "Synonyms",
+      "explanation": "Finagle → Manipulate"
+    },
+    {
+      "id": 7,
+      "text": "Synonym: choose the word nearest in meaning to DESIDERIUM",
+      "options": {
+        "A": "Craving",
+        "B": "Satisfaction",
+        "C": "Fulfillment",
+        "D": "Contentment"
+      },
+      "answer": "A",
+      "section": "Synonyms",
+      "explanation": "Desiderium → Craving"
+    },
+    {
+      "id": 8,
+      "text": "Synonym: choose the word nearest in meaning to AMANUENSIS",
+      "options": {
+        "A": "Secretary",
+        "B": "Assistant",
+        "C": "Clerk",
+        "D": "Scribe"
+      },
+      "answer": "D",
+      "section": "Synonyms",
+      "explanation": "Amanuensis → Scribe — Secretary (A) also arguable; amanuensis = one who writes from dictation."
+    },
+    {
+      "id": 9,
+      "text": "Synonym: choose the word nearest in meaning to CROMULENT",
+      "options": {
+        "A": "Acceptable",
+        "B": "Unacceptable",
+        "C": "Questionable",
+        "D": "Dubious"
+      },
+      "answer": "A",
+      "section": "Synonyms",
+      "explanation": "Cromulent → Acceptable"
+    },
+    {
+      "id": 10,
+      "text": "Synonym: choose the word nearest in meaning to PROPINQUITY",
+      "options": {
+        "A": "Distance",
+        "B": "Closeness",
+        "C": "Remoteness",
+        "D": "Isolation"
+      },
+      "answer": "B",
+      "section": "Synonyms",
+      "explanation": "Propinquity → Closeness"
+    },
+    {
+      "id": 11,
+      "text": "Antonym: choose the word most opposite in meaning to PERSPICACITY",
+      "options": {
+        "A": "Acumen",
+        "B": "Astuteness",
+        "C": "Naivety",
+        "D": "Intelligence"
+      },
+      "answer": "C",
+      "section": "Antonyms",
+      "explanation": "Perspicacity → Naivety"
+    },
+    {
+      "id": 12,
+      "text": "Antonym: choose the word most opposite in meaning to CONFABULATION",
+      "options": {
+        "A": "Verification",
+        "B": "Fabrication",
+        "C": "Distortion",
+        "D": "Exaggeration"
+      },
+      "answer": "A",
+      "section": "Antonyms",
+      "explanation": "Confabulation → Verification"
+    },
+    {
+      "id": 13,
+      "text": "Antonym: choose the word most opposite in meaning to DILENTTANTE",
+      "options": {
+        "A": "Amateur",
+        "B": "Connoisseur",
+        "C": "Novice",
+        "D": "Enthusiast"
+      },
+      "answer": "B",
+      "section": "Antonyms",
+      "explanation": "Dilenttante → Connoisseur"
+    },
+    {
+      "id": 14,
+      "text": "Antonym: choose the word most opposite in meaning to KILTER",
+      "options": {
+        "A": "Balance",
+        "B": "Order",
+        "C": "Harmony",
+        "D": "Out-of-sync"
+      },
+      "answer": "D",
+      "section": "Antonyms",
+      "explanation": "Kilter → Out-of-sync"
+    },
+    {
+      "id": 15,
+      "text": "Antonym: choose the word most opposite in meaning to RHUBARB",
+      "options": {
+        "A": "Serenity",
+        "B": "Cacophony",
+        "C": "Harmony",
+        "D": "Sweetness"
+      },
+      "answer": "A",
+      "section": "Antonyms",
+      "explanation": "Rhubarb → Serenity"
+    },
+    {
+      "id": 16,
+      "text": "Antonym: choose the word most opposite in meaning to CORUSCATING",
+      "options": {
+        "A": "Mundane",
+        "B": "Tenebrous",
+        "C": "Sparkling",
+        "D": "Brilliant"
+      },
+      "answer": "B",
+      "section": "Antonyms",
+      "explanation": "Coruscating → Tenebrous"
+    },
+    {
+      "id": 17,
+      "text": "Antonym: choose the word most opposite in meaning to VELLEITY",
+      "options": {
+        "A": "Aversion",
+        "B": "Passion",
+        "C": "Indifference",
+        "D": "Apathy"
+      },
+      "answer": "B",
+      "section": "Antonyms",
+      "explanation": "Velleity → Passion"
+    },
+    {
+      "id": 18,
+      "text": "Antonym: choose the word most opposite in meaning to BAROQUE",
+      "options": {
+        "A": "Minimalist",
+        "B": "Ornate",
+        "C": "Classical",
+        "D": "Rococo"
+      },
+      "answer": "A",
+      "section": "Antonyms",
+      "explanation": "Baroque → Minimalist"
+    },
+    {
+      "id": 19,
+      "text": "Antonym: choose the word most opposite in meaning to CAVEAT",
+      "options": {
+        "A": "Guarantee",
+        "B": "Warning",
+        "C": "Assurance",
+        "D": "Disclaimer"
+      },
+      "answer": "A",
+      "section": "Antonyms",
+      "explanation": "Caveat → Guarantee"
+    },
+    {
+      "id": 20,
+      "text": "Antonym: choose the word most opposite in meaning to BLUSTER",
+      "options": {
+        "A": "Bravado",
+        "B": "Boast",
+        "C": "Confidence",
+        "D": "Meekness"
+      },
+      "answer": "D",
+      "section": "Antonyms",
+      "explanation": "Bluster → Meekness"
+    }
+  ]
+}

@@ -1,0 +1,272 @@
+{
+  "id": "english-vocabulary",
+  "name": "English Vocabulary",
+  "title": "English Vocabulary",
+  "subtitle": "Precis & Composition Part-I · CSS 2024",
+  "year": 2024,
+  "rtl": false,
+  "answerKeyNote": "Practice answer key (not an official FPSC key). Review carefully.",
+  "source": "https://cssaspirants.pk/wp-content/uploads/2026/07/english-precis-2024.pdf",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Synonym: choose the word nearest in meaning to UBIQUITOUS",
+      "options": {
+        "A": "Scarce",
+        "B": "Present everywhere",
+        "C": "Unique",
+        "D": "Limited"
+      },
+      "answer": "B",
+      "section": "Synonyms",
+      "explanation": "Ubiquitous → Present everywhere"
+    },
+    {
+      "id": 2,
+      "text": "Synonym: choose the word nearest in meaning to PERNICIOUS",
+      "options": {
+        "A": "Beneficial",
+        "B": "Harmful",
+        "C": "Lucid",
+        "D": "Fervent"
+      },
+      "answer": "B",
+      "section": "Synonyms",
+      "explanation": "Pernicious → Harmful"
+    },
+    {
+      "id": 3,
+      "text": "Synonym: choose the word nearest in meaning to MELLIFLUOUS",
+      "options": {
+        "A": "Grating",
+        "B": "Smooth and sweet-sounding",
+        "C": "Dissonant",
+        "D": "Discordant"
+      },
+      "answer": "B",
+      "section": "Synonyms",
+      "explanation": "Mellifluous → Smooth and sweet-sounding"
+    },
+    {
+      "id": 4,
+      "text": "Synonym: choose the word nearest in meaning to EPHEMERAL",
+      "options": {
+        "A": "Enduring",
+        "B": "Eternal",
+        "C": "Short-lived",
+        "D": "Persistent"
+      },
+      "answer": "C",
+      "section": "Synonyms",
+      "explanation": "Ephemeral → Short-lived"
+    },
+    {
+      "id": 5,
+      "text": "Synonym: choose the word nearest in meaning to ASTUTE",
+      "options": {
+        "A": "Indifferent",
+        "B": "Pensive",
+        "C": "Stupid",
+        "D": "Insightful"
+      },
+      "answer": "D",
+      "section": "Synonyms",
+      "explanation": "Astute → Insightful"
+    },
+    {
+      "id": 6,
+      "text": "Synonym: choose the word nearest in meaning to ENTHRALL",
+      "options": {
+        "A": "Bore",
+        "B": "Captivate",
+        "C": "Fascinate",
+        "D": "Disinterest"
+      },
+      "answer": "B",
+      "section": "Synonyms",
+      "explanation": "Enthrall → Captivate — Fascinate (C) is also a near-synonym."
+    },
+    {
+      "id": 7,
+      "text": "Synonym: choose the word nearest in meaning to SYCOPHANT",
+      "options": {
+        "A": "Admirer",
+        "B": "Advocate",
+        "C": "Critic",
+        "D": "Flatterer"
+      },
+      "answer": "D",
+      "section": "Synonyms",
+      "explanation": "Sycophant → Flatterer"
+    },
+    {
+      "id": 8,
+      "text": "Synonym: choose the word nearest in meaning to ASSUAGE",
+      "options": {
+        "A": "Aggravate",
+        "B": "Intensify",
+        "C": "Soothe",
+        "D": "Alleviate"
+      },
+      "answer": "C",
+      "section": "Synonyms",
+      "explanation": "Assuage → Soothe — Alleviate (D) is also a near-synonym."
+    },
+    {
+      "id": 9,
+      "text": "Synonym: choose the word nearest in meaning to RETICENT",
+      "options": {
+        "A": "Talkative",
+        "B": "Loquacious",
+        "C": "Vocal",
+        "D": "Reserved"
+      },
+      "answer": "D",
+      "section": "Synonyms",
+      "explanation": "Reticent → Reserved"
+    },
+    {
+      "id": 10,
+      "text": "Synonym: choose the word nearest in meaning to INCESSANT",
+      "options": {
+        "A": "Sporadic",
+        "B": "Intermittent",
+        "C": "Persistent",
+        "D": "Halted"
+      },
+      "answer": "C",
+      "section": "Synonyms",
+      "explanation": "Incessant → Persistent"
+    },
+    {
+      "id": 11,
+      "text": "Antonym: choose the word most opposite in meaning to ESOTERIC",
+      "options": {
+        "A": "Obvious",
+        "B": "Understood by few",
+        "C": "Extraneous",
+        "D": "Common"
+      },
+      "answer": "D",
+      "section": "Antonyms",
+      "explanation": "Esoteric → Common — Obvious (A) is also arguable."
+    },
+    {
+      "id": 12,
+      "text": "Antonym: choose the word most opposite in meaning to SQUALID",
+      "options": {
+        "A": "Dirty",
+        "B": "Wretched",
+        "C": "Lavish",
+        "D": "Clean"
+      },
+      "answer": "D",
+      "section": "Antonyms",
+      "explanation": "Squalid → Clean"
+    },
+    {
+      "id": 13,
+      "text": "Antonym: choose the word most opposite in meaning to TACITURN",
+      "options": {
+        "A": "Loquacious",
+        "B": "Voluble",
+        "C": "Reticent",
+        "D": "Silent"
+      },
+      "answer": "A",
+      "section": "Antonyms",
+      "explanation": "Taciturn → Loquacious"
+    },
+    {
+      "id": 14,
+      "text": "Antonym: choose the word most opposite in meaning to CONSTRICT",
+      "options": {
+        "A": "Tighten",
+        "B": "Contract",
+        "C": "Expand",
+        "D": "Release"
+      },
+      "answer": "C",
+      "section": "Antonyms",
+      "explanation": "Constrict → Expand"
+    },
+    {
+      "id": 15,
+      "text": "Antonym: choose the word most opposite in meaning to LOQUACIOUS",
+      "options": {
+        "A": "Talkative",
+        "B": "Silent",
+        "C": "Reticent",
+        "D": "Reserved"
+      },
+      "answer": "B",
+      "section": "Antonyms",
+      "explanation": "Loquacious → Silent — Reticent/Reserved also opposite; Silent is the closest."
+    },
+    {
+      "id": 16,
+      "text": "Antonym: choose the word most opposite in meaning to INDOLENT",
+      "options": {
+        "A": "Lazy",
+        "B": "Active",
+        "C": "Lethargic",
+        "D": "Energetic"
+      },
+      "answer": "D",
+      "section": "Antonyms",
+      "explanation": "Indolent → Energetic — Active (B) is also an antonym."
+    },
+    {
+      "id": 17,
+      "text": "Antonym: choose the word most opposite in meaning to COALESCE",
+      "options": {
+        "A": "Merge",
+        "B": "Combine",
+        "C": "Disperse",
+        "D": "Separate"
+      },
+      "answer": "C",
+      "section": "Antonyms",
+      "explanation": "Coalesce → Disperse"
+    },
+    {
+      "id": 18,
+      "text": "Antonym: choose the word most opposite in meaning to RANCOR",
+      "options": {
+        "A": "Animosity",
+        "B": "Bitterness",
+        "C": "Hostility",
+        "D": "Amicability"
+      },
+      "answer": "D",
+      "section": "Antonyms",
+      "explanation": "Rancor → Amicability"
+    },
+    {
+      "id": 19,
+      "text": "Antonym: choose the word most opposite in meaning to ACQUIESCE",
+      "options": {
+        "A": "Comply",
+        "B": "Resist",
+        "C": "Agree",
+        "D": "Deny"
+      },
+      "answer": "B",
+      "section": "Antonyms",
+      "explanation": "Acquiesce → Resist"
+    },
+    {
+      "id": 20,
+      "text": "Antonym: choose the word most opposite in meaning to DEBILITATE",
+      "options": {
+        "A": "Fortify",
+        "B": "Weaken",
+        "C": "Strengthen",
+        "D": "Enervate"
+      },
+      "answer": "C",
+      "section": "Antonyms",
+      "explanation": "Debilitate → Strengthen — Fortify (A) is also an antonym."
+    }
+  ]
+}

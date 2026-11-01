@@ -1,0 +1,252 @@
+{
+  "id": "criminology",
+  "name": "Criminology",
+  "title": "Criminology",
+  "subtitle": "Optional Subject · CSS 2025",
+  "year": 2025,
+  "rtl": false,
+  "answerKeyNote": "Practice answer key (not an official FPSC key). Review carefully.",
+  "source": "https://cssaspirants.pk/wp-content/uploads/2026/07/criminology-2025.pdf",
+  "questions": [
+    {
+      "id": 1,
+      "text": "The term criminology is derived from the combination of two Latin words",
+      "options": {
+        "A": "Criminality, logic",
+        "B": "Crimen, logia",
+        "C": "Crimen, logistic",
+        "D": "None of these"
+      },
+      "answer": "B",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 2,
+      "text": "Which approach holds that deviance is not a feature of a group or individual but a Process of group interaction through which one individual is defined as deviant",
+      "options": {
+        "A": "Labeling theory",
+        "B": "Control theory",
+        "C": "Functionalist theory",
+        "D": "None of these"
+      },
+      "answer": "A",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 3,
+      "text": "Who first introduced the notion of anomie into Sociology?",
+      "options": {
+        "A": "August Comte",
+        "B": "Karl Marx",
+        "C": "Max Weber",
+        "D": "Emile Durkheim"
+      },
+      "answer": "D",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 4,
+      "text": "In the mid of 1960’s Robert L. Burgess and Ronald L. Aker presented their differential ________ theory of crime.",
+      "options": {
+        "A": "Reinforcement",
+        "B": "Association",
+        "C": "Social learning",
+        "D": "None of these"
+      },
+      "answer": "A",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 5,
+      "text": "Which of the following processes focuses on individual offenders and emphasizes the possibility of changing their behavior?",
+      "options": {
+        "A": "Retribution",
+        "B": "Rehabilitation",
+        "C": "Deterrence",
+        "D": "None of these"
+      },
+      "answer": "B",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 6,
+      "text": "Which of the following is not an index crime?",
+      "options": {
+        "A": "Burglary",
+        "B": "Larceny",
+        "C": "Fraud",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 7,
+      "text": "Who wrote the famous monograph 'On Crimes and Punishments' in 1764?",
+      "options": {
+        "A": "Charlas Mantisqueiue",
+        "B": "Jerm Bentham",
+        "C": "Cesare Beccaria",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 8,
+      "text": "__________ is defined as “non-confirmity to a given set of norms that are accepted by a significant number of people in society",
+      "options": {
+        "A": "Criminality",
+        "B": "Deviance",
+        "C": "Recidivism",
+        "D": "Degeneracy"
+      },
+      "answer": "B",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 9,
+      "text": "White-collar crime is low in visibility because?",
+      "options": {
+        "A": "Involves only small amounts of money",
+        "B": "The proletariat can outsmart the bourgeoisie",
+        "C": "Goes undected in the context of everybody business transactions",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 10,
+      "text": "Crimes that are conducted over the internet or other computer network are called",
+      "options": {
+        "A": "Cyber",
+        "B": "Blue crime",
+        "C": "Felony",
+        "D": "None of these"
+      },
+      "answer": "A",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 11,
+      "text": "As per section 5, of the Probation of Offenders Ordinance and offender of an offence under section 392, P.P.C Can",
+      "options": {
+        "A": "Be released on probation",
+        "B": "Not be released on probation",
+        "C": "Both A & B",
+        "D": "None of these"
+      },
+      "answer": "B",
+      "explanation": "Section 392 PPC is among offences excluded under the Probation of Offenders Ordinance 1960 (medium confidence)."
+    },
+    {
+      "id": 12,
+      "text": "R.K. Merton argued that a person could experience strain they cannot achieve culturally acceptable goals via socially-acceptable means, then he adopted alternated way, he titled that way as",
+      "options": {
+        "A": "Conformists",
+        "B": "Innovators",
+        "C": "Rtualist",
+        "D": "None of these"
+      },
+      "answer": "B",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 13,
+      "text": "Under section 562, Cr.P.C Court has power to release offender on probation of ?",
+      "options": {
+        "A": "Being educated",
+        "B": "Good conduct",
+        "C": "Being old ager or minor",
+        "D": "None of these"
+      },
+      "answer": "B",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 14,
+      "text": "The Parliament and the Constitution are instruments of?",
+      "options": {
+        "A": "Legal Justice",
+        "B": "Political Justice",
+        "C": "Economic Justice",
+        "D": "Social Justice"
+      },
+      "answer": "B",
+      "explanation": "Low confidence."
+    },
+    {
+      "id": 15,
+      "text": "Article 123 of the Police Order 2002 empowers any police officer not below the rank of _________ to give direction against serious disorder at place of amusement?",
+      "options": {
+        "A": "S.S.P. or above",
+        "B": "S.H.O. or above",
+        "C": "Assistant Sub-Inspector",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "Low confidence — verify Police Order 2002 Art. 123."
+    },
+    {
+      "id": 16,
+      "text": "Lombroso claimed that",
+      "options": {
+        "A": "Criminals were socialized by interaction",
+        "B": "No act is intrinsically deviant",
+        "C": "Biological failings drove criminal",
+        "D": "Women were less likely to be arrested than men"
+      },
+      "answer": "C",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 17,
+      "text": "What does U.C.R. stand for?",
+      "options": {
+        "A": "Uniform Crime Report",
+        "B": "Universal Crime Rate",
+        "C": "Undefined Criminal Rule",
+        "D": "None of these"
+      },
+      "answer": "A",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 18,
+      "text": "Crime mapping shows",
+      "options": {
+        "A": "Location of crime",
+        "B": "Crime arrest rates",
+        "C": "Crime statistics",
+        "D": "None of these"
+      },
+      "answer": "A",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 19,
+      "text": "The intent to commit the criminal act is known as",
+      "options": {
+        "A": "Mens rea",
+        "B": "Actus reus",
+        "C": "Mala in se",
+        "D": "None of these"
+      },
+      "answer": "A",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 20,
+      "text": "No Police Officer shall engage in any private employment while he is a member of the police establishment as provided by Article _________, of the Police Order 2002?",
+      "options": {
+        "A": "116",
+        "B": "117",
+        "C": "118",
+        "D": "None of these"
+      },
+      "answer": "A",
+      "explanation": "Low confidence — verify Police Order 2002."
+    }
+  ]
+}
