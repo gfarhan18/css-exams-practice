@@ -34,3 +34,15 @@ with open(os.path.join(HERE, "js", "quiz-data.js"), "w", encoding="utf-8") as f:
     f.write("// AUTO-GENERATED from data/catalog.json + data/<year>/*.json by rebuild-data.py — edit the JSON and re-run.\n")
     f.write("window.MCQ_DATA = " + json.dumps(out, ensure_ascii=False, indent=1) + ";\n")
 print("quiz-data.js rebuilt:", {y: {s["id"]: s["questionCount"] for s in v["subjects"]} for y, v in by_year.items()})
+
+# ---- Subjective (Part-II) past papers: data/subjective-catalog.json -> js/papers-data.js ----
+pcat_path = os.path.join(HERE, "data", "subjective-catalog.json")
+if os.path.exists(pcat_path):
+    pcat = json.load(open(pcat_path, encoding="utf-8"))
+    missing = [p["pdfPath"] for s in pcat["subjects"] for p in s["papers"] if not os.path.exists(os.path.join(HERE, p["pdfPath"]))]
+    if missing:
+        sys.exit("Missing paper PDFs:\n" + "\n".join(missing))
+    with open(os.path.join(HERE, "js", "papers-data.js"), "w", encoding="utf-8") as f:
+        f.write("// AUTO-GENERATED from data/subjective-catalog.json by rebuild-data.py — edit the JSON and re-run.\n")
+        f.write("window.PAPERS_DATA = " + json.dumps(pcat, ensure_ascii=False, indent=1) + ";\n")
+    print("papers-data.js rebuilt:", {s["id"]: len(s["papers"]) for s in pcat["subjects"]})
