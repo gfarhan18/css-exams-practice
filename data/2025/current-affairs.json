@@ -1,0 +1,252 @@
+{
+  "id": "current-affairs",
+  "name": "Current Affairs",
+  "title": "Current Affairs",
+  "subtitle": "General Knowledge-II · CSS 2025",
+  "year": 2025,
+  "rtl": false,
+  "answerKeyNote": "Practice answer key (not an official FPSC key). Review carefully.",
+  "source": "https://cssaspirants.pk/wp-content/uploads/2026/07/current-affairs-2025.pdf",
+  "questions": [
+    {
+      "id": 1,
+      "text": "The UN Climate Change Conference 2024 was held in",
+      "options": {
+        "A": "Azerbaijan",
+        "B": "Tajilistan",
+        "C": "Turkamanistan",
+        "D": "None of these"
+      },
+      "answer": "A",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 2,
+      "text": "When did Dr. Muhammad Yunus won Nobel Prize?",
+      "options": {
+        "A": "1996",
+        "B": "2006",
+        "C": "2009",
+        "D": "None of these"
+      },
+      "answer": "B",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 3,
+      "text": "7th NFC Award was signed in",
+      "options": {
+        "A": "1996",
+        "B": "2006",
+        "C": "2010",
+        "D": "None of these"
+      },
+      "answer": "D",
+      "explanation": "7th NFC Award was signed in December 2009."
+    },
+    {
+      "id": 4,
+      "text": "The concept of Ijma’a follows the principle of agreement by",
+      "options": {
+        "A": "51%",
+        "B": "66%",
+        "C": "100%",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "Ijma = consensus of qualified jurists (medium confidence)."
+    },
+    {
+      "id": 5,
+      "text": "Which article of Pakistan's constitution talks about clean environment?",
+      "options": {
+        "A": "Article 8A",
+        "B": "Article 9A",
+        "C": "Article 7A",
+        "D": "None of these"
+      },
+      "answer": "B",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 6,
+      "text": "The Book 'Pakistan Political and Constitutional Engineering' was written by",
+      "options": {
+        "A": "Hassan Askari",
+        "B": "Ilhan Niaz",
+        "C": "Mahboob Ahmad",
+        "D": "None of these"
+      },
+      "answer": "A",
+      "explanation": "Hasan Askari Rizvi (Sang-e-Meel, 2024)."
+    },
+    {
+      "id": 7,
+      "text": "The Book 'Pakistan's Security and The India-US Strategic Partnership' was written by",
+      "options": {
+        "A": "Hassan Askari",
+        "B": "Zafar Nawaz Jaspal",
+        "C": "Shahid Bukhari",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "Syed Shahid Hussain Bukhari (Routledge, 2020)."
+    },
+    {
+      "id": 8,
+      "text": "British constitution can be amended through_______ majority.",
+      "options": {
+        "A": "Two-Third",
+        "B": "Three-Fourth",
+        "C": "One-Two",
+        "D": "None of these"
+      },
+      "answer": "D",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 9,
+      "text": "Ismail Hania was martyred in Iran on",
+      "options": {
+        "A": "July 30, 2024",
+        "B": "July 31, 2024",
+        "C": "July 03, 2024",
+        "D": "None of these"
+      },
+      "answer": "B",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 10,
+      "text": "Arshad Nadeem won Gold Medal in Olympics by throwing the Javelin to",
+      "options": {
+        "A": "81.55 meters",
+        "B": "81.21 meters",
+        "C": "82.15 meters",
+        "D": "None of these"
+      },
+      "answer": "D",
+      "explanation": "Olympic record throw was 92.97 m."
+    },
+    {
+      "id": 11,
+      "text": "SIFC was created for promoting________ in Pakistan.",
+      "options": {
+        "A": "Business",
+        "B": "Economy",
+        "C": "Investment",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 12,
+      "text": "Trump has threatened to take control of Panama Canal due to",
+      "options": {
+        "A": "Security issues",
+        "B": "Fee Charges increase",
+        "C": "Trade Dispute",
+        "D": "None of these"
+      },
+      "answer": "B",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 13,
+      "text": "Saudi Arabia re-established its diplomatic relations with Iran on",
+      "options": {
+        "A": "December 10, 2023",
+        "B": "May 10, 2023",
+        "C": "March 10, 2023",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 14,
+      "text": "Who is the largest importer of conventional arms for year 2023 according to SIPRI?",
+      "options": {
+        "A": "India",
+        "B": "Saudi Arabia",
+        "C": "UAE",
+        "D": "None of these"
+      },
+      "answer": "A",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 15,
+      "text": "G 20 Summit meeting held in _______ in 2024.",
+      "options": {
+        "A": "Costa Rica",
+        "B": "Rio de Janeiro",
+        "C": "Tokyo",
+        "D": "None of these"
+      },
+      "answer": "B",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 16,
+      "text": "Who is India's largest trading partner for 2024?",
+      "options": {
+        "A": "USA",
+        "B": "China",
+        "C": "Russia",
+        "D": "None of these"
+      },
+      "answer": "B",
+      "explanation": "China in FY2023-24; USA in FY2024-25 — ambiguous."
+    },
+    {
+      "id": 17,
+      "text": "Who is the largest exports destination of Pakistan?",
+      "options": {
+        "A": "China",
+        "B": "USA",
+        "C": "UK",
+        "D": "None of these"
+      },
+      "answer": "B",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 18,
+      "text": "AUKUS Agreement was signed on",
+      "options": {
+        "A": "August 05, 2024",
+        "B": "August 05, 2023",
+        "C": "August 15, 2023",
+        "D": "None of these"
+      },
+      "answer": "D",
+      "explanation": "AUKUS was announced on 15 Sep 2021."
+    },
+    {
+      "id": 19,
+      "text": "Who owns Wakhan Corridor?",
+      "options": {
+        "A": "Uzbekistan",
+        "B": "Afghanistan",
+        "C": "Tajikistan",
+        "D": "None of these"
+      },
+      "answer": "B",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 20,
+      "text": "Martial Law was imposed in South Korea on",
+      "options": {
+        "A": "December 30, 2024",
+        "B": "December 03, 2024",
+        "C": "December 13, 2024",
+        "D": "None of these"
+      },
+      "answer": "B",
+      "explanation": "Practice key."
+    }
+  ]
+}

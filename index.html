@@ -3,24 +3,37 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>CSS 2026 · MCQ Practice</title>
+  <title>CSS 2024–2026 · MCQ Practice</title>
+  <meta name="description" content="Practice CSS Part-I MCQs from the 2024, 2025 and 2026 papers, one subject at a time, with instant feedback." />
+  <!-- Optional web font for Punjabi (Shahmukhi). Offline, the system Urdu/Arabic fonts in css/styles.css are used instead. -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Nastaliq+Urdu:wght@400;700&display=swap" />
   <link rel="stylesheet" href="css/styles.css" />
 </head>
 <body>
   <header class="topbar">
     <button class="brand" id="homeBtn" aria-label="Back to subjects">
       <span class="brand-mark">C</span>
-      <span class="brand-text"><strong>CSS 2026</strong><small>Part-I MCQ Practice</small></span>
+      <span class="brand-text"><strong id="brandTitle">CSS 2026</strong><small>Part-I MCQ Practice · 2024–2026</small></span>
     </button>
-    <button class="ghost-btn" id="resetBtn" title="Clear all saved scores">Reset scores</button>
+    <button class="ghost-btn" id="resetBtn" title="Clear saved scores for the selected year">Reset scores</button>
   </header>
 
-  <main id="app" class="container" aria-live="polite"></main>
+  <div class="layout">
+    <aside class="sidebar" aria-label="Exam year">
+      <h2 class="side-title">Exam year</h2>
+      <nav id="yearNav" class="timeline"></nav>
+      <div id="gapList" class="gaps"></div>
+    </aside>
+    <main id="app" class="container" aria-live="polite"></main>
+  </div>
 
   <div id="toast" class="toast" role="status" aria-live="assertive"></div>
 
   <footer class="foot">
-    Questions from CSS 2026 papers (via cssaspirants.pk). Answer keys are practice keys, not official FPSC keys.
+    Part-I MCQs from CSS 2024, 2025 and 2026 papers (via cssaspirants.pk). Answer keys are practice keys, not official FPSC keys.<br />
+    Part-I MCQs for 2006–2023 aren't published on that free source, so those years aren't included.
   </footer>
 
   <script src="js/quiz-data.js"></script>

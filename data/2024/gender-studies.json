@@ -1,0 +1,252 @@
+{
+  "id": "gender-studies",
+  "name": "Gender Studies",
+  "title": "Gender Studies",
+  "subtitle": "Optional Subject · CSS 2024",
+  "year": 2024,
+  "rtl": false,
+  "answerKeyNote": "Practice answer key (not an official FPSC key). Review carefully.",
+  "source": "https://cssaspirants.pk/wp-content/uploads/2026/07/gender-studies-2024.pdf",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Who wrote the book that presented the term Écriture feminine, describing the female experience of writing?",
+      "options": {
+        "A": "Luce Irigaray",
+        "B": "Hélène Cixous",
+        "C": "Kate Millet",
+        "D": "None of these"
+      },
+      "answer": "B",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 2,
+      "text": "Artificial unseen barriers based on attitudinal and organizational bias preventing career growth of women and other marginalized communities are called",
+      "options": {
+        "A": "Glass escalator",
+        "B": "Glass cliff",
+        "C": "Glass ceiling",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 3,
+      "text": "Who were excluded from World Anti-Slavery Convention and resolved to hold Seneca Falls Convention?",
+      "options": {
+        "A": "Susan B. Anthony & Elizabeth Cady Stanton",
+        "B": "Elizabeth Cady Stanton & Lucretia Mott",
+        "C": "Lucretia Mott & Mary M’Clintock",
+        "D": "None of these"
+      },
+      "answer": "B",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 4,
+      "text": "Butler proposed that gender is",
+      "options": {
+        "A": "Essentialist",
+        "B": "Social",
+        "C": "Performative",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 5,
+      "text": "Concept of Intersectionality originated from discussions on",
+      "options": {
+        "A": "Gender and race",
+        "B": "Gender and class",
+        "C": "Gender and religion",
+        "D": "None of these"
+      },
+      "answer": "A",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 6,
+      "text": "Elaine Showalter coined the term",
+      "options": {
+        "A": "archetypal criticism",
+        "B": "Reader-response criticism",
+        "C": "Gynocriticism",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 7,
+      "text": "The “Beijing Declaration and Platform for Action” was adopted in",
+      "options": {
+        "A": "1985",
+        "B": "1979",
+        "C": "1994",
+        "D": "None of these"
+      },
+      "answer": "D",
+      "explanation": "Adopted in 1995."
+    },
+    {
+      "id": 8,
+      "text": "When was the ‘Protection against Harassment of Women at the Workplace Act’ passed?",
+      "options": {
+        "A": "2005",
+        "B": "2010",
+        "C": "2015",
+        "D": "None of these"
+      },
+      "answer": "B",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 9,
+      "text": "Which country was the first to grant women suffrage?",
+      "options": {
+        "A": "Finland",
+        "B": "Germany",
+        "C": "New Zealand",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 10,
+      "text": "How many women were in the first constituent assembly of Pakistan?",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "1",
+        "D": "None of these"
+      },
+      "answer": "A",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 11,
+      "text": "The first global policy framework to adopt gender mainstreaming was",
+      "options": {
+        "A": "CEDAW",
+        "B": "Beijing Declaration",
+        "C": "SDGs",
+        "D": "None of these"
+      },
+      "answer": "B",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 12,
+      "text": "___________ women in the world face gender-based violence.",
+      "options": {
+        "A": "5 out of 10",
+        "B": "5 out of 100",
+        "C": "1 out of 3",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 13,
+      "text": "In the World Economic Forum's (WEF) Global Gender Gap Report 2023, Pakistan has been ranked_________ out of 146 countries.",
+      "options": {
+        "A": "145",
+        "B": "142",
+        "C": "140",
+        "D": "None of these"
+      },
+      "answer": "B",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 14,
+      "text": "According to social learning theory, violence against women is",
+      "options": {
+        "A": "socially constructed",
+        "B": "caused by patriarchy",
+        "C": "innate and natural",
+        "D": "None of these"
+      },
+      "answer": "A",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 15,
+      "text": "What are the traits of an androgynous person?",
+      "options": {
+        "A": "Positive feminine",
+        "B": "Positive masculine and feminine",
+        "C": "Negative masculine and feminine",
+        "D": "None of these"
+      },
+      "answer": "B",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 16,
+      "text": "Which approach takes sexual division of labour for granted?",
+      "options": {
+        "A": "WAD",
+        "B": "WID",
+        "C": "GAD",
+        "D": "None of these"
+      },
+      "answer": "B",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 17,
+      "text": "How many seats are reserved for women in National Assembly of Pakistan?",
+      "options": {
+        "A": "50",
+        "B": "70",
+        "C": "60",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 18,
+      "text": "The Feminine Mystique was written by,:",
+      "options": {
+        "A": "Gloria Steinem",
+        "B": "Noami Wolf",
+        "C": "Betty Frieden",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 19,
+      "text": "Which amongst the following is socially constructed?",
+      "options": {
+        "A": "Gender",
+        "B": "femininity & masculinity",
+        "C": "Both A & B",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "Practice key."
+    },
+    {
+      "id": 20,
+      "text": "Who said, “One is not born, but one rather becomes a woman”?",
+      "options": {
+        "A": "Simone de Beauvoir",
+        "B": "Luce Irigaray",
+        "C": "Betty Frieden",
+        "D": "None of these"
+      },
+      "answer": "A",
+      "explanation": "Practice key."
+    }
+  ]
+}

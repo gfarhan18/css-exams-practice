@@ -1,0 +1,250 @@
+{
+  "id": "islamic-studies",
+  "title": "Islamiyat",
+  "subtitle": "Islamic Studies · CSS 2026",
+  "year": 2026,
+  "rtl": false,
+  "answerKeyNote": "Practice answer key (not an official FPSC key). Review carefully.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Who is the author of the book \"The Reconstruction of Religious Thought in Islam\"?",
+      "options": {
+        "A": "Allama Shibli",
+        "B": "Allama Iqbal",
+        "C": "Syed Moudodi",
+        "D": "None of these"
+      },
+      "answer": "B",
+      "explanation": "Allama Iqbal's lectures (1930)."
+    },
+    {
+      "id": 2,
+      "text": "According to the MUFASSIRIN, what is meant by \"في سبيل الله\" in the heads of Zakat?",
+      "options": {
+        "A": "Jihad",
+        "B": "Welfare",
+        "C": "Hospitals",
+        "D": "None of these"
+      },
+      "answer": "A",
+      "explanation": "Most mufassirin interpret it as Jihad / those striving in Allah's cause."
+    },
+    {
+      "id": 3,
+      "text": "During the Hudaybiyyah diplomacy, under whose protection did Hazrat Usman Ghani (RA) enter Makkah?",
+      "options": {
+        "A": "Hazrat Saeed bin Zaid (RA)",
+        "B": "Hazrat Abbas (RA)",
+        "C": "Hazrat Saeed bin Aas (RA)",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "Protection was given by Aban bin Saeed bin al-Aas — closest option is C."
+    },
+    {
+      "id": 4,
+      "text": "Who is the author of the book on Seerah titled \"Khutbat-e-Madras\"?",
+      "options": {
+        "A": "Allama Shibli",
+        "B": "Allama Shabbir Ahmad Usmani",
+        "C": "Qazi Sulaiman Mansoor Puri",
+        "D": "Syed Sulaiman Nadvi"
+      },
+      "answer": "D",
+      "explanation": "Syed Sulaiman Nadvi's Madras lectures (1925)."
+    },
+    {
+      "id": 5,
+      "text": "According to Holy Quran, in which matter are men and women equal?",
+      "options": {
+        "A": "Reward (Ajar)",
+        "B": "Deeds",
+        "C": "Inheritance",
+        "D": "None of these"
+      },
+      "answer": "A",
+      "explanation": "Al-Ahzab 33:35 / Aal-Imran 3:195 — equal reward."
+    },
+    {
+      "id": 6,
+      "text": "According to which Surah, the killing of one human being is equal to the killing of all mankind?",
+      "options": {
+        "A": "Al-Anfal",
+        "B": "Al-Ahzab",
+        "C": "Al-Tauba",
+        "D": "Al-Maida"
+      },
+      "answer": "D",
+      "explanation": "Al-Ma'idah 5:32."
+    },
+    {
+      "id": 7,
+      "text": "Who is the author of \"The Clash of Civilizations\"?",
+      "options": {
+        "A": "Henry Kissinger",
+        "B": "Arnold J Toynbee",
+        "C": "Kenneth Clark",
+        "D": "Samuel P. Huntington"
+      },
+      "answer": "D",
+      "explanation": "Samuel P. Huntington (1996)."
+    },
+    {
+      "id": 8,
+      "text": "Which Islamic organization was established in the year 1969?",
+      "options": {
+        "A": "PLO",
+        "B": "OIC",
+        "C": "LAS",
+        "D": "(illegible option)"
+      },
+      "answer": "B",
+      "explanation": "OIC was founded in Rabat, September 1969."
+    },
+    {
+      "id": 9,
+      "text": "In which school of thought is the principle of 'ISTEHSAN' most extensively applied?",
+      "options": {
+        "A": "Maliki",
+        "B": "Hanbli",
+        "C": "Shafi",
+        "D": "None of these"
+      },
+      "answer": "D",
+      "explanation": "Istihsan is most associated with the Hanafi school (not listed)."
+    },
+    {
+      "id": 10,
+      "text": "Which status of the Prophet Muhammad (ﷺ) has been most prominently highlighted in the Holy Qur'an and Sunnah?",
+      "options": {
+        "A": "Merchant",
+        "B": "Warrior",
+        "C": "Teacher",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "'I have been sent as a teacher' (Ibn Majah); Al-Jumu'ah 62:2."
+    },
+    {
+      "id": 11,
+      "text": "Polygamy is allowed for a man under which condition?",
+      "options": {
+        "A": "Health",
+        "B": "Wealth",
+        "C": "Justice",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "An-Nisa 4:3 — only if one can do justice."
+    },
+    {
+      "id": 12,
+      "text": "In the final major address to the Ummah, what type of equality did the Prophet (ﷺ) emphasize?",
+      "options": {
+        "A": "Human",
+        "B": "Economic",
+        "C": "Legal",
+        "D": "None of these"
+      },
+      "answer": "A",
+      "explanation": "Khutbat-ul-Wida: no Arab is superior to a non-Arab."
+    },
+    {
+      "id": 13,
+      "text": "Which act of worship highlights the universality of Islam?",
+      "options": {
+        "A": "Prayer (Salah)",
+        "B": "Fasting (Sowm)",
+        "C": "Pilgrimage (Hajj)",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "Hajj gathers Muslims of all races and nations."
+    },
+    {
+      "id": 14,
+      "text": "According to Almighty Allah, what is the basis of being most honored?",
+      "options": {
+        "A": "Taqwa (Piety)",
+        "B": "Generosity",
+        "C": "Service to humanity",
+        "D": "None of these"
+      },
+      "answer": "A",
+      "explanation": "Al-Hujurat 49:13."
+    },
+    {
+      "id": 15,
+      "text": "The verse (إني جاعل في الأرض خليفة) states:",
+      "options": {
+        "A": "Respect for humanity",
+        "B": "Human dignity",
+        "C": "Responsibility",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "Khilafah (vicegerency) = trust and responsibility."
+    },
+    {
+      "id": 16,
+      "text": "Which is considered the first battle led by the Prophet (ﷺ) in Islamic history?",
+      "options": {
+        "A": "Buwat",
+        "B": "Badar",
+        "C": "Abwa",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "Ghazwa Abwa (Waddan), 2 AH, was the first expedition he led personally."
+    },
+    {
+      "id": 17,
+      "text": "What was the greatest obstacle in the enforcement of law which the Prophet (ﷺ) removed through his practical Sunnah?",
+      "options": {
+        "A": "Fear",
+        "B": "Discriminatory law",
+        "C": "Favoritism",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "Makhzumi woman case: 'even if Fatima stole…'."
+    },
+    {
+      "id": 18,
+      "text": "When one person provides capital and the other provides labor and both share profit and loss, what is it called?",
+      "options": {
+        "A": "Mudarabah",
+        "B": "Partnership",
+        "C": "Insurance",
+        "D": "None of these"
+      },
+      "answer": "A",
+      "explanation": "Mudarabah: rabb-ul-maal + mudarib."
+    },
+    {
+      "id": 19,
+      "text": "What was the common central point of the message of all the Prophets?",
+      "options": {
+        "A": "Monotheism",
+        "B": "Hereafter",
+        "C": "Finality of Prophethood",
+        "D": "None of these"
+      },
+      "answer": "A",
+      "explanation": "Tawheed — An-Nahl 16:36."
+    },
+    {
+      "id": 20,
+      "text": "How many basic conditions are required for a Hadith to be regarded as authentic?",
+      "options": {
+        "A": "4",
+        "B": "5",
+        "C": "8",
+        "D": "3"
+      },
+      "answer": "B",
+      "explanation": "Continuous chain, 'adl narrators, dabt, no shudhudh, no 'illah."
+    }
+  ]
+}
