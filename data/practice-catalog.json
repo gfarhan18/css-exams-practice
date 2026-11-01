@@ -1,0 +1,27 @@
+{
+  "note": "Practice banks (beyond the yearly Part-I papers). rebuild-data.py turns this into js/practice-data.js. Packs are carved at build time: one pack per CSS year found in question 'section' tags, topic packs split into parts of at most partSize, and mixed sets of setSize in bank order.",
+  "banks": [
+    {
+      "id": "islamic-studies",
+      "name": "Islamic Studies",
+      "shortName": "Islamiyat",
+      "icon": "🕌",
+      "file": "data/practice/islamic-studies/islamic-studies-practice.json",
+      "setSize": 20,
+      "partSize": 20,
+      "topics": [
+        {"id": "seerah", "file": "data/practice/islamic-studies/by-topic/seerah.json", "icon": "🌙"},
+        {"id": "quran-tafseer", "file": "data/practice/islamic-studies/by-topic/quran-tafseer.json", "icon": "📖"},
+        {"id": "hadith-sunnah", "file": "data/practice/islamic-studies/by-topic/hadith-sunnah.json", "icon": "📜"},
+        {"id": "fiqh-islamic-law", "file": "data/practice/islamic-studies/by-topic/fiqh-islamic-law.json", "icon": "⚖️"},
+        {"id": "pillars-worship", "file": "data/practice/islamic-studies/by-topic/pillars-worship.json", "icon": "🕋"},
+        {"id": "beliefs-ethics", "file": "data/practice/islamic-studies/by-topic/beliefs-ethics.json", "icon": "💠"},
+        {"id": "companions-family", "file": "data/practice/islamic-studies/by-topic/companions-family.json", "icon": "👥"},
+        {"id": "khulafa-islamic-history", "file": "data/practice/islamic-studies/by-topic/khulafa-islamic-history.json", "icon": "🏛️"},
+        {"id": "comparative-religion", "file": "data/practice/islamic-studies/by-topic/comparative-religion.json", "icon": "🔭"},
+        {"id": "muslim-scholars-scientists-thinkers", "file": "data/practice/islamic-studies/by-topic/muslim-scholars-scientists-thinkers.json", "icon": "🎓"}
+      ],
+      "sourceNotes": "Collected from cssprep.com.pk (CSS Islamiat Part-I 2005–2023) and pakjobmcqs.com (topic chapters); 2005–2016 keys cross-checked against the CSS Times solved compilation (fpscmcqs.com). Every key was reviewed by hand: 12 corrected, ambiguous items dropped, low-confidence keys flagged in the explanation."
+    }
+  ]
+}

@@ -1,0 +1,1057 @@
+{
+  "id": "islamic-studies-khulafa-islamic-history",
+  "name": "Islamic Studies: Khulafa & Islamic History",
+  "title": "Islamic Studies: Khulafa & Islamic History",
+  "subtitle": "CSS / FPSC Islamiat practice · Khulafa & Islamic History · 80 MCQs",
+  "bank": "practice",
+  "year": null,
+  "rtl": false,
+  "answerKeyNote": "Practice answer key (not an official FPSC key). Keys were cross-checked and corrected where needed; items marked Low confidence are noted in the explanation.",
+  "source": [
+    "https://cssprep.com.pk/css-islamic-studies-past-papers-mcqs/ (year pages /islamic-studies-mcqs-2005/ … /islamic-studies-mcqs-2023/)",
+    "https://pakjobmcqs.com/subjects/islamic-studies (topic chapters)",
+    "https://fpscmcqs.com/wp-content/uploads/2021/04/Islamiat-Past-Papers-MCQs-2005-2016-For-CSSFPSCPPSCNTSPTS.pdf (CSS Times solved 2005–2016, used to cross-check keys)"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "text": "The Pious-Caliphate lasted for about _____________.",
+      "options": {
+        "A": "Eighteen Years",
+        "B": "Twenty Years",
+        "C": "Thirty Years",
+        "D": "Five Years"
+      },
+      "answer": "C",
+      "explanation": "Source: CSS 2006 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Khulafa & Islamic History · CSS 2006"
+    },
+    {
+      "id": 2,
+      "text": "The foundation of Bait Ul-Hikmah was laid down during __________.",
+      "options": {
+        "A": "Abbasid Period",
+        "B": "Ummayad Dynasty",
+        "C": "Fatmid",
+        "D": "Sub-Continent"
+      },
+      "answer": "A",
+      "explanation": "Source: CSS 2008 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Khulafa & Islamic History · CSS 2008"
+    },
+    {
+      "id": 3,
+      "text": "The final vote to become a Caliph to Hazrat Usman was given by _________.",
+      "options": {
+        "A": "Abdur Rehman bin Auf",
+        "B": "Abdullah bin Umer",
+        "C": "Abu Hurrirah",
+        "D": "None of these"
+      },
+      "answer": "A",
+      "explanation": "Source: CSS 2017 Islamiat past paper (cssprep.com.pk).",
+      "section": "Khulafa & Islamic History · CSS 2017"
+    },
+    {
+      "id": 4,
+      "text": "The period of the Islamic caliphate lasted for nearly ____ years.",
+      "options": {
+        "A": "30",
+        "B": "31",
+        "C": "32",
+        "D": "33"
+      },
+      "answer": "A",
+      "explanation": "Source: CSS 2017 Islamiat past paper (cssprep.com.pk).",
+      "section": "Khulafa & Islamic History · CSS 2017"
+    },
+    {
+      "id": 5,
+      "text": "There were _____ members in the committee that was constituted by Hazrat Umer (RA) to elect next Caliph.",
+      "options": {
+        "A": "8",
+        "B": "7",
+        "C": "6",
+        "D": "4"
+      },
+      "answer": "C",
+      "explanation": "Source: CSS 2017 Islamiat past paper (cssprep.com.pk).",
+      "section": "Khulafa & Islamic History · CSS 2017"
+    },
+    {
+      "id": 6,
+      "text": "Norsi was movement in ___________.",
+      "options": {
+        "A": "Pakistan",
+        "B": "Turkey",
+        "C": "Malaysia",
+        "D": "Iran"
+      },
+      "answer": "B",
+      "explanation": "Source: CSS 2018 Islamiat past paper (cssprep.com.pk).",
+      "section": "Khulafa & Islamic History · CSS 2018"
+    },
+    {
+      "id": 7,
+      "text": "Which khalifa was known as best government administrator?",
+      "options": {
+        "A": "Hazrat Abu Bakr (RA)",
+        "B": "Hazrat Umer (RA)",
+        "C": "Hazrat Usman (RA)",
+        "D": "Hazrat Ali (RA)"
+      },
+      "answer": "B",
+      "explanation": "Source: CSS 2019 Islamiat past paper (cssprep.com.pk).",
+      "section": "Khulafa & Islamic History · CSS 2019"
+    },
+    {
+      "id": 8,
+      "text": "Hijri year started from the reign of __________.",
+      "options": {
+        "A": "Hazrat Abu-Bakar (RA)",
+        "B": "Hazrat Umar (RA)",
+        "C": "Hazrat Usman (RA)",
+        "D": "Hazrat Ali (RA)"
+      },
+      "answer": "B",
+      "explanation": "Source: CSS 2021 Islamiat past paper (cssprep.com.pk).",
+      "section": "Khulafa & Islamic History · CSS 2021"
+    },
+    {
+      "id": 9,
+      "text": "The Umayyad rule in Spain came to an end in _______.",
+      "options": {
+        "A": "1031 AD",
+        "B": "1000 AD",
+        "C": "1258 AD",
+        "D": "1492 AD"
+      },
+      "answer": "A",
+      "explanation": "Source: CSS 2021 Islamiat past paper (cssprep.com.pk).",
+      "section": "Khulafa & Islamic History · CSS 2021"
+    },
+    {
+      "id": 10,
+      "text": "Al-Dakhil was a prince of ___________.",
+      "options": {
+        "A": "Banu Abbas",
+        "B": "Banu Umayyah",
+        "C": "Saljukids",
+        "D": "None of these"
+      },
+      "answer": "B",
+      "explanation": "Source: CSS 2021 Islamiat past paper (cssprep.com.pk).",
+      "section": "Khulafa & Islamic History · CSS 2021"
+    },
+    {
+      "id": 11,
+      "text": "Who conquered Spain in the era of Umayyad?",
+      "options": {
+        "A": "TARIQ BIN ZIYAD IN 711 AD",
+        "B": "MEHMUD GHAZNAWI",
+        "C": "MUSA BIN NUSAIR",
+        "D": "NONE OF THESE"
+      },
+      "answer": "A",
+      "explanation": "Source: CSS 2022 Islamiat past paper (cssprep.com.pk).",
+      "section": "Khulafa & Islamic History · CSS 2022"
+    },
+    {
+      "id": 12,
+      "text": "House of Wisdom (Bayt-ul-Hikmah) was established by?",
+      "options": {
+        "A": "AL-MANSOOR",
+        "B": "AL-MA’MUN",
+        "C": "HARUN AL-RASHID",
+        "D": "NONE OF THESE"
+      },
+      "answer": "C",
+      "explanation": "Low confidence: Bayt al-Hikmah began under Harun al-Rashid and was greatly expanded by al-Ma'mun; keys differ. Source: CSS 2022 Islamiat past paper (cssprep.com.pk).",
+      "section": "Khulafa & Islamic History · CSS 2022"
+    },
+    {
+      "id": 13,
+      "text": "Hazrat Ali changed the capital from Madina to which city?",
+      "options": {
+        "A": "KUFA",
+        "B": "DAMASCUS",
+        "C": "BASRAH",
+        "D": "NONE OF THESE"
+      },
+      "answer": "A",
+      "explanation": "Source: CSS 2023 Islamiat past paper (cssprep.com.pk).",
+      "section": "Khulafa & Islamic History · CSS 2023"
+    },
+    {
+      "id": 14,
+      "text": "For the first time, cultivable lands were measured during the caliphate of?",
+      "options": {
+        "A": "HAZRAT USMAN (R.A)",
+        "B": "HAZRAT ABU BAKR (R.A)",
+        "C": "HAZRAT ALI (R.A)",
+        "D": "HAZRAT UMAR (R.A)"
+      },
+      "answer": "D",
+      "explanation": "Source: CSS 2023 Islamiat past paper (cssprep.com.pk).",
+      "section": "Khulafa & Islamic History · CSS 2023"
+    },
+    {
+      "id": 15,
+      "text": "Queen Khizran was the wife of which Abbasid Caliph?",
+      "options": {
+        "A": "Al Mamoon",
+        "B": "Haroon-ur-Rashid",
+        "C": "Al Mansoor",
+        "D": "Al Mehdi"
+      },
+      "answer": "D",
+      "explanation": "Queen Khizran was the wife of the third Abbasid Caliph, Al Mehdi. Source: pakjobmcqs.com, abbasid caliphate (marked as a past-paper MCQ).",
+      "section": "Khulafa & Islamic History"
+    },
+    {
+      "id": 16,
+      "text": "Who was the first great Arab alchemist?",
+      "options": {
+        "A": "Al-Razi",
+        "B": "Jabir bin Hayyan",
+        "C": "Ibn Sina",
+        "D": "Al-Kindi"
+      },
+      "answer": "B",
+      "explanation": "The first great Arab alchemist was Jabir bin Hayyan, often referred to as the father of chemistry. Source: pakjobmcqs.com, abbasid caliphate (marked as a past-paper MCQ).",
+      "section": "Khulafa & Islamic History"
+    },
+    {
+      "id": 17,
+      "text": "Ikhwan al-Safa was what type of organization?",
+      "options": {
+        "A": "Political",
+        "B": "Military",
+        "C": "Secret",
+        "D": "Trade"
+      },
+      "answer": "C",
+      "explanation": "Ikhwan al-Safa was a secret organization of Muslim philosophers and scholars in the 10th century. Source: pakjobmcqs.com, abbasid caliphate (marked as a past-paper MCQ).",
+      "section": "Khulafa & Islamic History"
+    },
+    {
+      "id": 18,
+      "text": "Who is the author of 'Al-Qanun fi al-Tibb' (The Canon of Medicine)?",
+      "options": {
+        "A": "Al-Razi",
+        "B": "Al-Zahrawi",
+        "C": "Ibn Sina",
+        "D": "Ibn al-Nafis"
+      },
+      "answer": "C",
+      "explanation": "The author of 'Al-Qanun fi al-Tibb' (The Canon of Medicine) is Ibn Sina (Avicenna). Source: pakjobmcqs.com, abbasid caliphate (marked as a past-paper MCQ).",
+      "section": "Khulafa & Islamic History"
+    },
+    {
+      "id": 19,
+      "text": "What was the title given to the philosopher Al-Farabi?",
+      "options": {
+        "A": "The First Teacher",
+        "B": "The Second Teacher",
+        "C": "The Proof of Islam",
+        "D": "The Philosopher of the East"
+      },
+      "answer": "B",
+      "explanation": "Al-Farabi was given the title \"The Second Teacher\" (Al-Mu'allim al-Thani), with Aristotle being regarded as the First Teacher. Source: pakjobmcqs.com, abbasid caliphate (marked as a past-paper MCQ).",
+      "section": "Khulafa & Islamic History"
+    },
+    {
+      "id": 20,
+      "text": "Who is the author of the famous medical encyclopedia 'Al-Hawi'?",
+      "options": {
+        "A": "Ibn Sina",
+        "B": "Abu Bakr Zakaria Razi",
+        "C": "Ibn Rushd",
+        "D": "Al-Zahrawi"
+      },
+      "answer": "B",
+      "explanation": "The famous medical encyclopedia 'Al-Hawi' was authored by Abu Bakr Zakaria Razi. Source: pakjobmcqs.com, abbasid caliphate (marked as a past-paper MCQ).",
+      "section": "Khulafa & Islamic History"
+    },
+    {
+      "id": 21,
+      "text": "Haroon al Rashid was a caliph of which Islamic dynasty?",
+      "options": {
+        "A": "Umayyad",
+        "B": "Fatimid",
+        "C": "Abbasid",
+        "D": "Ottoman"
+      },
+      "answer": "C",
+      "explanation": "Haroon al Rashid was a caliph of the Abbasid dynasty. Source: pakjobmcqs.com, abbasid caliphate.",
+      "section": "Khulafa & Islamic History"
+    },
+    {
+      "id": 22,
+      "text": "Which companion of the Prophet (PBUH) is known as the Conqueror of Egypt?",
+      "options": {
+        "A": "Hazrat Khalid ibn al-Walid (R.A)",
+        "B": "Hazrat Saad ibn Abi Waqqas (R.A)",
+        "C": "Hazrat Amr ibn al-As (R.A)",
+        "D": "Hazrat Abu Ubaidah ibn al-Jarrah (R.A)"
+      },
+      "answer": "C",
+      "explanation": "The companion known as the Conqueror of Egypt is Hazrat Amr ibn al-As (R.A). Source: pakjobmcqs.com, administration conquests.",
+      "section": "Khulafa & Islamic History"
+    },
+    {
+      "id": 23,
+      "text": "Which city served as the first capital of the Rashidun Caliphate?",
+      "options": {
+        "A": "Makkah",
+        "B": "Madina",
+        "C": "Kufa",
+        "D": "Damascus"
+      },
+      "answer": "B",
+      "explanation": "The first capital of the Rashidun Caliphate was Madina. Source: pakjobmcqs.com, administration conquests.",
+      "section": "Khulafa & Islamic History"
+    },
+    {
+      "id": 24,
+      "text": "Which empire ruled Egypt before the Muslim conquest under Hazrat Amr ibn al-Aas (RA)?",
+      "options": {
+        "A": "Sasanian Empire",
+        "B": "Roman Empire",
+        "C": "Byzantine Empire",
+        "D": "Abbasid Empire"
+      },
+      "answer": "C",
+      "explanation": "Egypt was under the rule of the Byzantine Empire before the Muslim conquest led by Hazrat Amr ibn al-Aas (RA). Source: pakjobmcqs.com, administration conquests.",
+      "section": "Khulafa & Islamic History"
+    },
+    {
+      "id": 25,
+      "text": "Where was Hazrat Abu Bakr (R.A) elected as the first Caliph of Islam?",
+      "options": {
+        "A": "Masjid al-Nabawi",
+        "B": "Saqifah Bani Saedah",
+        "C": "Masjid al-Haram",
+        "D": "Dar al-Arqam"
+      },
+      "answer": "B",
+      "explanation": "Hazrat Abu Bakr (R.A) was elected as the first Caliph of Islam at Saqifah Bani Saedah. Source: pakjobmcqs.com, caliphate of abu bakr r a (marked as a past-paper MCQ).",
+      "section": "Khulafa & Islamic History"
+    },
+    {
+      "id": 26,
+      "text": "During which years did Hazrat Abu Bakr (RA) serve as caliph?",
+      "options": {
+        "A": "632-634 A.D.",
+        "B": "634-644 A.D.",
+        "C": "644-656 A.D.",
+        "D": "656-661 A.D."
+      },
+      "answer": "A",
+      "explanation": "Hazrat Abu Bakr (RA) served as caliph from 632-634 A.D. (11-13 A.H.), a period of about 2 years and 3 months. Source: pakjobmcqs.com, caliphate of abu bakr r a.",
+      "section": "Khulafa & Islamic History"
+    },
+    {
+      "id": 27,
+      "text": "Who among the following was given the title of 'Sani as Nain'?",
+      "options": {
+        "A": "Hazrat Ali (RA)",
+        "B": "Hazrat Umar (RA)",
+        "C": "Hazrat Usman (RA)",
+        "D": "Hazrat Abu Bakr (RA)"
+      },
+      "answer": "D",
+      "explanation": "Hazrat Abu Bakr (RA) was given the title of 'Sani as Nain' (the Second of the Two), as he was the companion of the Prophet (PBUH) in the Cave of Thaur during the Hijrah. Source: pakjobmcqs.com, caliphate of abu bakr r a.",
+      "section": "Khulafa & Islamic History"
+    },
+    {
+      "id": 28,
+      "text": "Who was the first caliph of Islam?",
+      "options": {
+        "A": "Hazrat Umar (RA)",
+        "B": "Hazrat Abu Bakr (RA)",
+        "C": "Hazrat Usman (RA)",
+        "D": "Hazrat Ali (RA)"
+      },
+      "answer": "B",
+      "explanation": "The first caliph of Islam was Hazrat Abu Bakr (RA). Source: pakjobmcqs.com, caliphate of abu bakr r a.",
+      "section": "Khulafa & Islamic History"
+    },
+    {
+      "id": 29,
+      "text": "The term 'Khawarij' refers to which group in Islamic history?",
+      "options": {
+        "A": "Theologians",
+        "B": "Mystics",
+        "C": "Jurists",
+        "D": "Rebels"
+      },
+      "answer": "D",
+      "explanation": "The term 'Khawarij' refers to Rebels — a group that broke away from the mainstream Muslim community during the Caliphate of Ali (R.A). Source: pakjobmcqs.com, caliphate of ali r a (marked as a past-paper MCQ).",
+      "section": "Khulafa & Islamic History"
+    },
+    {
+      "id": 30,
+      "text": "In which year did Hazrat Ali (RA) become Khalifah?",
+      "options": {
+        "A": "33 A.H.",
+        "B": "37 A.H.",
+        "C": "35 A.H.",
+        "D": "40 A.H."
+      },
+      "answer": "C",
+      "explanation": "Hazrat Ali (RA) became the fourth Khalifah of Islam in the year 35 A.H. Source: pakjobmcqs.com, caliphate of ali r a.",
+      "section": "Khulafa & Islamic History"
+    },
+    {
+      "id": 31,
+      "text": "On which date was Hazrat Ali (R.A) martyred?",
+      "options": {
+        "A": "21 Ramzan 40 A.H",
+        "B": "27 Ramzan 40 A.H",
+        "C": "18 Ramzan 40 A.H",
+        "D": "15 Ramzan 40 A.H"
+      },
+      "answer": "A",
+      "explanation": "Hazrat Ali (R.A) was martyred on 21 Ramzan 40 A.H when he was attacked during Fajr prayer in the mosque of Kufa. Source: pakjobmcqs.com, caliphate of ali r a.",
+      "section": "Khulafa & Islamic History"
+    },
+    {
+      "id": 32,
+      "text": "In which year was the Battle of Camel fought during the Islamic era?",
+      "options": {
+        "A": "35 A.H",
+        "B": "36 A.H",
+        "C": "37 A.H",
+        "D": "38 A.H"
+      },
+      "answer": "B",
+      "explanation": "The Battle of Camel (Jang-e-Jamal) was fought in 36 A.H between the forces of Caliph Ali (R.A) and those led by Aisha (R.A), Talha (R.A), and Zubair (R.A). Source: pakjobmcqs.com, caliphate of ali r a.",
+      "section": "Khulafa & Islamic History"
+    },
+    {
+      "id": 33,
+      "text": "Where is Hazrat Ali ibn Abu Talib (R.A) buried?",
+      "options": {
+        "A": "Kufa",
+        "B": "Najaf",
+        "C": "Karbala",
+        "D": "Madina"
+      },
+      "answer": "B",
+      "explanation": "Hazrat Ali ibn Abu Talib (R.A) is buried in Najaf, Iraq. Source: pakjobmcqs.com, caliphate of ali r a.",
+      "section": "Khulafa & Islamic History"
+    },
+    {
+      "id": 34,
+      "text": "In which present-day country did the Battle of Siffin take place?",
+      "options": {
+        "A": "Iraq",
+        "B": "Saudi Arabia",
+        "C": "Jordan",
+        "D": "Syria"
+      },
+      "answer": "D",
+      "explanation": "The Battle of Siffin took place in present-day Syria, near the Euphrates River. Source: pakjobmcqs.com, caliphate of ali r a.",
+      "section": "Khulafa & Islamic History"
+    },
+    {
+      "id": 35,
+      "text": "The Battle of Siffin was fought in 37 A.H. between Hazrat Ali (RA) and which notable figure?",
+      "options": {
+        "A": "Hazrat Muawia (RA)",
+        "B": "Hazrat Talha (RA)",
+        "C": "Hazrat Zubair (RA)",
+        "D": "Hazrat Amr bin Al-Aas (RA)"
+      },
+      "answer": "A",
+      "explanation": "The Battle of Siffin was fought in 37 A.H. between Hazrat Ali (RA) and Hazrat Muawia (RA). Source: pakjobmcqs.com, caliphate of ali r a.",
+      "section": "Khulafa & Islamic History"
+    },
+    {
+      "id": 36,
+      "text": "Who established the first organized police department in Islamic history?",
+      "options": {
+        "A": "Hazrat Abu Bakr (RA)",
+        "B": "Hazrat Usman (RA)",
+        "C": "Hazrat Umar (RA)",
+        "D": "Hazrat Ali (RA)"
+      },
+      "answer": "C",
+      "explanation": "The first organized police department in Islamic history was established by Hazrat Umar (RA). Source: pakjobmcqs.com, caliphate of umar r a (marked as a past-paper MCQ).",
+      "section": "Khulafa & Islamic History"
+    },
+    {
+      "id": 37,
+      "text": "The final battle against the Persian Empire during the reign of Hazrat Umar (R.A) was fought at which location?",
+      "options": {
+        "A": "Qadisiya",
+        "B": "Nihawand",
+        "C": "Yarmouk",
+        "D": "Jalula"
+      },
+      "answer": "B",
+      "explanation": "The final decisive battle against the Persian Empire during the reign of Hazrat Umar (R.A) was fought at Nihawand. Source: pakjobmcqs.com, caliphate of umar r a (marked as a past-paper MCQ).",
+      "section": "Khulafa & Islamic History"
+    },
+    {
+      "id": 38,
+      "text": "Which Caliph established the institution of Bait Ul Mal for the welfare of the Islamic state?",
+      "options": {
+        "A": "Hazrat Abu Bakr (RA)",
+        "B": "Hazrat Usman (RA)",
+        "C": "Hazrat Umar (RA)",
+        "D": "Hazrat Ali (RA)"
+      },
+      "answer": "C",
+      "explanation": "Note: Abu Bakr (RA) kept a simple treasury; Umar (RA) set up Bait-ul-Mal as a formal institution with a diwan. The institution of Bait Ul Mal (Public Treasury) was established by Hazrat Umar (RA) during his caliphate. Source: pakjobmcqs.com, caliphate of umar r a.",
+      "section": "Khulafa & Islamic History"
+    },
+    {
+      "id": 39,
+      "text": "The Battle of Yarmouk was a significant conflict fought between Muslims and which empire?",
+      "options": {
+        "A": "Persian Empire",
+        "B": "Roman Empire",
+        "C": "Byzantine Empire",
+        "D": "Abyssinian Empire"
+      },
+      "answer": "C",
+      "explanation": "Fixed: Yarmouk (15 AH / 636 AD) was fought against the Byzantine (Eastern Roman) Empire under Heraclius; \"Byzantine\" is the precise option. Source: pakjobmcqs.com, caliphate of umar r a.",
+      "section": "Khulafa & Islamic History"
+    },
+    {
+      "id": 40,
+      "text": "What was the outcome of the Battle of Qadasiyyah for the Muslim army?",
+      "options": {
+        "A": "Defeat and retreat to Madina",
+        "B": "Victory for the Muslims and acquisition of Iraq",
+        "C": "Stalemate and peace treaty with Persia",
+        "D": "Victory but withdrawal due to heavy losses"
+      },
+      "answer": "B",
+      "explanation": "The Battle of Qadasiyyah resulted in a decisive victory for the Muslims and acquisition of Iraq. Source: pakjobmcqs.com, caliphate of umar r a.",
+      "section": "Khulafa & Islamic History"
+    },
+    {
+      "id": 41,
+      "text": "Which companion of the Holy Prophet (PBUH) is famously known as the conqueror of Persia?",
+      "options": {
+        "A": "Hazrat Khalid bin Waleed (R.A)",
+        "B": "Hazrat Abu Ubaidah bin Jarrah (R.A)",
+        "C": "Hazrat Saad bin Abi Waqqas (R.A)",
+        "D": "Hazrat Amr bin Al-Aas (R.A)"
+      },
+      "answer": "C",
+      "explanation": "The companion famously known as the conqueror of Persia is Hazrat Saad bin Abi Waqqas (R.A). Source: pakjobmcqs.com, caliphate of umar r a.",
+      "section": "Khulafa & Islamic History"
+    },
+    {
+      "id": 42,
+      "text": "Which title is associated with Hazrat Usman (R.A) due to his significant contribution to compiling the Quran?",
+      "options": {
+        "A": "Jami' al-Quran",
+        "B": "Sayyid al-Mursalin",
+        "C": "Zun-Noorain",
+        "D": "Khalilullah"
+      },
+      "answer": "A",
+      "explanation": "Hazrat Usman (R.A) is known as Jami' al-Quran (Compiler of the Quran) for his pivotal role in compiling the Quran into a single standardized book. Source: pakjobmcqs.com, caliphate of usman r a.",
+      "section": "Khulafa & Islamic History"
+    },
+    {
+      "id": 43,
+      "text": "On which Islamic date was Hazrat Usman (RA) martyred?",
+      "options": {
+        "A": "21st Ramadan",
+        "B": "10th Muharram",
+        "C": "12th Rabi-ul-Awwal",
+        "D": "18th Zul-Hijjah"
+      },
+      "answer": "D",
+      "explanation": "Hazrat Usman (RA) was martyred on 18th Zul-Hijjah in the year 35 AH. Source: pakjobmcqs.com, caliphate of usman r a.",
+      "section": "Khulafa & Islamic History"
+    },
+    {
+      "id": 44,
+      "text": "On which day of the week was Hazrat Usman (RA) martyred?",
+      "options": {
+        "A": "Thursday",
+        "B": "Friday",
+        "C": "Saturday",
+        "D": "Monday"
+      },
+      "answer": "B",
+      "explanation": "Hazrat Usman (RA) was martyred on Friday, the 18th of Dhul-Hijjah, 35 AH. Source: pakjobmcqs.com, caliphate of usman r a.",
+      "section": "Khulafa & Islamic History"
+    },
+    {
+      "id": 45,
+      "text": "When was the full invasion of the Sassanid Empire completed?",
+      "options": {
+        "A": "651 A.D.",
+        "B": "641 A.D.",
+        "C": "661 A.D.",
+        "D": "632 A.D."
+      },
+      "answer": "A",
+      "explanation": "The full invasion of the Sassanid Empire was completed in 651 A.D. during the caliphate of Hazrat Usman (R.A). Source: pakjobmcqs.com, caliphate of usman r a.",
+      "section": "Khulafa & Islamic History"
+    },
+    {
+      "id": 46,
+      "text": "Which Caliph ordered the distribution of the copies of the Holy Quran to different provinces of the Islamic empire?",
+      "options": {
+        "A": "Hazrat Abu Bakr (R.A)",
+        "B": "Hazrat Umar (R.A)",
+        "C": "Hazrat Usman (R.A)",
+        "D": "Hazrat Ali (R.A)"
+      },
+      "answer": "C",
+      "explanation": "Hazrat Usman (R.A) ordered the distribution of standardized copies of the Holy Quran to different provinces of the Islamic empire. Source: pakjobmcqs.com, caliphate of usman r a.",
+      "section": "Khulafa & Islamic History"
+    },
+    {
+      "id": 47,
+      "text": "Who served as the longest-reigning Caliph during the Rashidun Caliphate?",
+      "options": {
+        "A": "Hazrat Abu Bakr (R.A)",
+        "B": "Hazrat Umar (R.A)",
+        "C": "Hazrat Usman (R.A)",
+        "D": "Hazrat Ali (R.A)"
+      },
+      "answer": "C",
+      "explanation": "The longest-reigning Caliph during the Rashidun Caliphate was Hazrat Usman (R.A), who ruled for approximately 12 years. Source: pakjobmcqs.com, caliphate of usman r a.",
+      "section": "Khulafa & Islamic History"
+    },
+    {
+      "id": 48,
+      "text": "Jamila al-Azhar is located in which city?",
+      "options": {
+        "A": "Istanbul",
+        "B": "Damascus",
+        "C": "Baghdad",
+        "D": "Cairo"
+      },
+      "answer": "D",
+      "explanation": "Jamila al-Azhar (Al-Azhar University) is located in Cairo, Egypt. Source: pakjobmcqs.com, fatimid safavid empires (marked as a past-paper MCQ).",
+      "section": "Khulafa & Islamic History"
+    },
+    {
+      "id": 49,
+      "text": "The last Fatimid ruler was",
+      "options": {
+        "A": "Al-Adid",
+        "B": "Al-Mustansir",
+        "C": "Al-Hakim",
+        "D": "Al-Muizz"
+      },
+      "answer": "A",
+      "explanation": "The last Fatimid ruler was Al-Adid, who was deposed by Salahuddin Ayyubi in 1171 CE. Source: pakjobmcqs.com, fatimid safavid empires.",
+      "section": "Khulafa & Islamic History"
+    },
+    {
+      "id": 50,
+      "text": "The founder of Fatmid dynasty was:",
+      "options": {
+        "A": "Al-Hakim",
+        "B": "Al-Mansur",
+        "C": "Al-Muizz",
+        "D": "Al-Mahdi"
+      },
+      "answer": "D",
+      "explanation": "The founder of the Fatimid dynasty was Al-Mahdi (Ubaydullah al-Mahdi Billah). Source: pakjobmcqs.com, fatimid safavid empires.",
+      "section": "Khulafa & Islamic History"
+    },
+    {
+      "id": 51,
+      "text": "Al Azhar University is the Chief centre of Islamic and Arabic learning in the world located in the?",
+      "options": {
+        "A": "Cairo, Egypt",
+        "B": "Istanbul, Turkey",
+        "C": "Baghdad, Iraq",
+        "D": "Damascus, Syria"
+      },
+      "answer": "A",
+      "explanation": "Al Azhar University, the chief centre of Islamic and Arabic learning in the world, is located in Cairo, Egypt. Source: pakjobmcqs.com, fatimid safavid empires.",
+      "section": "Khulafa & Islamic History"
+    },
+    {
+      "id": 52,
+      "text": "Which scientist is considered the source of European scholars' knowledge regarding light and the eye?",
+      "options": {
+        "A": "Al-Biruni",
+        "B": "Ibn al-Haytham",
+        "C": "Al-Khwarizmi",
+        "D": "Ibn Sina"
+      },
+      "answer": "B",
+      "explanation": "The scientist considered the source of European scholars' knowledge regarding light and the eye is Ibn al-Haytham. Source: pakjobmcqs.com, fatimid safavid empires (marked as a past-paper MCQ).",
+      "section": "Khulafa & Islamic History"
+    },
+    {
+      "id": 53,
+      "text": "In which city is the renowned Islamic university, Al-Azhar University, located?",
+      "options": {
+        "A": "Damascus",
+        "B": "Baghdad",
+        "C": "Cairo",
+        "D": "Istanbul"
+      },
+      "answer": "C",
+      "explanation": "Al-Azhar University is located in Cairo, Egypt. Source: pakjobmcqs.com, fatimid safavid empires.",
+      "section": "Khulafa & Islamic History"
+    },
+    {
+      "id": 54,
+      "text": "What is the meaning of Hijr-e-Aswad?",
+      "options": {
+        "A": "Black Stone",
+        "B": "White Stone",
+        "C": "Sacred Rock",
+        "D": "Heavenly Light"
+      },
+      "answer": "A",
+      "explanation": "Hijr-e-Aswad means the Black Stone, which is set in the eastern corner of the Kaaba. Source: pakjobmcqs.com, miscellaneous islamic history dynasties (marked as a past-paper MCQ).",
+      "section": "Khulafa & Islamic History"
+    },
+    {
+      "id": 55,
+      "text": "Hassan al-Banna, the founder of the Muslim Brotherhood, was assassinated in which year?",
+      "options": {
+        "A": "1947",
+        "B": "1953",
+        "C": "1951",
+        "D": "1949"
+      },
+      "answer": "D",
+      "explanation": "Hassan al-Banna, the founder of the Muslim Brotherhood (Ikhwan al-Muslimeen), was assassinated in 1949 in Cairo, Egypt. Source: pakjobmcqs.com, miscellaneous islamic history dynasties (marked as a past-paper MCQ).",
+      "section": "Khulafa & Islamic History"
+    },
+    {
+      "id": 56,
+      "text": "Where was the famous Muslim historian and thinker Ibn Khuldun born?",
+      "options": {
+        "A": "Tunisia",
+        "B": "Morocco",
+        "C": "Egypt",
+        "D": "Spain"
+      },
+      "answer": "A",
+      "explanation": "Ibn Khuldun, the famous Muslim historian and thinker, was born in Tunisia. Source: pakjobmcqs.com, miscellaneous islamic history dynasties (marked as a past-paper MCQ).",
+      "section": "Khulafa & Islamic History"
+    },
+    {
+      "id": 57,
+      "text": "First Islamic summit of OIC was held in which country?",
+      "options": {
+        "A": "Saudi Arabia",
+        "B": "Pakistan",
+        "C": "Morocco",
+        "D": "Egypt"
+      },
+      "answer": "C",
+      "explanation": "The first Islamic summit of the OIC was held in Morocco (Rabat) in 1969. Source: pakjobmcqs.com, miscellaneous islamic history dynasties (marked as a past-paper MCQ).",
+      "section": "Khulafa & Islamic History"
+    },
+    {
+      "id": 58,
+      "text": "In which year was OIC founded?",
+      "options": {
+        "A": "September 25, 1967",
+        "B": "September 25, 1969",
+        "C": "September 25, 1971",
+        "D": "September 25, 1973"
+      },
+      "answer": "B",
+      "explanation": "The Organization of Islamic Cooperation (OIC) was founded on September 25, 1969. Source: pakjobmcqs.com, miscellaneous islamic history dynasties (marked as a past-paper MCQ).",
+      "section": "Khulafa & Islamic History"
+    },
+    {
+      "id": 59,
+      "text": "Who is the author of 'Fusus al-Hikam'?",
+      "options": {
+        "A": "Ibn Arabi",
+        "B": "Al-Ghazali",
+        "C": "Ibn Rushd",
+        "D": "Ibn Taymiyyah"
+      },
+      "answer": "A",
+      "explanation": "The author of 'Fusus al-Hikam' is Ibn Arabi, the renowned Sufi mystic and philosopher. Source: pakjobmcqs.com, miscellaneous islamic history dynasties (marked as a past-paper MCQ).",
+      "section": "Khulafa & Islamic History"
+    },
+    {
+      "id": 60,
+      "text": "Who initiated the Jihad against the newly introduced religion of Din-e-Illahi?",
+      "options": {
+        "A": "Shah Waliullah",
+        "B": "Mujadad Alif Sani",
+        "C": "Syed Ahmad Shaheed",
+        "D": "Hazrat Khawaja Baqi Billah"
+      },
+      "answer": "B",
+      "explanation": "Mujadad Alif Sani (Sheikh Ahmad Sirhindi) initiated the Jihad against the newly introduced religion of Din-e-Illahi. Source: pakjobmcqs.com, muslim rule in india (marked as a past-paper MCQ).",
+      "section": "Khulafa & Islamic History"
+    },
+    {
+      "id": 61,
+      "text": "The book Khutbat-e-Ahmadiya is written by?",
+      "options": {
+        "A": "Maulana Shibli Nomani",
+        "B": "Sir Syed Ahmad Khan",
+        "C": "Mirza Ghulam Ahmad",
+        "D": "Altaf Hussain Hali"
+      },
+      "answer": "B",
+      "explanation": "Fixed: \"Khutbat-e-Ahmadiya\" (1870) is by Sir Syed Ahmad Khan, the Urdu version of his essays on the life of the Prophet (PBUH). Source: pakjobmcqs.com, muslim rule in india (marked as a past-paper MCQ).",
+      "section": "Khulafa & Islamic History"
+    },
+    {
+      "id": 62,
+      "text": "Who is the author of the book 'Spirit of Islam'?",
+      "options": {
+        "A": "Syed Ameer Ali",
+        "B": "Allama Iqbal",
+        "C": "Syed Sulaiman Nadvi",
+        "D": "Maulana Abul Kalam Azad"
+      },
+      "answer": "A",
+      "explanation": "The book 'Spirit of Islam' was authored by Syed Ameer Ali. Source: pakjobmcqs.com, muslim rule in india (marked as a past-paper MCQ).",
+      "section": "Khulafa & Islamic History"
+    },
+    {
+      "id": 63,
+      "text": "Maktoobat e Imam Rabbani is one of the writings of ?",
+      "options": {
+        "A": "Data Ganj Bakhsh",
+        "B": "Shah Waliullah",
+        "C": "Mujaddid Alif Sani",
+        "D": "Moinuddin Chishti"
+      },
+      "answer": "C",
+      "explanation": "Maktoobat e Imam Rabbani is one of the writings of Mujaddid Alif Sani (Sheikh Ahmad Sirhindi). Source: pakjobmcqs.com, muslim rule in india (marked as a past-paper MCQ).",
+      "section": "Khulafa & Islamic History"
+    },
+    {
+      "id": 64,
+      "text": "Dars-e-Nizami was launched in:",
+      "options": {
+        "A": "Delhi",
+        "B": "Lahore",
+        "C": "Lucknow",
+        "D": "Deoband"
+      },
+      "answer": "C",
+      "explanation": "Dars-e-Nizami was launched in Lucknow. Source: pakjobmcqs.com, muslim rule in india (marked as a past-paper MCQ).",
+      "section": "Khulafa & Islamic History"
+    },
+    {
+      "id": 65,
+      "text": "Shaikh Ahmad Sirhindi (Mujaddid Alif Sani) was born on ?",
+      "options": {
+        "A": "971 AH",
+        "B": "981 AH",
+        "C": "961 AH",
+        "D": "991 AH"
+      },
+      "answer": "A",
+      "explanation": "Shaikh Ahmad Sirhindi (Mujaddid Alif Sani) was born on 971 AH (1564 CE). Source: pakjobmcqs.com, muslim rule in india (marked as a past-paper MCQ).",
+      "section": "Khulafa & Islamic History"
+    },
+    {
+      "id": 66,
+      "text": "Who is the author of 'Izhar-ul-Haq'?",
+      "options": {
+        "A": "Rahmatullah Kairanawi",
+        "B": "Shah Waliullah Dehlavi",
+        "C": "Sir Syed Ahmad Khan",
+        "D": "Maulana Shibli Nomani"
+      },
+      "answer": "A",
+      "explanation": "The author of 'Izhar-ul-Haq' is Rahmatullah Kairanawi. Source: pakjobmcqs.com, muslim rule in india (marked as a past-paper MCQ).",
+      "section": "Khulafa & Islamic History"
+    },
+    {
+      "id": 67,
+      "text": "Who is the author of the treatise 'Risala Ithbat-e-Nubuwwat'?",
+      "options": {
+        "A": "Shaykh Abdul Qadir Jilani",
+        "B": "Shah Waliullah Dehlavi",
+        "C": "Imam Ghazali",
+        "D": "Hazrat Mujaddid Alf Thani (Shaykh Ahmad Sirhindi)"
+      },
+      "answer": "D",
+      "explanation": "The treatise 'Risala Ithbat-e-Nubuwwat' was authored by Hazrat Mujaddid Alf Thani (Shaykh Ahmad Sirhindi). Source: pakjobmcqs.com, muslim rule in india (marked as a past-paper MCQ).",
+      "section": "Khulafa & Islamic History"
+    },
+    {
+      "id": 68,
+      "text": "Which Turkish leader is credited with abolishing the Institution of Caliphate?",
+      "options": {
+        "A": "Mustafa Kamal Ataturk",
+        "B": "Sultan Abdul Hamid II",
+        "C": "Enver Pasha",
+        "D": "Sultan Mehmed VI"
+      },
+      "answer": "A",
+      "explanation": "The institution of the Caliphate was abolished by Mustafa Kamal Ataturk in 1924. Source: pakjobmcqs.com, ottoman empire (marked as a past-paper MCQ).",
+      "section": "Khulafa & Islamic History"
+    },
+    {
+      "id": 69,
+      "text": "Which Ottoman Sultan was responsible for transferring the Abbasid Caliphate to Istanbul?",
+      "options": {
+        "A": "Sulaiman the Magnificent",
+        "B": "Mehmed II (the Conqueror)",
+        "C": "Salim I",
+        "D": "Orhan Ghazi"
+      },
+      "answer": "C",
+      "explanation": "The Ottoman Sultan Salim I was responsible for transferring the Abbasid Caliphate to Istanbul after his conquest of Egypt in 1517 CE. Source: pakjobmcqs.com, ottoman empire.",
+      "section": "Khulafa & Islamic History"
+    },
+    {
+      "id": 70,
+      "text": "Who was the first ruler of the Ottoman Caliphate?",
+      "options": {
+        "A": "Bayezid-I",
+        "B": "Orhan",
+        "C": "Murad-I",
+        "D": "Usman-I"
+      },
+      "answer": "D",
+      "explanation": "The first ruler of the Ottoman Caliphate was Usman-I (Osman I), who founded the Ottoman Empire in 1299 CE. Source: pakjobmcqs.com, ottoman empire.",
+      "section": "Khulafa & Islamic History"
+    },
+    {
+      "id": 71,
+      "text": "What was the name of the post-World War One treaty between the Allied powers and the Ottoman government in 1920?",
+      "options": {
+        "A": "Treaty of Lausanne",
+        "B": "Treaty of Sevres",
+        "C": "Treaty of Versailles",
+        "D": "Treaty of Brest-Litovsk"
+      },
+      "answer": "B",
+      "explanation": "The post-World War I treaty between the Allied powers and the Ottoman government in 1920 was the Treaty of Sevres. Source: pakjobmcqs.com, ottoman empire.",
+      "section": "Khulafa & Islamic History"
+    },
+    {
+      "id": 72,
+      "text": "In which year was the Treaty of Sevres signed, marking a significant event in the dissolution of the Ottoman Empire?",
+      "options": {
+        "A": "1918",
+        "B": "1922",
+        "C": "1920",
+        "D": "1924"
+      },
+      "answer": "C",
+      "explanation": "The Treaty of Sevres was signed in 1920, marking a major step in the dissolution of the Ottoman Empire after World War I. Source: pakjobmcqs.com, ottoman empire.",
+      "section": "Khulafa & Islamic History"
+    },
+    {
+      "id": 73,
+      "text": "Which empire finally ended the Abbasid Caliphate's reign in 1517 CE?",
+      "options": {
+        "A": "Mongol Empire",
+        "B": "Safavid Empire",
+        "C": "Ottoman Empire",
+        "D": "Fatimid Empire"
+      },
+      "answer": "C",
+      "explanation": "The Ottoman Empire finally ended the Abbasid Caliphate's reign in 1517 CE when Sultan Selim I conquered Cairo and took the last Abbasid Caliph, Al-Mutawakkil III, to Istanbul. Source: pakjobmcqs.com, ottoman empire.",
+      "section": "Khulafa & Islamic History"
+    },
+    {
+      "id": 74,
+      "text": "Who was the last ruler of the Umayyad dynasty?",
+      "options": {
+        "A": "Walid II",
+        "B": "Marwan II",
+        "C": "Yazid III",
+        "D": "Ibrahim"
+      },
+      "answer": "B",
+      "explanation": "The last ruler of the Umayyad dynasty was Marwan II (Marwan ibn Muhammad), who ruled from 744 to 750 CE. Source: pakjobmcqs.com, umayyad caliphate (marked as a past-paper MCQ).",
+      "section": "Khulafa & Islamic History"
+    },
+    {
+      "id": 75,
+      "text": "How many Umayyad caliphs were there?",
+      "options": {
+        "A": "12",
+        "B": "14",
+        "C": "15",
+        "D": "17"
+      },
+      "answer": "B",
+      "explanation": "Fixed: the Umayyad dynasty of Damascus had 14 caliphs (Muawiya I to Marwan II), 661–750 AD. Source: pakjobmcqs.com, umayyad caliphate (marked as a past-paper MCQ).",
+      "section": "Khulafa & Islamic History"
+    },
+    {
+      "id": 76,
+      "text": "Hajjaj bin Yousuf was appointed as the governor of which region during the Umayyad Caliphate?",
+      "options": {
+        "A": "Syria",
+        "B": "Egypt",
+        "C": "Iraq",
+        "D": "Persia"
+      },
+      "answer": "C",
+      "explanation": "Hajjaj bin Yousuf was appointed as the governor of Iraq during the Umayyad Caliphate. Source: pakjobmcqs.com, umayyad caliphate.",
+      "section": "Khulafa & Islamic History"
+    },
+    {
+      "id": 77,
+      "text": "In which year did the Umayyad Dynasty come to an end?",
+      "options": {
+        "A": "750 AD",
+        "B": "732 AD",
+        "C": "762 AD",
+        "D": "740 AD"
+      },
+      "answer": "A",
+      "explanation": "The Umayyad Dynasty came to an end in 750 AD when the Abbasids defeated Marwan II at the Battle of the Zab. Source: pakjobmcqs.com, umayyad caliphate.",
+      "section": "Khulafa & Islamic History"
+    },
+    {
+      "id": 78,
+      "text": "Who led the Muslim conquests into Central Asia during the Umayyad Caliphate?",
+      "options": {
+        "A": "Tariq Bin Ziyad",
+        "B": "Muhammad Bin Qasim",
+        "C": "Qutayba Bin Muslim",
+        "D": "Musa Bin Nusayr"
+      },
+      "answer": "C",
+      "explanation": "The Muslim conquests into Central Asia during the Umayyad Caliphate were led by Qutayba Bin Muslim. Source: pakjobmcqs.com, umayyad caliphate.",
+      "section": "Khulafa & Islamic History"
+    },
+    {
+      "id": 79,
+      "text": "In which Hijri year did the event of Karbala take place?",
+      "options": {
+        "A": "60 AH",
+        "B": "61 AH",
+        "C": "62 AH",
+        "D": "63 AH"
+      },
+      "answer": "B",
+      "explanation": "The tragic event of Karbala took place in 61 AH (680 CE), on the 10th of Muharram. Source: pakjobmcqs.com, umayyad caliphate.",
+      "section": "Khulafa & Islamic History"
+    },
+    {
+      "id": 80,
+      "text": "Who founded the historic city of Kairouan in Tunisia?",
+      "options": {
+        "A": "Tariq bin Ziyad",
+        "B": "Musa bin Nusayr",
+        "C": "Uqba bin Nafey",
+        "D": "Muhammad bin Qasim"
+      },
+      "answer": "C",
+      "explanation": "The historic city of Kairouan in Tunisia was founded by Uqba bin Nafey in 678 AD. Source: pakjobmcqs.com, umayyad caliphate.",
+      "section": "Khulafa & Islamic History"
+    }
+  ]
+}

@@ -1,0 +1,953 @@
+{
+  "id": "islamic-studies-quran-tafseer",
+  "name": "Islamic Studies: Quran & Tafseer",
+  "title": "Islamic Studies: Quran & Tafseer",
+  "subtitle": "CSS / FPSC Islamiat practice · Quran & Tafseer · 72 MCQs",
+  "bank": "practice",
+  "year": null,
+  "rtl": false,
+  "answerKeyNote": "Practice answer key (not an official FPSC key). Keys were cross-checked and corrected where needed; items marked Low confidence are noted in the explanation.",
+  "source": [
+    "https://cssprep.com.pk/css-islamic-studies-past-papers-mcqs/ (year pages /islamic-studies-mcqs-2005/ … /islamic-studies-mcqs-2023/)",
+    "https://pakjobmcqs.com/subjects/islamic-studies (topic chapters)",
+    "https://fpscmcqs.com/wp-content/uploads/2021/04/Islamiat-Past-Papers-MCQs-2005-2016-For-CSSFPSCPPSCNTSPTS.pdf (CSS Times solved 2005–2016, used to cross-check keys)"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "text": "Who collected Quranic verses in one place?",
+      "options": {
+        "A": "Hazrat Umar (RA)",
+        "B": "Hazrat Abdullah ibne Abbas (RA)",
+        "C": "Hazrat Abdullah ibne Masud (RA)",
+        "D": "Hazrat Usman (RA)"
+      },
+      "answer": "D",
+      "explanation": "Note: Hazrat Abu Bakr (RA) first collected the Quran into one volume; Hazrat Usman (RA) standardised it into a single official copy and is called Jami'-ul-Quran. Abu Bakr is not an option here. Source: CSS 2005 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Quran & Tafseer · CSS 2005"
+    },
+    {
+      "id": 2,
+      "text": "Which Surah starts without Bismillah?",
+      "options": {
+        "A": "Al-Baqara",
+        "B": "Al-Nisa",
+        "C": "Al-Toba",
+        "D": "Al-Ikhlas"
+      },
+      "answer": "C",
+      "explanation": "Source: CSS 2005 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Quran & Tafseer · CSS 2005"
+    },
+    {
+      "id": 3,
+      "text": "Jami-i-Quran is called to ____________.",
+      "options": {
+        "A": "Hazrat Ali (R.A)",
+        "B": "Hazrat Saad (R.A)",
+        "C": "Hazrat Usman (R.A)",
+        "D": "Hazrat Masood (R.A)"
+      },
+      "answer": "C",
+      "explanation": "Source: CSS 2006 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Quran & Tafseer · CSS 2006"
+    },
+    {
+      "id": 4,
+      "text": "A Verse of the Holy Quran which indicates the name of ______________.",
+      "options": {
+        "A": "Hazrat Usman",
+        "B": "Hazrat Muaaz",
+        "C": "Hazrat Saad",
+        "D": "Hazrat Zaid"
+      },
+      "answer": "D",
+      "explanation": "Source: CSS 2006 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Quran & Tafseer · CSS 2006"
+    },
+    {
+      "id": 5,
+      "text": "How many Surah’s are there in Holy Quran?",
+      "options": {
+        "A": "124",
+        "B": "109",
+        "C": "114",
+        "D": "220"
+      },
+      "answer": "C",
+      "explanation": "Source: CSS 2006 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Quran & Tafseer · CSS 2006"
+    },
+    {
+      "id": 6,
+      "text": "How many stages are there in Quran?",
+      "options": {
+        "A": "8",
+        "B": "7",
+        "C": "9",
+        "D": "12"
+      },
+      "answer": "B",
+      "explanation": "Source: CSS 2007 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Quran & Tafseer · CSS 2007"
+    },
+    {
+      "id": 7,
+      "text": "Who advised Abu Bakr (R.A) to compile the Quran?",
+      "options": {
+        "A": "Hazrat Umar (R.A)",
+        "B": "Hazrat Uthman (R.A)",
+        "C": "Hazrat Ali (R.A)",
+        "D": "Hazrat Zaid (R.A)"
+      },
+      "answer": "A",
+      "explanation": "Source: CSS 2008 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Quran & Tafseer · CSS 2008"
+    },
+    {
+      "id": 8,
+      "text": "In which Surat of Quran there is discussion of Zulqarnain?",
+      "options": {
+        "A": "A’ssuff",
+        "B": "Alkahaf",
+        "C": "Al Mujadala",
+        "D": "None of these"
+      },
+      "answer": "B",
+      "explanation": "Source: CSS 2008 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Quran & Tafseer · CSS 2008"
+    },
+    {
+      "id": 9,
+      "text": "The word Muhammad (SAW) as a name has been mentioned in Quran only ____________.",
+      "options": {
+        "A": "Two times",
+        "B": "Four times",
+        "C": "Six times",
+        "D": "Seven times"
+      },
+      "answer": "B",
+      "explanation": "Source: CSS 2009 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Quran & Tafseer · CSS 2009"
+    },
+    {
+      "id": 10,
+      "text": "Which Surah of Quran has Bismillah twice?",
+      "options": {
+        "A": "Al Nehal",
+        "B": "Al Namal",
+        "C": "Al Ahzaab",
+        "D": "Al Noor"
+      },
+      "answer": "B",
+      "explanation": "Source: CSS 2009 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Quran & Tafseer · CSS 2009"
+    },
+    {
+      "id": 11,
+      "text": "The longest Surah of the Qur’an is _________.",
+      "options": {
+        "A": "Surah al Baqarah",
+        "B": "Surah al Imran",
+        "C": "Surah al Tauba",
+        "D": "Surah Yunus"
+      },
+      "answer": "A",
+      "explanation": "Source: CSS 2010 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Quran & Tafseer · CSS 2010"
+    },
+    {
+      "id": 12,
+      "text": "Al-Maeen is a Surah in which there are __________.",
+      "options": {
+        "A": "100 or more ayats",
+        "B": "Simple orders",
+        "C": "Hard orders",
+        "D": "Less than 100 ayahs"
+      },
+      "answer": "A",
+      "explanation": "Source: CSS 2010 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Quran & Tafseer · CSS 2010"
+    },
+    {
+      "id": 13,
+      "text": "QUBA mosque has been mentioned in __________.",
+      "options": {
+        "A": "Surah al Tauba",
+        "B": "Surah Anfal",
+        "C": "Surah Dhuha",
+        "D": "Surah Al-Muzammil"
+      },
+      "answer": "A",
+      "explanation": "Source: CSS 2010 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Quran & Tafseer · CSS 2010"
+    },
+    {
+      "id": 14,
+      "text": "The meaning of YA SABAHAHO is __________.",
+      "options": {
+        "A": "Good Morning",
+        "B": "Good Morning declaration",
+        "C": "Oh, Morning danger",
+        "D": "Wishing Good morning"
+      },
+      "answer": "C",
+      "explanation": "Source: CSS 2010 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Quran & Tafseer · CSS 2010"
+    },
+    {
+      "id": 15,
+      "text": "The “IFK” event is described in the Quran in _________.",
+      "options": {
+        "A": "Surah Baqarah",
+        "B": "Surah Tauba",
+        "C": "Surah Noor",
+        "D": "Surah Yaseen"
+      },
+      "answer": "C",
+      "explanation": "Source: CSS 2010 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Quran & Tafseer · CSS 2010"
+    },
+    {
+      "id": 16,
+      "text": "Surah Hajj consist of 10 Rukus and _________ Ayats.",
+      "options": {
+        "A": "70",
+        "B": "75",
+        "C": "78",
+        "D": "82"
+      },
+      "answer": "C",
+      "explanation": "Source: CSS 2011 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Quran & Tafseer · CSS 2011"
+    },
+    {
+      "id": 17,
+      "text": "Surah Saba is __________.",
+      "options": {
+        "A": "Makki",
+        "B": "Madni",
+        "C": "Iraqi",
+        "D": "Makki madni"
+      },
+      "answer": "A",
+      "explanation": "Source: CSS 2011 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Quran & Tafseer · CSS 2011"
+    },
+    {
+      "id": 18,
+      "text": "Who considered the Quran as the creature of Allah?",
+      "options": {
+        "A": "Khawarji",
+        "B": "Moatazila",
+        "C": "Shami",
+        "D": "Kuif"
+      },
+      "answer": "B",
+      "explanation": "Source: CSS 2011 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Quran & Tafseer · CSS 2011"
+    },
+    {
+      "id": 19,
+      "text": "Which surah is about oneness of Allah?",
+      "options": {
+        "A": "Al-maoon",
+        "B": "Al-kausar",
+        "C": "Al-feel",
+        "D": "Al-ikhlas"
+      },
+      "answer": "D",
+      "explanation": "Source: CSS 2012 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Quran & Tafseer · CSS 2012"
+    },
+    {
+      "id": 20,
+      "text": "fi jeedha means _______________.",
+      "options": {
+        "A": "in her hand",
+        "B": "in her head",
+        "C": "in her neck",
+        "D": "in her leg"
+      },
+      "answer": "C",
+      "explanation": "Source: CSS 2012 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Quran & Tafseer · CSS 2012"
+    },
+    {
+      "id": 21,
+      "text": "atainakka means __________.",
+      "options": {
+        "A": "we give you",
+        "B": "he give you",
+        "C": "I give you",
+        "D": "he give them"
+      },
+      "answer": "A",
+      "explanation": "Source: CSS 2012 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Quran & Tafseer · CSS 2012"
+    },
+    {
+      "id": 22,
+      "text": "hablu means ____________.",
+      "options": {
+        "A": "knot",
+        "B": "cloth",
+        "C": "rope",
+        "D": "shirt"
+      },
+      "answer": "C",
+      "explanation": "Source: CSS 2012 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Quran & Tafseer · CSS 2012"
+    },
+    {
+      "id": 23,
+      "text": "_________________ alshaitaa wal saif.",
+      "options": {
+        "A": "spring and autumn",
+        "B": "spring and summer",
+        "C": "winter and spring",
+        "D": "winter and summer"
+      },
+      "answer": "D",
+      "explanation": "Source: CSS 2012 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Quran & Tafseer · CSS 2012"
+    },
+    {
+      "id": 24,
+      "text": "The incident of Miraj has been discussed in surah __________.",
+      "options": {
+        "A": "Baqrah",
+        "B": "Isra",
+        "C": "Tauba",
+        "D": "Yunus"
+      },
+      "answer": "B",
+      "explanation": "Source: CSS 2012 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Quran & Tafseer · CSS 2012"
+    },
+    {
+      "id": 25,
+      "text": "The method of ablution is mentioned in surah __________.",
+      "options": {
+        "A": "Al-baqrah",
+        "B": "Al-maidah",
+        "C": "Al-noor",
+        "D": "Al-nisaa"
+      },
+      "answer": "B",
+      "explanation": "Source: CSS 2012 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Quran & Tafseer · CSS 2012"
+    },
+    {
+      "id": 26,
+      "text": "How many lashes is the punishment of adultery mentioned in Quran?",
+      "options": {
+        "A": "60",
+        "B": "50",
+        "C": "70",
+        "D": "100"
+      },
+      "answer": "D",
+      "explanation": "Source: CSS 2012 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Quran & Tafseer · CSS 2012"
+    },
+    {
+      "id": 27,
+      "text": "Tafsir bil rai means __________.",
+      "options": {
+        "A": "Ijtehad",
+        "B": "copy",
+        "C": "learn",
+        "D": "conveying"
+      },
+      "answer": "A",
+      "explanation": "Source: CSS 2012 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Quran & Tafseer · CSS 2012"
+    },
+    {
+      "id": 28,
+      "text": "Fatrataul Wahi means ________.",
+      "options": {
+        "A": "Starting of Wahi",
+        "B": "Collection of Wahi",
+        "C": "Pause in Wahi",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "Source: CSS 2014 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Quran & Tafseer · CSS 2014"
+    },
+    {
+      "id": 29,
+      "text": "Bakkah is the name of a _________.",
+      "options": {
+        "A": "Surah",
+        "B": "Tradition",
+        "C": "Symbol",
+        "D": "City (Another name of Makkah)"
+      },
+      "answer": "D",
+      "explanation": "Source: CSS 2014 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Quran & Tafseer · CSS 2014"
+    },
+    {
+      "id": 30,
+      "text": "How many times incident of Miraj is present in Quran?",
+      "options": {
+        "A": "1 time (Sutah Isra)",
+        "B": "2 time (Surah Israa,surah An Najam)",
+        "C": "3 time (Surah Israa,surah An Najam, Surah Miraj)",
+        "D": "4 time (Surah Israa,surah An Najam, Surah Miraj, Surah Alaq)"
+      },
+      "answer": "B",
+      "explanation": "Source: CSS 2014 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Quran & Tafseer · CSS 2014"
+    },
+    {
+      "id": 31,
+      "text": "Surah Bara’ah is another name of which Surah?",
+      "options": {
+        "A": "Surah Namal",
+        "B": "Surah Tauba",
+        "C": "Surah Kousar",
+        "D": "Surah Baqr"
+      },
+      "answer": "B",
+      "explanation": "Source: CSS 2014 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Quran & Tafseer · CSS 2014"
+    },
+    {
+      "id": 32,
+      "text": "How many Makki Surahs are there in the Holy Quran?",
+      "options": {
+        "A": "53",
+        "B": "86",
+        "C": "92",
+        "D": "79"
+      },
+      "answer": "B",
+      "explanation": "Source: CSS 2014 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Quran & Tafseer · CSS 2014"
+    },
+    {
+      "id": 33,
+      "text": "Which prophet’s name is mentioned most in the Quran?",
+      "options": {
+        "A": "Hazrat Musa (AS)",
+        "B": "Hazrat Ibrahim (AS)",
+        "C": "Hazrat Nuh (AS)",
+        "D": "Hazrat Muhammad (PBUH)"
+      },
+      "answer": "A",
+      "explanation": "Hazrat Musa (AS) is named 136 times in the Quran, more than any other prophet. Source: CSS 2014 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Quran & Tafseer · CSS 2014"
+    },
+    {
+      "id": 34,
+      "text": "Surah Al-Isra is the second name of which Surah?",
+      "options": {
+        "A": "Surah Al-Mu’minun",
+        "B": "Surah Al-Masad",
+        "C": "Surah Bani Israil",
+        "D": "Surah Al-‘Asr"
+      },
+      "answer": "C",
+      "explanation": "Source: CSS 2015 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Quran & Tafseer · CSS 2015"
+    },
+    {
+      "id": 35,
+      "text": "“Falyabudu“ means ___________.",
+      "options": {
+        "A": "He made them incline",
+        "B": "Who gave them food in hunger",
+        "C": "They should worship",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "Source: CSS 2015 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Quran & Tafseer · CSS 2015"
+    },
+    {
+      "id": 36,
+      "text": "“An-Nafsaat” means ________.",
+      "options": {
+        "A": "Envier",
+        "B": "Witchcrafts or Women who blow (Surah Falaq)",
+        "C": "Darkness",
+        "D": "None of these"
+      },
+      "answer": "B",
+      "explanation": "Source: CSS 2015 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Quran & Tafseer · CSS 2015"
+    },
+    {
+      "id": 37,
+      "text": "“Fee jeediha hab” means __________.",
+      "options": {
+        "A": "All his wealth",
+        "B": "Round her (own) neck",
+        "C": "Father of Flame",
+        "D": "None of these"
+      },
+      "answer": "B",
+      "explanation": "Source: CSS 2015 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Quran & Tafseer · CSS 2015"
+    },
+    {
+      "id": 38,
+      "text": "Who did compilation of Quran in the era of Hazrat Abu Bakar Siddique (R.A)?",
+      "options": {
+        "A": "Hazrat Jaafar bin Abi Talib",
+        "B": "Hazrat Thabit bin ad-Duhdaah",
+        "C": "Hazrat Zaid bin Thabit",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "Source: CSS 2015 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Quran & Tafseer · CSS 2015"
+    },
+    {
+      "id": 39,
+      "text": "Longest Ayah of Holy Quran is in which Surah?",
+      "options": {
+        "A": "Al-Ma’arij (the Elevated Passages)",
+        "B": "Al-Haqqah (the Inevitable)",
+        "C": "Al-Baqarah (the Cow)",
+        "D": "At-Takwir (the Overthrowing)"
+      },
+      "answer": "C",
+      "explanation": "Source: CSS 2016 Islamiat past paper (cssprep.com.pk); key checked against the CSS Times 2005–2016 solved compilation.",
+      "section": "Quran & Tafseer · CSS 2016"
+    },
+    {
+      "id": 40,
+      "text": "The purpose of fasting as described in Quran is __________.",
+      "options": {
+        "A": "Taqwa",
+        "B": "Hunger",
+        "C": "Sympathy",
+        "D": "Thirst"
+      },
+      "answer": "A",
+      "explanation": "Source: CSS 2017 Islamiat past paper (cssprep.com.pk).",
+      "section": "Quran & Tafseer · CSS 2017"
+    },
+    {
+      "id": 41,
+      "text": "Fasatat-ul-Quran is the other name of Surah ________.",
+      "options": {
+        "A": "Surah Anfal",
+        "B": "Surah Al-Muzammil",
+        "C": "Surah al Tauba",
+        "D": "Surah al Baqarah"
+      },
+      "answer": "D",
+      "explanation": "Source: CSS 2018 Islamiat past paper (cssprep.com.pk).",
+      "section": "Quran & Tafseer · CSS 2018"
+    },
+    {
+      "id": 42,
+      "text": "Al-Itqan Fi Aloom al-Quran” was written by _______________.",
+      "options": {
+        "A": "Muhammad Asad",
+        "B": "Allama shibli Noumani",
+        "C": "Jalaluddin Suyuti",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "Source: CSS 2018 Islamiat past paper (cssprep.com.pk).",
+      "section": "Quran & Tafseer · CSS 2018"
+    },
+    {
+      "id": 43,
+      "text": "Which Surah of Holly Quran, the word “Khatam un Nabiyeen” is mentioned?",
+      "options": {
+        "A": "Surah Kahf",
+        "B": "Surah Al Israa",
+        "C": "Surah Al Furqan",
+        "D": "Surah Al Ahzab"
+      },
+      "answer": "D",
+      "explanation": "Source: CSS 2018 Islamiat past paper (cssprep.com.pk).",
+      "section": "Quran & Tafseer · CSS 2018"
+    },
+    {
+      "id": 44,
+      "text": "The Quran was collected under the auspices of committee of four senior ranking companions headed by ___________.",
+      "options": {
+        "A": "Hazrat Zayd ibn Thabit",
+        "B": "Hazrat Ali",
+        "C": "Hazrat Uthman",
+        "D": "None of these"
+      },
+      "answer": "A",
+      "explanation": "Source: CSS 2018 Islamiat past paper (cssprep.com.pk).",
+      "section": "Quran & Tafseer · CSS 2018"
+    },
+    {
+      "id": 45,
+      "text": "Heads of Zakat are mentioned in Surah ___________.",
+      "options": {
+        "A": "Al-Tawba",
+        "B": "HUD",
+        "C": "Naml",
+        "D": "Anfal"
+      },
+      "answer": "A",
+      "explanation": "Source: CSS 2018 Islamiat past paper (cssprep.com.pk).",
+      "section": "Quran & Tafseer · CSS 2018"
+    },
+    {
+      "id": 46,
+      "text": "The literal meaning of the word Quran is ___________.",
+      "options": {
+        "A": "Revelation",
+        "B": "Recitation",
+        "C": "Symbol",
+        "D": "Allah’s sign"
+      },
+      "answer": "B",
+      "explanation": "Source: CSS 2019 Islamiat past paper (cssprep.com.pk).",
+      "section": "Quran & Tafseer · CSS 2019"
+    },
+    {
+      "id": 47,
+      "text": "Which sin is called Zulm-e-Azeem (the greatest wrong) in the Quran (Luqman 31:13)?",
+      "options": {
+        "A": "Shirk",
+        "B": "Munafiqat",
+        "C": "Missing prayers",
+        "D": "Backbiting"
+      },
+      "answer": "A",
+      "explanation": "Source: CSS 2019 Islamiat past paper (cssprep.com.pk).",
+      "section": "Quran & Tafseer · CSS 2019"
+    },
+    {
+      "id": 48,
+      "text": "How many Surah’s (Chapters) are there with Huroof Muqataat?",
+      "options": {
+        "A": "2",
+        "B": "29",
+        "C": "19",
+        "D": "9"
+      },
+      "answer": "B",
+      "explanation": "Source: CSS 2020 Islamiat past paper (cssprep.com.pk).",
+      "section": "Quran & Tafseer · CSS 2020"
+    },
+    {
+      "id": 49,
+      "text": "Number of verses that are considered abrogated by Shah Waliullah al Dahlawi.",
+      "options": {
+        "A": "3",
+        "B": "5",
+        "C": "10",
+        "D": "13"
+      },
+      "answer": "B",
+      "explanation": "Source: CSS 2020 Islamiat past paper (cssprep.com.pk).",
+      "section": "Quran & Tafseer · CSS 2020"
+    },
+    {
+      "id": 50,
+      "text": "In which Surah of the Holy Quran HAQ MAHAR is mentioned?",
+      "options": {
+        "A": "Surah Baqarah",
+        "B": "Surah Al-Nas",
+        "C": "Surah Touba",
+        "D": "Surah Nisa"
+      },
+      "answer": "D",
+      "explanation": "Source: CSS 2021 Islamiat past paper (cssprep.com.pk).",
+      "section": "Quran & Tafseer · CSS 2021"
+    },
+    {
+      "id": 51,
+      "text": "Ahsan Al-Qasas (the most beautiful stories) is mentioned in which surah of the Holy Quran?",
+      "options": {
+        "A": "AL BAQARA",
+        "B": "AL-REHMAN",
+        "C": "SURAH YOUSAF",
+        "D": "NONE OF THESE"
+      },
+      "answer": "C",
+      "explanation": "Source: CSS 2022 Islamiat past paper (cssprep.com.pk).",
+      "section": "Quran & Tafseer · CSS 2022"
+    },
+    {
+      "id": 52,
+      "text": "The word Namal means?",
+      "options": {
+        "A": "ANTS",
+        "B": "GOATS",
+        "C": "SHEEP",
+        "D": "NONE OF THESE"
+      },
+      "answer": "A",
+      "explanation": "Source: CSS 2023 Islamiat past paper (cssprep.com.pk).",
+      "section": "Quran & Tafseer · CSS 2023"
+    },
+    {
+      "id": 53,
+      "text": "How many times is the verse \"Which, then, of your Lord's blessings do you both deny?\" repeated in Surah Rahman?",
+      "options": {
+        "A": "20",
+        "B": "31",
+        "C": "33",
+        "D": "37"
+      },
+      "answer": "B",
+      "explanation": "Source: CSS 2023 Islamiat past paper (cssprep.com.pk).",
+      "section": "Quran & Tafseer · CSS 2023"
+    },
+    {
+      "id": 54,
+      "text": "Who is the author of the Islamic book titled 'Al-Fozul Kabir'?",
+      "options": {
+        "A": "Shah Wali Ullah",
+        "B": "Shah Abdul Aziz",
+        "C": "Syed Ahmad Shaheed",
+        "D": "Shah Ismail Shaheed"
+      },
+      "answer": "A",
+      "explanation": "The Islamic book 'Al-Fozul Kabir' was authored by Shah Wali Ullah. Source: pakjobmcqs.com, famous tafseers (marked as a past-paper MCQ).",
+      "section": "Quran & Tafseer"
+    },
+    {
+      "id": 55,
+      "text": "Who compiled Anwar-ut-Tanzil?",
+      "options": {
+        "A": "Allama Jalaluddin Suyuti",
+        "B": "Imam Fakhruddin Razi",
+        "C": "Qazi Nasiruddin Abu Said Baidhawi",
+        "D": "Imam Ibn Kathir"
+      },
+      "answer": "C",
+      "explanation": "Anwar-ut-Tanzil was compiled by Qazi Nasiruddin Abu Said Baidhawi. Source: pakjobmcqs.com, famous tafseers.",
+      "section": "Quran & Tafseer"
+    },
+    {
+      "id": 56,
+      "text": "Who compiled the famous Islamic exegesis Tafseer-i-Tabri?",
+      "options": {
+        "A": "Imam Bukhari",
+        "B": "Imam Ghazali",
+        "C": "Ibn Kathir",
+        "D": "Abu Jafar Muhammad Ibn Tabri"
+      },
+      "answer": "D",
+      "explanation": "Tafseer-i-Tabri was compiled by Abu Jafar Muhammad Ibn Tabri (also known as Imam Tabari), one of the earliest and most comprehensive commentaries on the Holy Quran. Source: pakjobmcqs.com, famous tafseers.",
+      "section": "Quran & Tafseer"
+    },
+    {
+      "id": 57,
+      "text": "Who is the author of the book 'Tarjuman-ul-Quran'?",
+      "options": {
+        "A": "Abul Kalam Azad",
+        "B": "Shah Waliullah",
+        "C": "Syed Ahmad Khan",
+        "D": "Maulana Shibli Nomani"
+      },
+      "answer": "A",
+      "explanation": "The book 'Tarjuman-ul-Quran' was authored by Abul Kalam Azad. Source: pakjobmcqs.com, famous tafseers.",
+      "section": "Quran & Tafseer"
+    },
+    {
+      "id": 58,
+      "text": "Which renowned Tafseer was authored by Mufti Muhammad Shafi?",
+      "options": {
+        "A": "Tafheem ul Quran",
+        "B": "Tafseer Ibn Kathir",
+        "C": "Maarif ul Quran",
+        "D": "Bayan ul Quran"
+      },
+      "answer": "C",
+      "explanation": "The renowned Tafseer authored by Mufti Muhammad Shafi is Maarif ul Quran. Source: pakjobmcqs.com, famous tafseers.",
+      "section": "Quran & Tafseer"
+    },
+    {
+      "id": 59,
+      "text": "Who compiled the famous work 'Mufradat'?",
+      "options": {
+        "A": "Abul Qasim Husain Raghib Isphahani",
+        "B": "Imam Ghazali",
+        "C": "Ibn Khaldun",
+        "D": "Ibn Taymiyyah"
+      },
+      "answer": "A",
+      "explanation": "The famous work 'Mufradat' (Mufradat al-Quran / Mufradat fi Gharib al-Quran) was compiled by Abul Qasim Husain Raghib Isphahani. Source: pakjobmcqs.com, famous tafseers.",
+      "section": "Quran & Tafseer"
+    },
+    {
+      "id": 60,
+      "text": "Who is the author of the famous Islamic book Tafseer al Quran al Azeem?",
+      "options": {
+        "A": "Ismail bin Kathir (Ibn Kathir)",
+        "B": "Imam al-Tabari",
+        "C": "Imam al-Qurtubi",
+        "D": "Imam al-Baghawi"
+      },
+      "answer": "A",
+      "explanation": "The author of the famous Tafseer al-Quran al-Azeem is Ismail bin Kathir (Ibn Kathir). Source: pakjobmcqs.com, famous tafseers.",
+      "section": "Quran & Tafseer"
+    },
+    {
+      "id": 61,
+      "text": "During whose caliphate was the Quran compiled into a book form?",
+      "options": {
+        "A": "Hazrat Abu Bakr Siddique (R.A)",
+        "B": "Hazrat Umar Farooq (R.A)",
+        "C": "Hazrat Usman Ghani (R.A)",
+        "D": "Hazrat Ali (R.A)"
+      },
+      "answer": "A",
+      "explanation": "The Quran was compiled into a book form during the caliphate of Hazrat Abu Bakr Siddique (R.A). Source: pakjobmcqs.com, history of compilation (marked as a past-paper MCQ).",
+      "section": "Quran & Tafseer"
+    },
+    {
+      "id": 62,
+      "text": "Who was responsible for introducing punctuation marks in the written text of the Holy Quran?",
+      "options": {
+        "A": "Abdul Malik bin Marwan",
+        "B": "Hujjaj bin Yousuf",
+        "C": "Zaid bin Thabit (RA)",
+        "D": "Khalid bin Waleed (RA)"
+      },
+      "answer": "B",
+      "explanation": "Note: Hajjaj bin Yusuf is credited with adding dots and diacritics, building on Abu al-Aswad al-Du'ali's earlier work. Punctuation marks (I'raab/diacritical marks) in the written text of the Holy Quran were introduced by Hujjaj bin Yousuf. Source: pakjobmcqs.com, history of compilation.",
+      "section": "Quran & Tafseer"
+    },
+    {
+      "id": 63,
+      "text": "Which Surah was the first to be revealed to the Holy Prophet Muhammad (PBUH)?",
+      "options": {
+        "A": "Surah al-Fatiha",
+        "B": "Surah al-Baqarah",
+        "C": "Surah al-Muddaththir",
+        "D": "Surah al-Alaq"
+      },
+      "answer": "D",
+      "explanation": "The first Surah revealed to the Holy Prophet Muhammad (PBUH) was Surah al-Alaq (the first five verses). Source: pakjobmcqs.com, introduction to quran hadith (marked as a past-paper MCQ).",
+      "section": "Quran & Tafseer"
+    },
+    {
+      "id": 64,
+      "text": "What should be recited before starting the recitation of the Quran?",
+      "options": {
+        "A": "Ta'awwudh and Tasmiyah",
+        "B": "Takbir and Tahmid",
+        "C": "Tahlil and Takbir",
+        "D": "Salawat and Istighfar"
+      },
+      "answer": "A",
+      "explanation": "Before reciting the Quran, one should recite Ta'awwudh (A'udhu Billahi min ash-Shaytan ir-Rajim) and Tasmiyah (Bismillah ir-Rahman ir-Rahim). Source: pakjobmcqs.com, introduction to quran hadith.",
+      "section": "Quran & Tafseer"
+    },
+    {
+      "id": 65,
+      "text": "What is the role of the Quran in relation to the previous divine books?",
+      "options": {
+        "A": "Confirmation",
+        "B": "Abrogation",
+        "C": "Replacement",
+        "D": "None of these"
+      },
+      "answer": "A",
+      "explanation": "The Quran serves as a confirmation (Musaddiq) of the previous divine scriptures, verifying the truth that was revealed in them. Source: pakjobmcqs.com, introduction to quran hadith.",
+      "section": "Quran & Tafseer"
+    },
+    {
+      "id": 66,
+      "text": "Which language was the Holy Quran first translated into within the subcontinent?",
+      "options": {
+        "A": "Persian",
+        "B": "Arabic",
+        "C": "Urdu",
+        "D": "Sindhi"
+      },
+      "answer": "D",
+      "explanation": "The Holy Quran was first translated into Sindhi within the subcontinent. Source: pakjobmcqs.com, introduction to quran hadith.",
+      "section": "Quran & Tafseer"
+    },
+    {
+      "id": 67,
+      "text": "During which night is it believed that the Quran was revealed to the Prophet Muhammad (PBUH)?",
+      "options": {
+        "A": "Lailat ul Raghaib",
+        "B": "Lailat ul Miraj",
+        "C": "Lailat ul Bara'at",
+        "D": "Lailat ul Qadr"
+      },
+      "answer": "D",
+      "explanation": "The Quran was revealed to the Prophet Muhammad (PBUH) on the night of Lailat ul Qadr (the Night of Power/Decree). Source: pakjobmcqs.com, introduction to quran hadith.",
+      "section": "Quran & Tafseer"
+    },
+    {
+      "id": 68,
+      "text": "Who is the Quran revealed by according to Islamic belief?",
+      "options": {
+        "A": "Angel Jibraeel (A.S)",
+        "B": "Prophet Muhammad (PBUH)",
+        "C": "Allah Almighty",
+        "D": "None of these"
+      },
+      "answer": "C",
+      "explanation": "According to Islamic belief, the Quran is revealed by Allah Almighty. Source: pakjobmcqs.com, introduction to quran hadith.",
+      "section": "Quran & Tafseer"
+    },
+    {
+      "id": 69,
+      "text": "Who was the first person to translate the Holy Quran into French?",
+      "options": {
+        "A": "Du Ryer",
+        "B": "George Sale",
+        "C": "Marmaduke Pickthall",
+        "D": "Ross"
+      },
+      "answer": "A",
+      "explanation": "The first person to translate the Holy Quran into French was Du Ryer. Source: pakjobmcqs.com, introduction to quran hadith.",
+      "section": "Quran & Tafseer"
+    },
+    {
+      "id": 70,
+      "text": "What is the shortest Surah in the Holy Quran?",
+      "options": {
+        "A": "Surah Al-Asr",
+        "B": "Surah Al-Ikhlas",
+        "C": "Surah Al-Nas",
+        "D": "Surah Al-Kausar"
+      },
+      "answer": "D",
+      "explanation": "The shortest Surah in the Holy Quran is Surah Al-Kausar, consisting of only 3 verses. Source: pakjobmcqs.com, surahs ayat contents of the quran (marked as a past-paper MCQ).",
+      "section": "Quran & Tafseer"
+    },
+    {
+      "id": 71,
+      "text": "What does Surah Al-Muzammil refer to in terms of its meaning?",
+      "options": {
+        "A": "The Dawn",
+        "B": "The Cloaked One",
+        "C": "The Overwhelming Event",
+        "D": "The Wrapped in garments"
+      },
+      "answer": "D",
+      "explanation": "Surah Al-Muzammil means \"The Wrapped in garments\" referring to the Prophet (PBUH) being wrapped in his mantle. Source: pakjobmcqs.com, surahs ayat contents of the quran.",
+      "section": "Quran & Tafseer"
+    },
+    {
+      "id": 72,
+      "text": "In which Surah does Allah refer to the wives of Prophet Muhammad ﷺ as mothers of the believers?",
+      "options": {
+        "A": "Surah Muhammad",
+        "B": "Surah An-Nisa",
+        "C": "Surah Al-Fath",
+        "D": "Surah Al-Ahzab"
+      },
+      "answer": "D",
+      "explanation": "In Surah Al-Ahzab (33:6), Allah refers to the wives of Prophet Muhammad ﷺ as \"mothers of the believers\" (Ummahat-ul-Momineen). Source: pakjobmcqs.com, surahs ayat contents of the quran.",
+      "section": "Quran & Tafseer"
+    }
+  ]
+}

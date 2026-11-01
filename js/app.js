@@ -7,6 +7,10 @@
   const gapList = document.getElementById("gapList");
   const LETTERS = ["A", "B", "C", "D"];
   const YEAR_STORE = "cssMcq.selectedYear";
+  const PR = window.PRACTICE_DATA || { banks: [] };   // practice banks (js/practice-data.js)
+  const PBANK = {};
+  PR.banks.forEach(b => { PBANK[b.id] = b; b.packById = {}; b.packs.forEach(p => (b.packById[p.id] = p)); });
+  let pview = null;                // id of the practice bank being shown (null = yearly papers)
 
   if (!DATA || !DATA.byYear) { app.innerHTML = "<p>Could not load js/quiz-data.js.</p>"; return; }
   const YEARS = DATA.years.map(String);
@@ -17,11 +21,15 @@
   /* ---------- storage (namespaced per year, e.g. cssMcq2025.scores.v1; 2026 keeps the original key) ---------- */
   const storeKey = y => "cssMcq" + y + ".scores.v1";
   function loadScores(y) { try { return JSON.parse(localStorage.getItem(storeKey(y || year))) || {}; } catch (e) { return {}; } }
+  // Practice-bank scores live under their own key (cssMcqPractice.<bank>.scores.v1) so yearly scores are never touched.
+  const practiceKey = b => "cssMcqPractice." + b + ".scores.v1";
+  function loadPracticeScores(b) { try { return JSON.parse(localStorage.getItem(practiceKey(b))) || {}; } catch (e) { return {}; } }
   function saveScore(id, score, total) {
-    const all = loadScores();
+    const k = state && state.practice ? practiceKey(state.practice.bank) : storeKey(year);
+    let all = {}; try { all = JSON.parse(localStorage.getItem(k)) || {}; } catch (e) {}
     const prev = all[id] || { best: 0, attempts: 0 };
     all[id] = { best: Math.max(prev.best, score), total, attempts: prev.attempts + 1, last: score, lastAt: new Date().toISOString() };
-    try { localStorage.setItem(storeKey(year), JSON.stringify(all)); } catch (e) {}
+    try { localStorage.setItem(k, JSON.stringify(all)); } catch (e) {}
     return { isNewBest: score > prev.best || prev.attempts === 0, prevBest: prev.best };
   }
   function yearStats(y) {
@@ -50,16 +58,18 @@
   function renderSidebar() {
     yearNav.innerHTML = YEARS.map(y => {
       const { subs, done, avg } = yearStats(y);
-      return `<button class="year ${y === year ? "active" : ""}" data-y="${y}" aria-pressed="${y === year}" aria-label="CSS ${y}: ${done.length} of ${subs.length} subjects attempted">
+      const on = y === year && !pview;
+      return `<button class="year ${on ? "active" : ""}" data-y="${y}" aria-pressed="${on}" aria-label="CSS ${y}: ${done.length} of ${subs.length} subjects attempted">
         <span class="node" aria-hidden="true"></span>
         <span class="y-main"><strong>${y}</strong><small>${subs.length} subjects · ${done.length}/${subs.length} tried${avg === null ? "" : " · " + avg + "%"}</small></span>
       </button>`;
     }).join("");
     yearNav.querySelectorAll(".year").forEach(b => b.addEventListener("click", () => {
-      if (b.dataset.y === year && !state) return;
+      if (b.dataset.y === year && !state && !pview) return;
       if (!confirmLeave()) return;
       selectYear(b.dataset.y);
     }));
+    renderPracticeRail();
     gapList.innerHTML = (DATA.gaps || []).map(g => `<div class="gap" title="${esc(g.note)}"><span class="node" aria-hidden="true"></span><span><strong>${esc(g.range)}</strong><small>${esc(g.note)}</small></span></div>`).join("");
   }
 
@@ -72,7 +82,7 @@
 
   /* ---------- home ---------- */
   function renderHome() {
-    state = null;
+    state = null; pview = null;
     setMode("objective");
     document.title = "CSS " + year + " · MCQ Practice";
     setHash(year);
@@ -109,6 +119,11 @@
           </button>`;
         }).join("")}
       </section>
+      ${PR.banks.map(b => `<a class="bank-banner" href="#practice/${b.id}">
+        <span class="bank-ic" aria-hidden="true">${b.icon}</span>
+        <span class="bank-txt"><strong>Want more ${esc(b.shortName)}? Open the ${esc(b.name)} practice bank</strong>
+        <small>${b.total} MCQs · CSS ${b.years[b.years.length - 1]}–${b.years[0]} papers, ${b.topics.length} topics and ${b.sets.length} mixed sets of ~20</small></span>
+        <span class="bank-go" aria-hidden="true">→</span></a>`).join("")}
       <p class="help">Only 2024, 2025 and 2026 are here: Part-I MCQs for 2016–2023 aren't published on the free source we used
         (those PDFs carry Part-II only), and 2006–2015 aren't on it at all. ${esc(DATA.keyNote || "Answer keys are practice keys, not official FPSC keys.")}</p>`;
     app.querySelectorAll(".subject").forEach(b => b.addEventListener("click", () => startQuiz(b.dataset.id)));
@@ -121,8 +136,8 @@
   function startQuiz(id) {
     const subj = YD.byId[id];
     if (!subj) { renderHome(); return; }
-    setMode("objective");
-    state = { subj, year, i: 0, answers: new Array(subj.questions.length).fill(null) };
+    setMode("objective"); pview = null;
+    state = { subj, year, tag: year, practice: null, i: 0, answers: new Array(subj.questions.length).fill(null) };
     document.title = subj.title + " · CSS " + year + " MCQs";
     setHash(year + "/" + id);
     renderQuestion();
@@ -141,7 +156,7 @@
     app.className = "container" + (subj.rtl ? " rtl" : "");
     app.innerHTML = `
       <div class="quiz-head">
-        <div><h2>${esc(subj.title)} <span class="year-tag">${state.year}</span></h2><div class="sub"><bdi>${esc(subj.subtitle)}</bdi></div></div>
+        <div><h2>${esc(subj.title)} <span class="year-tag">${esc(state.tag)}</span></h2><div class="sub"><bdi>${esc(subj.subtitle)}</bdi></div></div>
         <div class="counter">Question ${i + 1} / ${total}</div>
       </div>
       <div class="progress" aria-label="Progress"><span style="width:${doneCount / total * 100}%"></span></div>
@@ -159,7 +174,7 @@
         <div class="feedback" id="fb"></div>
       </article>
       <div class="actions">
-        <button class="btn secondary" id="quitBtn">← Subjects</button>
+        <button class="btn secondary" id="quitBtn">${state.practice ? "← Practice bank" : "← Subjects"}</button>
         <span class="live-score">Correct <b>${correctCount}</b> · Wrong <i>${wrongCount}</i></span>
         <div style="display:flex;gap:10px">
           ${i > 0 ? `<button class="btn secondary" id="prevBtn">Back</button>` : ""}
@@ -173,7 +188,7 @@
     document.getElementById("nextBtn").addEventListener("click", next);
     document.getElementById("quitBtn").addEventListener("click", () => {
       if (doneCount > 0 && doneCount < total && !confirm("Leave this subject? Progress in this attempt will be lost.")) return;
-      app.className = "container"; renderHome();
+      leaveQuiz();
     });
     const prev = document.getElementById("prevBtn");
     if (prev) prev.addEventListener("click", () => { state.i--; renderQuestion(); });
@@ -235,11 +250,12 @@
     app.innerHTML = `
       <section class="result">
         <div class="ring" style="--p:${pct};--ring-color:${color}"><div><strong>${score}/${total}</strong><small>${pct}%</small></div></div>
-        <h2>${esc(subj.title)} ${state.year} — ${msg}</h2>
+        <h2>${esc(subj.title)}${state.practice ? "" : " " + state.year} — ${msg}</h2>
         <p>${isNewBest && prevBest < score ? "🎉 New best score!" : `Best so far: ${Math.max(prevBest, score)}/${total}`} · ${total - score} wrong</p>
         <div class="row">
           <button class="btn" id="retryBtn">↻ Retry ${esc(subj.title)}</button>
-          <button class="btn secondary" id="backBtn">Back to subjects</button>
+          ${state.practice && state.practice.nextId ? `<button class="btn" id="nextPackBtn">Next: ${esc(state.practice.nextLabel)} →</button>` : ""}
+          <button class="btn secondary" id="backBtn">${state.practice ? "Back to practice bank" : "Back to subjects"}</button>
         </div>
         <div class="review">
           ${wrong.length ? `<h3>Review your mistakes (${wrong.length})</h3>` + wrong.map(({ q, a }) => `
@@ -251,8 +267,11 @@
             </div>`).join("") : `<div class="perfect">Perfect score — every answer correct! 🌟</div>`}
         </div>
       </section>`;
-    document.getElementById("retryBtn").addEventListener("click", () => startQuiz(subj.id));
-    document.getElementById("backBtn").addEventListener("click", () => { app.className = "container"; renderHome(); });
+    const pr = state.practice;
+    document.getElementById("retryBtn").addEventListener("click", () => pr ? startPractice(pr.bank, pr.pack, pr.qidx) : startQuiz(subj.id));
+    document.getElementById("backBtn").addEventListener("click", leaveQuiz);
+    const np = document.getElementById("nextPackBtn");
+    if (np) np.addEventListener("click", () => { state = null; go("practice/" + pr.bank + "/" + pr.nextId); });
     renderSidebar();
     window.scrollTo({ top: 0, behavior: "smooth" });
   }
@@ -261,9 +280,18 @@
   document.getElementById("homeBtn").addEventListener("click", () => {
     if (mode === "subjective") { go("subjective"); return; }
     if (!confirmLeave()) return;
-    app.className = "container"; renderHome();
+    state = null;
+    if (pview || location.hash.indexOf("#practice") === 0) go(year); else { app.className = "container"; renderHome(); }
   });
   document.getElementById("resetBtn").addEventListener("click", () => {
+    if (pview) {
+      const b = PBANK[pview];
+      if (confirm("Clear saved best scores for the " + b.name + " practice bank? Yearly paper scores are kept.")) {
+        try { localStorage.removeItem(practiceKey(b.id)); } catch (e) {}
+        renderSidebar(); if (!state) renderPracticeHome(b.id);
+      }
+      return;
+    }
     if (confirm("Clear saved best scores for CSS " + year + "? Other years are kept.")) {
       try { localStorage.removeItem(storeKey(year)); } catch (e) {}
       renderSidebar(); if (!state) renderHome();
@@ -278,6 +306,134 @@
     else if ((e.key === "Enter" || e.key === "ArrowRight") && state.answers[state.i]) { e.preventDefault(); next(); }
     else if (e.key === "ArrowLeft" && state.i > 0) { state.i--; renderQuestion(); }
   });
+
+
+  /* ================= PRACTICE BANK (Objective › Practice) ================= */
+  const practiceNav = document.getElementById("practiceNav");
+  function packStats(b) {
+    const sc = loadPracticeScores(b.id);
+    const tried = b.packs.filter(p => sc[p.id]);
+    const avg = tried.length ? Math.round(tried.reduce((a, p) => a + sc[p.id].best / sc[p.id].total, 0) / tried.length * 100) : null;
+    return { sc, tried, avg };
+  }
+  function renderPracticeRail() {
+    if (!practiceNav) return;
+    practiceNav.innerHTML = PR.banks.map(b => {
+      const { tried, avg } = packStats(b), on = pview === b.id;
+      return `<button class="bank-item ${on ? "active" : ""}" data-b="${b.id}" aria-pressed="${on}" aria-label="${esc(b.name)} practice bank">
+        <span class="sub-ic" aria-hidden="true">${b.icon}</span>
+        <span class="sub-txt"><strong>${esc(b.name)}</strong><small>${b.total} MCQs · ${tried.length}/${b.packs.length} packs tried${avg === null ? "" : " · " + avg + "%"}</small></span>
+      </button>`;
+    }).join("");
+    practiceNav.querySelectorAll(".bank-item").forEach(el => el.addEventListener("click", () => {
+      if (pview === el.dataset.b && !state) return;
+      go("practice/" + el.dataset.b);
+    }));
+  }
+  const keyNote = b => String(b.answerKeyNote || "").replace(/^Practice answer key \(not an official FPSC key\)\.\s*/i, "");
+  const pctOf = r => r ? Math.round(r.best / r.total * 100) : null;
+  const lvl = p => p === null ? "" : p >= 70 ? "hi" : p >= 50 ? "mid" : "lo";
+  function packBtn(b, p, sc, cls, inner) {
+    const r = sc[p.id], pc = pctOf(r);
+    return `<button class="${cls} ${lvl(pc)}" data-p="${p.id}" title="${esc(p.title)} · ${p.q.length} MCQs${r ? ` · best ${r.best}/${r.total}` : ""}" aria-label="Start ${esc(p.title)}">${inner(r, pc)}</button>`;
+  }
+  function renderPracticeHome(bid) {
+    const b = PBANK[bid];
+    state = null; pview = bid; setMode("objective");
+    document.getElementById("brandTitle").textContent = "CSS Practice Bank";
+    document.getElementById("brandSub").textContent = b.name + " · " + b.total + " MCQs";
+    document.title = b.name + " practice bank · " + b.total + " CSS MCQs";
+    if (location.hash.replace(/^#\/?/, "") !== "practice/" + bid) setHash("practice/" + bid);
+    renderSidebar();
+    const { sc, tried, avg } = packStats(b);
+    const yearPacks = b.years.map(y => b.packById["css-" + y]);
+    const chip = (r, pc) => r ? `<em>${pc}%</em>` : "";
+    app.className = "container";
+    app.innerHTML = `
+      <nav class="crumbs" aria-label="Breadcrumb"><a href="#objective">Objective</a><span>›</span><span>Practice bank</span><span>›</span><b>${esc(b.name)}</b></nav>
+      <section class="hero compact">
+        <h1><span aria-hidden="true">${b.icon}</span> ${esc(b.name)} — practice bank</h1>
+        <p>Go beyond the 2024–2026 papers: ${b.total} checked MCQs, carved into short packs of about 20 so you can practise in one sitting.
+        Same quiz as the yearly papers — <b style="color:var(--green)">green</b> when you're right, <b style="color:var(--red)">red</b> plus the correct answer when you're not.</p>
+        <div class="overall">
+          <span class="pill">MCQs: <b>${b.total}</b></span>
+          <span class="pill">Packs tried: <b>${tried.length}/${b.packs.length}</b></span>
+          <span class="pill">Average best: <b>${avg === null ? "—" : avg + "%"}</b></span>
+          <button class="pill pill-btn" id="randomBtn">🎲 Random 20</button>
+        </div>
+      </section>
+      <div class="disclaimer" role="note"><b>Practice answer key — not an official FPSC key.</b> ${esc(keyNote(b))}</div>
+
+      <h2 class="sec-title">CSS past papers <small>Real Part-I Islamiat MCQs, ${b.years[b.years.length - 1]}–${b.years[0]} (only the ones that survived checking)</small></h2>
+      <section class="pack-strip">
+        ${yearPacks.map(p => packBtn(b, p, sc, "pack-chip", (r, pc) => `<strong>${esc(p.label)}</strong><small>${p.q.length} MCQs</small>${chip(r, pc)}`)).join("")}
+      </section>
+
+      <h2 class="sec-title">By topic <small>${b.topics.length} topics · each split into parts of up to 20</small></h2>
+      <section class="grid topic-grid">
+        ${b.topics.map(t => {
+          const done = t.packs.filter(id => sc[id]).length;
+          return `<div class="subject topic-card">
+            <div class="icon" aria-hidden="true">${t.icon}</div>
+            <h3>${esc(t.name)}</h3>
+            <p class="sub">${t.count} MCQs · ${t.packs.length} part${t.packs.length > 1 ? "s" : ""}${done ? ` · ${done} tried` : ""}</p>
+            <div class="part-chips">${t.packs.map(id => packBtn(b, b.packById[id], sc, "part-chip", (r, pc) => `${t.packs.length > 1 ? esc(b.packById[id].label.replace("Part ", "P")) : "Start"}${r ? ` <em>${pc}%</em>` : ""}`)).join("")}</div>
+          </div>`;
+        }).join("")}
+      </section>
+
+      <h2 class="sec-title">Mixed sets <small>All ${b.total} MCQs in ${b.sets.length} sets, in bank order (CSS papers first, then topic-wise)</small></h2>
+      <section class="set-grid">
+        ${b.sets.map(id => { const p = b.packById[id]; return packBtn(b, p, sc, "set-card", (r, pc) => `<strong>${esc(p.label)}</strong><small>Q${p.range[0]}–${p.range[1]}</small><span class="set-best">${r ? `Best ${r.best}/${r.total}` : "Not tried"}</span>`); }).join("")}
+      </section>
+      <p class="help">${esc(b.sourceNotes)} Sources: ${b.sources.map(u => { const url = String(u).split(" ")[0]; let host = url; try { host = new URL(url).hostname; } catch (e) {} return `<a href="${esc(url)}" target="_blank" rel="noopener">${esc(host)}</a>`; }).join(", ")}.
+        Scores for this bank are saved separately from your yearly paper scores.</p>`;
+    app.querySelectorAll("[data-p]").forEach(el => el.addEventListener("click", () => go("practice/" + bid + "/" + el.dataset.p)));
+    document.getElementById("randomBtn").addEventListener("click", () => go("practice/" + bid + "/random"));
+    window.scrollTo({ top: 0 });
+  }
+  function startPractice(bid, packId, reuse) {
+    const b = PBANK[bid];
+    let pack = b.packById[packId];
+    if (packId === "random") {
+      let idx = reuse;
+      if (!idx) {
+        idx = b.questions.map((_, i) => i);
+        for (let i = idx.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [idx[i], idx[j]] = [idx[j], idx[i]]; }
+        idx = idx.slice(0, Math.min(20, idx.length));
+      }
+      pack = { id: "random", kind: "random", title: "Random 20", label: "Random", q: idx };
+    }
+    if (!pack) return renderPracticeHome(bid);
+    pview = bid; setMode("objective");
+    document.getElementById("brandTitle").textContent = "CSS Practice Bank";
+    document.getElementById("brandSub").textContent = b.name + " · " + b.total + " MCQs";
+    // Same quiz engine as the yearly papers: build a subject-shaped object (questions renumbered 1..n, bank number kept in the section tag).
+    const subj = {
+      id: pack.id, title: b.shortName + " · " + pack.title, rtl: b.rtl,
+      subtitle: b.name + " practice bank · " + pack.q.length + " MCQs" + (pack.kind === "set" ? ` (bank Q${pack.range[0]}–${pack.range[1]})` : ""),
+      answerKeyNote: "Practice answer key — not an official FPSC key. " + keyNote(b),
+      questions: pack.q.map((qi, k) => { const q = b.questions[qi]; return Object.assign({}, q, { id: k + 1, section: (q.section ? q.section + " · " : "") + "Bank #" + q.id }); }),
+    };
+    // "Next pack" button on the result screen: next part of the same topic / next year / next set.
+    let nextId = null;
+    if (pack.kind === "topic") { const t = b.topics.find(t => t.id === pack.group); nextId = t.packs[t.packs.indexOf(pack.id) + 1] || null; }
+    else if (pack.kind === "set") nextId = b.sets[b.sets.indexOf(pack.id) + 1] || null;
+    else if (pack.kind === "year") { const y = b.years[b.years.indexOf(+pack.group) + 1]; nextId = y ? "css-" + y : null; }
+    else if (pack.kind === "random") nextId = "random";
+    const nextLabel = nextId === "random" ? "another random 20" : nextId ? b.packById[nextId].title : "";
+    state = { subj, year, tag: pack.kind === "year" ? "Past paper" : "Practice", practice: { bank: bid, pack: pack.id, qidx: pack.q, nextId, nextLabel }, i: 0, answers: new Array(subj.questions.length).fill(null) };
+    document.title = subj.title + " · " + b.name + " practice";
+    setHash("practice/" + bid + "/" + pack.id);
+    renderSidebar();
+    renderQuestion();
+    window.scrollTo({ top: 0 });
+  }
+  function leaveQuiz() {
+    const pr = state && state.practice;
+    state = null;
+    if (pr) go("practice/" + pr.bank); else { app.className = "container"; renderHome(); }
+  }
 
   /* ================= SUBJECTIVE (Part-II past papers) ================= */
   const PD = window.PAPERS_DATA || { subjects: [], years: [], gaps: [] };
@@ -404,6 +560,20 @@
   /* ---------- router: #2025, #2025/punjabi, #objective, #subjective[/subject[/year]] ---------- */
   function route() {
     const parts = decodeURIComponent(location.hash.replace(/^#\/?/, "")).split("/").filter(Boolean);
+    if (parts[0] === "practice" || (parts[0] === "objective" && parts[1] === "practice")) {
+      const pp = parts[0] === "practice" ? parts.slice(1) : parts.slice(2);
+      const bid = PBANK[pp[0]] ? pp[0] : PR.banks.length ? PR.banks[0].id : null;
+      if (!bid) { app.className = "container"; return renderHome(); }
+      const target = PBANK[bid].packById[pp[1]] || pp[1] === "random" ? pp[1] : null;
+      if (state && !(state.practice && state.practice.bank === bid && state.practice.pack === target) && !confirmLeave()) {
+        setHash(state.practice ? "practice/" + state.practice.bank + "/" + state.practice.pack : year + "/" + state.subj.id); return;
+      }
+      if (target) {
+        if (state && state.practice && state.practice.bank === bid && state.practice.pack === target) return;
+        return startPractice(bid, target);
+      }
+      state = null; return renderPracticeHome(bid);
+    }
     if (parts[0] === "subjective") {
       if (state && !confirmLeave()) { setHash(year + "/" + state.subj.id); return; }
       state = null;
@@ -413,6 +583,8 @@
       return renderSubject(sid);
     }
     const [hy, hs] = parts;
+    if (state && state.practice && !confirmLeave()) { setHash("practice/" + state.practice.bank + "/" + state.practice.pack); return; }
+    if (state && state.practice) state = null;
     if (DATA.byYear[hy] && hy !== year) selectYear(hy, { silent: true });
     if (hs && YD.byId[hs]) startQuiz(hs); else { app.className = "container"; renderHome(); }
   }
@@ -420,7 +592,7 @@
 
   document.querySelectorAll(".mode").forEach(b => b.addEventListener("click", () => {
     const m = b.dataset.mode;
-    if (m === mode && m === "objective" && !state) return;
+    if (m === mode && m === "objective" && !state && !pview) return;
     if (m === "subjective") {
       if (!confirmLeave()) return;
       let last = null; try { last = localStorage.getItem(SUBJ_STORE); } catch (e) {}
@@ -428,7 +600,7 @@
     } else {
       if (!confirmLeave()) return;
       state = null;
-      if (mode === "subjective") go(year); else { app.className = "container"; renderHome(); }
+      if (mode === "subjective" || pview || location.hash.indexOf("#practice") === 0) go(year); else { app.className = "container"; renderHome(); }
     }
   }));
 

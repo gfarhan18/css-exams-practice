@@ -1,5 +1,23 @@
 # Changelog
 
+## 2026-11-01 — Islamic Studies practice bank (676 MCQs)
+
+### Added
+- **Objective › Practice bank**: a new "Practice bank" item in the left rail under the year timeline, plus a banner on every year's home page. Yearly papers 2024–2026 are unchanged.
+- **Islamic Studies bank, 676 checked MCQs** in 91 packs. Each pack is at most 20 questions and uses the same quiz engine (green if right; red plus the correct answer if wrong; explanations and review of mistakes):
+  - **CSS past papers 2005–2023**: 19 year packs (248 real Part-I Islamiat MCQs that passed checking, 3–19 per year).
+  - **By topic**: 10 topic cards (Seerah, Quran & Tafseer, Hadith & Sunnah, Fiqh & Islamic Law, Pillars & Worship, Beliefs & Ethics, Companions & Family, Khulafa & Islamic History, Comparative Religion, Muslim Scholars) split into 38 parts of up to 20 questions.
+  - **Mixed sets**: all 676 questions in 34 sets of 19–20.
+  - **Random 20** button.
+  - After each pack, a "Next" button opens the next part, set or year.
+- **Separate scores**: stored under `cssMcqPractice.<bank>.scores.v1`, so yearly scores (`cssMcq<year>.scores.v1`) are never overwritten. "Reset scores" on the bank page clears only the bank.
+- **Disclaimer** on the bank page and on every pack: practice key, not an official FPSC key.
+- **Deep links**: `#practice/islamic-studies`, `#practice/islamic-studies/seerah-3`, `#practice/islamic-studies/css-2015`, `#practice/islamic-studies/set-7` and `#practice/islamic-studies/random`. `#objective/practice/...` also works.
+- **Data**:
+  - The bank is in `data/practice/islamic-studies/`: the main JSON, `by-topic/*.json`, `sources.md` and `verification-report.md`.
+  - `data/practice-catalog.json` lists the banks.
+  - `rebuild-data.py` builds `js/practice-data.js`. Each question is stored once and packs point to it by index. The build checks the data shape, and that every topic question is in the main bank and every question is in a topic.
+
 ## 2026-11-01 — Subjective (Part-II) past papers, 2016–2026
 
 ### Added
