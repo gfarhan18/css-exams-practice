@@ -278,6 +278,7 @@
 
   /* ---------- global ---------- */
   document.getElementById("homeBtn").addEventListener("click", () => {
+    if (mode === "syllabus") { go("syllabus"); return; }
     if (mode === "subjective") { go("subjective"); return; }
     if (!confirmLeave()) return;
     state = null;
@@ -439,6 +440,12 @@
   const PD = window.PAPERS_DATA || { subjects: [], years: [], gaps: [] };
   const PSUB = {}; PD.subjects.forEach(s => (PSUB[s.id] = s));
   const SUBJ_STORE = "cssPapers.subject";
+
+  /* ================= SYLLABUS ================= */
+  const SD = window.SYLLABUS_DATA || { subjects: [], groups: [] };
+  const SSUB = {}; SD.subjects.forEach(s => (SSUB[s.id] = s));
+  const SYLL_STORE = "cssSyllabus.subject";
+  let curSyll = null;
   const layoutEl = document.getElementById("layout");
   const subNav = document.getElementById("subNav"), subList = document.getElementById("subList");
   const objSide = document.getElementById("objSide"), subjInfo = document.getElementById("subjSideInfo");
@@ -450,13 +457,23 @@
   function setMode(m) {
     mode = m;
     const subj = m === "subjective";
-    document.body.classList.toggle("mode-subjective", subj);
-    layoutEl.classList.toggle("three", subj);
+    const syll = m === "syllabus";
+    document.body.classList.toggle("mode-subjective", subj || syll);
+    layoutEl.classList.toggle("three", subj || syll);
     document.querySelectorAll(".mode").forEach(b => { const on = b.dataset.mode === m; b.classList.toggle("active", on); b.setAttribute("aria-pressed", on); });
-    objSide.hidden = subj; subjInfo.hidden = !subj; subNav.hidden = !subj; resetBtn.hidden = subj;
-    document.getElementById("brandTitle").textContent = subj ? "CSS Past Papers" : "CSS " + year;
-    document.getElementById("brandSub").textContent = subj ? "Part-II Subjective · 2016–2026" : "Part-I MCQ Practice · 2024–2026";
-    if (subj) { app.className = "container"; renderSubNav(); }
+    objSide.hidden = subj || syll; subjInfo.hidden = !subj && !syll; subNav.hidden = !subj && !syll; resetBtn.hidden = subj || syll;
+    if (syll) {
+      document.getElementById("brandTitle").textContent = "CSS Syllabi";
+      document.getElementById("brandSub").textContent = "FPSC subject syllabi · 8 subjects";
+      app.className = "container"; renderSyllabusNav();
+    } else if (subj) {
+      document.getElementById("brandTitle").textContent = "CSS Past Papers";
+      document.getElementById("brandSub").textContent = "Part-II Subjective · 2016–2026";
+      app.className = "container"; renderSubNav();
+    } else {
+      document.getElementById("brandTitle").textContent = "CSS " + year;
+      document.getElementById("brandSub").textContent = "Part-I MCQ Practice · 2024–2026";
+    }
   }
   // Subjective navigation goes through the URL hash so Back/Forward and deep links work.
   function go(h) { if (location.hash.replace(/^#\/?/, "") === h) route(); else location.hash = h; }
@@ -557,7 +574,85 @@
     window.scrollTo({ top: 0 });
   }
 
-  /* ---------- router: #2025, #2025/punjabi, #objective, #subjective[/subject[/year]] ---------- */
+  function renderSyllabusNav() {
+    const grouped = {};
+    SD.groups.forEach(g => { grouped[g.id] = { ...g, subjects: [] }; });
+    SD.subjects.forEach(s => { if (grouped[s.groupId]) grouped[s.groupId].subjects.push(s); });
+    
+    subList.innerHTML = Object.values(grouped).filter(g => g.subjects.length).map(g => `
+      <div class="syll-group">
+        <div class="syll-group-title">${esc(g.name)}</div>
+        ${g.subjects.map(s => `<button class="sub-item ${curSyll === s.id ? "active" : ""}" data-s="${s.id}" aria-pressed="${curSyll === s.id}">
+          <span class="sub-ic" aria-hidden="true">${s.icon}</span>
+          <span class="sub-txt"><strong>${esc(s.name)}</strong><small>${s.marks} marks · Code ${s.code}</small></span>
+        </button>`).join("")}
+      </div>
+    `).join("");
+    subList.querySelectorAll(".sub-item").forEach(b => b.addEventListener("click", () => go("syllabus/" + b.dataset.s)));
+    subjInfo.innerHTML = `<div class="info-card"><strong>${SD.subjects.length} syllabi</strong><small>FPSC CSS subjects</small></div>`;
+  }
+
+  function renderSyllabusHome() {
+    curSyll = null; setMode("syllabus");
+    document.title = "CSS Syllabi · FPSC Subject Syllabi";
+    
+    const grouped = {};
+    SD.groups.forEach(g => { grouped[g.id] = { ...g, subjects: [] }; });
+    SD.subjects.forEach(s => { if (grouped[s.groupId]) grouped[s.groupId].subjects.push(s); });
+    
+    app.innerHTML = `
+      <section class="hero">
+        <h1>CSS subject syllabi.</h1>
+        <p>Official FPSC syllabi for selected CSS subjects. Click any subject to view its detailed syllabus.</p>
+        <div class="overall"><span class="pill">Syllabi available: <b>${SD.subjects.length}</b></span></div>
+      </section>
+      ${Object.values(grouped).filter(g => g.subjects.length).map(g => `
+        <h2 class="sec-title">${esc(g.name)} <small>${g.marksNote}</small></h2>
+        <section class="grid">
+          ${g.subjects.map(s => `<button class="subject" data-s="${s.id}" aria-label="View ${esc(s.name)} syllabus">
+            <div class="icon" aria-hidden="true">${s.icon}</div>
+            <h3>${esc(s.name)}</h3>
+            <p class="sub">Code ${s.code} · ${s.marks} marks</p>
+            <div class="meta"><span>FPSC syllabus</span><span class="best">View PDF</span></div>
+          </button>`).join("")}
+        </section>
+      `).join("")}
+      <p class="help">Source: <a href="${esc(SD.source)}" target="_blank" rel="noopener">cssaspirants.pk</a>. ${esc(SD.note)}</p>`;
+    app.querySelectorAll(".subject").forEach(b => b.addEventListener("click", () => go("syllabus/" + b.dataset.s)));
+    window.scrollTo({ top: 0 });
+  }
+
+  function renderSyllabusViewer(sid) {
+    const s = SSUB[sid];
+    if (!s) return renderSyllabusHome();
+    curSyll = sid; setMode("syllabus");
+    try { localStorage.setItem(SYLL_STORE, sid); } catch (e) {}
+    document.title = s.name + " · CSS Syllabus";
+    
+    const grp = SD.groups.find(g => g.id === s.groupId);
+    app.innerHTML = `
+      <nav class="crumbs" aria-label="Breadcrumb"><a href="#syllabus">Syllabus</a><span>›</span><b>${esc(s.name)}</b></nav>
+      <div class="paper-head">
+        <div><h2>${esc(s.name)} <span class="year-tag">Syllabus</span></h2>
+          <div class="sub">${grp ? esc(grp.name) + " · " : ""}Code ${s.code} · ${s.marks} marks</div></div>
+        <div class="paper-actions">
+          <a class="btn" href="${esc(s.pdfPath)}" target="_blank" rel="noopener">Open in new tab ↗</a>
+          <a class="btn secondary" href="${esc(s.pdfPath)}" download="CSS-Syllabus-${sid}.pdf">Download</a>
+        </div>
+      </div>
+      <div class="viewer">
+        <iframe src="${esc(s.pdfPath)}#view=FitH" title="${esc(s.name)} Syllabus (PDF)" loading="lazy"></iframe>
+      </div>
+      <div class="actions">
+        <span></span>
+        <a class="btn secondary" href="#syllabus">All syllabi</a>
+        <span></span>
+      </div>
+      <p class="note">PDF not showing (common on phones)? Use "Open in new tab". Source: <a href="${esc(s.sourceUrl)}" target="_blank" rel="noopener">cssaspirants.pk</a>.</p>`;
+    window.scrollTo({ top: 0 });
+  }
+
+  /* ---------- router: #2025, #2025/punjabi, #objective, #subjective[/subject[/year]], #syllabus[/subject] ---------- */
   function route() {
     const parts = decodeURIComponent(location.hash.replace(/^#\/?/, "")).split("/").filter(Boolean);
     if (parts[0] === "practice" || (parts[0] === "objective" && parts[1] === "practice")) {
@@ -573,6 +668,13 @@
         return startPractice(bid, target);
       }
       state = null; return renderPracticeHome(bid);
+    }
+    if (parts[0] === "syllabus") {
+      if (state && !confirmLeave()) { setHash(year + "/" + state.subj.id); return; }
+      state = null;
+      const sid = SSUB[parts[1]] ? parts[1] : null;
+      if (!sid) return renderSyllabusHome();
+      return renderSyllabusViewer(sid);
     }
     if (parts[0] === "subjective") {
       if (state && !confirmLeave()) { setHash(year + "/" + state.subj.id); return; }
@@ -593,14 +695,18 @@
   document.querySelectorAll(".mode").forEach(b => b.addEventListener("click", () => {
     const m = b.dataset.mode;
     if (m === mode && m === "objective" && !state && !pview) return;
-    if (m === "subjective") {
+    if (m === "syllabus") {
+      if (!confirmLeave()) return;
+      let last = null; try { last = localStorage.getItem(SYLL_STORE); } catch (e) {}
+      go(mode === "syllabus" ? "syllabus" : SSUB[last] ? "syllabus/" + last : "syllabus");
+    } else if (m === "subjective") {
       if (!confirmLeave()) return;
       let last = null; try { last = localStorage.getItem(SUBJ_STORE); } catch (e) {}
       go(mode === "subjective" ? "subjective" : PSUB[last] ? "subjective/" + last : "subjective");
     } else {
       if (!confirmLeave()) return;
       state = null;
-      if (mode === "subjective" || pview || location.hash.indexOf("#practice") === 0) go(year); else { app.className = "container"; renderHome(); }
+      if (mode === "subjective" || mode === "syllabus" || pview || location.hash.indexOf("#practice") === 0) go(year); else { app.className = "container"; renderHome(); }
     }
   }));
 

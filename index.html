@@ -23,7 +23,7 @@
   <div class="layout" id="layout">
     <nav class="rail" aria-label="Paper type">
       <h2 class="side-title">Paper type</h2>
-      <div class="mode-switch" role="group" aria-label="Objective or subjective">
+      <div class="mode-switch" role="group" aria-label="Paper type selection">
         <button class="mode" data-mode="objective" aria-pressed="true">
           <span class="mode-ic" aria-hidden="true">✓</span>
           <span class="mode-txt"><strong>Objective</strong><small>Part-I MCQs · 2024–2026 · practice banks</small></span>
@@ -31,6 +31,10 @@
         <button class="mode" data-mode="subjective" aria-pressed="false">
           <span class="mode-ic" aria-hidden="true">✍</span>
           <span class="mode-txt"><strong>Subjective</strong><small>Part-II past papers · 2016–2026</small></span>
+        </button>
+        <button class="mode" data-mode="syllabus" aria-pressed="false">
+          <span class="mode-ic" aria-hidden="true">📋</span>
+          <span class="mode-txt"><strong>Syllabus</strong><small>FPSC subject syllabi · 8 subjects</small></span>
         </button>
       </div>
       <div id="objSide" class="rail-section">
@@ -52,13 +56,14 @@
   <div id="toast" class="toast" role="status" aria-live="assertive"></div>
 
   <footer class="foot">
-    Part-I MCQs from CSS 2024, 2025 and 2026 papers, and Part-II past-paper PDFs for 2016–2026 (all via cssaspirants.pk). The Islamic Studies (676 MCQs) and Pakistan Affairs (660 MCQs) practice banks come from cssprep.com.pk and pakjobmcqs.com, with keys checked by hand. Answer keys are practice keys, not official FPSC keys.<br />
+    Part-I MCQs from CSS 2024, 2025 and 2026 papers, Part-II past-paper PDFs for 2016–2026, and syllabi for selected subjects (all via cssaspirants.pk). The Islamic Studies (676 MCQs) and Pakistan Affairs (660 MCQs) practice banks come from cssprep.com.pk and pakjobmcqs.com, with keys checked by hand. Answer keys are practice keys, not official FPSC keys.<br />
     Part-I MCQs for 2006–2023 aren't published on that free source, and it has no papers at all before 2016.
   </footer>
 
   <script src="js/quiz-data.js"></script>
   <script src="js/papers-data.js"></script>
   <script src="js/practice-data.js"></script>
+  <script src="js/syllabus-data.js"></script>
   <script src="js/app.js"></script>
 </body>
 </html>
