@@ -464,7 +464,7 @@
     objSide.hidden = subj || syll; subjInfo.hidden = !subj && !syll; subNav.hidden = !subj && !syll; resetBtn.hidden = subj || syll;
     if (syll) {
       document.getElementById("brandTitle").textContent = "CSS Syllabi";
-      document.getElementById("brandSub").textContent = "FPSC subject syllabi · 8 subjects";
+      document.getElementById("brandSub").textContent = "FPSC subject syllabi · 10 subjects";
       app.className = "container"; renderSyllabusNav();
     } else if (subj) {
       document.getElementById("brandTitle").textContent = "CSS Past Papers";
