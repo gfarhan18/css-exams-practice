@@ -1,0 +1,577 @@
+{
+  "source": "https://cssaspirants.pk/css-syllabus/",
+  "checkedAt": "2026-11-02",
+  "note": "FPSC CSS subject syllabi as published on cssaspirants.pk (PDF per subject). Practice/study aid only.",
+  "groups": [
+    {
+      "id": "compulsory",
+      "name": "Compulsory Subjects",
+      "marksNote": "600 marks total",
+      "select": "all"
+    },
+    {
+      "id": "group-1",
+      "name": "Group 1",
+      "marksNote": "Select one subject of 200 marks",
+      "select": "one-200"
+    },
+    {
+      "id": "group-2",
+      "name": "Group 2",
+      "marksNote": "Select 1 subject of 200 or 2 subjects of 100 marks",
+      "select": "one-200-or-two-100"
+    },
+    {
+      "id": "group-3",
+      "name": "Group 3",
+      "marksNote": "Select one subject of 100 marks",
+      "select": "one-100"
+    },
+    {
+      "id": "group-4",
+      "name": "Group 4",
+      "marksNote": "Select one subject of 100 marks",
+      "select": "one-100"
+    },
+    {
+      "id": "group-5",
+      "name": "Group 5",
+      "marksNote": "Select one subject of 100 marks",
+      "select": "one-100"
+    },
+    {
+      "id": "group-6",
+      "name": "Group 6",
+      "marksNote": "Select one subject of 100 marks",
+      "select": "one-100"
+    },
+    {
+      "id": "group-7",
+      "name": "Group 7",
+      "marksNote": "Select one subject of 100 marks",
+      "select": "one-100"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "english-essay",
+      "name": "English Essay",
+      "code": "1",
+      "marks": 100,
+      "groupId": "compulsory",
+      "icon": "✍",
+      "pdfPath": "syllabus/english-essay.pdf",
+      "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/English-Essay-CSS-Syllabus.pdf"
+    },
+    {
+      "id": "english",
+      "name": "English (Precis and Composition)",
+      "code": "2",
+      "marks": 100,
+      "groupId": "compulsory",
+      "icon": "📘",
+      "pdfPath": "syllabus/english.pdf",
+      "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/English-Precis-and-Composition-CSS-Syllabus.pdf"
+    },
+    {
+      "id": "general-science-and-ability",
+      "name": "General Science & Ability",
+      "code": "3",
+      "marks": 100,
+      "groupId": "compulsory",
+      "icon": "📘",
+      "pdfPath": "syllabus/general-science-and-ability.pdf",
+      "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/General-Science-Ability-CSS-Syllabus.pdf"
+    },
+    {
+      "id": "current-affairs",
+      "name": "Current Affairs",
+      "code": "4",
+      "marks": 100,
+      "groupId": "compulsory",
+      "icon": "📰",
+      "pdfPath": "syllabus/current-affairs.pdf",
+      "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/Current-Affairs-CSS-Syllabus.pdf"
+    },
+    {
+      "id": "pakistan-affairs",
+      "name": "Pakistan Affairs",
+      "code": "5",
+      "marks": 100,
+      "groupId": "compulsory",
+      "icon": "🇵🇰",
+      "pdfPath": "syllabus/pakistan-affairs.pdf",
+      "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/Pakistan-Affairs-CSS-Syllabus.pdf"
+    },
+    {
+      "id": "islamic-studies",
+      "name": "Islamic Studies",
+      "code": "6",
+      "marks": 100,
+      "groupId": "compulsory",
+      "icon": "🕌",
+      "pdfPath": "syllabus/islamic-studies.pdf",
+      "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/Islamic-Studies-CSS-Syllabus.pdf"
+    },
+    {
+      "id": "comparative-study-of-major-religions",
+      "name": "Comparative Study of Major Religions (For non muslim candidates)",
+      "code": "7",
+      "marks": 100,
+      "groupId": "compulsory",
+      "icon": "📘",
+      "pdfPath": "syllabus/comparative-study-of-major-religions.pdf",
+      "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/Comparative-Study-of-Major-Religions-CSS-Syllabus.pdf"
+    },
+    {
+      "id": "accountancy-and-auditing",
+      "name": "Accountancy & Auditing",
+      "code": "11",
+      "marks": 200,
+      "groupId": "group-1",
+      "icon": "📘",
+      "pdfPath": "syllabus/accountancy-and-auditing.pdf",
+      "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/Accountancy-Auditing-CSS-Syllabus.pdf"
+    },
+    {
+      "id": "economics",
+      "name": "Economics",
+      "code": "12",
+      "marks": 200,
+      "groupId": "group-1",
+      "icon": "📘",
+      "pdfPath": "syllabus/economics.pdf",
+      "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/Economics-CSS-Syllabus.pdf"
+    },
+    {
+      "id": "computer-science",
+      "name": "Computer Science",
+      "code": "13",
+      "marks": 200,
+      "groupId": "group-1",
+      "icon": "💻",
+      "pdfPath": "syllabus/computer-science.pdf",
+      "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/Computer-Science-css-syllabus.pdf"
+    },
+    {
+      "id": "political-science",
+      "name": "Political Science",
+      "code": "14",
+      "marks": 200,
+      "groupId": "group-1",
+      "icon": "🏛",
+      "pdfPath": "syllabus/political-science.pdf",
+      "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/Political-Science-CSS-Syllabus.pdf"
+    },
+    {
+      "id": "international-relations",
+      "name": "International Relations",
+      "code": "15",
+      "marks": 200,
+      "groupId": "group-1",
+      "icon": "🌐",
+      "pdfPath": "syllabus/international-relations.pdf",
+      "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/International-Relations-CSS-Syllabus.pdf"
+    },
+    {
+      "id": "physics",
+      "name": "Physics",
+      "code": "16",
+      "marks": 200,
+      "groupId": "group-2",
+      "icon": "📘",
+      "pdfPath": "syllabus/physics.pdf",
+      "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/Physics-CSS-Syllabus.pdf"
+    },
+    {
+      "id": "chemistry",
+      "name": "Chemistry",
+      "code": "17",
+      "marks": 200,
+      "groupId": "group-2",
+      "icon": "📘",
+      "pdfPath": "syllabus/chemistry.pdf",
+      "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/Chemistry-css-syllabus.pdf"
+    },
+    {
+      "id": "applied-mathematics",
+      "name": "Applied Mathematics",
+      "code": "18",
+      "marks": 100,
+      "groupId": "group-2",
+      "icon": "📘",
+      "pdfPath": "syllabus/applied-mathematics.pdf",
+      "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/Applied-Mathematics-Css-Syllabus.pdf"
+    },
+    {
+      "id": "pure-mathematics",
+      "name": "Pure Mathematics",
+      "code": "19",
+      "marks": 100,
+      "groupId": "group-2",
+      "icon": "📘",
+      "pdfPath": "syllabus/pure-mathematics.pdf",
+      "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/Pure-Mathematics-CSS-Syllabus.pdf"
+    },
+    {
+      "id": "statistics",
+      "name": "Statistics",
+      "code": "20",
+      "marks": 100,
+      "groupId": "group-2",
+      "icon": "📘",
+      "pdfPath": "syllabus/statistics.pdf",
+      "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/Statistics-CSS-Syllabus.pdf"
+    },
+    {
+      "id": "geology",
+      "name": "Geology",
+      "code": "21",
+      "marks": 100,
+      "groupId": "group-2",
+      "icon": "📘",
+      "pdfPath": "syllabus/geology.pdf",
+      "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/Geology-CSS-Syllabus.pdf"
+    },
+    {
+      "id": "business-administration",
+      "name": "Business Administration",
+      "code": "22",
+      "marks": 100,
+      "groupId": "group-3",
+      "icon": "📘",
+      "pdfPath": "syllabus/business-administration.pdf",
+      "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/Business-Administration-CSS-Syllabus.pdf"
+    },
+    {
+      "id": "public-administration",
+      "name": "Public Administration",
+      "code": "23",
+      "marks": 100,
+      "groupId": "group-3",
+      "icon": "📘",
+      "pdfPath": "syllabus/public-administration.pdf",
+      "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/Public-Administration-CSS-Syllabus.pdf"
+    },
+    {
+      "id": "governance-and-public-policies",
+      "name": "Governance & Public Policies",
+      "code": "24",
+      "marks": 100,
+      "groupId": "group-3",
+      "icon": "📘",
+      "pdfPath": "syllabus/governance-and-public-policies.pdf",
+      "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/Governance-Public-Policies-CSS-Syllabus.pdf"
+    },
+    {
+      "id": "town-planning-and-urban-management",
+      "name": "Town Planning & Urban Management",
+      "code": "25",
+      "marks": 100,
+      "groupId": "group-3",
+      "icon": "📘",
+      "pdfPath": "syllabus/town-planning-and-urban-management.pdf",
+      "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/Town-Planning-Urban-Management-CSS-Syllabus.pdf"
+    },
+    {
+      "id": "history-of-pakistan-and-india",
+      "name": "History of Pakistan & India",
+      "code": "26",
+      "marks": 100,
+      "groupId": "group-4",
+      "icon": "📘",
+      "pdfPath": "syllabus/history-of-pakistan-and-india.pdf",
+      "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/History-of-Pakistan-India-CSS-Syllabus.pdf"
+    },
+    {
+      "id": "islamic-history-and-culture",
+      "name": "Islamic History & Culture",
+      "code": "27",
+      "marks": 100,
+      "groupId": "group-4",
+      "icon": "📘",
+      "pdfPath": "syllabus/islamic-history-and-culture.pdf",
+      "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/Islamic-History-Culture-CSS-Syllabus.pdf"
+    },
+    {
+      "id": "british-history",
+      "name": "British History",
+      "code": "28",
+      "marks": 100,
+      "groupId": "group-4",
+      "icon": "📘",
+      "pdfPath": "syllabus/british-history.pdf",
+      "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/British-History-CSS-Syllabus.pdf"
+    },
+    {
+      "id": "european-history",
+      "name": "European History",
+      "code": "29",
+      "marks": 100,
+      "groupId": "group-4",
+      "icon": "📘",
+      "pdfPath": "syllabus/european-history.pdf",
+      "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/European-History-CSS-Syllabus.pdf"
+    },
+    {
+      "id": "history-of-usa",
+      "name": "History of USA",
+      "code": "30",
+      "marks": 100,
+      "groupId": "group-4",
+      "icon": "📘",
+      "pdfPath": "syllabus/history-of-usa.pdf",
+      "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/History-of-USA-CSS-Syllabus.pdf"
+    },
+    {
+      "id": "gender-studies",
+      "name": "Gender Studies",
+      "code": "31",
+      "marks": 100,
+      "groupId": "group-5",
+      "icon": "♀",
+      "pdfPath": "syllabus/gender-studies.pdf",
+      "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/Gender-Studies-CSS-Syllabus.pdf"
+    },
+    {
+      "id": "environmental-sciences",
+      "name": "Environmental Sciences",
+      "code": "32",
+      "marks": 100,
+      "groupId": "group-5",
+      "icon": "📘",
+      "pdfPath": "syllabus/environmental-sciences.pdf",
+      "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/Environmental-Science-CSS-Syllabus.pdf"
+    },
+    {
+      "id": "agriculture-and-forestry",
+      "name": "Agriculture & Forestry",
+      "code": "33",
+      "marks": 100,
+      "groupId": "group-5",
+      "icon": "📘",
+      "pdfPath": "syllabus/agriculture-and-forestry.pdf",
+      "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/Agriculture-Forestry-Css-Syllabus.pdf"
+    },
+    {
+      "id": "botany",
+      "name": "Botany",
+      "code": "34",
+      "marks": 100,
+      "groupId": "group-5",
+      "icon": "📘",
+      "pdfPath": "syllabus/botany.pdf",
+      "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/Botany-CSS-Syllabus.pdf"
+    },
+    {
+      "id": "zoology",
+      "name": "Zoology",
+      "code": "35",
+      "marks": 100,
+      "groupId": "group-5",
+      "icon": "📘",
+      "pdfPath": "syllabus/zoology.pdf",
+      "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/Zoology-CSS-Syllabus.pdf"
+    },
+    {
+      "id": "english-literature",
+      "name": "English Literature",
+      "code": "36",
+      "marks": 100,
+      "groupId": "group-5",
+      "icon": "📘",
+      "pdfPath": "syllabus/english-literature.pdf",
+      "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/English-Literature-CSS-Syllabus.pdf"
+    },
+    {
+      "id": "urdu-literature",
+      "name": "Urdu Literature",
+      "code": "37",
+      "marks": 100,
+      "groupId": "group-5",
+      "icon": "📘",
+      "pdfPath": "syllabus/urdu-literature.pdf",
+      "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/Urdu-Literature-CSS-Syllabus.pdf"
+    },
+    {
+      "id": "law",
+      "name": "Law",
+      "code": "38",
+      "marks": 100,
+      "groupId": "group-6",
+      "icon": "📘",
+      "pdfPath": "syllabus/law.pdf",
+      "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/Law-CSS-Syllabus.pdf"
+    },
+    {
+      "id": "constitutional-law",
+      "name": "Constitutional Law",
+      "code": "39",
+      "marks": 100,
+      "groupId": "group-6",
+      "icon": "📘",
+      "pdfPath": "syllabus/constitutional-law.pdf",
+      "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/Constitutional-Law-CSS-Syllabus.pdf"
+    },
+    {
+      "id": "international-law",
+      "name": "International Law",
+      "code": "40",
+      "marks": 100,
+      "groupId": "group-6",
+      "icon": "📘",
+      "pdfPath": "syllabus/international-law.pdf",
+      "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/International-Law-CSS-Syllabus.pdf"
+    },
+    {
+      "id": "muslim-law-and-jurisprudence",
+      "name": "Muslim Law & Jurisprudence",
+      "code": "41",
+      "marks": 100,
+      "groupId": "group-6",
+      "icon": "📘",
+      "pdfPath": "syllabus/muslim-law-and-jurisprudence.pdf",
+      "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/Muslim-Law-Jurisprudence-CSS-Syllabus.pdf"
+    },
+    {
+      "id": "mercantile-law",
+      "name": "Mercantile Law",
+      "code": "42",
+      "marks": 100,
+      "groupId": "group-6",
+      "icon": "📘",
+      "pdfPath": "syllabus/mercantile-law.pdf",
+      "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/Mercantile-Law-CSS-Syllabus.pdf"
+    },
+    {
+      "id": "criminology",
+      "name": "Criminology",
+      "code": "43",
+      "marks": 100,
+      "groupId": "group-6",
+      "icon": "⚖",
+      "pdfPath": "syllabus/criminology.pdf",
+      "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/Criminology-CSS-Syllabus.pdf"
+    },
+    {
+      "id": "philosophy",
+      "name": "Philosophy",
+      "code": "44",
+      "marks": 100,
+      "groupId": "group-6",
+      "icon": "📘",
+      "pdfPath": "syllabus/philosophy.pdf",
+      "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/Philosophy-CSS-Syllabus.pdf"
+    },
+    {
+      "id": "journalism-and-mass-communication",
+      "name": "Journalism & Mass Communication",
+      "code": "45",
+      "marks": 100,
+      "groupId": "group-7",
+      "icon": "📘",
+      "pdfPath": "syllabus/journalism-and-mass-communication.pdf",
+      "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/Journalism-Mass-Communication-CSS-Syllabus.pdf"
+    },
+    {
+      "id": "psychology",
+      "name": "Psychology",
+      "code": "46",
+      "marks": 100,
+      "groupId": "group-7",
+      "icon": "🧠",
+      "pdfPath": "syllabus/psychology.pdf",
+      "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/Psychology-CSS-Syllabus.pdf"
+    },
+    {
+      "id": "geography",
+      "name": "Geography",
+      "code": "47",
+      "marks": 100,
+      "groupId": "group-7",
+      "icon": "📘",
+      "pdfPath": "syllabus/geography.pdf",
+      "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/Geography-CSS-Syllabus.pdf"
+    },
+    {
+      "id": "sociology",
+      "name": "Sociology",
+      "code": "48",
+      "marks": 100,
+      "groupId": "group-7",
+      "icon": "👥",
+      "pdfPath": "syllabus/sociology.pdf",
+      "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/Sociology-CSS-Syllabus.pdf"
+    },
+    {
+      "id": "anthropology",
+      "name": "Anthropology",
+      "code": "49",
+      "marks": 100,
+      "groupId": "group-7",
+      "icon": "📘",
+      "pdfPath": "syllabus/anthropology.pdf",
+      "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/Anthropology-CSS-Syllabus.pdf"
+    },
+    {
+      "id": "punjabi",
+      "name": "Punjabi",
+      "code": "50",
+      "marks": 100,
+      "groupId": "group-7",
+      "icon": "📜",
+      "pdfPath": "syllabus/punjabi.pdf",
+      "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/Punjabi-CSS-Syllabus.pdf"
+    },
+    {
+      "id": "sindhi",
+      "name": "Sindhi",
+      "code": "51",
+      "marks": 100,
+      "groupId": "group-7",
+      "icon": "📘",
+      "pdfPath": "syllabus/sindhi.pdf",
+      "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/Sindhi-CSS-Syllabus.pdf"
+    },
+    {
+      "id": "pashto",
+      "name": "Pashto",
+      "code": "52",
+      "marks": 100,
+      "groupId": "group-7",
+      "icon": "📘",
+      "pdfPath": "syllabus/pashto.pdf",
+      "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/Pashto-CSS-Syllabus.pdf"
+    },
+    {
+      "id": "balochi",
+      "name": "Balochi",
+      "code": "53",
+      "marks": 100,
+      "groupId": "group-7",
+      "icon": "📘",
+      "pdfPath": "syllabus/balochi.pdf",
+      "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/Balochi-css-syllabus.pdf"
+    },
+    {
+      "id": "persian",
+      "name": "Persian",
+      "code": "54",
+      "marks": 100,
+      "groupId": "group-7",
+      "icon": "📘",
+      "pdfPath": "syllabus/persian.pdf",
+      "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/Persian-CSS-Syllabus.pdf"
+    },
+    {
+      "id": "arabic",
+      "name": "Arabic",
+      "code": "55",
+      "marks": 100,
+      "groupId": "group-7",
+      "icon": "📘",
+      "pdfPath": "syllabus/arabic.pdf",
+      "sourceUrl": "https://cssaspirants.pk/wp-content/uploads/2021/08/Arabic-Css-Syllabus.pdf"
+    }
+  ]
+}
