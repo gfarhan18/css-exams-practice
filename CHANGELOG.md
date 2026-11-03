@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-11-03 — PMS past papers (English Precis)
+
+### Added
+- **Fourth paper type, PMS:** Punjab Provincial Management Service past papers in the left rail (alongside Objective, Subjective, Syllabus), with the same flow as Subjective — subject list, year cards, in-page PDF viewer.
+- **English (Precis, Comprehension & Translation):** 5 official PDFs from [ppsc.gop.pk](https://www.ppsc.gop.pk/PMSPastPapers.aspx) for 2019, 2020, 2022, 2023, and 2024 (no 2021 listing on PPSC).
+- **Deep links:** `#pms`, `#pms/english-precis-comprehension-translation`, `#pms/english-precis-comprehension-translation/2024`, etc.
+- Catalog in `js/pms-data.js`; PDFs under `papers/pms/english-precis-comprehension-translation/`.
+
 ## 2026-11-03 — English Pair of Words practice bank (134 MCQs)
 
 ### Added

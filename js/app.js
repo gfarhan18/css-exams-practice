@@ -588,10 +588,7 @@
   }
 
   function renderPMSNav() {
-    let curPMSSubj = null;
-    try { curPMSSubj = localStorage.getItem(PMS_STORE); } catch (e) {}
-    
-    subList.innerHTML = `<h2 class="side-title">Subjects</h2>` + PMD.subjects.map(s => `<button class="sub-item ${curPMSSubj === s.id ? "active" : ""}" data-s="${s.id}" aria-pressed="${curPMSSubj === s.id}">
+    subList.innerHTML = PMD.subjects.map(s => `<button class="sub-item ${curPMSSubj === s.id ? "active" : ""}" data-s="${s.id}" aria-pressed="${curPMSSubj === s.id}">
         <span class="sub-ic" aria-hidden="true">${s.icon}</span>
         <span class="sub-txt"><strong>${esc(s.name)}</strong><small>${s.papers.length} papers · ${pmYrRange(s)}</small></span>
       </button>`).join("");
