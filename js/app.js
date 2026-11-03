@@ -278,6 +278,7 @@
 
   /* ---------- global ---------- */
   document.getElementById("homeBtn").addEventListener("click", () => {
+    if (mode === "pms") { go("pms"); return; }
     if (mode === "syllabus") { go("syllabus"); return; }
     if (mode === "subjective") { go("subjective"); return; }
     if (!confirmLeave()) return;
@@ -441,6 +442,13 @@
   const PSUB = {}; PD.subjects.forEach(s => (PSUB[s.id] = s));
   const SUBJ_STORE = "cssPapers.subject";
 
+  /* ================= PMS (Punjab PMS past papers) ================= */
+  const PMD = window.PMS_DATA || { subjects: [], years: [], gaps: [] };
+  const PMSUB = {}; PMD.subjects.forEach(s => (PMSUB[s.id] = s));
+  const PMS_STORE = "pmsPapers.subject";
+  const totalPMSPapers = PMD.subjects.reduce((a, s) => a + s.papers.length, 0);
+  const pmYrRange = s => s.papers.length ? Math.min(...s.papers.map(p => p.year)) + "–" + Math.max(...s.papers.map(p => p.year)) : "—";
+
   /* ================= SYLLABUS ================= */
   const SD = window.SYLLABUS_DATA || { subjects: [], groups: [] };
   const SSUB = {}; SD.subjects.forEach(s => (SSUB[s.id] = s));
@@ -458,11 +466,16 @@
     mode = m;
     const subj = m === "subjective";
     const syll = m === "syllabus";
-    document.body.classList.toggle("mode-subjective", subj || syll);
-    layoutEl.classList.toggle("three", subj || syll);
+    const pms = m === "pms";
+    document.body.classList.toggle("mode-subjective", subj || syll || pms);
+    layoutEl.classList.toggle("three", subj || syll || pms);
     document.querySelectorAll(".mode").forEach(b => { const on = b.dataset.mode === m; b.classList.toggle("active", on); b.setAttribute("aria-pressed", on); });
-    objSide.hidden = subj || syll; subjInfo.hidden = !subj && !syll; subNav.hidden = !subj && !syll; resetBtn.hidden = subj || syll;
-    if (syll) {
+    objSide.hidden = subj || syll || pms; subjInfo.hidden = !subj && !syll && !pms; subNav.hidden = !subj && !syll && !pms; resetBtn.hidden = subj || syll || pms;
+    if (pms) {
+      document.getElementById("brandTitle").textContent = "PMS Past Papers";
+      document.getElementById("brandSub").textContent = "Punjab PMS · Precis";
+      app.className = "container"; renderPMSNav();
+    } else if (syll) {
       document.getElementById("brandTitle").textContent = "CSS Syllabi";
       document.getElementById("brandSub").textContent = "FPSC subject syllabi · 10 subjects";
       app.className = "container"; renderSyllabusNav();
@@ -574,6 +587,19 @@
     window.scrollTo({ top: 0 });
   }
 
+  function renderPMSNav() {
+    let curPMSSubj = null;
+    try { curPMSSubj = localStorage.getItem(PMS_STORE); } catch (e) {}
+    
+    subList.innerHTML = `<h2 class="side-title">Subjects</h2>` + PMD.subjects.map(s => `<button class="sub-item ${curPMSSubj === s.id ? "active" : ""}" data-s="${s.id}" aria-pressed="${curPMSSubj === s.id}">
+        <span class="sub-ic" aria-hidden="true">${s.icon}</span>
+        <span class="sub-txt"><strong>${esc(s.name)}</strong><small>${s.papers.length} papers · ${pmYrRange(s)}</small></span>
+      </button>`).join("");
+    subList.querySelectorAll(".sub-item").forEach(b => b.addEventListener("click", () => go("pms/" + b.dataset.s)));
+    subjInfo.innerHTML = `<div class="info-card"><strong>${totalPMSPapers} papers</strong><small>${PMD.subjects.length} subject · ${PMD.years[0]}–${PMD.years[PMD.years.length - 1]}</small></div>` +
+      (PMD.gaps || []).map(g => `<div class="gap"><span class="node" aria-hidden="true"></span><span><strong>${esc(g.range)}</strong><small>${esc(g.note)}</small></span></div>`).join("");
+  }
+
   function renderSyllabusNav() {
     const grouped = {};
     SD.groups.forEach(g => { grouped[g.id] = { ...g, subjects: [] }; });
@@ -652,7 +678,94 @@
     window.scrollTo({ top: 0 });
   }
 
-  /* ---------- router: #2025, #2025/punjabi, #objective, #subjective[/subject[/year]], #syllabus[/subject] ---------- */
+  /* ================= PMS PAGES ================= */
+  let curPMSSubj = null, curPMSPaper = null;
+
+  function renderPMSHome() {
+    curPMSSubj = null; curPMSPaper = null; setMode("pms");
+    document.title = "PMS Past Papers · Punjab PMS";
+    app.innerHTML = `
+      <section class="hero">
+        <h1>PMS past papers.</h1>
+        <p>Punjab Provincial Management Service past papers from PPSC. Pick a subject to see papers by year, then open any year to read or download that paper.</p>
+        <div class="overall"><span class="pill">Subjects: <b>${PMD.subjects.length}</b></span><span class="pill">Papers: <b>${totalPMSPapers}</b></span><span class="pill">Years: <b>${PMD.years[PMD.years.length - 1]}–${PMD.years[0]}</b></span></div>
+      </section>
+      <section class="grid">
+        ${PMD.subjects.map(s => `<button class="subject" data-s="${s.id}" aria-label="Open ${esc(s.name)} past papers">
+          <div class="icon" aria-hidden="true">${s.icon}</div>
+          <h3>${esc(s.name)}</h3>
+          <p class="sub">PMS past papers from PPSC</p>
+          <div class="meta"><span>${s.papers.length} papers</span><span class="best">${pmYrRange(s)}</span></div>
+        </button>`).join("")}
+      </section>
+      <p class="help">Source: <a href="${esc(PMD.source)}" target="_blank" rel="noopener">ppsc.gop.pk</a>. ${esc(PMD.note || "")}</p>`;
+    app.querySelectorAll(".subject").forEach(b => b.addEventListener("click", () => go("pms/" + b.dataset.s)));
+    window.scrollTo({ top: 0 });
+  }
+
+  function renderPMSSubject(sid) {
+    const s = PMSUB[sid];
+    if (!s) return renderPMSHome();
+    curPMSSubj = sid; curPMSPaper = null; setMode("pms");
+    try { localStorage.setItem(PMS_STORE, sid); } catch (e) {}
+    document.title = s.name + " · PMS Past Papers";
+    app.innerHTML = `
+      <nav class="crumbs" aria-label="Breadcrumb"><a href="#pms">PMS</a><span>›</span><b>${esc(s.name)}</b></nav>
+      <section class="hero compact">
+        <h1><span aria-hidden="true">${s.icon}</span> ${esc(s.name)}</h1>
+        <p>${s.papers.length} past papers (${pmYrRange(s)}). Click a year to open the paper.</p>
+      </section>
+      <section class="year-grid">
+        ${s.papers.map(p => `<button class="ycard" data-y="${p.year}" aria-label="Open ${esc(p.title)}">
+          <span class="ycard-year">${p.year}</span>
+          <span class="ycard-sub">${esc(s.shortName || s.name)}</span>
+          <span class="ycard-tags"><span class="tag">PMS</span></span>
+          <span class="ycard-meta">${p.pages ? p.pages + " page" + (p.pages > 1 ? "s" : "") + " · " : ""}${p.sizeKB >= 1024 ? (p.sizeKB / 1024).toFixed(1) + " MB" : p.sizeKB + " KB"} · PDF</span>
+          <span class="ycard-open">Open paper →</span>
+        </button>`).join("")}
+        ${PMD.gaps.map(g => `<div class="ycard gap-card" aria-label="${esc(g.range)} not available"><span class="ycard-year">${esc(g.range)}</span><span class="ycard-sub">${esc(g.note)}</span></div>`).join("")}
+      </section>
+      <p class="help">PDFs from <a href="${esc(s.hub)}" target="_blank" rel="noopener">ppsc.gop.pk</a>, saved with this site.</p>`;
+    app.querySelectorAll(".ycard[data-y]").forEach(b => b.addEventListener("click", () => go("pms/" + sid + "/" + b.dataset.y)));
+    window.scrollTo({ top: 0 });
+  }
+
+  function renderPMSPaper(sid, y) {
+    const s = PMSUB[sid];
+    if (!s) return renderPMSHome();
+    const i = s.papers.findIndex(p => String(p.year) === String(y));
+    const p = s.papers[i];
+    if (!p) return renderPMSSubject(sid);
+    curPMSSubj = sid; curPMSPaper = p.year; setMode("pms");
+    try { localStorage.setItem(PMS_STORE, sid); } catch (e) {}
+    document.title = p.title + " · PMS past paper";
+    const newer = s.papers[i - 1], older = s.papers[i + 1];
+    app.innerHTML = `
+      <nav class="crumbs" aria-label="Breadcrumb"><a href="#pms">PMS</a><span>›</span><a href="#pms/${sid}">${esc(s.shortName || s.name)}</a><span>›</span><b>${p.year}</b></nav>
+      <div class="paper-head">
+        <div><h2>${esc(s.name)} <span class="year-tag">${p.year}</span></h2>
+          <div class="sub"><span class="tag">PMS</span> ${p.pages ? p.pages + " pages" : ""}</div></div>
+        <div class="paper-actions">
+          <a class="btn" href="${esc(p.pdfPath)}" target="_blank" rel="noopener">Open in new tab ↗</a>
+          <a class="btn secondary" href="${esc(p.pdfPath)}" download="PMS-${p.year}-${sid}.pdf">Download</a>
+        </div>
+      </div>
+      <div class="year-strip" role="group" aria-label="${esc(s.name)} years">
+        ${s.papers.map(q => `<a class="chip ${q.year === p.year ? "active" : ""}" href="#pms/${sid}/${q.year}" ${q.year === p.year ? 'aria-current="page"' : ""}>${q.year}</a>`).join("")}
+      </div>
+      <div class="viewer">
+        <iframe src="${esc(p.pdfPath)}#view=FitH" title="${esc(p.title)} (PDF)" loading="lazy"></iframe>
+      </div>
+      <div class="actions">
+        ${newer ? `<a class="btn secondary" href="#pms/${sid}/${newer.year}">← ${newer.year}</a>` : "<span></span>"}
+        <a class="btn secondary" href="#pms/${sid}">All ${esc(s.shortName || s.name)} years</a>
+        ${older ? `<a class="btn secondary" href="#pms/${sid}/${older.year}">${older.year} →</a>` : "<span></span>"}
+      </div>
+      <p class="note">PDF not showing (common on phones)? Use "Open in new tab". Source: <a href="${esc(p.sourceUrl)}" target="_blank" rel="noopener">ppsc.gop.pk</a>.</p>`;
+    window.scrollTo({ top: 0 });
+  }
+
+  /* ---------- router: #2025, #2025/punjabi, #objective, #subjective[/subject[/year]], #syllabus[/subject], #pms[/subject[/year]] ---------- */
   function route() {
     const parts = decodeURIComponent(location.hash.replace(/^#\/?/, "")).split("/").filter(Boolean);
     if (parts[0] === "practice" || (parts[0] === "objective" && parts[1] === "practice")) {
@@ -668,6 +781,14 @@
         return startPractice(bid, target);
       }
       state = null; return renderPracticeHome(bid);
+    }
+    if (parts[0] === "pms") {
+      if (state && !confirmLeave()) { setHash(year + "/" + state.subj.id); return; }
+      state = null;
+      const sid = PMSUB[parts[1]] ? parts[1] : null;
+      if (!sid) return renderPMSHome();
+      if (parts[2] && PMSUB[sid].papers.some(p => String(p.year) === parts[2])) return renderPMSPaper(sid, parts[2]);
+      return renderPMSSubject(sid);
     }
     if (parts[0] === "syllabus") {
       if (state && !confirmLeave()) { setHash(year + "/" + state.subj.id); return; }
@@ -695,7 +816,11 @@
   document.querySelectorAll(".mode").forEach(b => b.addEventListener("click", () => {
     const m = b.dataset.mode;
     if (m === mode && m === "objective" && !state && !pview) return;
-    if (m === "syllabus") {
+    if (m === "pms") {
+      if (!confirmLeave()) return;
+      let last = null; try { last = localStorage.getItem(PMS_STORE); } catch (e) {}
+      go(mode === "pms" ? "pms" : PMSUB[last] ? "pms/" + last : "pms");
+    } else if (m === "syllabus") {
       if (!confirmLeave()) return;
       let last = null; try { last = localStorage.getItem(SYLL_STORE); } catch (e) {}
       go(mode === "syllabus" ? "syllabus" : SSUB[last] ? "syllabus/" + last : "syllabus");
@@ -706,7 +831,7 @@
     } else {
       if (!confirmLeave()) return;
       state = null;
-      if (mode === "subjective" || mode === "syllabus" || pview || location.hash.indexOf("#practice") === 0) go(year); else { app.className = "container"; renderHome(); }
+      if (mode === "subjective" || mode === "syllabus" || mode === "pms" || pview || location.hash.indexOf("#practice") === 0) go(year); else { app.className = "container"; renderHome(); }
     }
   }));
 
