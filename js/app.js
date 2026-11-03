@@ -387,7 +387,7 @@
       <section class="set-grid">
         ${b.sets.map(id => { const p = b.packById[id]; return packBtn(b, p, sc, "set-card", (r, pc) => `<strong>${esc(p.label)}</strong><small>Q${p.range[0]}–${p.range[1]}</small><span class="set-best">${r ? `Best ${r.best}/${r.total}` : "Not tried"}</span>`); }).join("")}
       </section>
-      <p class="help">${esc(b.sourceNotes)} Sources: ${b.sources.filter(u => /^https?:\/\//.test(String(u))).map(u => { const url = String(u).split(" ")[0]; let host = url; try { host = new URL(url).hostname; } catch (e) {} return `<a href="${esc(url)}" target="_blank" rel="noopener">${esc(host)}</a>`; }).join(", ")}.
+      <p class="help">${esc(b.sourceNotes)} Sources: ${(Array.isArray(b.sources) ? b.sources : (b.sources ? [b.sources] : [])).filter(u => /^https?:\/\//.test(String(u))).map(u => { const url = String(u).split(" ")[0]; let host = url; try { host = new URL(url).hostname; } catch (e) {} return `<a href="${esc(url)}" target="_blank" rel="noopener">${esc(host)}</a>`; }).join(", ")}.
         Scores for this bank are saved separately from your yearly paper scores.</p>`;
     app.querySelectorAll("[data-p]").forEach(el => el.addEventListener("click", () => go("practice/" + bid + "/" + el.dataset.p)));
     document.getElementById("randomBtn").addEventListener("click", () => go("practice/" + bid + "/random"));
