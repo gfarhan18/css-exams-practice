@@ -1,5 +1,20 @@
 # Changelog
 
+## 2026-11-03 — English Pair of Words practice bank (134 MCQs)
+
+### Added
+- **Third practice bank, 📝 English Pair of Words: 134 MCQs (67 unique pairs) in 16 packs.** Listed under Objective › Practice bank alongside Islamic Studies and Pakistan Affairs.
+  - **CSS past papers 2016–2026**: 9 year packs covering CSS English (Precis & Composition) papers 2016–2018 and 2021–2026 from cssaspirants.pk (2019–2020 asked idioms only; pre-2016 papers not published there).
+  - **By topic**: 9 packs (one per CSS year: 2016, 2017, 2018, 2021, 2022, 2023, 2024, 2025, 2026).
+  - **Mixed sets**: 7 sets of 20 (last set 14).
+  - Each pair becomes two MCQs: one tests the first word's meaning, one tests the second. Explanations include both words' meanings and self-explanatory sentences.
+  - Repeated pairs merged: Dinghy/Dingy (2017, 2018), Faint/Feint (2018, 2023, 2024), Moat/Mote (2016, 2026).
+- **Deep links**: `#practice/english-pair-of-words`, `#practice/english-pair-of-words/css-2026-pairs`, `#practice/english-pair-of-words/set-5` and `#practice/english-pair-of-words/random`.
+- The data is in `data/practice/english-pair-of-words/` with the bank JSON and `by-topic/` folder.
+
+### Changed
+- **CSS styles**: Added `white-space:pre-line` to `.feedback .exp, .rv .exp` so multi-line explanations (each word on its own line) preserve line breaks.
+
 ## 2026-11-01 — Pakistan Affairs practice bank (660 MCQs)
 
 ### Added
