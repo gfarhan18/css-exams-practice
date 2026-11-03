@@ -317,3 +317,6 @@ a.chip{text-decoration:none;flex:none}
   .bank-item{padding:6px 12px 6px 6px}
   .bank-item .sub-ic{width:30px;height:30px;font-size:16px}
 }
+
+/* Pair of Words explanations: preserve line breaks for multi-line meanings */
+.feedback .exp,.rv .exp{white-space:pre-line}

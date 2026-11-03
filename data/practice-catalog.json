@@ -116,6 +116,64 @@
       ],
       "sourceNotes": "Collected from cssprep.com.pk (CSS Pakistan Affairs Part-I 2005–2023) and pakjobmcqs.com (Pakistan Studies topic chapters). Doubtful keys were re-checked against official/primary sources (na.gov.pk, the Constitution, the Radcliffe Award gazette, cabinet.gov.pk) and corrected; low-confidence keys are flagged in the explanation.",
       "setOrderNote": "topic by topic, CSS paper MCQs first within each topic"
+    },
+    {
+      "id": "english-pair-of-words",
+      "name": "English Pair of Words",
+      "shortName": "Pair of Words",
+      "icon": "📝",
+      "file": "data/practice/english-pair-of-words/english-pair-of-words-practice.json",
+      "setSize": 20,
+      "partSize": 20,
+      "topics": [
+        {
+          "id": "css-2016-pairs",
+          "file": "data/practice/english-pair-of-words/by-topic/css-2016-pairs.json",
+          "icon": "📝"
+        },
+        {
+          "id": "css-2017-pairs",
+          "file": "data/practice/english-pair-of-words/by-topic/css-2017-pairs.json",
+          "icon": "📝"
+        },
+        {
+          "id": "css-2018-pairs",
+          "file": "data/practice/english-pair-of-words/by-topic/css-2018-pairs.json",
+          "icon": "📝"
+        },
+        {
+          "id": "css-2021-pairs",
+          "file": "data/practice/english-pair-of-words/by-topic/css-2021-pairs.json",
+          "icon": "📝"
+        },
+        {
+          "id": "css-2022-pairs",
+          "file": "data/practice/english-pair-of-words/by-topic/css-2022-pairs.json",
+          "icon": "📝"
+        },
+        {
+          "id": "css-2023-pairs",
+          "file": "data/practice/english-pair-of-words/by-topic/css-2023-pairs.json",
+          "icon": "📝"
+        },
+        {
+          "id": "css-2024-pairs",
+          "file": "data/practice/english-pair-of-words/by-topic/css-2024-pairs.json",
+          "icon": "📝"
+        },
+        {
+          "id": "css-2025-pairs",
+          "file": "data/practice/english-pair-of-words/by-topic/css-2025-pairs.json",
+          "icon": "📝"
+        },
+        {
+          "id": "css-2026-pairs",
+          "file": "data/practice/english-pair-of-words/by-topic/css-2026-pairs.json",
+          "icon": "📝"
+        }
+      ],
+      "sourceNotes": "Pairs taken from Q.6 of CSS English (Precis & Composition) papers 2016–2018 and 2021–2026 on cssaspirants.pk (2019–2020 asked idioms only; papers before 2016 are not published there). Meanings and sentences written for practice; repeated pairs merged.",
+      "setOrderNote": "Pairs in paper order (2016 → 2026); topics = one per CSS year"
     }
   ]
 }
