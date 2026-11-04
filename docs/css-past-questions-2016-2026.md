@@ -1,0 +1,1422 @@
+# CSS Past Paper Questions, 2016–2026
+
+English Essay, Islamic Studies (English only), Current Affairs, and Pakistan Affairs. Years 2016 through 2026.
+
+Taken from the past-paper PDFs linked at <https://cssaspirants.pk/css-past-papers/>. Islamiat is the English wording of each question. The separate Urdu version of Islamiat is not included.
+
+For 2016–2023, the Current Affairs, Pakistan Affairs, and Islamic Studies PDFs on that site contain Part-II only. The Part-I MCQ sheet was not in those files. MCQs are included for 2024, 2025, and 2026.
+
+Scanned pages (Current Affairs 2023, and the 2026 objective sheets) were read from the scan. Spellings follow the question paper.
+
+## Contents
+
+- English Essay
+  - 2026, 2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+- Islamic Studies (Islamiat) — English
+  - 2026, 2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+- Current Affairs
+  - 2026, 2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+- Pakistan Affairs
+  - 2026, 2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+# English Essay
+
+Essay topics only. One topic is attempted in the exam.
+
+## 2026
+
+*Write one comprehensive essay (2,500–3,000 words) on any ONE topic.*
+
+**1. Youth Bulge: a demographic dividend or a demographic bomb?**
+
+**2. Local Government System: the missing link in Pakistan's governance structure**
+
+**3. Cyber Security as the new national security frontier**
+
+**4. PAKISTAN Emerging Multipolar World Order: opportunities and risks for Pakistan.**
+
+**5. The one who controls the sea, rules the world**
+
+**6. There is nothing so likely to produce peace as to be well prepared to meet an enemy.**
+
+**7. Revitalising agriculture sector of Pakistan**
+
+**8. Countering the growing menace of beggary**
+
+**9. Politicisation of sports - a new challenge**
+
+**10. Nations have no permanent friends and enemies, they have only permanent interests**
+
+## 2025
+
+*Write one comprehensive essay (2,500–3,000 words) on any ONE topic.*
+
+**1. Patriotism is supporting your country all the time, and your government when it deserves it.**
+
+**2. Brains, like hearts, go where they are appreciated**
+
+**3. Reforestation as a Global Urgency**
+
+**4. Hamas-Israel Conflict: A Test Case for World Conscience**
+
+**5. Rich in politicians, we desperately need statesmen**
+
+**6. True peace is not merely the absence of tension; it is the presence of justice**
+
+**7. To reign is worth ambition though in Hell**
+
+**8. Frailty is no more the name of Woman**
+
+**9. Dynastic politics is the worst mockery of democracy**
+
+**10. An investment in knowledge pays the best interest**
+
+## 2024
+
+*Write one comprehensive essay (2,500–3,000 words) on any ONE topic.*
+
+**1. Hope: the greatest driving force**
+
+**2. CPEC and “Indo – Middle East – Europe”, new war fronts**
+
+**3. The power of propaganda and Muslim World**
+
+**4. Phase out of fossil fuel and Arab Economies**
+
+**5. Pragmatism vs Passion in politics**
+
+**6. BRICS and Pakistan: Prospects of Recovery**
+
+**7. Artificial Intelligence: The Death of Creativity**
+
+**8. Pathways to Pakistan’s Prosperity**
+
+**9. Globalization and National Economies**
+
+**10. Political Polarization; Governance and Society**
+
+## 2023
+
+*Write one comprehensive essay (2,500–3,000 words) on any ONE topic.*
+
+**1. Instruction in youth is like engraving in stone**
+
+**2. The one who uses force is afraid of reasoning**
+
+**3. Not all recycling projects are cost effective**
+
+**4. The fool speaks, and the wise listens**
+
+**5. A friend walks in when everyone else walks out**
+
+**6. Online learning is not only convenient but often more effective than traditional classroom instruction.**
+
+**7. To encourage healthy eating, higher taxes should be imposed on soft drinks and junk food**
+
+**8. People have become overly dependent on technology**
+
+**9. Both parents should assume equal responsibility in raising a child**
+
+**10. Boys will be boys**
+
+## 2022
+
+*Write one comprehensive essay (2,500–3,000 words) on any ONE topic.*
+
+**1. An analysis of the concept of globalization of markets**
+
+**2. Digital democracy: social media and political participation**
+
+**3. Global trade and trade policies of China**
+
+**4. “Imagination is more important than knowledge.”**
+
+**5. Global politics and international relations**
+
+**6. The controversial issues of feminism in contemporary women’s rights movements**
+
+**7. World food systems: the economics of agriculture**
+
+**8. Is there such a thing as ethical consumerism?**
+
+**9. Human development and economic sustainability**
+
+**10. How is terrorism and its perception shaped by the Mass Media?**
+
+## 2021
+
+*Write one comprehensive essay (2,500–3,000 words) on any ONE topic.*
+
+**1. “Do not waste water even if you were at a running stream”**
+
+**2. Meaning purposive education**
+
+**3. COVID-19: A wake up call for Pakistani researchers**
+
+**4. Human inventions move the societies backward**
+
+**5. Universal human equality is utopic**
+
+**6. Bureaucracy doldrums**
+
+**7. Gender equality: A popular slogan**
+
+**8. Pros and cons of globalization**
+
+**9. Intercultural communication is panacea to avoid 3rd world war**
+
+**10. “I fall upon the thorns of life! I bleed”**
+
+## 2020
+
+*Write one comprehensive essay (2,500–3,000 words) on any ONE topic.*
+
+**1. Do we really need literature in our lives?**
+
+**2. Women universities as agents of change**
+
+**3. Pakistan and the future of Kashmir cause**
+
+**4. Polarized politics: the issues and challenges of democracy in Pakistan**
+
+**5. Global power dynamics and Pakistan’s foreign policy**
+
+**6. Pakistan’s informal economy: the way forward**
+
+**7. Promoting tourism in Pakistan: opportunities and challenges**
+
+**8. I do not agree with what you have to say, but I’ll defend to the death your right to say it**
+
+**9. Is Pakistan ready for digital revolution?**
+
+**10. IMF bailouts: roads to stability or recipes for disaster**
+
+## 2019
+
+*Write one comprehensive essay (2,500–3,000 words) on any ONE topic.*
+
+**1. Let there be more light in the corridors of worship places**
+
+**2. New war fronts lie in economic zones**
+
+**3. Urdu literature and progressive movement**
+
+**4. Art for peace**
+
+**5. Truth is lived not taught**
+
+**6. New Waves of feminism and our culture**
+
+**7. Democracy and illiteracy do not move together**
+
+**8. Sometimes we do not see what we see**
+
+**9. Expanding information technology: a curse or blessing**
+
+**10. Classrooms decide the future of the nation**
+
+## 2018
+
+*Write one comprehensive essay (2,500–3,000 words) on any ONE topic.*
+
+**1. Real development should transform people’s lives, not just economic statistics**
+
+**2. Higher Education in Pakistan: Ills and Remedies**
+
+**3. Too many of us are not living our dreams because we are living our fears**
+
+**4. China – Pakistan Economic Corridor (CPEC) and its Socio-economic Implications for the Region and the World.**
+
+**5. Beware the barrenness of a busy life!**
+
+**6. The Emerging Power of Social Media: Prospects and Problems**
+
+**7. In the fight against terrorism and corruption, it is imperative not to compromise human rights and civil liberties.**
+
+**8. The threat of Global Warming and the ways to counter it**
+
+**9. Will “Rule of law” always remain an impracticable myth in our country?**
+
+**10. Democracy in Pakistan: Hopes and Hurdles**
+
+## 2017
+
+*Write one comprehensive essay (2,500–3,000 words) on any ONE topic.*
+
+**1. Is colonial mentality impeding Pakistan’s progress?**
+
+**2. Brexit means globalization is the rhetoric of the privileged, and capitalism will return ferociously as ever.**
+
+**3. More and more International military engagements by the United Nations; is the world moving towards peace?**
+
+**4. Modernity is an unending project**
+
+**5. Feminism is not really a Third World issue**
+
+**6. Literature is a lonely planet of idealists**
+
+**7. Being a minority is a fate no one wants. Can nationalism be really inclusive?**
+
+**8. Ideologies thrive on notions of resistance, yet change is a simulation**
+
+**9. Are modern wars not holy wars?**
+
+**10. Life without controversy is no life. But why one should not choose the safe haven of conformism?**
+
+## 2016
+
+*Write one comprehensive essay (2,500–3,000 words) on any ONE topic.*
+
+**1. World as a global village: Learning to live together**
+
+**2. We have to learn to be our own best friends, because we fall too easily into the trap of being our own worst enemies.**
+
+**3. Water crisis and national unity**
+
+**4. The place of Urdu in Pakistan and Supreme Court’s ruling on making Urdu the official language of the country.**
+
+**5. Crisis of good governance in Pakistan: Need for reforms and institution building**
+
+**6. Promotion of tax culture in Pakistan: Perspective, prospects and challenges**
+
+**7. Gender equality is a myth!**
+
+**8. The creation of new provinces in Pakistan: Implications for an integrated country**
+
+**9. Does foreign aid help to achieve economic stability?**
+
+**10. Frailty, thy name is woman**
+
+# Islamic Studies (Islamiat) — English
+
+English wording only. The Urdu version printed beside or after the English questions is omitted. A short Arabic term is kept when it is part of the English question.
+
+## 2026
+
+*Part-I: 20 compulsory MCQs. Part-II: attempt any FOUR questions. All questions carry equal marks.*
+
+### PART-I (MCQs)(COMPULSORY)
+
+**1. Who is the author of the book “The Reconstruction of Religious Thought in Islam”? (A) Allama Shibli (B) Allama Iqbal (C) Syed Moudodi (D) None of these**
+
+**2. According to the MUFASSIRIN, what is meant by ‘fi sabilillah’ (in the way of Allah) in the heads of Zakat? (A) Jihad (B) Welfare (C) Hospitals (D) None of these**
+
+**3. During the Hudaybiyyah diplomacy, under whose protection did Hazrat Usman Ghani (RA) enter Makkah? (A) Hazrat Saeed bin Zaid (RA) (B) Hazrat Abbas (RA) (C) Hazrat Saeed bin Aas (RA) (D) None of these**
+
+**4. Who is the author of the book on Seerah titled ‘Khutbat-e-Madras’? (A) Allama Shibli (B) Allama Shabbir Ahmad Usmani (C) Qazi Sulaiman Mansor Puri (D) Syed Sulaiman Nadvi**
+
+**5. According to Holy Quran, in which matter are men and women equal? (A) Reward (Ajar) (B) Deeds (C) Inheritance (D) None of these**
+
+**6. According to which Surah, the killing of one human being is equal to the killing of all mankind? (A) Al-Anfal (B) Al-Ahzab (C) Al-Touba (D) Al-Maida**
+
+**7. Who is the author of ‘The Clash of Civilizations’? (A) Henry Kissinger (B) Arnold J.Toynbee (C) Kenneth Clark (D) Samuel P. Huntington**
+
+**8. Which Islamic organization was established in the year 1969? (A) PLO (B) OIC (C) LAS (D) None of these**
+
+**9. In which school of thought is the principle of ‘ISTEHSAN’ most extensively applied? (A) Maliki (B) Hanbli (C) Shafi (D) None of these**
+
+**10. Which status of the Prophet Muhammad (PBUH) has been most prominently highlighted in the Holy Qur’an and Sunnah? (A) Merchant (B) Warrior (C) Teacher (D) None of these**
+
+**11. Polygamy is allowed for a man under which condition? (A) Health (B) Wealth (C) Justice (D) None of these**
+
+**12. In the final major address to the Ummah, what type of equality did the Prophet (PBUH) emphasize? (A) Human (B) Economic (C) Legal (D) None of these**
+
+**13. Which act of worship highlights the universality of Islam? (A) Prayer (Salah) (B) Fasting (Sowm) (C) Pilgrimage (Hajj) (D) None of these**
+
+**14. According to Almighty Allah, what is the basis of being most honored? (A) Taqwa (Piety) (B) Generosity (C) Service to humanity (D) None of these**
+
+**15. The verse “I am placing a vicegerent on the earth” (Qur’an 2:30) states: (A) Respect for humanity (B) Human dignity (C) Responsibility (D) None of these**
+
+**16. Which is considered the first battle led by the Prophet (PBUH) in Islamic history? (A) Buwat (B) Badar (C) Abwa (D) None of these**
+
+**17. What was the greatest obstacle in the enforcement of law which the Prophet (PBUH) removed through his practical Sunnah? (A) Fear (B) Discriminatory law (C) Favoritism (D) None of these**
+
+**18. When one person provides capital and the other provides labor and both share profit and loss, what is it called? (A) Mudarabah (B) Partnership (C) Insurance (D) None of these**
+
+**19. What was the common central point of the message of all the Prophets? (A) Monotheism (B) Hereafter (C) Finality of Prophethood (D) None of these**
+
+**20. How many basic conditions are required for a Hadith to be regarded as authentic? (A) 4 (B) 5 (C) 8 (D) 3**
+
+### PART-II
+
+**Q. No. 2. Provide a comparative and critical analysis of the human rights granted by Islam with those enshrined in the Universal Declaration of Human Rights (UDHR). (20)**
+
+**Q. No. 3. In the light of plight of Indian and Kashmiri Muslims, discuss the justification and demands of the Two-Nation Theory. (20)**
+
+**Q. No. 4. Explain, how Western civilization has influenced Islamic civilization. Discuss the measures to protect Muslim societies from the negative impacts of Western culture. (20)**
+
+**Q. No. 5. What are the rational arguments for the existence of Allah? Explain the impacts of the belief in monotheism on human life. (20)**
+
+**Q. No. 6. Explain the concept of accountability in the Islamic system. Demonstrate with examples that the practices of the (Khulafā' Rāshidīn) Rashidun Caliphs in this perspective set the highest standard. (20)**
+
+**Q. No. 7. Examine the causes of sectarianism and polarization in the Muslim World. Suggest solutions in the light of Islamic teachings. (20)**
+
+**Q. No. 8. What are the challenges for the ‘institution of family and its role’ in the present era? Discuss them in the light of Islamic teachings. (20)**
+
+## 2025
+
+*Part-I: 20 compulsory MCQs. Part-II: attempt any FOUR questions. All questions carry equal marks.*
+
+### PART-I (MCQs)(COMPULSORY)
+
+**1. Which event was called Fateh Mubeen (Clear Victory) in the Holy Qur'an? (A) Conquest of Makkah (B) Peace of Hudaybiyah (C) Battle of Badr (D) None of these**
+
+**2. If the husband is childless, how much does the widow get from the husband's inheritance? (A) 1/2 (B) 1/3 (C) 1/4 (D) None of these**
+
+**3. Ghazwa Khandaq is called as: (A) Yum Al-Furqan (B) Ghazwa Zaat-ul-Salsil (C) Ghazwa al-Ahzab (D) None of these**
+
+**4. Abdullah bin Salam (RA) was _________ before accepting Islam. (A) Polytheist (B) Christian (C) Magian (D) None of these**
+
+**5. Zainab bint Khuzaima (may Allah be pleased with her) belonged to the Messenger of Allah (PBUH) as: (A) Aunt (B) Wife (C) Mother-in-law (D) None of these**
+
+**6. At what time is the Kusoof prayer performed? (A) Wind (B) solar eclipse (C) lunar eclipse (D) None of these**
+
+**7. Hudaybiyyah peace document was written from Muslims side by: (A) Hazrat Abu Bakar Siddiq (R.A) (B) Hazrat Zaid bin Thabit (R.A) (C) Hazrat Ali bin Abi Talib (R.A) (D) None of these**
+
+**8. Among the Ummahat ul Momineen (mothers of the believers) is: (A) Khaula (B) Umme Hani (C) Atiya (D) None of these**
+
+**9. Hadith Taqreeri mentions: (A) The speeches of the Messenger of Allah (B) The conversation of the Companions (C) The silence of the Messenger of Allah (PBUH) on the work of a companion (D) None of these**
+
+**10. The basic obligatory action of Hajj is: (A) Sa'i (B) Rami (C) Wuqofe Arafah (D) None of these**
+
+**11. Dare Arqam was located in: (A) Hudaybiyah (B) Quba (C) Madinah Munawarah (D) None of these**
+
+**12. To whom did Haroon Al-Rashid give the responsibility of writing a book on finance? (A) Imam Awza'i (B) Imam Abu Yusuf (C) Imam Muhammad bin Hasan (D) None of these**
+
+**13. The author of Kitab al-Hind is: (A) Amir Khusrau (B) Abu al-Fazl (C) Abu Rayhan al-Biruni (D) None of these**
+
+**14. Sheikh Ali Hajwiri came to Lahore during whose period? (A) Mahmood Ghaznavi (B) Masood Ghaznavi (C) Shahabuddin Ghori (D) None of these**
+
+**15. Who was the first to treat Hindus as people of the book in his time? (A) Hazrat Usman Ghani (B) Muhammad bin Qasim (C) Muhllab bin Abi Safra (D) None of these**
+
+**16. The Messenger of Allah (PBUH) stood in respect for the funeral of a: (A) Polytheist (B) Jew (C) Christian (D) None of these**
+
+**17. Shaykh Ahmad Sirhandi's line of Sufism was: (A) Qadiriya (B) Suhrawardiya (C) Chishtiyya (D) None of these**
+
+**18. During whose rule the subcontinent had 25% of the world's total GDP? (A) Akbar Azam (B) Shah Jahan (C) Aurangzeb Alamgir (D) None of these**
+
+**19. The aim of the Silk Handkerchief Movement was to achieve freedom of which country? (A) Afghanistan (B) Subcontinent (C) Turkey (D) None of these**
+
+**20. ___________ is called the New Testament. (A) Torah (B) Psalms (C) Suhuf Ibrahim (D) None of these**
+
+A (PBUH) B C (PBUH) .16 (PBUH)
+
+### PART-II
+
+**Q. No. 2. What is the importance of Makarim Akhlaq (noble morals) in establishing social peace? In this background, how did the Messenger of Allah (PBUH) complete these morals? (20)**
+
+**Q. No. 3. What is meant by Farz Kifayah? What is its religious and social significance? In the present era, which affairs are considered to be included in the scope of Farz Kifayah? (20)**
+
+**Q. No. 4. Determine the status of the classist lifestyle in the light of the teachings of Islam and examine its effects on human society. (20)**
+
+**Q. No. 5. What are the disadvantages of concentration of wealth? What economic measures has Islam introduced to prevent this? (20)**
+
+**Q. No. 6. Discuss the contents of the peace agreements made during the Prophet’s era, by determining the parties thereof. (20)**
+
+**Q. No. 7. Discuss religious tolerance in the context of post-Prophetic Muslim history. (20)**
+
+**Q. No. 8. What views are found in today's Muslim circles about Western Civilization? Identify and analyze them. (20)**
+
+(PBUH):2
+
+(20(PBUH) (20(PBUH)
+
+## 2024
+
+*Part-I: 20 compulsory MCQs. Part-II: attempt any FOUR questions. All questions carry equal marks.*
+
+### PART-I (MCQs)(COMPULSORY)
+
+**1. To which Clan of Quraish Hazrat Umer belongs? (A) Banu umia (B) Banu Taim (C) Banu Adi (D) Banu Sahm**
+
+**2. Author of the book Al-Hisbah fil Islam is: (A) Ibn e Rushd (B) Ibn abdul bar ( C) Ibn e temia (D) Ibn e Qayyam**
+
+**3. How many heads of Zakat are mentioned in Quran? (A) 5 (B) 6 (C) 7 (D) 8**
+
+**4. Hadith which is directly narrated by Tabi is called: : (PBUH) 4 (A) Marfoo (B) Maqtoo (C) Muquf (D) Mursal**
+
+**5. Do not raise your voice above the voice of the Prophet (PBUH). This order is in Surah? (PBUH) 5 (A) Al-Ahzab (B) Al-Maidah (C) Al-Hujurat (D) Al-Najam**
+
+**6. Original name of the host of Holy Prophet(PBUH), Abu Ayub Ansari is: : (PBUH) ( 6 (A) Zaid bin Sabit (B) Khalid bin Zaid (C) Qais bin Saad (D) Hanzla bin Aamir**
+
+**7. How many jews were killed in the Ghazwa Khayber? (A) 91 (B) 93 (C) 96 (D) 98**
+
+**8. Tarjman Al-Qur'an is the title of Companion: (A) Abdullah bin Abbas (B) Muaz bin Jabl (C) Abdullah bin Masood (D) Usman bin Affan**
+
+**9. Istishab is the term of: (A) Science of Tassawuf (B) Science of Hadith (C)Science of Tafseer (D) Science of Fiqh**
+
+**10. For how many years were the Muslims imprisoned in Sha`b Abi Talib in Makkah? (A) 2 (B) 3 (C) 4 (D) 5**
+
+**11. Sahifa-e-Hammam bin Manbah is contained in their entirety in which book? (A) Sahih Bukhari ( B) Sahih Muslim (C) Musnad Ahmad (D) Sunan Tirmazi**
+
+**12. The name of Hazrat Zaid bin Haritha is mentioned in which Surah? (A) Al-Saf (B) Al-Ahzab (C) Bani Israel (D) Yaseen**
+
+**13. How many Surahs are there on the name of the Prophets: (A) 3 (B) 4 (C) 5 (D) 6**
+
+**14. The order of Tayammum is given in which Surah? (A) Surah Al-Nisa (B) Surah Al-Maidah (C) Surah Al-e-Imran (D) None of these**
+
+**15. Who was founder of Dar-ul-Hikmah? (A) Jabir bin Hayan (B) Mamun-ur-Rasheed (C) Abo Jafar Mansoor (D) Khalifa umar bin Abdul Aziz**
+
+**16. Which Caliph was the first to set the prescribed punishment of drinking at eighty lashes? (A) Hazrat Ali (B) Hazrat Usman ( C) Hazrat Umar ( D) Hazrat Abu Bakr**
+
+**17. Imam Muslim Bin Hijaj Qusheri died in: (A) 260 (B) 261 (C) 262 (D) 263**
+
+**18. Which Imam has been more extensive in the use of Masal-e-Mursala? (A) Imam Shafi (B) Imam Abu Hanifa (C) Imam Malik (D) Imam Ahmad bin Hanbl**
+
+**19. "Mujadid-Alf-Thani" is the title of: (A) Shah Wali Ullah (B) Abdul Haq Muhadith dehlvai (C) Sheikh Ahmad Sarhandi (D) Sheikh Mohayudin ibn Arabi**
+
+**20. The Quranic term "Gharmin" means: (A) An Indebted (B) A Friend (C) A Slave (D) A Neighbour**
+
+### PART-II
+
+**Q. No. 2. Self-purification is an essential element for the evolution of society. Explain. (20)**
+
+**Q. No. 3. ) was to establish peace. Explain.(PBUH)( The main purpose of Ghazwat-e-Nabawi )(20**
+
+**Q. No. 4. Explain the doctrine of Prophet hood and its importance in human life. )(20**
+
+**Q. No. 5. How does Islam highlight human dignity and greatness? Discuss. )(20**
+
+**Q. No. 6. How can the system of accountability in Pakistan be idealized in the teachings of the )(20 )? Explain.(PBUH)( Holy Prophet**
+
+**Q. No. 7. How is it possible to eliminate the religious and political extremism in Pakistan in the )(20 )? Explain.(PBUH)( light of the teachings of the Holy Prophet**
+
+**Q. No. 8. Write notes on the following: )(20**
+
+(a) Ijtihad ) ( (b) The importance of epistles of Hazrat Ali
+
+(PBUH):3 :7 (PBUH)
+
+## 2023
+
+*The PDF on CSS Aspirants for this year does not include the Part-I MCQ sheet. Questions below are Part-II. Part-II: attempt any FOUR questions. All questions carry equal marks.*
+
+### PART-II
+
+**Q. No. 2. What is the Qur’anic argument on the Life Hereafter? What are its impacts on the individual and collective life of a human being? (20)**
+
+**Q. No. 3. Discuss the Holy Prophet’s (PBUH) Role as a Model for Military Strategy. (20)**
+
+**Q. No. 4. Elaborate the rights of daughters granted by Islam and how these are denied by Muslims in the contemporary world? (20)**
+
+**Q. No. 5. Define Ijma‘(consensus) and explain its different kinds. Can legislation by a parliament of an Islamic state be regarded as a valid consensus? (20)**
+
+**Q. No. 6. Analyze the Charter of Madina as a social contract. (20)**
+
+**Q. No. 7. What are the motives of extremism in Pakistan? How can the society get rid of extremism by following the teachings of Islam? (20)**
+
+**Q. No. 8. Write notes on the following: (10 each) (20)**
+
+(i) Human rights in the light of the Sermon of Farewell Pilgrimage.
+
+(ii) Social Justice in an Islamic Society.
+
+(PBUH):3
+
+## 2022
+
+*The PDF on CSS Aspirants for this year does not include the Part-I MCQ sheet. Questions below are Part-II. Part-II: attempt any FOUR questions. All questions carry equal marks.*
+
+### PART-II
+
+**Q. No. 2. Explain the concept of Human Rights in Islamic thought in specification of “Status of Women in Islam”. (20)**
+
+**Q. No. 3. Write down the main principles of Islamic Economics. How does these principles provide solutions to contemporary challenges? (20)**
+
+**Q. No. 4. Elaborate the concept and importance of Ijtihad and explain its principles. (20)**
+
+**Q. No. 5. Explain the doctrine of Prophethood and its importance in human life (20)**
+
+Describe Hazrat Muhammad (V) as a Prophet of Peace for contemporary
+
+**Q. No. 6. transnational world**
+
+**Q. No. 7. Explain the Reconstruction of Pakistani Society in the light of Islamic Teachings (20)**
+
+**Q. No. 8. Describe the importance of Deen (Doctrine of life) in human life. Differentiate between Deen and Religions (20)**
+
+& %$ XRYZ [\B ]^ _ 67`a W
+
+## 2021
+
+*The PDF on CSS Aspirants for this year does not include the Part-I MCQ sheet. Questions below are Part-II. Part-II: attempt any FOUR questions. All questions carry equal marks.*
+
+### PART-II
+
+**Q. No. 2. What is belief in the Day of Judgment ? Explore its effects on individual and collective lives of human beings. (20)**
+
+**Q. No. 3. Islam provides better rights to men and women than all other religions. Explore with arguments. (20)**
+
+**Q. No. 4. Comment on the teachings of Islam regarding co-existence in a multi-faith society. (20)**
+
+**Q. No. 5. Islamophobia is a sign of extremism. Give suggestions for its remedy. (20)**
+
+**Q. No. 6. Express the principles of accountability of rulers according to the Holy Quarn and Sunnah. (20)**
+
+**Q. No. 7. Explore the importance of Sufism to spread out Islam. Is the amelioration of current deviation possible through Sufism? (20)**
+
+**Q. No. 8. Write notes on the following: (10 marks each) (20)**
+
+(a) Treaty of Hudaybiyya as a pact of peace.
+
+(b) Benefits acquired from Battle of Khayber.
+
+)10 marks each):8
+
+## 2020
+
+*The PDF on CSS Aspirants for this year does not include the Part-I MCQ sheet. Questions below are Part-II. Part-II: attempt any FOUR questions. All questions carry equal marks.*
+
+### PART-II
+
+**Q. No. 2. Discuss the status and grade of “Tolerance and Forgivness” in the life of the Holly Prophet (PBUH). (20)**
+
+**Q. No. 3. Write a comprehensive note on the bravery and juridical Wisdom of Hazrat Ali (R.A) (20)**
+
+**Q. No. 4. “The last Sermon of the Holy Prophet (PBUH) is the basic document for awakening of conscious of mankind for human rights”. Discuss. (20)**
+
+**Q. No. 5. Discuss in detail the principles and terms & conditions for “Jihad” in the light of Quran and Sunnah. (20)**
+
+**Q. No. 6. Analyze the Madina Accord as a “Social Contract” in detail. (20)**
+
+**Q. No. 7. “Islam teaches the lesson of human respect and dignity irrespective of colour, race and creed”. Discuss. (20)**
+
+**Q. No. 8. “Islamic Financial and Economic system is the solution of the human financial problems”. Discuss. (20)**
+
+## 2019
+
+*The PDF on CSS Aspirants for this year does not include the Part-I MCQ sheet. Questions below are Part-II.*
+
+(ii) Attempt FOUR questions from PART-II. ALL questions carry EQUAL marks.
+
+### PART-II
+
+**Q. No. 2. Define Tauheed. What is its impact on individual life and the society? Elaborate. (20)**
+
+**Q. No. 3. Give a general estimate of Holy Prophet's (pbuh) character in the battle fields as commander. (20)**
+
+**Q. No. 4. Describe the rights of women in Islam in the context of current wave the feminist movement (20)**
+
+**Q. No. 5. Through light in detail on the moral value system of Islam as significant feature Islamic civilization. (20)**
+
+**Q. No. 6. Write a comprehensive note on Hajj (the pilgrimage) system of Islam and its spiritual, moral and social impacts. (20)**
+
+**Q. No. 7. Is extremism a challenge to Islam? Discuss in the context of contemporary challenges faced by Muslim Ummah. (20)**
+
+**Q. No. 8. Give suggestions to reform Pakistani Politics keeping in view the different aspects of political system of Islam. (20)**
+
+## 2018
+
+*The PDF on CSS Aspirants for this year does not include the Part-I MCQ sheet. Questions below are Part-II.*
+
+(ii) Attempt FOUR questions from PART-II. ALL questions carry EQUAL marks.
+
+### PART-II
+
+**Q. No. 2. Define Ijtihad, also highlight its contemporary importance in the light of Islamic Fiqh. (20)**
+
+**Q. No. 3. What is Self-purification and Ehsan? Explain it in the light of Quran and Sunnah, also describe its individual and collective impacts. (20)**
+
+**Q. No. 4. Point out the motives of terrorism in Pakistan. How can the society get rid of terrorism? (20)**
+
+**Q. No. 5. Highlight the responsibilities of civil servants in the light of Islamic teachings. (20)**
+
+**Q. No. 6. Write a comprehensive note on Zakat system of Islam and its spiritual, moral and social impacts. (20)**
+
+**Q. No. 7. Describe, in detail, the basic characteristics of Islamic civilization. (20)**
+
+**Q. No. 8. The Holy Prophet (PBUH) is the prophet of peace and safety. Explain with arguments. (20)**
+
+## 2017
+
+*The PDF on CSS Aspirants for this year does not include the Part-I MCQ sheet. Questions below are Part-II.*
+
+(ii) Attempt FOUR questions from PART-II. ALL questions carry EQUAL marks.
+
+### PART-II
+
+**Q. No. 2. Who are entitled to receive Zakat according to the Quran? Elucidating social impact of Zakat, clarify how can poverty be alleviated with its distribution in Islamic Society? (20)**
+
+**Q. No. 3. Write a comprehensive note on the right of inheritance granted to women by Islam. (20)**
+
+**Q. No. 4. How were the Rightly-guided Caliphs elected? To what extent their system of government be regarded as democratic? (20)**
+
+**Q. No. 5. Elucidate how the Prophet of Islam (Peace be upon him) exemplified him as the greatest peace maker in the world by making reconciliation with pagans, Jews and Christians? (20)**
+
+**Q. No. 6. Explain the concept of self-purification in the light of the Qur’ān and Sunnah and its impact on society. (20)**
+
+**Q. No. 7. Enumerate the reasons of extremism in Pakistan and suggest solutions to eradicate it in the light of Islamic teachings. (20)**
+
+**Q. No. 8. Define Ijma’ (consensus) and explain its different kinds. Highlight its importance in the light of the Qur’ān and Sunnah. (20)**
+
+(PBUH)
+
+## 2016
+
+*The PDF on CSS Aspirants for this year does not include the Part-I MCQ sheet. Questions below are Part-II.*
+
+(ii) Attempt FOUR questions from PART-II. ALL questions carry EQUAL marks.
+
+### PART-II
+
+**Q. No. 2. What is meant by culture and civilization? Describe the characteristics of Islamic culture. (20)**
+
+**Q. No. 3. What is the difference between Deen and Religion? Describe the importance of Deen in human life with arguments. (20)**
+
+**Q. No. 4. Describe the characteristics of Military strategist in the light of Sirah of Muhammad (PBUH) with arguments. (20)**
+
+**Q. No. 5. Define the meaning of prayer and its different categories. Also describe the spiritual, moral and social impact of prayers. (20)**
+
+**Q. No. 6. Highlight the concept of Public Administration in Islam. Explain the responsibilities of Civil Servants. (20)**
+
+**Q. No. 7. Discuss the salient features of Islamic political system in the light of governance under pious Khilafat-i-Rashida. (20)**
+
+**Q. No. 8. What are the contemporary challenges of Muslim world? Suggest its solutions in the light of Quran and Sunnah? (20)**
+
+# Current Affairs
+
+General Knowledge-II.
+
+## 2026
+
+*Part-I: 20 compulsory MCQs. Part-II: attempt any FOUR questions. All questions carry equal marks.*
+
+### PART-I (MCQs)(COMPULSORY)
+
+**1. What was the central agenda of Emmanuel Macron’s 2025 visit to China? (A) Military alliance formation (B) Trade rebalancing and economic cooperation (C) Cooperation in AI (D) None of these**
+
+**2. ______________ is the author of “Essay on Population (1798)”: (A) Thomas Malthus (B) Ester Boserupe (C) Garret Hardin (D) None of these**
+
+**3. During the Putin–Modi summit, Russia emphasised which key priority for bilateral ties? (A) Increasing military supply to India (B) Cutting trade imbalance (C) Uninterrupted fuel and energy supplies to India (D) None of these**
+
+**4. ________________got Nobel Peace Prize, 2025: (A) Nicolás Maduro (Venezuela) (B) María Corina Machado (Venezuela) (C) Georgia Meloni (Italy) (D) None of these**
+
+**5. In 2025, conflict between Thailand and Cambodia erupted on the issue of: (A) Human trafficking (B) Boundary claims (C) Unchecked Smuggling (D) Ownership of a temple**
+
+**6. On June 22, 2025, US B2 Bombers and Tomahawk missiles hit Iran’s nuclear facility as part of: (A) Operation Inherent Resolve (B) Operation Resolute Support (C) Operation Dragoon (D) Operation Midnight Hammer**
+
+**7. ____________ Framework for Disaster Risk Reduction is in vogue for 2015-2030. (A) Sendai (B) Yokohama (C) Hyogo (D) None of these**
+
+**8. The central idea of Anatol Lieven’s book “Pakistan: A Hard Country” is: (A) Pakistan is undefeatable (B) Pakistan is hard-wired (C) Society is extraordinarily resilient (D) None of these**
+
+**9. The development that meets the needs of the present without compromising the ability of future generations to meet their own needs is called: (A) Sustainable Development (B) Green Development (C) Positive Development (D) None of these**
+
+**10. Doha Forum is an annual global forum held in Doha that gathers world leaders, policymakers, civilsociety representatives, business leaders, media etc. Doha Forum and Doha Dialogue are, hence: (A) The same (B) Different (C) Doha Forum is part of Doha Dialogue (D) None of these**
+
+**11. ____________ authored the book “Prisoner of Geography”. (A) Tim Marshall (B) Henry Kissinger (C) Samuel P. Huntington (D) None of these**
+
+**12. Which Pakistani economist contributed significantly towards development of Human Security Theory? (A) Dr. Qaiser Bhangali (B) Dr. Mehbool ul Haq (C) Dr. Ashfaq Hasan Khan (D) None of these**
+
+**13. Who authored seminal book “World Order”? (A) Fareed Zakriya (B) Henry Kissinger (C) Andrew Heywood (D) None of these**
+
+**14. Carbon Border Adjustment Mechanism is currently operational in the European Union (EU). It applies to: (A) Imports (B) Exports (C) Production in border regions of EU (D) None of these**
+
+**15. An economic model designed to eliminate waste and keep resources in use for as long as possible is known as: (A) Rational consumption (B) Mercantilism (C) Circular economy (D) None of these**
+
+**16. ______________will co-host the next year’s COP-31. (A) Indonesia and Turkey (B) Australia and Turkey (C) Turkey and Thailand (D) None of these**
+
+**17. In a new report, __________ has urged world leaders to halt an “obsession” with energy sources that fuel the climate crisis. (A) Amnesty International (B) UN Environment Protection (C) IPCC (D) None of these**
+
+**18. Advances in ____________ are enabling treatments that are tailored specifically to an individual’s makeup, significantly improving the effectiveness of therapies for conditions like cancer, cardiovascular disease, and mental health disorders. (A) Tele medicine (B) Genomic medicine (C) Robotic medicine (D) None of these**
+
+**19. On Inauguration day President Trump withdrew USA from: (A) Paris Agreement (B) World Health Organisation (C) NAFTA (D) Both (A) & (B)**
+
+**20. In May 2025, European Union lifted all economic sanctions against: (A) Iraq (B) Cuba (C) Sudan (D) Syria**
+
+### PART-II
+
+**Q. No. 2. “Pakistan stands at a decisive turning point where climate shocks, rapid population growth, governance gaps, non-traditional security threats and intense fiscal stress are converging to heighten national vulnerability.” Critically evaluate the above statement and propose policy measures for building a stable, secure and disaster-resilient Pakistan. (20)**
+
+**Q. No. 3. “Brain drain threatens Pakistan’s ability to achieve its Sustainable Development Goals (SDGs) by 2030”. Write a comprehensive note on the causes and consequences of brain drain from Pakistan, focusing on its impact on achieving SDGs (you may choose any three SDGs for answering this question). (20)**
+
+**Q. No. 4. Critically appraise the following statement with relevant examples. Furthermore, draw relevant lessons and propose way forward for Pakistan. “Natural resources, though desirable for development of a country, can become a source of conflict and instability.” (20)**
+
+**Q. No. 5. Non-Governmental Organizations (NGOs), once called “force multiplier”, are now having trust issues as public skepticism about the virtues and advantages of NGOs has deepened. Critically examine why NGOs space is shrinking in many parts of the world with specific reference to Pakistan. (20)**
+
+**Q. No. 6. COP - the annual climate negotiation, Conference of Parties to the UN Framework Convention on Climate Change (UNFCCC) is organized every year since 1995. What are the significant achievements of COPs in general and COP-30 in particular? (20)**
+
+**Q. No. 7. Conduct a critical analysis of the prospects of resolution of the Palestinian conflict with special reference to the UN Security Council’s recently approved U.S. drafted resolution for peace in Gaza. Can Pakistan play any role in this initiative? (20)**
+
+**Q. No. 8. Write short notes on any TWO of the following:- (10 each) (20)**
+
+(i) Pros and cons of food production through Genetically Modified Organisms (GMOs)
+
+(ii) Implications of depopulation
+
+(iii) Role of China in evolving world order
+
+## 2025
+
+*Part-I: 20 compulsory MCQs. Part-II: attempt any FOUR questions. All questions carry equal marks.*
+
+### PART-I (MCQs)(COMPULSORY)
+
+**1. The UN Climate Change Conference 2024 was held in: (A) Azerbaijan (B) Tajilistan (C) Turkamanistan (D) None of these**
+
+**2. When did Dr. Muhammad Yunus won Nobel Prize? (A) 1996 (B) 2006 (C) 2009 (D) None of these**
+
+**3. 7th NFC Award was signed in: (A) 1996 (B) 2006 (C) 2010 (D) None of these**
+
+**4. The concept of Ijma’a follows the principle of agreement by: (A) 51% (B) 66% (C) 100% (D) None of these**
+
+**5. Which article of Pakistan's constitution talks about clean environment? (A) Article 8A (B) Article 9A (C) Article 7A (D) None of these**
+
+**6. The Book 'Pakistan Political and Constitutional Engineering' was written by: (A) Hassan Askari (B) Ilhan Niaz (C) Mahboob Ahmad (D) None of these**
+
+**7. The Book 'Pakistan's Security and The India-US Strategic Partnership' was written by: (A) Hassan Askari (B) Zafar Nawaz Jaspal (C) Shahid Bukhari (D) None of these**
+
+**8. British constitution can be amended through_______ majority. (A) Two-Third (B) Three-Fourth (C) One-Two (D) None of these**
+
+**9. Ismail Hania was martyred in Iran on: (A) July 30, 2024 (B) July 31, 2024 (C) July 03, 2024 (D) None of these**
+
+**10. Arshad Nadeem won Gold Medal in Olympics by throwing the Javelin to: (A) 81.55 meters (B) 81.21 meters (C) 82.15 meters (D) None of these**
+
+**11. SIFC was created for promoting________ in Pakistan. (A) Business (B) Economy (C) Investment (D) None of these**
+
+**12. Trump has threatened to take control of Panama Canal due to: (A) Security issues (B) Fee Charges increase (C) Trade Dispute (D) None of these**
+
+**13. Saudi Arabia re-established its diplomatic relations with Iran on: (A) December 10, 2023 (B) May 10, 2023 (C) March 10, 2023 (D) None of these**
+
+**14. Who is the largest importer of conventional arms for year 2023 according to SIPRI? (A) India (B) Saudi Arabia (C) UAE (D) None of these**
+
+**15. G 20 Summit meeting held in _______ in 2024. (A) Costa Rica (B) Rio de Janeiro (C) Tokyo (D) None of these**
+
+**16. Who is India's largest trading partner for 2024? (A) USA (B) China (C) Russia (D) None of these**
+
+**17. Who is the largest exports destination of Pakistan? (A) China (B) USA (C) UK (D) None of these**
+
+**18. AUKUS Agreement was signed on: (A) August 05, 2024 (B) August 05, 2023 (C) August 15, 2023 (D) None of these**
+
+**19. Who owns Wakhan Corridor? (A) Uzbekistan (B) Afghanistan (C) Tajikistan (D) None of these**
+
+**20. Martial Law was imposed in South Korea on: (A) December 30, 2024 (B) December 03, 2024 (C) December 13, 2024 (D) None of these**
+
+### PART-II
+
+**Q. No. 2. What do you know about ethnicity in Pakistan? Do you think its emergence as a serious threat to national integration of Pakistan? Explain your opinion with reference to various scholarly evidences and suggest your recommendations to deal with it. (20)**
+
+**Q. No. 3. Discuss in detail the reasons for fragility of economic stability of Pakistan and suggest pragmatic remedial measures for ensuring smooth and sustainable economic growth. (20)**
+
+**Q. No. 4. Discuss the contours of Pakistan's strategic relations with India and Afghanistan in detail. Do you foresee any serious security challenges from these neighbours in near future? Explain your opinion with scholarly evidences. (20)**
+
+**Q. No. 5. Discuss the major contours of Nuclear Non-Proliferation Regime and discuss the prospects of their sucesss/failure with reference to India-United States Strategic Partnership. (20)**
+
+**Q. No. 6. Discuss the emergence of SCO and BRICS as a challenge to American politico- ecomic dominance in world politics. What measures can be taken by the US to counter them? (20)**
+
+**Q. No. 7. Discuss the prospects of peace in South Asia with reference to Kashmir Conflict and Nuclear Arms-race between India and Pakistan. (20)**
+
+**Q. No. 8. Discuss the reasons of environmental degradation in Pakistan and suggest remedial measures for sustainable environmental rehabilitation. (20)**
+
+## 2024
+
+*Part-I: 20 compulsory MCQs. Part-II: attempt any FOUR questions. All questions carry equal marks.*
+
+### PART-I (MCQs)(COMPULSORY)
+
+**1. The recent escalation in Palestinian-Israel Conflict occurred on ___________2023. (A) 6 October (B) 7 October (C) 8 October (D) None of these**
+
+**2. The book “The China-Pakistan Axis: Asia’s New Geopolitics” was written by: (A) Stephen P. Cohen (B) Andrew Linklater (C) Andrew Small (D) None of these**
+
+**3. The 2023 G20 Summit held in India on _______________ September. (A) 5-6 (B) 7-8 (C) 9-10 (D) None of these**
+
+**4. An extraordinary meeting of the OIC Foreign Ministers on Palestine conflict held in October, 2023 in: (A) Bahrain (B) Saudi Arabia (C) Qatar (D) None of these**
+
+**5. Krakow is a city in: (A) Poland (B) Ukraine (C) Russia (D) None of these**
+
+**6. The Headquarters of African Union is situated in: (A) Ethiopia (B) Niger (C) Nigeria (D) None of these**
+
+**7. The capital of Costa Rica is: (A) San Jose (B) Tegucigalpa (C) Managua (D) None of these**
+
+**8. TASS is the ______________State-owned news agency. (B) French (B) Russian (C) German (D) None of these**
+
+**9. The Boao Forum for Asia was founded in: (A) 2001 (B) 2002 (C) 2003 (D) None of these**
+
+**10. Article 25 (A) of the Pakistan’s Constitution deals with: (A) Right to Health (B) Right to Vote (C) Right to Education (D) None of these**
+
+**11. World Snooker Championship 2023 held in: (A) England (B) Scotland (C) Ireland (D) None of these**
+
+**12. ______________ is the Nigerian Currency. (A) Nigerian Dollar (B) Nigerian Lira (C) Nigerian Naira (D) None of these**
+
+**13. There are ____________ Special Economic Zones in CPEC. (A) Six (B) Seven (C) Eight (D) None of these**
+
+**14. Nobel Prize Winner for Literature Mr. Louise Gluck belongs to: (A) USA (B) Canada (C) Australia (D) None of these**
+
+**15. The book “The United States and the Turmoil in Afghanistan and Pakistan” was written by: (A) Ahmed Rashid (B) Sarah Chayes (C) Andrew Exum (D) None of these**
+
+**16. The UN Climate Change Conference was held in November-December 2023 in: (A) Copenhagen (B) Bonn (C) Brussels (D) None of these**
+
+**17. There are ________members in the Organization of the Petroleum Exporting Countries (A) 12 (B) 13 (C) 14 (D) None of these**
+
+**18. World Tourism Day is observed every year on: (A) 25 September (B) 26 September (C) 27 September (D) None of these**
+
+**19. ____________ is the current Chancellor of Germany. (A) Angela Merkel (B) Olaf Scholz (C) Robert Habeck (D) None of these**
+
+**20. The 2023 Sustainable Development Goals (SDG) Summit took place on 18-19 September 2023 in: (A) New York (B) Washington DC (C) Chicago (D) None of these**
+
+### PART-II
+
+**Q. No. 2. The creation of more provinces is a persistent demand from some circles in Pakistan. How do you see the creation of more provinces in Pakistan; as beneficial or harmful for the people? Explain your views with solid justification. (20)**
+
+**Q. No. 3. Discuss the Pakistan’s historic role in Economic Cooperation Organization (ECO) and under the framework of regional integration; what are the future prospects of ECO for Pakistan? (20)**
+
+**Q. No. 4. Critically evaluate the US-Pakistan relations under the Joe Biden Administration vis-à-vis the US’ Indo-Pacific strategy. (20)**
+
+**Q. No. 5. Saudi Arabia and Iran both have significant place in Pakistan’s foreign policy. How Pakistan can maintain friendly relations with both Saudi Arabia and Iran, especially after the mediation of China between the two countries? (20)**
+
+**Q. No. 6. Palestine conflict is a long-standing one on the United Nations table. Discuss its recent escalation since October 2023 and critically assess the big powers’ reaction to it. (20)**
+
+**Q. No. 7. Evaluate the implications of Ukraine War for the Russia-Europe energy relations. (20)**
+
+**Q. No. 8. Write short notes on any two of the following. (10 each) (20)**
+
+(a) Prospects of regional integration in South Asia
+
+(b) The UN efforts for nuclear non-proliferation
+
+(c) Climate Change and the Big Powers’ role
+
+## 2023
+
+### PART-II
+
+Attempt any FOUR questions. All questions carry equal marks.
+
+**Q. No. 2. Discuss historic Pakistan and Turkey bilateral relations beyond the areas of socio-economic and strategic realms. Explain its geopolitical ripple effects in the Himalayas, the Arabian Peninsula, and the South Caucasus. (20)**
+
+**Q. No. 3. The UN climate summit (COP-27) in Sharm el Sheikh (Egypt) discussed Pakistan's catastrophic summer floods exacerbated by climate change and the country is facing an imminent threat of epidemics and other multi-dimensional dangers. Discuss the COP-27 roadmap to face the challenge of climate change and proposed measures for the reconstruction and rehabilitation of Pakistan. (20)**
+
+**Q. No. 4. Discuss the core causes of the Russian invasion of Ukraine, which have considerable socio-economic, political and strategic consequences for the world. Explain its devastating impact on Pakistan and its severe lesson for the country's survival. (20)**
+
+**Q. No. 5. Discuss the project idea of the China-Pakistan Economic Corridor (CPEC), which is the great leap forward of economic regionalization in the globalized world. Explain its potential advantages, challenges and future prospects. (20)**
+
+**Q. No. 6. November 15, 2022, will be a historic date in humanity's history because on this date the Earth's population reached the 8 billion mark. Critically discuss the view that the 21st century is a century of rapid population growth which has a devastating negative impact on the world. Explain the severe consequences of rapid population growth, which will affect every country on earth. (20)**
+
+**Q. No. 7. Critically discuss conceptualized energy's influence on world geopolitics and the distinctiveness of global energy governance. (20)**
+
+**Q. No. 8. Critically discuss why Pakistan's economic growth continues to be a "balance-of-payments" constraint, which is one of the core causes of pressure on foreign-exchange reserves. Do you think that Pakistan's export performance remains the most relevant long-term challenge in easing the balance-of-payments constraint for sustained economic growth, and explain the radical structural reforms needed to improve export performance? (20)**
+
+## 2022
+
+*The PDF on CSS Aspirants for this year does not include the Part-I MCQ sheet. Questions below are Part-II. Part-II: attempt any FOUR questions. All questions carry equal marks.*
+
+(CURRENT AFFAIRS)
+
+### PART-II
+
+**Q. No. 2. Propose prospective foreign policy options for Pakistan in the wake of Russian invasion of Ukraine on 24 February 2022. (20)**
+
+**Q. No. 3. The 2021 Taliban Takeover of Afghanistan presents regional and global challenges. Elaborate the anticipated policies of the Taliban government and the regional and global response. (20)**
+
+**Q. No. 4. How do the nature and possible prospects of US-Russia strategic nuclear deterrence change with the enforcement of New START treaty of 2021? What could be the treaty’s implications on Pakistan`s nuclear programme, keeping in view its defence policy? (20)**
+
+**Q. No. 5. Muslim Ummah has failed to unite under one roof. The leadership, their internal wrangling and sectarian divide keeps them away from each other. No wonder the Muslim world is in shambles in their home countries, at OIC level and at international forums. Taking a tag from above, discuss ways and means to unite the Muslim Ummah with a pragmatic approach. (20)**
+
+**Q. No. 6. Numerous political systems- Parliamentary as well as Presidential, have been in vogue in Pakistan with limited success. Draft your own proposed but practical system that would result in good governance of the country. Stipulate reasons and conditions for its success. (20)**
+
+**Q. No. 7. The US and China have been in an on-going trade war since 2018. In academic circles, it has been argued that this conflict may as well be the Second Cold War. Critically evaluate the future world order with main actors as China, Russia and the US. (20)**
+
+**Q. No. 8. Write short notes on any two of the following: (10 each) (20)**
+
+(a) Poverty & Trade in South Asia and the role of SAARC
+
+(b) A comparison of leadership qualities between Xi Jinping of China and Joe Biden of the US
+
+(c) 2022 FIFA World Cup and politics of the Arab World
+
+## 2021
+
+*The PDF on CSS Aspirants for this year does not include the Part-I MCQ sheet. Questions below are Part-II. Part-II: attempt any FOUR questions. All questions carry equal marks.*
+
+(CURRENT AFFAIRS)
+
+### PART-II
+
+**Q. No. 2. What will be the strategic and political implications of the US withdrawal from the Open Skies Treaty, and how is it impacting the arms control arrangements between the great powers? (20)**
+
+**Q. No. 3. What are the similarities and differences between Nagorno-Kaharabakh and Kashmir conflicts? (20)**
+
+**Q. No. 4. Last two decades have seen the rise of the right as a potent challenge to the liberal democracies throughout the world. What are the causes of this rise and how can states attend to this challenge? (20)**
+
+**Q. No. 5. Most of the major political parties have committed to the creation of the new provinces in Pakistan. Should new provinces be created or not, in Pakistan? Elaborate your answer by giving references from the new provinces debate. (20)**
+
+**Q. No. 6. Some scholars term Afghan Peace Deal as the US Withdrawal Deal. Do you agree? Answer the question while discussing the contours of the Afghan peace process. (20)**
+
+**Q. No. 7. How is militarization of Artificial Intelligence and Computing revolutionizing the military affairs? (20)**
+
+**Q. No. 8. Delineate the ways in which Covid-19 has affected the contours of the contemporary world order. (20)**
+
+## 2020
+
+*The PDF on CSS Aspirants for this year does not include the Part-I MCQ sheet. Questions below are Part-II. Part-II: attempt any FOUR questions. All questions carry equal marks.*
+
+(CURRENT AFFAIRS)
+
+### PART-II
+
+**Q. No. 2. What impact global climate change will have on the water resources of Pakistan? How will it affect inter-provincial harmony? (20)**
+
+**Q. No. 3. Why was Pakistan placed on the ‘Grey List’ of Financial Action Task Force (FATF)? What are the implications and what measures should Pakistan take to move out of this list? (20)**
+
+**Q. No. 4. Given the volatile lockdown in Indian Occupied Kashmir, what are the viable policy choices available to Pakistan? What can Pakistan realistically do to ease the sufferings of Kashmiri people? (20)**
+
+**Q. No. 5. Discuss the strategic contours of Indo-US evolving partnership and how will it impact Pakistan-US and Pakistan-China relations? (20)**
+
+**Q. No. 6. Strategic competition in the Indo-Pacific region is increasingly becoming intense. Define the interests and role of US, China, India, Japan and Australia in the geopolitics of Indo-Pacific region. (20)**
+
+**Q. No. 7. Discuss in detail the role of OIC, Arab league and GCC in the Middle East crises and conflicts. (20)**
+
+**Q. No. 8. In view of the evolving global alignments and changing nature of major-power relationships, what is the future of globalism and multilateralism? Discuss with examples. (20)**
+
+## 2019
+
+*The PDF on CSS Aspirants for this year does not include the Part-I MCQ sheet. Questions below are Part-II. Part-II: attempt any FOUR questions. All questions carry equal marks.*
+
+(CURRENT AFFAIRS)
+
+### PART-II
+
+**Q. No. 2. Examine China strategic vision behind ‘The Bell and Road initiative (BRI)' also known as One Belt One Road (OBOR). (20)**
+
+**Q. No. 3. Elaborate the reasons and impacts on Doland Trump withdrawal from climate change Paris agreement in 2015. (20)**
+
+**Q. No. 4. What will be the reason of emerging water conflict between Pakistan and Afghanistan? (20)**
+
+**Q. No. 5. Give a critical review of Pakistan Energy Policy 2013 – 2018 (20)**
+
+**Q. No. 6. How can the corruption elimination strategy be made part of governance system of Pakistan? (20)**
+
+**Q. No. 7. How can the governing structure have the capacity to neutralize threats to internal security of Pakistan? (20)**
+
+**Q. No. 8. Discuss instrument of techniques of Hybrid warfare in context to Pakistan (20)**
+
+## 2018
+
+*The PDF on CSS Aspirants for this year does not include the Part-I MCQ sheet. Questions below are Part-II. Part-II: attempt any FOUR questions. All questions carry equal marks.*
+
+(CURRENT AFFAIRS)
+
+### PART-II
+
+**Q. No. 2. China-Pakistan Economic Corridor (CPEC) is considered as a game-changer. How the CPEC can be helpful to uplift the Pakistan’s economy? Discuss. (20)**
+
+**Q. No. 3. Discuss in detail the Iran-Pakistan gas pipeline and challenges to it. (20)**
+
+**Q. No. 4. How the United States is trying to keep its dominant position in the Asia-Pacific and what is the China’s response to it? (20)**
+
+**Q. No. 5. Critically analyze the newly established Islamic Military Alliance and its future implications for the Muslim World? (20)**
+
+**Q. No. 6. Describe the 2017 Qatar Diplomatic Crisis and its impact on the Middle East. (20)**
+
+**Q. No. 7. Critically examine the Donald Trump’s Policy for South Asia and its implications for Pakistan and the region. (20)**
+
+**Q. No. 8. What are the opportunities and challenges for Pakistan as one of the new members of the Shanghai Cooperation Organization (SCO)? (20)**
+
+## 2017
+
+*The PDF on CSS Aspirants for this year does not include the Part-I MCQ sheet. Questions below are Part-II. Part-II: attempt any FOUR questions. All questions carry equal marks.*
+
+### PART-II
+
+**Q. No. 2. Highlight the role of National Action Plan (NAP) in stabilization of internal security of Pakistan. Critically analyze its outcomes? (20)**
+
+**Q. No. 3. What measures do you suggest to improve the security conditions of Balochistan in respect to China-Pakistan Economic Corridor (CPEC), and the role of regional powers to sabotage it? (20)**
+
+**Q. No. 4. Critically analyze the US-Russia relations in context of ISIS and its impact on the security situation of Middle East. (20)**
+
+**Q. No. 5. Explain the salient contours of the US ‘rebalancing’ policy and China’s assertive policy in South China Sea and latter’s disputes with the regional countries. Critically evaluate. (20)**
+
+**Q. No. 6. The impact of burgeoning US-India strategic partnership over the security situation of the region and Indian Ocean Region. (20)**
+
+**Q. No. 7. Critically examine China’s strategic vision behind its ‘One Belt, One Road’ venture. (20)**
+
+**Q. No. 8. (a). Analyze the effects of commissioning of nuclear-powered ballistic missile submarine (SSBN), INS Arihant equipped with nuclear-capable missile called K-4 over the strategic stability of South Asia. (10) (20)**
+
+(b). US-India in August 2016 signed Logistics Exchange Memorandum of (10) Agreement (LEMOA) that will reportedly facilitate the two allies to use each other’s military facilities to check China’s growing influence. Comment.
+
+from the year 2016 to the last one?
+
+## 2016
+
+*The PDF on CSS Aspirants for this year does not include the Part-I MCQ sheet. Questions below are Part-II. Part-II: attempt any FOUR questions. All questions carry equal marks.*
+
+### PART-II
+
+**Q. No. 2. Discuss in detail the efficacy of counter terrorism measures adopted by the government, especially with reference to the National Action Plan. (20)**
+
+**Q. No. 3. What measures would you suggest to improve the economy of Pakistan particularly in the areas of debt reduction and enhancing export capacity? (20)**
+
+**Q. No. 4. Discuss the possibilities of progress under the recently agreed rubric of comprehensive dialogue between Pakistan and India. In your opinion what are the major constraints at present? (20)**
+
+**Q. No. 5. Discuss the prospects and challenges to the construction of “China-Pakistan Economic Corridor”. How will CPEC become a game changer for the region? (20)**
+
+**Q. No. 6. How do you see recent developments in the Middle East, particularly with reference to deteriorating relations between Saudi Arabia and Iran? What role, if any, Pakistan could play in reducing the tensions between the two Muslim countries? (20)**
+
+**Q. No. 7. Examine the emerging strategic competition between China and the US and its impact on global order. (20)**
+
+**Q. No. 8. Discuss the adverse impact of climate change on the world and the measures recently adopted by the Paris Conference to address this issue. (20)**
+
+# Pakistan Affairs
+
+General Knowledge-III.
+
+## 2026
+
+*Part-I: 20 compulsory MCQs. Part-II: attempt any FOUR questions. All questions carry equal marks.*
+
+### PART-I (MCQs)(COMPULSORY)
+
+**1. Article _____________ empowers the Supreme Court to enforce Fundamental Rights directly. (A) 185(6) (B) 187(2) (C) Both A and B (D) 184(3)**
+
+**2. India has constructed Baglihar Dam on ______________ River. (A) Ravi (B) Indus (C) Jhelum (D) None of these**
+
+**3. Pakistan Army provided training to which Middle Eastern country’s armed forces in the 1970s? (A) Iran (B) Turkey (C) UAE (D) None of these**
+
+**4. Which constitutional amendment generated debate about judicial reforms? (A) 26th Amendment (B) 27th Amendment (C) Both (A) & (B) (D) None of these**
+
+**5. Which province introduced a “Green Energy Transition Policy” in 2024? (A) Balochistan (B) Khyber Pakhtunkhwa (C) Punjab (D) Sindh**
+
+**6. The edited volume “The Future of Pakistan” is authored by: (A) Anatol Lieven (B) Stephen P. Cohen (C) Pervez Hoodboy (D) None of these**
+
+**7. The establishment and structure of the Supreme Court is provided under Article________: (A) 63–64 (B) 99 (C) 176–191 (D) None of these**
+
+**8. Pakistan joined the International Monetary Fund (IMF) in: (A) 1956 (B) 1973 (C) 1981 (D) None of these**
+
+**9. Badshahi Mosque was built by: (A) Akbar (B) Shah Jahan (C) Jahangir (D) None of these**
+
+**10. SAARC was founded in: (A) 1985 (B) 1975 (C) 1980 (D) 1987**
+
+**11. Pakistan’s largest solar park is in: (A) Gwadar (B) Bahawalpur (C) Dera Ismail Khan (D) Sukkur**
+
+**12. _________ was the Ottomon Caliph when the Khilafat movement began. (A) Mehmed VI (B) Murad V (C) Abdul Hameed II (D) Abdul Mejid II**
+
+**13. Who is the author of the book “Making Sense of Pakistan”? (A) Ayesha Jalal (B) Farzana Shaikh (C) Anatol Lieven (D) K.K Aziz**
+
+**14. The only Pakistani PM who visited the US and addressed a joint session of Congress is: (A) Benazir Bhutto (B) Liaquat Ali Khan (C) Shaukat Aziz (D) None of these**
+
+**15. Which Middle Eastern country was the first to recognize Pakistan in 1947? (A) Saudi Arabia (B) Egypt (C) Iran (D) Iraq**
+
+**16. _________ was the first country to purchase the JF-17 Thunder fighter Jet. (A) Myanmar (B) Azerbaijan (C) Libya (D) Nigeria**
+
+**17. Which sector is projected to be the primary driver of Pakistan’s GDP growth under the latest 5 year plan (2024-29)? (A) Agriculture only (B) Heavy manufacturing (C) Services sector (D) None of these**
+
+**18. Which of the following is not included in the ‘5 Es Framework to Turnaround Pakistan?’ (A) Equity & empowerment (B) Environment (C) E-Pakistan (D) Efficiency**
+
+**19. ____________ founded the Khaksar Tehreek. (A) Maulana Hasrat Mohani (B) Allama Inayatullah Mashriqi (C) Allama Shibli Nomani (D) Maulana Abu al Kalam Azad**
+
+**20. Islamabad officially became the capital of Pakistan in: (A) 1969 (B) 1966 (C) 1962 (D) None of these**
+
+### PART-II
+
+**Q. No. 2. Conduct a comprehensive appraisal of the similarities and differences between Iqbal’s philosophical ideas and Jinnah’s political interpretation of the Pakistan ideology. (20)**
+
+**Q. No. 3. “The instability in Afghanistan continues to influence Pakistan’s internal security, regional diplomacy, and counter terrorism strategy”. Critically examine the above statement and suggest policy measures to address the issue/challenge. (20)**
+
+**Q. No. 4. To what extent does the 27th Constitutional Amendment strengthens or weakens constitutionalism and rule of law in Pakistan? Justify your stance with valid arguments. (20)**
+
+**Q. No. 5. Critically assess how youth perspectives, digital activism, and civil society movements are influencing civil military relations. (20)**
+
+**Q. No. 6. Undertake a concise assessment of the key economic challenges currently confronting Pakistan. Illustrate how IMF’s conditions can shape the country’s path towards economic stabilization and long-term financial sustainability? (20)**
+
+**Q. No. 7. “The unresolved Kashmir issue exposes the inherent weakness in United Nations Security Council’s Architecture.” Critically examine the role of UNSC in resolving the Kashmir issue. (20)**
+
+**Q. No. 8. Critically assess the performance of health and education sectors after being handed over to the Provinces under the 18th amendment and suggest way forward. (20)**
+
+## 2025
+
+*Part-I: 20 compulsory MCQs. Part-II: attempt any FOUR questions. All questions carry equal marks.*
+
+### PART-I (MCQs)(COMPULSORY)
+
+**1. What is the total length of Pakistan’s coastline? (A) 758 km (B) 1058 km (C) 1258 km (D) None of these**
+
+**2. The Tashkent Agreement was signed on: (A) January 10, 1966 (B) February 10, 1966 (C) March 10, 1966, (D) None of these**
+
+**3. The Indus River originates in China, near: (A) Tianchi Lake (B) lugu Lake (C) Mapam Lake (D) None of these**
+
+**4. The second five-year plan in Pakistan was introduced in: (A) 1957 (B) 1958 (C) 1960 (D) None of these**
+
+**5. Who was the first governor of East Pakistan? (A) Noor ul Amin (B) A. K. Fazlul Haq (C) Chaudhry Khaliquzzaman (D) None of these**
+
+**6. What was the population of Pakistan at the time of independence in 1947? (A) 70 million (B) 50 million (C) 60 million (D) None of these**
+
+**7. A Free Trade Agreement between Pakistan and China was signed on: (A) 24 October 2006 (B) 24 November 2006 (C) 24 December 2006 (D) None of these**
+
+**8. The third Khilafat conference was held in 1921 in: (A) Dhaka (B) Karachi (C) Istanbul (D) None of these**
+
+**9. Objective Resolution was presented in the Constituent Assembly by Liaquat Ali Khan on: (A) February 7, 1949 (B) March 7, 1949 (C) April 7, 1949 (D) None of these**
+
+**10. Pakistan and Tajikistan are separated by: (A) Durand Line (B) Wakhan Corridor (C) Amu Darya (D) None of these**
+
+**11. Pakistan conducted its nuclear tests in Chaghi in: (A) 1998 (B) 1997 (C) 1999 (D) None of these**
+
+**12. The Geneva Accords were signed on (A) 14th May, 1988 (B) 14th April, 1988 (C) 14th June, 1988 (D) None of these**
+
+**13. What is the approximate area covered by Pakistan’s forests? (A) 9% (B) 7% (C) 5% (D) None of these**
+
+**14. Who is the author of, “Pakistan: A Modern History”? (A) Anatol Lieven (B) Ian Talbot (C) Lawerence Ziring (D) None of these**
+
+**15. Gwadar Port is operated by: (A) Gwadar Port Authority (B) China overseas port holding company (C) Port of Singapore Authority (D) None of these**
+
+**16. Afghanistan – Pakistan Transit Trade Agreement (APTTA) was signed on: (A) 28th July, 2008 (B) 28th July, 2009 (C) 28th July, 2010 (D) None of these**
+
+**17. Who is the author of Diplomatic Footprints? (A) G.W. Chaudhry (B) Aizaz Ahmad Chaudhry (C) Shuja Nawaz (D) None of these**
+
+**18. When did Pakistan join SEATO? (A) 1953 (B) 1954 (C) 1956 (D) None of these**
+
+**19. What is the range of the latest Shaheen-III missile? (A) 3750km (B) 2750 km (C) 1750 km (D) None of these**
+
+**20. The lower age limit for a candidate contesting senate elections is ______ years. (A) 30 (B) 35 (C) 25 (D) None of these**
+
+### PART-II
+
+**Q. No. 2. How did the Indus Waters Treaty (1960) affect water distribution and relations between Pakistan and India? (20)**
+
+**Q. No. 3. Examine the causes and consequences of the 1971 separation of East Pakistan, highlighting the role of regional and international players. (20)**
+
+**Q. No. 4. Explore the significance of CPEC (China-Pakistan Economic Corridor) for the economic development of Pakistan. What are its potential challenges and opportunities? (20)**
+
+**Q. No. 5. Analyze the demographic and cultural diversity of Pakistan and its impact on national integration and policymaking. (20)**
+
+**Q. No. 6. Critically evaluate the impact of Bhutto`s nationalization policy on the economy of Pakistan. (20)**
+
+**Q. No. 7. The Kashmir dispute is an unfinished agenda of the 1947 partition. Evaluate Pakistan's Kashmir policy for the solution of the problem. (20)**
+
+**Q. No. 8. Is media a curse or blessing? Critically evaluate its role in shaping public opinion and influencing political events in Pakistan in the 21st century. (20)**
+
+## 2024
+
+*Part-I: 20 compulsory MCQs. Part-II: attempt any FOUR questions. All questions carry equal marks.*
+
+### PART-I (MCQs)(COMPULSORY)
+
+**1. Sindh river has been mentioned in: (A) Yajur Ved (B) Saam Ved (C) Rig Ved (D) Arath Ved**
+
+**2. Pakistan was re-elected for the seventh time to the UN committee on Non-Governmental Organizations on: (A) 11 Feb 2022 (B) 19 March 2022 (C) 17 April 2021 (D) 13 April 2022**
+
+**3. Who wrote the Book “Kitab-ul-Hind”? (A) Mujadid Alf Sani (B) Shah Waliullah (C) Syed Ahmed Shahed (D) Al-Beruni**
+
+**4. What is considered as the greatest monument of Pakistan-China collaboration? (A) Karachi-Gawadar Highway (B) Karakoram Highway (C) Lahore Orange Line (D) K2 Base-camp**
+
+**5. Which Mountain Range Separates Pakistan And Afghanistan? (A) Karakoram (B) Pamirs (C) The Hindu Kush (D) Kirthar**
+
+**6. Who was the first leader of opposition in the first National Assembly constituted under the 1962 constitution of Pakistan? (A) Sardar Bahadur Khan (B) Hussain Shaheed (C) Syed Fakhar Imam (D) Ghulam Haider Wain**
+
+**7. What was the official language declared in 1956 constitution? (A) Urdu (B) Bengali (C) Hindi (D) Both (A) & (A)**
+
+**8. Pakistan conducted its first successful test fire of Submarine Launched Cruise Missile (SLCM) Babur-3 having a range of 450 kilometers on: (A) 9 January 2017 (B) 11 January 2017 (C) 13 January 2017 (D) 15 January 2017**
+
+**9. Abdul Rabb Nishtar was first ____________ of Pakistan. (A) Interior Minister (B) Defense Minister (C) Communication Minister (D) None of these**
+
+**10. Pakistan is one of the largest contributor to the UN Peacekeeping missions, constituting over __________ of UN’s total deployment. (A) 7% (B) 9% (C) 11% (D) 13%**
+
+**11. What is the total cost of China-Pakistan Economic Corridor (CPEC)? (A) $ 72 Billion (B) $ 62 Billion (C) $ 26 Billion (D) $ 32 Billion**
+
+**12. Operation “Swift Resort” was launched by: (A) USA against Afghanistan (B) Pakistan against India (C) India against Pakistan (D) None of these**
+
+**13. In which country Pakistan opened its first embassy? (A) China (B) Afghanistan (C) Iran (D) India**
+
+**14. Pakistan is NOT a member of the following organization: (A) D-8 (B) G-20 (C) SCO (D) United Nations**
+
+**15. The Name Of First Pakistani Aircraft Is: (A) JF-17 Thunder (B) JF-8 Thunder (C) JF-9 Thunder (D) JF-11 Thunder**
+
+**16. In Which Of The Following District The Shrine Of Shah Abdul Latif ﺭﺡLocated In? (A) Hyderabad (B) Matiari (C) Dadu (D) Thatta**
+
+**17. An agreement on the demarcation of boundaries was concluded between Pakistan and China in the year: (A) 1961 (B) 1962 (C) 1963 (D) 1964**
+
+**18. Who was the Prime Minister of India at the time of Tashkent agreement? (A) Lal Bahadur Shastri`` (B) Indra Gandi (C) Rajiv Gandhi (D) None of these**
+
+**19. No person shall be appointed as a judge of the Supreme Court of Pakistan unless he has been a judge of a High Court for a period of: (A) Five years (B) Seven years (C) Nine years (D) Fifteen years**
+
+**20. Who is Pakistan’s first female mountaineer to conquer Mount Everest? (A) Nazia Parveen (B) Samina Baig (C) Mahoor Shahzad (D) Benazir Bhutto**
+
+### PART-II
+
+**Q. No. 2. Political stability remains an elusive concept in Pakistan. Explore the factors contributing to the fractured nature of Pakistan's polity and discuss potential reforms to the constitutional and political structure that could foster stability. (20)**
+
+**Q. No. 3. Keeping in view the socio-politico circumstances of sub-continent, discuss the role of Sheikh Ahmed Sarhindi (Mujadid Alf Thani) who revived Islamic Ideology and established Muslim identity in sub-continent. (20)**
+
+**Q. No. 4. The Democratization process in Pakistan is still weak and ambiguous. Do you consider dynastic politics and feudalism are the major hindrances on the way of establishing true democratic system in Pakistan? Explain. (20)**
+
+**Q. No. 5. Global warming presents an existential threat to states like Pakistan. Examine the far-reaching impacts of global warming on Pakistan and propose a model of economic development that aligns with environmental protection. (20)**
+
+**Q. No. 6. How should Pakistan manage the equitable distribution of resources among different ethnic regions to address historical grievances and promote developments across the country? (20)**
+
+**Q. No. 7. In Modern day democracy there must be a Pragmatic Civil-Military relationship to deal all the internal and external security threats. Analyze with reference to the role of Pakistan’s security and stability in South-Asia. (20)**
+
+**Q. No. 8. Since Independence, the most critical concern for Internal security is National Integration. Discuss the role of constitutional provisions enabling provincial autonomy and devolution of Power to strengthen National integration in Pakistan? (20)**
+
+## 2023
+
+*The PDF on CSS Aspirants for this year does not include the Part-I MCQ sheet. Questions below are Part-II. Part-II: attempt any FOUR questions. All questions carry equal marks.*
+
+(PAKISTAN AFFAIRS)
+
+### PART-II
+
+**Q. No. 2. Write a detailed and systematic analysis of the charismatic leadership of Quaid-e- Azam Mohammad Ali Jinnah, the leader of Indian Muslims during the crisisridden decade of 1937-47. (20)**
+
+**Q. No. 3. Having the largest irrigation system in the world, the land of the sub-continent served as the main food supply basket for the British power for more than a century, but now Pakistan has to import food commodities. Discuss in detail the causes of this agricultural decline. (20)**
+
+**Q. No. 4. Industrialization is the backbone of the modern economic system and uplifts the standard of living of the masses. Elaborate causes for the hindrance of industrial development in Pakistan. (20)**
+
+**Q. No. 5. The evolution of democratic system has always remained a dilemma in Pakistan, even after passing more than seven decades of its existence the democracy could not get its roots. Discuss in detail. (20)**
+
+**Q. No. 6. Joining the US led coalition in the war against terrorism has many short and long term repercussions for Pakistan. Elaborate. (20)**
+
+**Q. No. 7. Pakistan is located on the cross-road of South Asia. Explain its geo- strategic/political importance and challenges. (20)**
+
+**Q. No. 8. Pakistan is considered to be the fifth-largest youth bulge country in the world. Given this youth bulge, deliberate on ways forward for Sustainable Economic Development in Pakistan. (20)**
+
+## 2022
+
+*The PDF on CSS Aspirants for this year does not include the Part-I MCQ sheet. Questions below are Part-II. Part-II: attempt any FOUR questions. All questions carry equal marks.*
+
+(PAKISTAN AFFAIRS)
+
+### PART-II
+
+**Q. No. 2. Discuss the role of regional and nationalist political parties in Pakistani politics. How far these parties are necessary for the political system? (20)**
+
+**Q. No. 3. Discuss the Federal Structure of 1973 Constitution of Pakistan after 18th Amendment. Why criticism on 18th Amendment started recently? (20)**
+
+**Q. No. 4. Evaluate the factional politics of early years(1947-58) and its impact on the democratic process of Pakistan. (20)**
+
+**Q. No. 5. Every state designs its foreign policy on its National interests rejecting feelings and emotions. Why did Pakistan prefer emotions, feelings and Ideology in its foreign policy? Also analyze its impact. (20)**
+
+**Q. No. 6. What is the volume of grants, aid and loans in Pakistan’s economy in the last ten years to stimulate the growth? Discuss. (20)**
+
+**Q. No. 7. Why did Pakistan join Western Defense Pacts? What cost it had to pay for that? Explain. (20)**
+
+**Q. No. 8. Discuss the issues and mistrust in US-Pakistan relations after the withdrawal of the US troops from Afghanistan. (20)**
+
+## 2021
+
+*The PDF on CSS Aspirants for this year does not include the Part-I MCQ sheet. Questions below are Part-II. Part-II: attempt any FOUR questions. All questions carry equal marks.*
+
+(PAKISTAN AFFAIRS)
+
+### PART-II
+
+**Q. No. 2. Enumerate the measures adopted by Pakistan to spotlight on the plight of Kashmiri people in the Indian occupied Jammu and Kashmir after 5th August 2019. (20)**
+
+**Q. No. 3. Explain “Afghans` owned, Afghans` led” solution of Afghanistan crisis. (20)**
+
+**Q. No. 4. How CPEC phase II will galvanize industrialization and employment in Pakistan? (20)**
+
+**Q. No. 5. Discuss the significance of renewable energy resources for Pakistan. (20)**
+
+**Q. No. 6. How Pakistan should combat 5th generation war successfully? (20)**
+
+**Q. No. 7. “Political Stability is mandatory for economic prosperity in Pakistan”. Elaborate. (20)**
+
+**Q. No. 8. Critically evaluate the evolution of Muslim Separate identity in the Subcontinent. (20)**
+
+## 2020
+
+*The PDF on CSS Aspirants for this year does not include the Part-I MCQ sheet. Questions below are Part-II. Part-II: attempt any FOUR questions. All questions carry equal marks.*
+
+(PAKISTAN AFFAIRS)
+
+### PART-II
+
+**Q. No. 2. How the reform movement of Shaikh Ahmad Sirhindi influenced the history of Muslim India? (20)**
+
+**Q. No. 3. China, Pakistan-Russia cooperation will find suitable support mechanism in Shanghai Cooperation organization (SCO). Elaborate. (20)**
+
+**Q. No. 4. What are the major provisions of Simla Agreement (1972) between Pakistan and India? How it was helpful for establishment of durable peace in the region? (20)**
+
+**Q. No. 5. What is meant by the term “Proxy War”? Are there any extrinsic factors at play in the internal security situation of Pakistan? (20)**
+
+**Q. No. 6. Discuss the main features of Political culture of Pakistan. (20)**
+
+**Q. No. 7. Pakistan’s energy crisis was due to the lack of strategy and political will. Discuss. (20)**
+
+**Q. No. 8. Discuss revival of Pak-US relations in context of present US-Taliban peace process. (20)**
+
+## 2019
+
+*The PDF on CSS Aspirants for this year does not include the Part-I MCQ sheet. Questions below are Part-II. Part-II: attempt any FOUR questions. All questions carry equal marks.*
+
+(PAKISTAN AFFAIRS)
+
+### PART-II
+
+**Q. No. 2. Critically examine Congress Ministries of 1973. How far it is correct to suggest that it paved the way for the separate Muslim homeland in India? (20)**
+
+**Q. No. 3. How far the nature of center province relations has changed under various amendments to the 1973 constitution? Evaluate. (20)**
+
+**Q. No. 4. What major economic challenges are being faced by Pakistan? What recommendation do you suggest to deal with these issues? (20)**
+
+**Q. No. 5. “The population growth in Pakistan can erupt like an atomic bomb”. Comment (20)**
+
+**Q. No. 6. What are the main causes of energy crisis in Pakistan? What measure do you recommend to address it? (20)**
+
+**Q. No. 7. Critically analyze the key causes of delaying constriction of dams in Pakistan. Give some suggestions to revert this collateral loss. (20)**
+
+Efficient use of natural resources can make Pakistan a prosperous nation. Discuss in (20)
+
+**Q. No. 8. the light of present situation of Pakistan.**
+
+## 2018
+
+*The PDF on CSS Aspirants for this year does not include the Part-I MCQ sheet. Questions below are Part-II. Part-II: attempt any FOUR questions. All questions carry equal marks.*
+
+(PAKISTAN AFFAIRS)
+
+### PART-II
+
+**Q. No. 2. Critically evaluate the foundations of Allama Iqbal’s concept of Muslim separatism in the context of Indo-Pak Subcontinent. (20)**
+
+**Q. No. 3. Discuss the 3rd June Plan or Mountbatten Plan and also describe how it was implemented? (20)**
+
+**Q. No. 4. Describe the political system of Pakistan. Which form of government is suitable to make country politically stable? (20)**
+
+**Q. No. 5. Define non-state actors. ‘Non-state actors are posing more threat to Pakistan’s national security than threats from external state actors.’ Argue in favour or against. (20)**
+
+**Q. No. 6. Discuss the nature of centre-province relations under the 1973 Constitution. (20)**
+
+**Q. No. 7. Discuss the changing trends in Pakistan- US relations since 2001. (20)**
+
+**Q. No. 8. There is crisis of national integration in Pakistan since its creation. What measures do you suggest for the promotion of national integration of Pakistan? (20)**
+
+## 2017
+
+*The PDF on CSS Aspirants for this year does not include the Part-I MCQ sheet. Questions below are Part-II. Part-II: attempt any FOUR questions. All questions carry equal marks.*
+
+### PART-II
+
+**Q. No. 2. Pakistan’s national culture reflects unity in diversity. Elaborate. (20)**
+
+**Q. No. 3. Discus the role of judiciary in the constitutional development of Pakistan. (20)**
+
+**Q. No. 4. CPEC is a flagship project of One Belt One Road (OBOR) and a regional game changer. Explain. (20)**
+
+**Q. No. 5. Explore the significance of Shinghai Cooperation Organization (SCO) for Pakistan. (20)**
+
+**Q. No. 6. Enumerate the measures adopted by HEC for promotion of higher education and qualitative research in Pakistan. (20)**
+
+**Q. No. 7. Explore the option of alternative energy resources to overcome energy crisis in Pakistan. (20)**
+
+**Q. No. 8. How general elections in 2002, 2008 and 2013 strengthened democracy in Pakistan? (20)**
+
+## 2016
+
+*The PDF on CSS Aspirants for this year does not include the Part-I MCQ sheet. Questions below are Part-II. Part-II: attempt any FOUR questions. All questions carry equal marks.*
+
+GK-III (PAKISTAN AFFAIRS)
+
+### PART-II
+
+**Q. No. 2. Give an account of the life and services of Shah Waliullah. How did he save the Indian Muslims from political annihilation and religious degeneration? (20)**
+
+**Q. No. 3. The Aligarh Movement was a pure educational venture but it had deep impacts on Indian politics. Discuss. (20)**
+
+**Q. No. 4. Critically analyze the elections of 1937 and the sufferings and grievances of the Muslims under the Congress rule in the provinces (1937-1939). How much did it help in popularizing the idea of a separate Muslim state in India? (20)**
+
+**Q. No. 5. Jinnah in his Presidential Address to the annual session of All India Muslim League in March 1940 said, “The problem in India is not of an inter-communal character, but manifestly of an international one, and it must be treated as such.” Write note on the Two Nation Theory and the Lahore Resolution of March 1940 in the light of this statement. (20)**
+
+**Q. No. 6. Write note on the post 9/11 foreign policy of Pakistan. What role do you foresee for Pakistan in regional and global politics in the near future? (20)**
+
+**Q. No. 7. Discuss the Kashmir problem in its entirety; throwing light on its background and prospects of possible solutions to this core issue between India and Pakistan. (20)**
+
+**Q. No. 8. Write note on the Afghan War since 1979 and its impacts on Pakistan. How far the emergence of the “Non-State Actors” and Non-Traditional Security Threats in Pakistan can be attributed to the decades-long warfare in Afghanistan? (20)**
