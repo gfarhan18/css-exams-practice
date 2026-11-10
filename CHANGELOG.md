@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-11-10 — DMC (CSS 2026 detailed marks)
+
+### Added
+- **Fifth paper type, DMC:** Detailed Marks Certificates for CSS 2026 in the left rail (alongside Objective, Subjective, Syllabus, PMS). Lists consenting candidates as cards with roll number and written total.
+- **Candidate view:** `#dmc/<id>` shows compulsory and optional subject tables (Subject, Total, Passing, Obtained). Aggregate rows are bold; subjects below the passing mark are highlighted with a “Below pass” badge. GK and Computer Science use total rows only for pass highlighting. Includes “Marks in written” and Rule 16(16) note text.
+- **Compare view:** `#dmc/compare` shows both candidates’ obtained marks per subject side by side.
+- Data in `js/dmc-data.js` only (no CNIC, PDFs, or FPSC portal URLs).
+
 ## 2026-11-03 — PMS past papers (English Precis)
 
 ### Added
