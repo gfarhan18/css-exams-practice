@@ -278,6 +278,7 @@
 
   /* ---------- global ---------- */
   document.getElementById("homeBtn").addEventListener("click", () => {
+    if (mode === "dmc") { go("dmc"); return; }
     if (mode === "pms") { go("pms"); return; }
     if (mode === "syllabus") { go("syllabus"); return; }
     if (mode === "subjective") { go("subjective"); return; }
@@ -454,6 +455,12 @@
   const SSUB = {}; SD.subjects.forEach(s => (SSUB[s.id] = s));
   const SYLL_STORE = "cssSyllabus.subject";
   let curSyll = null;
+
+  /* ================= DMC (Detailed Marks Certificates) ================= */
+  const DMD = window.DMC_DATA || { candidates: [], note: "" };
+  const DCAND = {}; DMD.candidates.forEach(c => (DCAND[c.id] = c));
+  const DMC_STORE = "cssDmc.candidate";
+  let curDmc = null;
   const layoutEl = document.getElementById("layout");
   const subNav = document.getElementById("subNav"), subList = document.getElementById("subList");
   const objSide = document.getElementById("objSide"), subjInfo = document.getElementById("subjSideInfo");
@@ -467,11 +474,16 @@
     const subj = m === "subjective";
     const syll = m === "syllabus";
     const pms = m === "pms";
-    document.body.classList.toggle("mode-subjective", subj || syll || pms);
-    layoutEl.classList.toggle("three", subj || syll || pms);
+    const dmc = m === "dmc";
+    document.body.classList.toggle("mode-subjective", subj || syll || pms || dmc);
+    layoutEl.classList.toggle("three", subj || syll || pms || dmc);
     document.querySelectorAll(".mode").forEach(b => { const on = b.dataset.mode === m; b.classList.toggle("active", on); b.setAttribute("aria-pressed", on); });
-    objSide.hidden = subj || syll || pms; subjInfo.hidden = !subj && !syll && !pms; subNav.hidden = !subj && !syll && !pms; resetBtn.hidden = subj || syll || pms;
-    if (pms) {
+    objSide.hidden = subj || syll || pms || dmc; subjInfo.hidden = !subj && !syll && !pms && !dmc; subNav.hidden = !subj && !syll && !pms && !dmc; resetBtn.hidden = subj || syll || pms || dmc;
+    if (dmc) {
+      document.getElementById("brandTitle").textContent = "CSS 2026 DMC";
+      document.getElementById("brandSub").textContent = "Detailed Marks Certificates";
+      app.className = "container"; renderDMCNav();
+    } else if (pms) {
       document.getElementById("brandTitle").textContent = "PMS Past Papers";
       document.getElementById("brandSub").textContent = "Punjab PMS · Precis";
       app.className = "container"; renderPMSNav();
@@ -584,6 +596,139 @@
         ${older ? `<a class="btn secondary" href="#subjective/${sid}/${older.year}">${older.year} →</a>` : "<span></span>"}
       </div>
       <p class="note">PDF not showing (common on phones)? Use “Open in new tab”. Source: <a href="${esc(p.sourceUrl)}" target="_blank" rel="noopener">cssaspirants.pk</a>.</p>`;
+    window.scrollTo({ top: 0 });
+  }
+
+  function dmcPassingCell(p) { return p == null ? "—" : String(p); }
+  function dmcBelowPass(row) {
+    return row.passing != null && row.obtained < row.passing;
+  }
+  function dmcTableRows(rows) {
+    return rows.map(r => {
+      const fail = dmcBelowPass(r);
+      const cls = [r.isTotal ? "dmc-total" : "", fail ? "dmc-fail" : ""].filter(Boolean).join(" ");
+      return `<tr class="${cls}">
+        <td>${esc(r.subject)}${fail ? '<span class="dmc-badge">Below pass</span>' : ""}</td>
+        <td>${r.total}</td>
+        <td>${dmcPassingCell(r.passing)}</td>
+        <td>${r.obtained}</td>
+      </tr>`;
+    }).join("");
+  }
+  function dmcMarksTable(title, rows) {
+    return `<div class="dmc-sec"><h3>${esc(title)}</h3>
+      <div class="dmc-wrap"><table class="dmc-table">
+        <thead><tr><th>Subject</th><th>Total</th><th>Passing</th><th>Obtained</th></tr></thead>
+        <tbody>${dmcTableRows(rows)}</tbody>
+      </table></div></div>`;
+  }
+
+  function renderDMCNav() {
+    const cmpOn = curDmc === "compare";
+    subList.innerHTML = DMD.candidates.map(c => `<button class="sub-item ${curDmc === c.id ? "active" : ""}" data-s="${c.id}" aria-pressed="${curDmc === c.id}">
+        <span class="sub-ic" aria-hidden="true">👤</span>
+        <span class="sub-txt"><strong>${esc(c.name)}</strong><small>Roll ${esc(c.rollNumber)} · ${c.writtenObtained}/${c.writtenTotal}</small></span>
+      </button>`).join("") +
+      `<button class="sub-item ${cmpOn ? "active" : ""}" data-s="compare" aria-pressed="${cmpOn}">
+        <span class="sub-ic" aria-hidden="true">⚖</span>
+        <span class="sub-txt"><strong>Compare</strong><small>Side-by-side marks</small></span>
+      </button>`;
+    subList.querySelectorAll(".sub-item").forEach(b => b.addEventListener("click", () => go("dmc/" + b.dataset.s)));
+    subjInfo.innerHTML = `<div class="info-card"><strong>${DMD.candidates.length} candidates</strong><small>${esc(DMD.exam || "CSS 2026")}</small></div>`;
+  }
+
+  function renderDMCHome() {
+    curDmc = null; setMode("dmc");
+    document.title = "CSS 2026 DMC · Detailed Marks Certificates";
+    app.innerHTML = `
+      <section class="hero">
+        <h1>CSS 2026 detailed marks.</h1>
+        <p>Published DMCs for candidates who consented to share their written examination marks. Select a candidate to see subject-wise totals, passing marks, and obtained scores.</p>
+        <div class="overall"><span class="pill">Exam: <b>CSS 2026</b></span><span class="pill">Candidates: <b>${DMD.candidates.length}</b></span></div>
+      </section>
+      <section class="grid">
+        ${DMD.candidates.map(c => `<button class="subject" data-s="${c.id}" aria-label="View ${esc(c.name)} DMC">
+          <div class="icon" aria-hidden="true">👤</div>
+          <h3>${esc(c.name)}</h3>
+          <p class="sub">Roll number ${esc(c.rollNumber)}</p>
+          <div class="meta"><span>Written marks</span><span class="best">${c.writtenObtained} / ${c.writtenTotal}</span></div>
+        </button>`).join("")}
+        <a class="subject" href="#dmc/compare" style="text-decoration:none;color:inherit">
+          <div class="icon" aria-hidden="true">⚖</div>
+          <h3>Compare both</h3>
+          <p class="sub">Subject-by-subject side by side</p>
+          <div class="meta"><span>All subjects</span><span class="best">Open →</span></div>
+        </a>
+      </section>
+      <p class="dmc-rule">${esc(DMD.note)}</p>`;
+    app.querySelectorAll(".subject[data-s]").forEach(b => b.addEventListener("click", () => go("dmc/" + b.dataset.s)));
+    window.scrollTo({ top: 0 });
+  }
+
+  function renderDMCCandidate(cid) {
+    const c = DCAND[cid];
+    if (!c) return renderDMCHome();
+    curDmc = cid; setMode("dmc");
+    try { localStorage.setItem(DMC_STORE, cid); } catch (e) {}
+    document.title = c.name + " · CSS 2026 DMC";
+    app.innerHTML = `
+      <nav class="crumbs" aria-label="Breadcrumb"><a href="#dmc">DMC</a><span>›</span><b>${esc(c.name)}</b></nav>
+      <section class="hero compact">
+        <h1>${esc(c.name)}</h1>
+        <p>Roll number <b>${esc(c.rollNumber)}</b> · ${esc(DMD.exam || "CSS 2026")}</p>
+      </section>
+      <p class="dmc-written">Marks in written: <b>${c.writtenObtained} / ${c.writtenTotal}</b></p>
+      ${dmcMarksTable("Compulsory subjects", c.compulsory)}
+      ${dmcMarksTable("Optional subjects", c.optional)}
+      <p class="dmc-rule">${esc(DMD.note)}</p>
+      <div class="actions">
+        <a class="btn secondary" href="#dmc">All candidates</a>
+        <a class="btn secondary" href="#dmc/compare">Compare both →</a>
+      </div>`;
+    window.scrollTo({ top: 0 });
+  }
+
+  function renderDMCCompare() {
+    curDmc = "compare"; setMode("dmc");
+    document.title = "Compare · CSS 2026 DMC";
+    const cs = DMD.candidates;
+    if (cs.length < 2) return renderDMCHome();
+    const [a, b] = cs;
+    const bySub = (cand, sub) => {
+      const row = [...cand.compulsory, ...cand.optional].find(r => r.subject === sub);
+      return row || null;
+    };
+    const sections = [
+      { title: "Compulsory subjects", rows: a.compulsory.map(r => r.subject) },
+      { title: "Optional subjects", rows: a.optional.map(r => r.subject) }
+    ];
+    const body = sections.map(sec => {
+      const secRow = `<tr class="dmc-sec-row"><td colspan="3">${esc(sec.title)}</td></tr>`;
+      const dataRows = sec.rows.map(sub => {
+        const ra = bySub(a, sub), rb = bySub(b, sub);
+        const rowCls = (ra && ra.isTotal) || (rb && rb.isTotal) ? "dmc-total" : "";
+        const fa = ra && dmcBelowPass(ra), fb = rb && dmcBelowPass(rb);
+        const cell = (r, fail) => r ? `<td class="num${fail ? " dmc-fail" : ""}">${r.obtained}${fail ? ' <span class="dmc-badge">Below pass</span>' : ""}</td>` : `<td class="num">—</td>`;
+        return `<tr class="${rowCls}"><td>${esc(sub)}</td>${cell(ra, fa)}${cell(rb, fb)}</tr>`;
+      }).join("");
+      return secRow + dataRows;
+    }).join("");
+    app.innerHTML = `
+      <nav class="crumbs" aria-label="Breadcrumb"><a href="#dmc">DMC</a><span>›</span><b>Compare</b></nav>
+      <section class="hero compact">
+        <h1>Compare marks</h1>
+        <p>Obtained marks per subject for both candidates. GK and Computer Science use aggregate rows only for pass/fail highlighting.</p>
+      </section>
+      <div class="dmc-cmp-actions"><a class="btn secondary" href="#dmc">← All candidates</a></div>
+      <div class="dmc-wrap"><table class="dmc-table cmp">
+        <thead><tr>
+          <th>Subject</th>
+          <th class="dmc-cmp-h">${esc(a.name)}<br><small>Roll ${esc(a.rollNumber)} · ${a.writtenObtained}/${a.writtenTotal}</small></th>
+          <th class="dmc-cmp-h">${esc(b.name)}<br><small>Roll ${esc(b.rollNumber)} · ${b.writtenObtained}/${b.writtenTotal}</small></th>
+        </tr></thead>
+        <tbody>${body}</tbody>
+      </table></div>
+      <p class="dmc-rule">${esc(DMD.note)}</p>`;
     window.scrollTo({ top: 0 });
   }
 
@@ -762,9 +907,17 @@
     window.scrollTo({ top: 0 });
   }
 
-  /* ---------- router: #2025, #2025/punjabi, #objective, #subjective[/subject[/year]], #syllabus[/subject], #pms[/subject[/year]] ---------- */
+  /* ---------- router: #2025, #2025/punjabi, #objective, #subjective[/subject[/year]], #syllabus[/subject], #pms[/subject[/year]], #dmc[/id|compare] ---------- */
   function route() {
     const parts = decodeURIComponent(location.hash.replace(/^#\/?/, "")).split("/").filter(Boolean);
+    if (parts[0] === "dmc") {
+      if (state && !confirmLeave()) { setHash(year + "/" + state.subj.id); return; }
+      state = null;
+      if (parts[1] === "compare") return renderDMCCompare();
+      const cid = DCAND[parts[1]] ? parts[1] : null;
+      if (!cid) return renderDMCHome();
+      return renderDMCCandidate(cid);
+    }
     if (parts[0] === "practice" || (parts[0] === "objective" && parts[1] === "practice")) {
       const pp = parts[0] === "practice" ? parts.slice(1) : parts.slice(2);
       const bid = PBANK[pp[0]] ? pp[0] : PR.banks.length ? PR.banks[0].id : null;
@@ -813,7 +966,11 @@
   document.querySelectorAll(".mode").forEach(b => b.addEventListener("click", () => {
     const m = b.dataset.mode;
     if (m === mode && m === "objective" && !state && !pview) return;
-    if (m === "pms") {
+    if (m === "dmc") {
+      if (!confirmLeave()) return;
+      let last = null; try { last = localStorage.getItem(DMC_STORE); } catch (e) {}
+      go(mode === "dmc" ? "dmc" : DCAND[last] ? "dmc/" + last : "dmc");
+    } else if (m === "pms") {
       if (!confirmLeave()) return;
       let last = null; try { last = localStorage.getItem(PMS_STORE); } catch (e) {}
       go(mode === "pms" ? "pms" : PMSUB[last] ? "pms/" + last : "pms");
@@ -828,7 +985,7 @@
     } else {
       if (!confirmLeave()) return;
       state = null;
-      if (mode === "subjective" || mode === "syllabus" || mode === "pms" || pview || location.hash.indexOf("#practice") === 0) go(year); else { app.className = "container"; renderHome(); }
+      if (mode === "subjective" || mode === "syllabus" || mode === "pms" || mode === "dmc" || pview || location.hash.indexOf("#practice") === 0) go(year); else { app.className = "container"; renderHome(); }
     }
   }));
 

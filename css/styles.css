@@ -311,6 +311,30 @@ a.chip{text-decoration:none;flex:none}
 .hi{border-color:#a9d8b8;background:#eef8f1}.hi em,.hi .set-best{color:var(--green)}
 .mid{border-color:#ecd9b0;background:#fbf4e6}.mid em,.mid .set-best{color:var(--gold)}
 .lo{border-color:#efc0bb;background:#fcefed}.lo em,.lo .set-best{color:var(--red)}
+/* ---------- DMC (Detailed Marks Certificates) ---------- */
+.dmc-written{margin:0 0 18px;font-size:15px;color:var(--ink)}
+.dmc-written b{color:var(--teal)}
+.dmc-rule{background:var(--bg2);border:1px solid var(--line);border-radius:14px;padding:12px 16px;font-size:13px;line-height:1.55;color:var(--muted);margin:0 0 22px}
+.dmc-sec{margin:0 0 24px}
+.dmc-sec h3{font-family:var(--serif);font-size:20px;margin:0 0 10px}
+.dmc-wrap{overflow-x:auto;-webkit-overflow-scrolling:touch;border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow)}
+.dmc-table{width:100%;border-collapse:collapse;font-size:14px;min-width:420px}
+.dmc-table th,.dmc-table td{padding:10px 12px;text-align:left;border-bottom:1px solid var(--line)}
+.dmc-table th{background:var(--bg2);font-size:12px;font-weight:700;letter-spacing:.3px;text-transform:uppercase;color:var(--muted)}
+.dmc-table td:last-child,.dmc-table th:last-child{text-align:right}
+.dmc-table td:nth-child(n+2):not(:first-child),.dmc-table th:nth-child(n+2):not(:first-child){text-align:center}
+.dmc-table tr.dmc-total td{font-weight:700;background:var(--teal-soft)}
+.dmc-table tr.dmc-fail td{background:#fcefed}
+.dmc-table tr.dmc-fail td:last-child{color:var(--red);font-weight:600}
+.dmc-badge{display:inline-block;margin-left:8px;font-size:10.5px;font-weight:700;padding:2px 7px;border-radius:999px;background:var(--red);color:#fff;vertical-align:middle}
+.dmc-cmp-actions{margin:0 0 16px}
+.dmc-table.cmp{min-width:520px}
+.dmc-table.cmp th.dmc-cmp-h{text-align:center;font-size:13px;text-transform:none;letter-spacing:0;color:var(--ink)}
+.dmc-table.cmp td.num{text-align:center;font-variant-numeric:tabular-nums}
+.dmc-table.cmp tr.dmc-total td{background:var(--teal-soft)}
+.dmc-table.cmp tr.dmc-sec-row td{font-weight:700;background:var(--bg2);color:var(--muted);font-size:12px;text-transform:uppercase;letter-spacing:.4px}
+.dmc-table.cmp td.num.dmc-fail{background:#fcefed;color:var(--red);font-weight:600}
+
 @media (max-width:860px){
   .practice-title{display:none}
   .practice-nav{margin-top:8px}
